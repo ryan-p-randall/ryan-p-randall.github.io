@@ -1,0 +1,55 @@
+# Site wide configuration
+
+title:            Ryan P. Randall
+locale:           en_US
+url:              http://ryan-p-randall.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Ryan P. Randall
+  avatar: bio-photo.jpg
+  bio: "Critical information literacy ∴ Literary, cultural & media studies scholar ∴ MLS student at IU-Bloomington ∴ Sous les pavés, la plage ∴ We are, as always, stubborn, stoked, and petrified - GY!BE"
+  email: 
+  disqus-shortname: 
+  twitter: foureyedsou
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-49717180-1
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: ryan-p-randall
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  lastfm: foureyedsoul
+  tumblr: not-evenly-distributed
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

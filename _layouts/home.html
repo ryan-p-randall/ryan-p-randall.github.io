@@ -1,0 +1,67 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="home">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div class="article-author-side">
+  {% include _author-bio.html %}
+</div>
+
+<div id="index">
+
+  <h2>About Me</h2>
+
+<p>Currently working as the Maps Graduate Assistant in the <a href="http://www.libraries.iub.edu/index.php?pageId=285">Government Information, Maps, and Multiform Services</a> department of IU-Bloomington’s <a href="http://www.libraries.iub.edu/index.php?pageId=89">Herman B. Wells Library</a>, I’m excited to help make these historical resources available digitally through the <a href="http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073">Indiana Historical Maps Digital Collection</a>. It’s a lot of careful scanning and considering appropriate descriptive metadata for different uses of the map images—as well as lot of fun when I have my shifts on the reference desk.  </p>
+
+<p>I’m also working as an Instruction Assistant and helping with a couple of ethnographic studies we’re doing of various library patrons. In the past, I’ve taught Freshman writing courses, American studies, and Film/Media courses, as well as been a college writing tutor for undergraduates and graduate students.   </p>
+
+<p>Along the way, I’ve picked up an MA in <a href="http://english.ucr.edu/">English from the University of California, Riverside</a> and an MA in <a href="http://www.rochester.edu/college/vcs/">Visual and Cultural Studies from the University of Rochester</a>. IU-Bloomington’s <a href="http://ils.indiana.edu/">MLS program</a> keeps me busy figuring out how to continue doing instruction and research from a different perspective.  </p>
+
+  <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
+  {% for post in site.posts limit:5 %}    
+  <article>
+    {% if post.link %}
+      <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+    {% else %}
+      <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+    {% endif %}
+  </article>
+  {% endfor %}
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+  
+</body>
+</html>

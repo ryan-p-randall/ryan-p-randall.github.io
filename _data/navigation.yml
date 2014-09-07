@@ -1,0 +1,20 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Info Fluxus Blog
+  url: /posts/
+
+- title: CV
+  url: /cv/
+
+- title: Projects and Papers
+  url: /projects-and-papers/
+
+- title: Links
+  url: /links/
+
+- title: Colophon
+  url: /colophon/ 
+  
