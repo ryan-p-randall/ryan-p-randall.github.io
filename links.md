@@ -10,7 +10,6 @@ image:
   creditlink: http://jeanpaulachard.com/mai/
 share: 
 ---
-# People  
 
 ## Librarians & Info Science Folks   
 
@@ -47,7 +46,7 @@ share:
 - [Merlin Mann](http://www.merlinmann.com/)      
 - [Dave Seah](http://davidseah.com/)    
 
-# Organizations, Journals, and Blogs   
+## Organizations, Journals, and Blogs   
 
 - [Progressive Librarians Guild](http://progressivelibrariansguild.org/)   
 - [In the Library with the Lead Pipe](http://www.inthelibrarywiththeleadpipe.org/)   
