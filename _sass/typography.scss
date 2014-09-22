@@ -25,7 +25,7 @@ h6 {
 // Links
 // --------------------------------------------------
 a { 
-	text-decoration: underline;
+	text-decoration: none;
 	color: $link-color; 
 	&:visited { 
 		color: $linkcolorvisited; 
@@ -34,6 +34,7 @@ a {
 		color: $linkcolorhover; 
 	}
 	&:focus { 
+        outline: thin dotted;
 		color: $linkcolorfocus;
 	}
 	&:hover, 

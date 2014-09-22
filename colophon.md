@@ -3,7 +3,7 @@ layout: page
 permalink: /colophon/
 title: "Colophon"
 modified: 2014-04-04 04:13
-tags: [how-to]
+tags: [meta, how-to]
 image:
   feature: laluttecontinue-crop.jpg
   credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
@@ -18,7 +18,7 @@ Should you ever ask yourself, "how does one make such a thing?," start looking f
 
 ## This Very Site  
 
-This page is built in [Jekyll](http://jekyllrb.com) using Michael Rose's [Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes). It's primarily written in Fletcher Penney's [MultiMarkdown Composer](http://multimarkdown.com/) or Brett Terpstra's [nvALT][nvALT].  
+This page is built in [Jekyll](http://jekyllrb.com) using Michael Rose's [Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes). It's primarily written in Fletcher Penney's [MultiMarkdown Composer](http://multimarkdown.com/) or Brett Terpstra's [nvALT][nvALT]. If you'd like to learn more, Michael Rose has a page about [his various free, open source Jekyll themes](http://mademistakes.com/work/jekyll-themes/).
 
 [nvALT]: http://brettterpstra.com/projects/nvalt/.   
 

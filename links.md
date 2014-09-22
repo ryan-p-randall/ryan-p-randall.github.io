@@ -10,6 +10,7 @@ image:
   creditlink: http://jeanpaulachard.com/mai/
 share: 
 ---
+# People  
 
 ## Librarians & Info Science Folks   
 
@@ -35,12 +36,19 @@ share:
 - [Russell Sbriglia](https://plus.google.com/111076796367017431753/about)   
 - [Jonathan Sterne](http://sterneworks.org/)   
 
-## Software Folks   
+## Software & Web Design Folks   
 
 - [Fletcher Penney](http://fletcherpenney.net)  
 - [Brett Terpstra](http://brettterpstra.com)  
+- [Michael Rose](http://mademistakes.com/)  
 
 ## Insightful People in General (i.e. Productivity or Design)   
 
 - [Merlin Mann](http://www.merlinmann.com/)      
 - [Dave Seah](http://davidseah.com/)    
+
+# Organizations, Journals, and Blogs   
+
+- [Progressive Librarians Guild](http://progressivelibrariansguild.org/)   
+- [In the Library with the Lead Pipe](http://www.inthelibrarywiththeleadpipe.org/)   
+- [Hack Library School](http://hacklibraryschool.com/)   

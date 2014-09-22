@@ -41,6 +41,9 @@ Access
 
 -->   
 
+This post was originally an assignment for [John Walsh's](http://biblicon.org/about) "Z652 Digital Libraries" [course](http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS) at IU-Bloomington. 
+{: .notice}  
+
 ![Banner image of Online Archive of California's logo and search bar.](/images/OAC_Banner.png)
 
 A fantastic clearing house of information about Californian collections, the [Online Archive of California](http://www.oac.cdlib.org/) serves as a centralized set of links to and descriptions of an enormous number of collections from various archives, historical societies, libraries, museums, and special collections in California, including each campus of the University of California. According to the OAC's about page, this makes for over 200 contributing institutions, more than 20,000 online collection guides, and more than 220,000 digital images and documents.[^about] Administered by the Digital Special Collections program of University of California's California Digital Library (CDL), the Collection aims to increase the ease with which collections held throughout a variety of Californian institutions can be found by researchers. In addition to increasing this "findability," the Archive benefits the involved member institutions by giving access to a variety of tools, services, and training from the OAC, as well as by expanding grant opportunities as a result of the partnership with the CDL.   
