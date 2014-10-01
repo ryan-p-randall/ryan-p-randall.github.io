@@ -1,14 +1,8 @@
 # Site wide configuration
 
-<<<<<<< HEAD
 title:            Ryan P. Randall
 locale:           en_US
 url:              # http://ryan-p-randall.github.io
-=======
-title:            Site Title
-locale:           en_US
-url:              http://localhost:4000
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
 
 
 # Jekyll configuration
@@ -32,7 +26,6 @@ kramdown:
 
 # Site owner
 owner:
-<<<<<<< HEAD
   name: Ryan P. Randall
   avatar: bio-photo.jpg
   bio: "Critical information literacy ∴ Literary, cultural & media studies scholar ∴ MLS student at IU-Bloomington ∴ Sous les pavés, la plage ∴ We are, as always, stubborn, stoked, and petrified - GY!BE"
@@ -43,37 +36,16 @@ owner:
   google:
     plus: #username
     analytics: UA-49717180-1
-=======
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics: 
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-<<<<<<< HEAD
   github: ryan-p-randall
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
   lastfm: foureyedsoul
   tumblr: not-evenly-distributed
-=======
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
   pinterest: #username
   foursquare: #username
   steam: #username

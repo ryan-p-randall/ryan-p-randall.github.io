@@ -51,20 +51,11 @@ svg:not(:root) {
   margin-bottom: 20px;
   padding: 8px 20px;
   @include font-rem(14);
-<<<<<<< HEAD
-=======
-  font-family: $heading-font;
-  font-weight: 700;
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
   background-color: $primary;
   color: $white;
   border-width: 2px !important;
   border-style: solid !important;
   border-color: $primary;
-<<<<<<< HEAD
-=======
-  text-decoration: none !important;
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
   @include rounded(3px);
   &:visited {
     color: $white;

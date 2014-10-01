@@ -5,11 +5,7 @@ body {
 }
 .navigation-wrapper {
 	@include container;
-<<<<<<< HEAD
 	padding: 2em 0 0;
-=======
-	padding: 2em 0 1em;
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -210,17 +206,8 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-<<<<<<< HEAD
 	margin-top: 1em;
 	article {
-=======
-	margin-top: 2em;
-	h1 {
-		margin-top: 0;
-	}
-	.post,
-	.page {
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
 		@include container;
 		@include grid(12,10);
 		@include prefix(12,1);
@@ -280,11 +267,7 @@ $button-size: 1.5rem;
 		content: " ";
 		display: block;
 		position: absolute;
-<<<<<<< HEAD
 		bottom: -1px;
-=======
-		bottom: 0;
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
 		left: 8%;
 		width: 0;
 		height: 0;
@@ -423,7 +406,6 @@ $button-size: 1.5rem;
 	// Dotted line underlines for links
 	p > a,
 	li > a {
-<<<<<<< HEAD
 		border-bottom: 1px dotted lighten($link-color, 50);
 		&:hover {
 			border-bottom-style: solid;
@@ -432,9 +414,6 @@ $button-size: 1.5rem;
 	p > a.reversefootnote, 
 	li > a.reversefootnote {
 		border-bottom-width: 0;
-=======
-		text-decoration: underline;
->>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
 	}
 }
 .toc {
