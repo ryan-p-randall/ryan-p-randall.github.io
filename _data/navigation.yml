@@ -3,6 +3,7 @@
 - title: About
   url: /about/
 
+<<<<<<< HEAD
 - title: Info Fluxus Blog
   url: /posts/
 
@@ -18,3 +19,13 @@
 - title: Colophon
   url: /colophon/ 
   
+=======
+- title: Sample Posts
+  url: /posts/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: Made Mistakes
+  url: http://mademistakes.com
+>>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704

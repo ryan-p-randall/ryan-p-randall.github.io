@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: home
 description: "Ryan P. Randall, MLS Student at IU-Bloomington."
@@ -15,3 +16,14 @@ image:
 <p>I’m also working as an Instruction Assistant and helping with a couple of ethnographic studies we’re doing of various library patrons. In the past, I’ve taught Freshman writing courses, American studies, and Film/Media courses, as well as been a college writing tutor for undergraduates and graduate students.   </p>
 
 <p>Along the way, I’ve picked up an MA in <a href="http://english.ucr.edu/">English from the University of California, Riverside</a> and an MA in <a href="http://www.rochester.edu/college/vcs/">Visual and Cultural Studies from the University of Rochester</a>. IU-Bloomington’s <a href="http://ils.indiana.edu/">MLS program</a> keeps me busy figuring out how to continue doing instruction and research from a different perspective.  </p>
+=======
+---
+layout: home
+excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: sample-image-1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+>>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704

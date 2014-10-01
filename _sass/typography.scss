@@ -34,7 +34,11 @@ a {
 		color: $linkcolorhover; 
 	}
 	&:focus { 
+<<<<<<< HEAD
         outline: thin dotted;
+=======
+		outline: thin dotted; 
+>>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
 		color: $linkcolorfocus;
 	}
 	&:hover, 

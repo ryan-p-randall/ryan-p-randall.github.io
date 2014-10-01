@@ -80,9 +80,12 @@ module.exports = function(grunt) {
   grunt.registerTask('dev', [
     'watch'
   ]);
+<<<<<<< HEAD
   grunt.registerTask('scripts', [
     'clean',
     'uglify',
   ]);
+=======
+>>>>>>> 3ba1427cca2854b431210b483a312e77a1d00704
 
 };
