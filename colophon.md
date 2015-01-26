@@ -16,13 +16,13 @@ Colophon
 
 Should you ever ask yourself, "how does one make such a thing?," start looking for a colophon. If you make something mentionable, try to let others know how it was done.   
 
-## This Very Site  
+### This Very Site  
 
 This page is built in [Jekyll](http://jekyllrb.com) using Michael Rose's [Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes). It's primarily written in Fletcher Penney's [MultiMarkdown Composer](http://multimarkdown.com/) or Brett Terpstra's [nvALT][nvALT]. If you'd like to learn more, Michael Rose has a page about [his various free, open source Jekyll themes](http://mademistakes.com/work/jekyll-themes/).
 
 [nvALT]: http://brettterpstra.com/projects/nvalt/.   
 
-## Writing Formats  
+### Writing Formats  
 
 I've been using Fletcher Penney's [MultiMarkdown][mmd] so long, it's committed to muscle memory. In other words, it's part of my way of interfacing with the world, just like other languages and syntaxes. If you plan to use any variant of [Markdown](http://daringfireball.net/projects/markdown/), I recommend this one.  
 
@@ -30,13 +30,13 @@ For keeping my mental lines of flight somewhat directed, I've developed somethin
 
 [mmd]: http://fletcherpenney.net/multimarkdown/  
 
-## Writing Programs   
+### Writing Programs   
 
 Brett Terpstra's [nvALT][nvALT] combines plain text files, [Dropbox](http://www.dropbox.com) sync, and a variety of well-thought features to make it the writing equivalent of the maximal-minimalist, delight-is-in-the-details visual aesthetic that [The Designers Republic™](http://thedesignersrepublic.com/) often use for [Warp Records](http://warp.net/). For those unfamiliar, that means it's *ace*.  
 
 Sam Nguyen's [TextDrop](https://www.textdropapp.com) lets you connect to your Dropbox notes even when you're not on your own device. I almost always have this open in a tab at work to keep a log of what I am doing, will do, and haven been doing.[^hgg]  
 
-## Link Conventions   
+### Link Conventions   
 
 Whenever possible, I link to [WorldCat](http://www.worldcat.org/) records for books. Why promote booksellers instead of libraries?   
 

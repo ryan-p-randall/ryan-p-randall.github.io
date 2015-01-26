@@ -11,7 +11,7 @@ image:
 share: 
 ---
 
-## Librarians & Info Science Folks   
+### Librarians & Info Science Folks   
 
 - [Katherine Ahnberg](http://katherineahnberg.wordpress.com/)   
 - [Chris Bourg, "The Feral Librarian"](http://chrisbourg.wordpress.com/)  
@@ -26,7 +26,7 @@ share:
 - [Andy Woodworth](http://agnosticmaybe.wordpress.com/)   
 - [Anna-Sophia Zingarelli-Sweet](http://annasophiazingarelli.com)   
 
-## Additional Academics     
+### Additional Academics     
 
 - [Kristi J. Castleberry](http://inromaunce.blogspot.com/p/about-kristi-j-castleberry.html)  
 - [Daniel Franke](http://ventibelli.wordpress.com/)  
@@ -35,18 +35,18 @@ share:
 - [Russell Sbriglia](https://plus.google.com/111076796367017431753/about)   
 - [Jonathan Sterne](http://sterneworks.org/)   
 
-## Software & Web Design Folks   
+### Software & Web Design Folks   
 
 - [Fletcher Penney](http://fletcherpenney.net)  
 - [Brett Terpstra](http://brettterpstra.com)  
 - [Michael Rose](http://mademistakes.com/)  
 
-## Insightful People in General (i.e. Productivity or Design)   
+### Insightful People in General (i.e. Productivity or Design)   
 
 - [Merlin Mann](http://www.merlinmann.com/)      
 - [Dave Seah](http://davidseah.com/)    
 
-## Organizations, Journals, and Blogs   
+### Organizations, Journals, and Blogs   
 
 - [Progressive Librarians Guild](http://progressivelibrariansguild.org/)   
 - [In the Library with the Lead Pipe](http://www.inthelibrarywiththeleadpipe.org/)   
