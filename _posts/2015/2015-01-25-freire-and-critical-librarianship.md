@@ -10,7 +10,6 @@ image:
 date: 2015-01-25T23:07:23-05:00
 ---
 
-
 This post is for [Week One](http://www.hybridpedagogy.com/announcements/mmcp-critical-critical-pedagogy/) of [MOOC MOOC: Critical Pedagogy](http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/). 
 {: .notice}  
 
@@ -29,9 +28,9 @@ What I'm left wondering about with importing Freire's method to American educati
 
 In differing ways, each of these concerns decreases the ability of educators to function as "guides on the side," a useful metaphor and interface from the [University of Arizona Libraries](http://code.library.arizona.edu/gots "The Guide on the Side") whose use of active learning was amplified by [Meredith Farkas](http://www.americanlibrariesmagazine.org/article/guide-side "American Libraries Magazine").  
 
-Ultimately, my question is less about how should we foster Freire's problem-posing pedagogy within individual classrooms and more about how we can reshape education to enable it throughout our campuses and society. To me, critical librarianship is one approach, as it helps students become capable lifelong learners. Although librarians like Emily Drabinski and Barbara Fister have advocated critical approaches to librarianship for years, posts such as Brian Mathews' recent column for [the Chronicle of Higher Education](http://chronicle.com/blognetwork/theubiquitouslibrarian/2015/01/06/diving-into-critical-pedagogy-an-alterative-view-of-information-literacy/) show that ["#critlib"](http://tinyurl.com/critlibx "This is a link to the biweekly Twitter chat which also uses that hashtag for in-between discussions") is receiving attention in venues beyond libraryland.  
+Ultimately, my question is less about how we should foster Freire's problem-posing pedagogy within individual classrooms and more about how we can reshape education to enable it throughout our campuses and society. To me, critical librarianship is one approach, as it helps students become capable lifelong learners. Although librarians like Emily Drabinski and Barbara Fister have advocated critical approaches to librarianship for years, posts such as Brian Mathews' recent column for [the Chronicle of Higher Education](http://chronicle.com/blognetwork/theubiquitouslibrarian/2015/01/06/diving-into-critical-pedagogy-an-alterative-view-of-information-literacy/) show that ["#critlib"](http://tinyurl.com/critlibx "This is a link to the biweekly Twitter chat which also uses that hashtag for in-between discussions") is receiving attention in venues beyond libraryland.  
 
-Revisiting Freire also has helped me work toward a more succinct personal vision of critical librarianship, one attentive to critical theory but always placing it in the service of "the continuing transformation of reality" (92).  As Freire writes, "Problem-posing education affirms men and women in the process of *becoming*—as unfinished, uncompleted being in and with a likewise unfinished reality. […] The unfinished character of human beings and the transformational character of reality necessitate that education be and ongoing activity" (84). 
+Revisiting Freire also has helped me work toward a more succinct personal vision of critical librarianship, one attentive to critical theory but always placing it in the service of "the continuing transformation of reality" (92).  As Freire writes, "Problem-posing education affirms men and women in the process of *becoming*—as unfinished, uncompleted being in and with a likewise unfinished reality. […] The unfinished character of human beings and the transformational character of reality necessitate that education be an ongoing activity" (84). 
 
 Here's hoping that more educators look to being "guides on the side" who help learners of all ages confront systems of information, knowledge, and education that might not be designed with generosity—and that critical librarianship  helps us learn to design information systems with such generosity in mind.   
 
