@@ -51,7 +51,7 @@
         </div>
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
         <p class="byline">
-        <span class="entry-tags">Tags for this post: {% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" class="btn-tag" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>
+        <span class="entry-tags">Tags for this post: {% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" class="btn-tag" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&there4;&nbsp;{% endunless %}{% endfor %}</span>
         </p>
       </footer>
     </div><!-- /.article-wrap -->
