@@ -71,6 +71,7 @@ svg:not(:root) {
   border-color: $tag;
   @include rounded(4px);
   &:visited {
+    background-color: $tag;  
     color: $white;
   }
   &:hover {
