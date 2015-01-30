@@ -6,40 +6,11 @@ categories: 2014
 excerpt:
 tags: [digital humanities, coursework]
 image:
-  feature:
+  feature: laluttecontinue-crop.jpg
+  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
+  creditlink: http://jeanpaulachard.com/mai/
 date: 2014-09-19T23:55:19-04:00
 ---
-
-<!--   
-
-Management
- •	Who owns or manages the digital library? | "Administered by the Digital Special Collections program of University of California's California Digital Library."
- •	What is the digital library owner’s purpose or goal in making the collection available?
- •	How long has it been available? | Since 2002, EAD standard, redesigned in 2008-2009.  
- •	When was it last updated? | 
- •	Is the digital library run by one institution or a consortium? | 
-Staffing
- •	How large is the project team? | According to [this page](http://www.cdlib.org/services/access_publishing/dsc/), the Digital Special Collections Team consists of six people.  
- •	What are the roles and backgrounds of the participants in the project?
-Content
- •	What is the subject/topic of the digital library?
- •	Does the digital library hold material from multiple institutions?
- •	How is content organized in the digital library?
-Metadata
- •	Is a metadata standard used? If so, which one(s)?
- •	Is metadata shared through OAI or other mechanisms?
- •	What metadata was available at the start of the project? How was it converted to digital form if it was not already digital?
- •	What new metadata creation (if any) was required for the project.
-Technical Infrastructure
- •	What software does the digital library use to run the library?
- •	Was the software programmed in-house or is it an off-the-shelf software package?
- •	What file formats are the digital objects stored in? Are the preservation formats different from access format?
-Access
- •	Who is the audience for the digital library?
- •	What searching and browsing functionality is provided?
- •	Is copyright information available for the digital library? If so, what is the copyright policy for the digital library?
-
--->   
 
 This post was originally an assignment for [John Walsh's](http://biblicon.org/about) "Z652 Digital Libraries" [course](http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS) at IU-Bloomington. 
 {: .notice}  

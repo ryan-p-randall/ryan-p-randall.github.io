@@ -56,13 +56,26 @@ svg:not(:root) {
   border-width: 2px !important;
   border-style: solid !important;
   border-color: $primary;
-  @include rounded(3px);
+  @include rounded(4px);
   &:visited {
     color: $white;
   }
   &:hover {
     background-color: $white;
     color: $primary;
+  }
+}
+.btn-tag {
+  background-color: $tag;
+  color: $white;
+  border-color: $tag;
+  @include rounded(4px);
+  &:visited {
+    color: $white;
+  }
+  &:hover {
+    background-color: $white;
+    color: $tag;
   }
 }
 .btn-success {

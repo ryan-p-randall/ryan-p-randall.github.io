@@ -6,7 +6,9 @@ categories: 2014
 excerpt:
 tags: [meta]
 image:
-  feature:
+  feature: laluttecontinue-crop.jpg
+  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
+  creditlink: http://jeanpaulachard.com/mai/
 date: 2014-09-13T21:38:37-04:00
 --- 
 
