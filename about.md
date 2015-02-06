@@ -12,7 +12,7 @@ image:
   creditlink: http://jeanpaulachard.com/mai/
 ---
 
-Currently working as the Maps Graduate Assistant in the [Government Information, Maps, and Multiform Services](http://www.libraries.iub.edu/index.php?pageId=285) department of IU-Bloomington's [Herman B. Wells Library](http://www.libraries.iub.edu/index.php?pageId=89), I'm excited to help make these historical resources available digitally through the [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073). It's a lot of careful scanning and considering appropriate descriptive metadata for different uses of the map images—as well as lot of fun when I have my shifts on the reference desk.  
+Currently working as the Maps Graduate Assistant in the [Government Information, Maps, and Microform Services](http://www.libraries.iub.edu/index.php?pageId=285) department of IU-Bloomington's [Herman B. Wells Library](http://www.libraries.iub.edu/index.php?pageId=89), I'm excited to help make these historical resources available digitally through the [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073). It's a lot of careful scanning and considering appropriate descriptive metadata for different uses of the map images—as well as lot of fun when I have my shifts on the reference desk.  
 
 I'm also working as an Instruction Assistant and helping with a couple of ethnographic studies we're doing of various library patrons. In the past, I've taught Freshman writing courses, American studies, and Film/Media courses, as well as been a college writing tutor for undergraduates and graduate students.   
 

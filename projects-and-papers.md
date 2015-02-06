@@ -13,7 +13,9 @@ share:
 
 Here are a few of the things I've done.  
 
-## Publications
+## Writing   
+
+### Publications
 
 - Entries in the [*The Oxford Encyclopedia of American Cultural and Intellectual History*](http://www.worldcat.org/oclc/5115699820), ed. Joan Rubin and Scott E. Casper. (2013.)  
 	- ["John Cage"](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
@@ -21,6 +23,25 @@ Here are a few of the things I've done.
 	- ["Guerilla Theatre"](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)
 - ["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester"](http://hdl.handle.net/1802/6053) Co-authored with Katie Clark, Jane Smith, and Nancy Fried Foster. (2008.)  
 
-## Presentations  
+### Presentations  
 
-- "Don't Know Much About [Digital] Humanities." Presentation with Katherine Ahnberg at [New Directions in Information Fluency](http://www.augustana.edu/x58909.xml). (2014.)
+- ["Don't Know Much About [Digital] Humanities."](https://github.com/ryan-p-randall/dhreadyreference) Presentation with Katherine Ahnberg at [New Directions in Information Fluency](http://www.augustana.edu/x59440.xml). (2014.)  
+
+### Blog Posts Elsewhere   
+
+#### Hack Library School   
+
+- [How do you take notes? (or Markdown and Bullet Journals).](http://hacklibraryschool.com/2015/01/20/how-do-you-take-notes/) 
+(2015-01-20.)   
+- [#critlib: Chatty Critical Librarianship on Twitter.](http://hacklibraryschool.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/) (2014-12-08.)  
+
+#### ET2 Blog (the Government Information, Maps, and Microform Services Department at IU's Herman B Wells Library)   
+
+- [Solar System, Comets, and Asteroid Maps](https://blogs.libraries.iub.edu/et2/2014/11/25/solar-system-comets-and-asteroid-maps/) (2014-11-25.)  
+- [Indiana Statewide Elections: Tuesday, November 4th](https://blogs.libraries.iub.edu/et2/2014/10/30/indiana-statewide-elections-tuesday-november-4th/) (2014-10-30.)  
+
+## Projects   
+
+- [Raincross Underground](http://raincrossunderground.omeka.net/), an [Omeka](http://omeka.org/) site with items from a Riverside, CA creative scene from the early 2000s.  
+- [Bloomington City Directories Finding Guide.](http://libraries.iub.edu/guide-bloomington-city-directories) (2014.) 
+- [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073) A large part of my role as the Maps Graduate Assistant involved digitizing and adding maps to this collection, as well as determining, adding, and standardizing appropriate metadata like tags that relevant researchers would find useful throughout the collection.   
