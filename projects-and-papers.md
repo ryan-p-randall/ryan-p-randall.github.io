@@ -57,6 +57,5 @@ Here are a few of the things I've done.
 
 #### [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073) 
 
-<a href="http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073"><img scr="/images/indiana-historic-maps-screenshot.jpg" /></a>    
-
+![IHMDC](/images/indiana-historic-maps-screenshot.jpg)   
 A large part of my role as the Maps Graduate Assistant involved digitizing and adding maps to this collection, as well as determining, adding, and standardizing appropriate metadata like tags that relevant researchers would find useful throughout the collection.   
