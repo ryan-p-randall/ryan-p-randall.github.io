@@ -51,6 +51,14 @@ Here are a few of the things I've done.
 
 ## Projects   
 
-- [Raincross Underground](http://raincrossunderground.omeka.net/), an [Omeka](http://omeka.org/) site with items from a Riverside, CA creative scene from the early 2000s.  
-- [Bloomington City Directories Finding Guide.](http://libraries.iub.edu/guide-bloomington-city-directories) (2014.) 
-- [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073) A large part of my role as the Maps Graduate Assistant involved digitizing and adding maps to this collection, as well as determining, adding, and standardizing appropriate metadata like tags that relevant researchers would find useful throughout the collection.   
+#### [Raincross Underground](http://raincrossunderground.omeka.net/), an [Omeka](http://omeka.org/) site with items from a Riverside, CA creative scene from the early 2000s.  
+
+#### [Bloomington City Directories Finding Guide.](http://libraries.iub.edu/guide-bloomington-city-directories) (2014.)   
+
+#### [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073) 
+
+<a href="http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073">  
+<img scr="/images/indiana-historic-maps-screenshot.jpg" />   
+</a>    
+
+A large part of my role as the Maps Graduate Assistant involved digitizing and adding maps to this collection, as well as determining, adding, and standardizing appropriate metadata like tags that relevant researchers would find useful throughout the collection.   
