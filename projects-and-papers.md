@@ -25,7 +25,16 @@ Here are a few of the things I've done.
 
 ### Presentations  
 
-- ["Don't Know Much About [Digital] Humanities."](https://github.com/ryan-p-randall/dhreadyreference) Presentation with Katherine Ahnberg at [New Directions in Information Fluency](http://www.augustana.edu/x59440.xml). (2014.)  
+- [“Undergraduate as Creator, Undergraduate as Curator: Exploring the Role of the Instruction Librarian in the Digital Humanities.”](http://sched.co/233V) Co-presented with Katherine Ahnberg, Megan Browndorf, and Cynthia Fisher.   
+*The Collective*, University of Tennessee, Knoxville, 2015. 
+[http://sched.co/233V](http://sched.co/233V)   
+- “Community Building Workshop.” Co-led with Meghan McGrath.  
+*Women in Information Science Symposium*, Indiana University, Bloomington, 2014.  
+- “Digital Maps at IU.” Lighting Round talk co-presented with Theresa Quill.  
+*IU Libraries In-House Institute*, Indiana University, Bloomington, 2014. 
+- [“Don’t Know Much About [Digital] Humanities?”](https://github.com/ryan-p-randall/dhreadyreference) Co-presented with Katherine Ahnberg.   
+*New Directions in Information Fluency*, Augustana College, Rock Island, Illinois, 2014. 
+[Presentation link.](https://github.com/ryan-p-randall/dhreadyreference)  
 
 ### Blog Posts Elsewhere   
 

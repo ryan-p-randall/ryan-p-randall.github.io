@@ -11,80 +11,80 @@ image:
 share: 
 ---
 
-Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/264bprfqnw07kqx/2015-01-29%20Ryan%20P.%20Randall%20CV.pdf?dl=0)  
+Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/qdemxwuvqqgdj11/2015-03-04%20Ryan%20P.%20Randall%20CV.pdf?dl=0)  
+Last updated 2015-03-04.  
 {: .notice}
 
 ## Education 
 							       
 **Indiana University**, Bloomington, IN  
-Master of Library Science, (ALA Accredited) expected Spring 2015  
+*Master of Library Science*, (ALA Accredited) expected Spring 2015  
 
 - Library courses focused on digital libraries, library instruction, and humanities subject librarianship   
 
 **University of Rochester**, Rochester, NY  
-Master of Arts in Visual and Cultural Studies, 2012  
+*Master of Arts in Visual and Cultural Studies*, 2012  
 
 - Graduate studies focused on media, cultural studies, music, and democratic theory  
 - Teaching assistant and instructor positions enhanced capacities to inspire undergraduates and graduate student peers with writing and critical thinking   
 
-**University of California, Riverside**, Riverside, CA
-Master of Arts in English, 2005
+**University of California, Riverside**, Riverside, CA  
+*Master of Arts in English*, 2005
 
 - Graduate studies focused on English and American literature, rhetoric, and literary theory  
 - Teaching positions gave experience teaching freshman composition to one of the nation’s most spanerse student populations  
 			
-Bachelor of Arts in English, Cum Laude, with Minor in Film and Visual Culture, as well as Minor in Philosophy	2000 
+*Bachelor of Arts in English, Cum Laude, with Minor in Film and Visual Culture, as well as Minor in Philosophy*, 2000 
 
 - Undergraduate studies focused on American literature, film and media, and literary theory
 
 ## Additional Education 
 							       
-**School of Criticism and Theory**  
-Cornell University Ithaca, NY	
-Certificate of Completion, 2009  
-“Voice, Representation, Ideology” seminar with Dr. Michael Steinberg and Dr. Suzanne Stewart-Steinberg of Brown University 
+**School of Criticism and Theory** Cornell University Ithaca, NY	
+*Certificate of Completion*, 2009  
+
+- “Voice, Representation, Ideology” seminar with Dr. Michael Steinberg and Dr. Suzanne Stewart-Steinberg of Brown University 
 
 ## Library and Patron Services Experience  
 							       
 **Indiana University** Bloomington, IN  
 
-Maps Graduate Assistant / Map Collection Assistant / Government Information Reference Assistant  
-*Department of Government Information, Maps, and Microform Services, Herman B Wells Library*, September 2013–present  
+*Maps Graduate Assistant / Map Collection Assistant / Government Information Reference Assistant*  
+Department of Government Information, Maps, and Microform Services, Herman B Wells Library, September 2013–present  
 
-- Scanned maps at archival standards and managed [Indiana Historical Maps digital collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073)  
+- Scanned maps at archival standards and managed [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073)  
 - Created digital displays, exhibits, finding aids, and instructional material  
 - Maintained portions of the department website and blog  
 - Provided reference service, handled circulation, and assisted patrons with multiple types of scanners and microform readers  
 - Supervised other student workers  
 
-Assistant to the Subject Librarian for Germanic Studies, French & Italian, Philosophy, History & Philosophy of Science, Classical Studies, and Linguistics   
-*Department of Arts & Humanities, Herman B Wells Library*, August 2014-present  
+*Assistant to the Subject Librarian for Germanic Studies, French & Italian, Philosophy, History & Philosophy of Science, Classical Studies, and Linguistics*   
+Department of Arts & Humanities, Herman B Wells Library, August 2014-present  
 
 - Selected materials for French & Italian, Classical Studies collections according to collection development policies   
-- Created online instruction material for subject pages on library website  
 
-Instruction Assistant  
-*Department of Teaching & Learning, Herman B Wells Library*, September 2013-present  
+*Instruction Assistant*  
+Department of Teaching & Learning, Herman B Wells Library, September 2013-present  
 
 - Designed and led instruction sessions for undergraduate courses in Business and Life Sciences  
 - Consulted with professors to target session content to course outcomes and current assignments  
 - Instructed researchers during inspanidual drop-in sessions   
 
-Ethnographic Research Assistant   
-*Department of Library Academic Services, Herman B Wells Library*, September 2013-present  
+*Ethnographic Research Assistant*   
+Department of Library Academic Services, Herman B Wells Library, September 2013-present  
 
 - Conducted field observations, transcribed recordings, analyzed and coded transcripts, and administered surveys for ethnographic studies of undergraduate and graduate library patrons   
 
 **University of Rochester**	Rochester, NY  
 
-Rare Books Manuscripts Clerk 
-*Rare Books and Special Collections, Rush Rhees Library*, May–August 2010  
+*Rare Books Manuscripts Clerk*  
+Rare Books and Special Collections, Rush Rhees Library, May–August 2010  
 
 - Assisted librarians with accessioning and cataloging new materials  
 - Registered patrons, pulled requested material, and maintained security of items in rare books reading room  
 
-Technical Assistant and Office Assistant 
-*Rush Rhees Library Digital Initiatives Unit*, May 2007–November 2008  
+*Technical Assistant and Office Assistant*  
+Rush Rhees Library Digital Initiatives Unit, May 2007–November 2008  
 
 - Supported efforts associated with [“The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester,”](http://hdl.handle.net/1802/6053) co-authored with Katie Clark, Jane Smith, and Nancy Fried Foster, 2008  
 - Published on [UR Research](http://hdl.handle.net/1802/6053)    
@@ -92,9 +92,10 @@ Technical Assistant and Office Assistant
 - Participated in interviews, transcription, and analysis for the project, as well as writing the final report  
 
 ## English, Visual and Cultural Studies, and ESOL Teaching and Tutorial Experience   				       
-**Niagara County Community College**	Sanborn, NY  
-Adjunct Instructor 
-*Department of English*, August 2012–May 2013  
+
+**Niagara County Community College** Sanborn, NY  
+*Adjunct Instructor* 
+Department of English, August 2012–May 2013  
 
 - Instructor of record for three sections of English 101: Writing I in Fall 2012 semester, with up to 23 students per section  
 - Instructor of record for one section of English 101: Writing I in Spring 2013 semester, with up to 23 students per section   
@@ -102,49 +103,49 @@ Adjunct Instructor
 - Revised English 101: Writing I syllabus for Spring 2013 semester based on my assessment of student progress and outcomes  
 
 **St. John Fisher College** Rochester, NY  
-Adjunct Instructor 
-*Department of American Studies*, September–December 2012  
+*Adjunct Instructor* 
+Department of American Studies, September–December 2012  
 
 - Instructor of record for "Film, Television, and Visual Culture," a course on the history and interpretation of these media  
 - Coordinated course content with two sections of English 101 as part of the college’s first-year Learning Community program  
 - Incorporated technology into course by having students collaborate on final research projects they posted (in part) on Tumblr  
 
 **University of Rochester**	Rochester, NY  
-Writing Center Consultant  
-*Eastman School of Music*, September 2010–May 2012  
+*Writing Center Consultant*  
+Eastman Writing Center, Eastman School of Music, September 2010–May 2012  
 
 - Designed and lead workshops on such skills as developing thesis statements, citing and using sources, and crafting conclusions  
 - Tutored undergraduate and graduate students in inspanidual sessions  
 - Assisted both ESL students and native speakers with academic and professional writing  
 
-Lecturer 
-*Department of Art History*, January–May 2011  
+*Lecturer* 
+Department of Art History, January–May 2011  
 
 - Instructor of record for "Ways of Seeing: Audio-Visuality," an Art History and Film/Media course on film soundtracks and sound art  
 - Course required response papers, a final research paper, and an in-class oral presentation  
 
-Eastman Writing Seminar Instructor 
-*Eastman School of Music*, September–December 2010  
+*Eastman Writing Seminar Instructor* 
+Department of Humanities, Eastman School of Music, September–December 2010  
 
 - Instructor of record for "Audio-Visuality," a Freshman Writing Seminar using film and sound theory to develop critical thinking and writing skills  
 - Course required response papers, a final research paper, and an in-class oral presentation  
 
-Teaching and Research Assistant, 
-*Graduate Program in Visual and Cultural Studies*, September 2006–May 2010  
+*Teaching and Research Assistant, Graduate Program in Visual and Cultural Studies* Department of Art History/Department of Comparative Literature, September 2006–May 2010  
 
 - As Teaching Assistant for "Writing on Art," a required course for Art History or Studio Art Majors focusing on analytical skills and different styles of writing about art, aided professor with student writing assessment and provided students inspanidual instruction  
 - As Teaching Assistant for "Major Seminar," a required course for majors in Comparative Literature and Foreign Language Majors that provides an overview of critical theory and applies these critical skills to the writing of literary essays, aided professor with student writing assessment and provided students inspanidual instruction  
 
 **University of California Riverside**	Riverside, CA  
-Teaching Assistant  
-*Department of English*, September 2004–June 2006  
+*Teaching Assistant*  
+Department of English, September 2004–June 2006  
 
 - Taught English 1A, 1B, and 1C of the Freshman Composition Series  
 - Integrated literature, film, and music into class curricula to further engage students  
 - Three distinct courses each required weekly compositions while focusing on progressively sophisticated scholastic writing  
 
 **FLS International** Glendora, CA  
-ESL Instructor, Summer 2005  
+*ESL Instructor* 
+Summer 2005  
 
 - FLS is a program that offers courses and tutorial services for students for whom English is their second language  
 - Planned and taught ESL class for international high school students using immersion techniques and creative writing exercises  
@@ -157,11 +158,17 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 - [Guerilla Theatre](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)  
 
 ## Library Conference Presentations and Workshops  
-							       
+
+- “Undergraduate as Creator, Undergraduate as Curator: Exploring the Role of the Instruction Librarian in the Digital Humanities.” Co-presented with Katherine Ahnberg, Megan Browndorf, and Cynthia Fisher.   
+*The Collective*, University of Tennessee, Knoxville, 2015. 
+[http://sched.co/233V](http://sched.co/233V)   
 - “Community Building Workshop.” Co-led with Meghan McGrath.  
-*Women in Information Science Symposium*, Indiana University, Bloomington, 2014  
+*Women in Information Science Symposium*, Indiana University, Bloomington, 2014.  
+- “Digital Maps at IU.” Lighting Round talk co-presented with Theresa Quill.  
+*IU Libraries In-House Institute*, Indiana University, Bloomington, 2014. 
 - [“Don’t Know Much About [Digital] Humanities?”](https://github.com/ryan-p-randall/dhreadyreference) Co-presented with Katherine Ahnberg.   
-*New Directions in Information Fluency*, Augustana College, Rock Island, Illinois, 2014  
+*New Directions in Information Fluency*, Augustana College, Rock Island, Illinois, 2014. 
+[Presentation link.](https://github.com/ryan-p-randall/dhreadyreference)  
 
 ## Other Academic Conference Papers Presented  
 
@@ -187,16 +194,18 @@ Contact, Contagion, and Containment Conference, Cornell University, 2005
 (dis)junctions Conference, University of California, Riverside, 2004
 
 ## Memberships and Service
+
+American Libraries Association  
+
+- Member, 2014-present  
 							       
 ASIS&T Student Chapter, Indiana University, Bloomington
 
-- Social Chair, 2014-present
+- Social Chair, 2014-present  
 - Member, 2014-present   
 - Co-organizer of Women in Information Science Symposium, 2014  
-- Co-organizer of Information Science for Everyone Symposium, 2015
 
 Progressive Librarians Guild Student Chapter, Indiana University, Bloomington   
-
 
 - President, 2014-present  
 - Member, 2013-present   
@@ -211,13 +220,12 @@ Inter-Club Council, Department of Information and Library Science, Indiana Unive
 
 Indiana University Digital Humanities Working Group, Indiana University, Bloomington   
 
-- Founding member, 2014
-- Led workshop on “Getting Started with Git and GitHub Pages.” 2014
+- Founding member, 2014-present
+- Led workshop on “Getting Started with Git and GitHub Pages,” 2014
 
 Cultural Studies Association, National Association  
 
-- Member, 2011-12  
-
+- Member, 2011-12, 2014-2015  
 
 PCA/ACA (Popular Culture Association/American Culture Association), National Association  
 
