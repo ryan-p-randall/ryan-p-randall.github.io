@@ -51,11 +51,17 @@ Here are a few of the things I've done.
 
 ## Projects   
 
-#### [Raincross Underground](http://raincrossunderground.omeka.net/), an [Omeka](http://omeka.org/) site with items from a Riverside, CA creative scene from the early 2000s.  
+#### [Raincross Underground](http://raincrossunderground.omeka.net/)
+
+![Raincross Underground Babyhead Image](/images/raincross-underground.jpg)  
+Begun for my Digital Libraries class with John Walsh, [Raincross Underground](http://raincrossunderground.omeka.net/) is an [Omeka](http://omeka.org/) site with items from a Riverside, CA creative scene that existed during the early 2000s. It includes images, sounds, and TEI markup of songs from a band I was in.   
 
 #### [Bloomington City Directories Finding Guide.](http://libraries.iub.edu/guide-bloomington-city-directories) (2014.)   
+
+![Bloomington City Directories Finding Guide](/images/bloomington-city-directories.jpg)
+Making [Bloomington City Directories Finding Guide](http://libraries.iub.edu/guide-bloomington-city-directories) began with an inventory of the various directories held by the Herman B Wells Library. Then I had to decide the best way to organize and present this information to our patrons. Finally, I wrote the html code to inclue the guide on the website.  
 
 #### [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073) 
 
 ![IHMDC](/images/indiana-historic-maps-screenshot.jpg)   
-A large part of my role as the Maps Graduate Assistant involved digitizing and adding maps to this collection, as well as determining, adding, and standardizing appropriate metadata like tags that relevant researchers would find useful throughout the collection.   
+Although the work of digitizing this collection began before I arrived at the Government Documents, Maps, and Microform Services department, the [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073) took the bulk of my first year there. A large part of my role as the Maps Graduate Assistant involved digitizing and adding maps to this collection, as well as determining, adding, and standardizing appropriate metadata like tags that relevant researchers would find useful throughout the collection.   
