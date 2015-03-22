@@ -11,8 +11,8 @@ image:
 share: 
 ---
 
-Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/qdemxwuvqqgdj11/2015-03-04%20Ryan%20P.%20Randall%20CV.pdf?dl=0)  
-Last updated 2015-03-04.  
+Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/cex9oxjxdcp1lg0/2015-03-05%20Ryan%20P.%20Randall%20CV.pdf?dl=0)  
+Last updated 2015-03-05.  
 {: .notice}
 
 ## Education 
