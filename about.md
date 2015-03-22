@@ -4,7 +4,7 @@ permalink: /about/
 title: About Me
 tagline: Ryan P. Randall
 tags: [about]
-modified: 9-9-2013
+modified: 2015-03-21
 comments: true
 image:
   feature: laluttecontinue-crop.jpg
