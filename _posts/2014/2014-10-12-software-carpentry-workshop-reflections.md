@@ -10,6 +10,8 @@ image:
 date: 2014-10-12T22:50:07-04:00
 ---
 
+{% include _toc.html %}
+
 ## Welcome to the Command Line
 
 It wasn't quite *Tron*: I jumped into the world of computing for two days while taking a Software Carpentry workshop and it turned out highly illuminating *without being threatening*. This post aims to summarize what I learned & its relevance to librarians and/or digital humanities folks, encourage others to take/give similar workshops, and explain what I'd change about the workshop for librarians or digital humanities scholars.  

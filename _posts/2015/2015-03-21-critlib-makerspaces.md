@@ -7,8 +7,10 @@ excerpt:
 tags: [critlib, critical pedagogy]
 image:
   feature: 
-date: 2015-03-15T19:45:47-04:00
+date: 2015-03-21T19:45:47-04:00
 ---
+
+{% include _toc.html %}
 
 ## Friend or Foe?
 
@@ -34,6 +36,6 @@ For anyone else interested in volunteering to moderate a #critlib chat, here's a
 
 > What aspects of #critlib mesh well with Makerspaces (including, potentially, the active "making" pedagogy of digital humanities)? What aspects could benefit from substantive critique? What might a #critlib version of a Makerspace look like?  
 
-After getting confirmation from the moderators, I came up with a set of questions and looked for appropriate readings. Between proposing it and moderating it, the editors of [Hybrid Pedagogy journal](http://www.hybridpedagogy.com/) put on their [moocmooc: Critical Pedagogies](http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/), which provided a great reading for the connection I wanted to make between some opportunities shared by infoshops and makerspaces. I emailed the questions to the moderators for their feedback. After receiving it, I posted the questions a few days in advance so that anyone who wanted to could think about their contributions in advance—dealing with 140 characters is a skill, and time helps! I also made the two meme images here and used them to help spread the word about the upcoming chat on Twitter the couple days before.  
+After getting confirmation from the moderators, I came up with a set of questions and looked for appropriate readings. Between proposing & moderating this chat, I participated in the [moocmooc: Critical Pedagogies](http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/) held by [Hybrid Pedagogy journal](http://www.hybridpedagogy.com/). This provided a great reading for the connection I wanted to make between some opportunities shared by infoshops and makerspaces. I emailed the questions to the moderators for their feedback. After receiving it, I posted the questions a few days in advance so that anyone who wanted to could think about their contributions in advance—dealing with 140 characters is a skill, and time helps! I also made the two meme images here and used them to help spread the word about the upcoming chat on Twitter the couple days before.  
 
 Go ahead and check out the [#critlib Google Doc](http://tinyurl.com/critlibx) to see when the next chat is taking place, or to propose a topic yourself! While you're there, you can also see the links to a shared Zotero library of readings on critical librarianship and information about the past chats and any Storify transcripts that exist for them.  
