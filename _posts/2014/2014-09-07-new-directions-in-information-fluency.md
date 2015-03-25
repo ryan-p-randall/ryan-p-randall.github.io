@@ -4,7 +4,7 @@ title: "New Directions in Information Fluency"
 modified:
 categories: 2014
 excerpt:
-tags: [conferences, presentations]
+tags: [conferences, presentations, digital humanities]
 image:
   feature: laluttecontinue-crop.jpg
   credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
