@@ -5,9 +5,6 @@ title: "CV"
 modified: 2015-01-29 04:13
 tags: [cv]
 image:
-  feature: laluttecontinue-crop.jpg
-  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
-  creditlink: http://jeanpaulachard.com/mai/
 share: 
 ---
 
@@ -16,6 +13,8 @@ Last updated 2015-03-05.
 {: .notice}
 
 ## Education 
+					
+{% include _toc.html %}					
 							       
 **Indiana University**, Bloomington, IN  
 *Master of Library Science*, (ALA Accredited) expected Spring 2015  
@@ -153,6 +152,7 @@ Summer 2005
 ## Publication    
 
 Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual History*, ed. Joan Rubin and Scott E. Casper. (2013).](http://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162)   
+
 - [John Cage](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
 - [Graffiti](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  
 - [Guerilla Theatre](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)  
@@ -259,4 +259,19 @@ Videotaping
 
 Transcription of Anthropological Interview 
 
-- Interviews as part of the University of Rochester’s Digital Initiatives 2007–2008
+- Interviews as part of the University of Rochester’s Digital Initiatives 2007–2008  
+
+## Skills
+
+Natural Languages: Reading proficiency in Spanish, French, and Latin. Basic speaking proficiency in Spanish and ASL.   
+Web/Markup Languages: HTML5, CSS, XML, XHTML, TEI  
+Web Content Management Systems: Omeka, WordPress, LibGuides, DSpace, wikis, Jekyll/Octopress, GitHub    
+Educational Content Management Systems: Angel, Blackboard, Canvas       
+Operating Systems: Mac OS X, Windows, UNIX    
+Document Design: Adobe Creative Suite, Microsoft Office suite, Google Docs, Markdown & related tools, familiarity with LaTeX    
+Citation Management Systems: Zotero, EndNote, RefWorks, Mendeley, Papers   
+Metadata Standards: Dublin Core    
+Social Media: Facebook, Twitter, Instagram, Tumblr    
+Audio Software: Ableton, Audacity, GarageBand, various plug-ins for each     
+Others: Git (version control), Neatline (map and timeline suite for Omeka), MALLET (topic modeling)   
+
