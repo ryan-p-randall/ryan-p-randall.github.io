@@ -5,10 +5,8 @@ modified:
 categories: 2014
 excerpt:
 tags: [digital humanities, coursework]
-image:
-  feature: laluttecontinue-crop.jpg
-  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
-  creditlink: http://jeanpaulachard.com/mai/
+image: 
+  feature: 
 date: 2014-09-19T23:55:19-04:00
 ---
 

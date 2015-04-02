@@ -6,9 +6,7 @@ categories: 2014
 excerpt:
 tags: [conferences, presentations, digital humanities]
 image:
-  feature: laluttecontinue-crop.jpg
-  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
-  creditlink: http://jeanpaulachard.com/mai/
+  feature:
 date: 2014-04-08T03:03:15-04:00
 ---
 <br />
