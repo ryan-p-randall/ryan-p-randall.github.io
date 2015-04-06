@@ -10,6 +10,8 @@ image:
 date: 2015-04-02T02:10:24-04:00
 ---
 
+:warning: :construction:
+
 This post is currently under construction—I'm testing whether Dropbox or GitHub works better to stream the video. The actual project grew out of an assignment for [John Walsh's](http://biblicon.org/about) "Z652 Digital Libraries" [course](http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS) at IU-Bloomington. 
 {: .notice}  
 
