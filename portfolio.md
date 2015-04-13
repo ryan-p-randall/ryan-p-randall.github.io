@@ -70,3 +70,9 @@ Although the work of digitizing this collection began before I arrived at the Go
 - [Hoosier Hysteria—the local version of "March Madness"](https://blogs.libraries.iub.edu/et2/2015/03/17/hoosier-hysteria/) (2015-03-17.) 
 - [Solar System, Comets, and Asteroid Maps](https://blogs.libraries.iub.edu/et2/2014/11/25/solar-system-comets-and-asteroid-maps/) (2014-11-25.)  
 - [Indiana Statewide Elections: Tuesday, November 4th](https://blogs.libraries.iub.edu/et2/2014/10/30/indiana-statewide-elections-tuesday-november-4th/) (2014-10-30.)  
+
+### Digital Signage / Slideshows  
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/40916646" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/2014-indiana-state-elections" title="2014 Indiana State Elections" target="_blank">2014 Indiana State Elections</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>  
+
+- "2014 Indiana State Elections" slideshow for the ET2 Digital Displays    
