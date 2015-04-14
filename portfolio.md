@@ -5,13 +5,12 @@ title: "Portfolio"
 modified: 2015-03-021 04:14
 tags: [projects and papers]
 image:
-  feature: laluttecontinue-crop.jpg
-  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
-  creditlink: http://jeanpaulachard.com/mai/
 share: 
 ---
 
 Here are some of the more library-related things I've done. This is current as of 2015-03-21. My full [cv is available here](/cv/).  
+
+{% include _toc.html %}		
 
 ## Projects   
 
