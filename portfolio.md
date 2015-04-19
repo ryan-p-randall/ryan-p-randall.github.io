@@ -79,6 +79,6 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 - "2014 Indiana State Elections" slideshow for the ET2 Digital Displays.    
 
-<iframe src="https://dl.dropboxusercontent.com/u/5210789/Literary_Maps_Slideshow.pdf" width="100%" height="480"></iframe>
+<iframe src="https://dl.dropboxusercontent.com/u/5210789/Literary_Maps_Slideshow.pdf" max-width="100%" height="480"></iframe>
 
 - "Literary Maps" slideshow for the ET2 Digital Displays.   
