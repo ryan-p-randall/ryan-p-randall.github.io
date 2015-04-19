@@ -8,7 +8,7 @@ image:
 share: 
 ---
 
-Here are some of the more library-related things I've done. This is current as of 2015-03-21. My full [cv is available here](/cv/).  
+Here are some of the more library-related things I've done. This is current as of 2015-04-18. My full [cv is available here](/cv/).  
 
 {% include _toc.html %}		
 
@@ -44,6 +44,9 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 ### Presentations  
 
+- [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)   
+*2015 Symposium on LIS Education*, University of Illinois, Urbana-Champaign, 2015.  
+[Presentation link.](http://www.slideshare.net/ryanprandall/ryan-lised-symp)   
 - [“Undergraduate as Creator, Undergraduate as Curator: Exploring the Role of the Instruction Librarian in the Digital Humanities.”](http://sched.co/233V) Co-presented with Katherine Ahnberg, Megan Browndorf, and Cynthia Fisher.   
 *The Collective*, University of Tennessee, Knoxville, 2015. 
 [http://sched.co/233V](http://sched.co/233V)   
@@ -59,6 +62,7 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 #### Hack Library School   
 
+- [<del>Hack</del>Quirk Your Demonstrations.](http://hacklibraryschool.com/2015/04/06/hack-quirk-your-demonstrations/) (2015-04-06.) 
 - [How do you take notes? (or Markdown and Bullet Journals).](http://hacklibraryschool.com/2015/01/20/how-do-you-take-notes/) 
 (2015-01-20.)   
 - [#critlib: Chatty Critical Librarianship on Twitter.](http://hacklibraryschool.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/) (2014-12-08.)  
@@ -73,4 +77,4 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/40916646" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/2014-indiana-state-elections" title="2014 Indiana State Elections" target="_blank">2014 Indiana State Elections</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>  
 
-- "2014 Indiana State Elections" slideshow for the ET2 Digital Displays    
+- "2014 Indiana State Elections" slideshow for the ET2 Digital Displays.    

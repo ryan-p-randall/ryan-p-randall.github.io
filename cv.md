@@ -8,8 +8,8 @@ image:
 share: 
 ---
 
-Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/zd0b2w3iuuvbg94/2015-03-29%20Ryan%20P.%20Randall%20CV.pdf?dl=0)  
-Last updated 2015-03-29.  
+Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/vcasoz59xr6l5h8/2015-04-18%20Ryan%20P.%20Randall%20CV.pdf?dl=0)  
+Last updated 2015-04-18.  
 {: .notice}
 
 ## Education 
@@ -159,6 +159,9 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 
 ## Library Conference Presentations and Workshops  
 
+- [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)   
+*2015 Symposium on LIS Education*, University of Illinois, Urbana-Champaign, 2015.  
+[Presentation link.](http://www.slideshare.net/ryanprandall/ryan-lised-symp)   
 - “Undergraduate as Creator, Undergraduate as Curator: Exploring the Role of the Instruction Librarian in the Digital Humanities.” Co-presented with Katherine Ahnberg, Megan Browndorf, and Cynthia Fisher.   
 *The Collective*, University of Tennessee, Knoxville, 2015. 
 [http://sched.co/233V](http://sched.co/233V)   
