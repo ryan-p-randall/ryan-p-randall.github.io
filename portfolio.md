@@ -78,3 +78,7 @@ Although the work of digitizing this collection began before I arrived at the Go
 <iframe src="//www.slideshare.net/slideshow/embed_code/40916646" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/2014-indiana-state-elections" title="2014 Indiana State Elections" target="_blank">2014 Indiana State Elections</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>  
 
 - "2014 Indiana State Elections" slideshow for the ET2 Digital Displays.    
+
+<iframe height="480" src="https://dl.dropboxusercontent.com/u/5210789/Literary_Maps_Slideshow.pdf" width="640"></iframe>
+
+- "Literary Maps" slideshow for the ET2 Digital Displays.   
