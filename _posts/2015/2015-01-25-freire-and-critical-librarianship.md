@@ -4,7 +4,7 @@ title: "Freire and Critical Librarianship"
 modified:
 categories: 2015
 excerpt:
-tags: [critlib, critical pedagogy]
+tags: [critlib, critical pedagogy, moocmooc]
 image:
   feature:
 date: 2015-01-25T23:07:23-05:00
