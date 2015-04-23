@@ -5,7 +5,6 @@ modified:
 categories: 2015
 excerpt:
 tags: [hack library school, markdown, meta, notetaking]
-comments: true
 image:
   feature:
 date: 2015-01-20T23:48:34-05:00
