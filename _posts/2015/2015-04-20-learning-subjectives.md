@@ -10,6 +10,9 @@ image:
 date: 2015-04-20T22:17:22-04:00
 ---
 
+This post is for [Week One](http://rhizomatic.net/2015/04/14/learning-subjectives-designing-for-when-you-dont-know-where-youre-going/) of [#rhizo15](http://rhizomatic.net/).  
+{: .notice}
+
 Here's something I constantly rediscover, sometimes painfully: although I'm a capable writer, I'm predisposed toward research. This orientation seems both a boon and a hindrance as an aspiring academic librarian.   
 
 Research calls to me in large part because of its rhizomatic nature—I jump into searching & reading, then giddily test out new possibilities along the way. It feels a lot like being in an exuberant dancefloor, with connections of myriad types & durations constantly occurring and altering. At the other extreme, too often when I am "writing," I want things to already be perfected and stable. I prioritize the product rather than embracing the process.   
