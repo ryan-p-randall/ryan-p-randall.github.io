@@ -62,10 +62,10 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 #### Hack Library School   
 
-- [<del>Hack </del>Quirk Your Demonstrations.](http://hacklibraryschool.com/2015/04/06/hack-quirk-your-demonstrations/) (2015-04-06.) 
-- [How do you take notes? (or Markdown and Bullet Journals).](http://hacklibraryschool.com/2015/01/20/how-do-you-take-notes/) 
+- [<del>Hack </del>Quirk Your Demonstrations.](http://hacklibschool.wordpress.com/2015/04/06/hack-quirk-your-demonstrations/) (2015-04-06.) 
+- [How do you take notes? (or Markdown and Bullet Journals).](http://hacklibschool.wordpress.com/2015/01/20/how-do-you-take-notes/) 
 (2015-01-20.)   
-- [#critlib: Chatty Critical Librarianship on Twitter.](http://hacklibraryschool.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/) (2014-12-08.)  
+- [#critlib: Chatty Critical Librarianship on Twitter.](http://hacklibschool.wordpress.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/) (2014-12-08.)  
 
 #### ET2 Blog (the Government Information, Maps, and Microform Services Department at IU's Herman B Wells Library)   
 
