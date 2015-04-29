@@ -24,6 +24,7 @@ If I were to measure this as a learning process, I could count:
 - the new skills I've learned (even kludgey ones such as using the same naming convention in this prototype as for my regular website so that placeholder images appear when I'm testing it on my phone)    
 - the hours I've spent on it   
 - the features in whatever form the project becomes in the short-term and map them to intended "learning objectives"   
+- the features in the final form and compare what I added & what I changed along the way   
 
 More interestingly, and to address this week's question of "What can we count that isn't learning?" I could count:  
 
@@ -31,15 +32,15 @@ More interestingly, and to address this week's question of "What can we count th
 - the hours I've spent *frustrated* or perplexed   
 - how many items that produced these types of affective reactions   
 - the times I've consulted the [rather well-written documentation](http://foundation.zurb.com/docs/)    
-- the times I've [committed something via Git](https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/master/aqredo) so that I could try it out on my phone rather than using my laptop (more on Git below)        
+- the times I've [committed something via Git](https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/master/aqredo) (both to "save" it and so that I could try it out on my phone rather than using my laptop (more on Git below))        
 
-This list hews close to learning, but nevertheless *feels* as thought it's just adjacent to what we normally conceive of as "learning" when we focus on outcomes rather than processes. I wonder whether we might discuss zones of proximal affective engagement in addition to zones of proximal development? Enumerating the things in that zone would be a strange approach—but one that might let us dance just enough of that 'ol defamiliarization/distantiation rag to truly consider affect and learning in new ways. 
+This list hews close to learning, but nevertheless *feels* as though it remains just adjacent to what we normally conceive of as "learning" when we focus on outcomes rather than processes. I wonder whether one might discuss zones of proximal affective engagement in addition to zones of proximal development? Enumerating the things in that zone would be a strange approach—but one that might let us dance just enough of that 'ol defamiliarization/distantiation rag to truly consider affect and learning in new ways. 
 
 Affect isn't quite countable, as it's not discrete. It rapidly varies in intensity and mutates into inarticulable mutants of frustration, delight, and anticipation. This is something that we know as educators attentive to pedagogy, but it would be fascinating to find new ways to capture this process. Although this capture is not quite "counting," it feels something other than the negative space around what is countable. Learning, affect, countable and non-count aspects all seem to flow through each other when we examine closely enough.   
 
 ## …An Extended Aside on Git and Open Humanities Notebooks    
 
-[Git](http://www.git-scm.com/) is version tracking software that allows users to annotate, compare differences, or roll back any changes that they save in text documents. It's primarily used for software development, but as the Chronicle of Higher Education's [ProfHacker series on GitHub](http://chronicle.com/blogs/profhacker/tag/github101) attests, Git and GitHub have a lot of potential for humanities and other forms of writing.  
+[Git](http://www.git-scm.com/) is version tracking software that allows users to annotate, compare differences, or roll back any changes that they save in text documents. It's primarily used for software development, but as the Chronicle of Higher Education's [ProfHacker series on GitHub](http://chronicle.com/blogs/profhacker/tag/github101) attests, Git and GitHub have a lot of potential for humanities and other forms of writing. For instance, if you were the curious type, you could see how many times I've edited this post after it went live. Typos are pesky and thoughts don't stop arriving just because you've press a button.   
 
 Franny Gaede started an excellent Twitter discussion on "what a lab notebook for the humanities would look like":  
 
@@ -51,5 +52,7 @@ Franny Gaede started an excellent Twitter discussion on "what a lab notebook for
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/foureyedsoul">@foureyedsoul</a> <a href="https://twitter.com/mfgaede">@mfgaede</a> <a href="https://twitter.com/wcaleb">@wcaleb</a> writes about this very thing for history: <a href="http://t.co/tPfUgvfMKQ">http://t.co/tPfUgvfMKQ</a></p>&mdash; John Russell (@uohistlib) <a href="https://twitter.com/uohistlib/status/592502116624674816">April 27, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
-I'm going on this extended aside on Git, GitHub, and open notebooks in part to tie this post back to [my #rhizo15 post from last week]({% post_url /2015/2015-04-20-learning-subjectives %}), in which I mentioned that one of my learning subjectives for the course would be to share things a little before they're ready. By directing people to Git, I'm highlighting the actual process of learning—I could then annotate it with all the subjective, affective, experiential aspects of the process adjacent to learning as I'd like.  
+Although W. Caleb McDaniel doesn't discuss Git's potential in explicitly rhizomatic terms, his post makes clear many of the ways that Git helps document the messy process of assembling thoughts, evidence, discoveries, language, guiding questions, argumentative writing, and the other things that go into and get edited out of <del>humanities </del>writing.    
+
+I'm going on this extended aside on Git, GitHub, and open notebooks in part just to document what I'm learning at the moment and in part to tie this post back to [my #rhizo15 post from last week]({% post_url /2015/2015-04-20-learning-subjectives %}), in which I mentioned that one of my learning subjectives for the course would be to share things a little before they're ready. By directing people to Git, I'm highlighting the actual process of learning. I could then annotate it with all the subjective, affective, experiential, etc. aspects of the process adjacent to learning as I'd like and language allows.  
 
