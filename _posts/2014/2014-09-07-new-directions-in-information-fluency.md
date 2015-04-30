@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "New Directions in Information Fluency"
-modified:
+modified: 
 categories: 2014
-excerpt:
+excerpt: Brief reflections on a talk about bringing digital humanities to the reference desk, which I co-presented with Katherine Ahnberg at the New Directions in Information Fluency conference.
 tags: [conferences, presentations, digital humanities]
 image:
   feature:

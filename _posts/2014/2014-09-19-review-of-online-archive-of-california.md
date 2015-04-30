@@ -3,7 +3,7 @@ layout: post
 title: "Review of Online Archive of California"
 modified:
 categories: 2014
-excerpt:
+excerpt: The Online Archive of California lies somewhere between a finding aid and a digital library—and is a huge boon to researchers that would be worth emulating elsewhere.
 tags: [digital humanities, coursework]
 image: 
   feature: 

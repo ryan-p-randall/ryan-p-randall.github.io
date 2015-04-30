@@ -3,7 +3,7 @@ layout: post
 title: "#critlib Makerspaces"
 modified:
 categories: 2015
-excerpt:
+excerpt: I write about moderating a &#35;critlib Twitter chat on the constructivist potentials and neoliberal downsides of makerspaces, as well as briefly describe the moderation process.
 tags: [critlib, critical pedagogy]
 image:
   feature: 

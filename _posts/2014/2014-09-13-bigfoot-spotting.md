@@ -3,7 +3,7 @@ layout: post
 title: "Bigfoot Spotting and Other Jekyll Adventures"
 modified:
 categories: 2014
-excerpt:
+excerpt: A post where I describe trying—and thus far, failing—to use Bigfoot.js to make footnotes more engaging in a Jekyll/GitHub Pages blog. I'll revisit this soon to give it another try.
 tags: [meta]
 image:
   feature:

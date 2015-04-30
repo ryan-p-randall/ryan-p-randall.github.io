@@ -3,7 +3,7 @@ layout: post
 title: "Everything Counts in Affective Amounts"
 modified:
 categories: 2015
-excerpt:
+excerpt: For Week Two of &#35;rhizo15, I write about how we might count the affective aspects of learning & about Git's potential for making open humanities notebooks.
 tags: [rhizo15, digital humanities]
 image:
   feature:

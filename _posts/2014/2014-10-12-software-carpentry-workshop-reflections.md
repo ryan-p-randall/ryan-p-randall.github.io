@@ -3,7 +3,7 @@ layout: post
 title: "Software Carpentry Workshop Reflections"
 modified:
 categories: 2014
-excerpt:
+excerpt: Although aimed at scientists, Software Carpentry's workshops offer great learning experience for librarians, digital humanities folks, and anyone looking to work on digital files in groups.
 tags: [digital humanities]
 image:
   feature:

@@ -3,7 +3,7 @@ layout: post
 title: "Wojnarowicz on a Sphere"
 modified:
 categories: 2015
-excerpt:
+excerpt: Still under construction, this post will be about my process of making a map of artist David Wojnarowicz's gallery exhibits for the NOAA Science on a Sphere.
 tags: [coursework, digital humanities, visual culture]
 image:
   feature:

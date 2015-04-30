@@ -3,13 +3,11 @@ layout: post
 title: "How Do You Take Notes (or Markdown and Bullet Journals)"
 modified:
 categories: 2015
-excerpt:
+excerpt: I wrote for Hack Library School about taking notes—the actions, ideas, or project variety, not class notes—using Markdown or the Bullet Journal approach.
 tags: [hack library school, markdown, meta, notetaking]
 image:
   feature:
 date: 2015-01-20T23:48:34-05:00
-link: http://hacklibschool.wordpress.com/2015/01/20/how-do-you-take-notes/
-external: true
 ---
 
 Here's a [post I wrote for Hack Library School](http://hacklibschool.wordpress.com/2015/01/20/how-do-you-take-notes/) discussing Markdown and the Bullet Journal system for note-taking. Markdown is a simplified way of writing html, and happens to also be what I use when writing this site through [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). [Bullet Journals](http://bulletjournal.com/) are a system not for classroom or lecture note-taking, but rather for everyday notes about actions, ideas, or projects.   
