@@ -26,7 +26,7 @@ Begun for my Digital Libraries class with John Walsh, [Raincross Underground](ht
 
 Making the [Bloomington City Directories Finding Guide](http://libraries.iub.edu/guide-bloomington-city-directories) began with an inventory of the various directories held by the Herman B Wells Library. Then I had to decide the best way to organize and present this information to our patrons. Finally, I wrote the html code to inclue the guide on the website.  
 
-### Indiana Historical Maps Digital Collection   
+### Indiana Historical Maps Digital Collection
 
 ![IHMDC](/images/indiana-historic-maps-screenshot.jpg)
 
@@ -79,13 +79,13 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 - "2014 Indiana State Elections" slideshow for the ET2 Digital Displays.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/NziVfRAoXEKEtZ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/literary-maps-slideshow" title="Literary maps slideshow" target="_blank">Literary maps slideshow</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NziVfRAoXEKEtZ" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/literary-maps-slideshow" title="Literary maps slideshow" target="_blank">Literary maps slideshow</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>
 
 - "Literary Maps" slideshow for the ET2 Digital Displays.
 
 ### Presentation Slideshows
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/cWLGUlJFicfS0G" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/ryan-lised-symp" title="LIS Education and New Conceptions of Democracy" target="_blank">LIS Education and New Conceptions of Democracy</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>  
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cWLGUlJFicfS0G" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/ryan-lised-symp" title="LIS Education and New Conceptions of Democracy" target="_blank">LIS Education and New Conceptions of Democracy</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>  
 
 - [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)
 *2015 Symposium on LIS Education*, University of Illinois, Urbana-Champaign, 2015.  
