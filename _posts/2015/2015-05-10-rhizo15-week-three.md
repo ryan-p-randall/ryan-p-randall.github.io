@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rhizo15 Week Three: &quot;Content is People&quot;"
+title: "#Rhizo15 Week Three: &quot;Content is People&quot;"
 modified:
 categories: 2015
 excerpt: For Week Three of &#35;rhizo15, I trace a few thoughts on content vs discontents or reification and the observable outcomes of human actions.
@@ -13,10 +13,10 @@ date: 2015-05-17T20:50:53-04:00
 
 {% include _toc.html %}
 
-This post is for [Week Three](http://rhizomatic.net/2015/04/29/week-3-the-myth-of-content/) of [#rhizo15](http://rhizomatic.net/): "The Myth of Content". I'm trying to put my thoughts out a little quicker than usual here, in keeping with my post from [Week One]({& post_url /2015/2015-04-20-learning-subjectives &}).
+This post is for [Week Three](http://rhizomatic.net/2015/04/29/week-3-the-myth-of-content/) of [#rhizo15](http://rhizomatic.net/): "The Myth of Content." Even though I'm writing this during Week Five, I'm trying to put my thoughts out a little quicker than usual in this post, in keeping with my post from [Week One]({& post_url /2015/2015-04-20-learning-subjectives &}). 
 {: .notice}  
 
-This week, Dave asks:
+For Week Three, Dave asked:
 
 > So what happens when we peek under the word ‘content’ to see what lives there? What does it mean for a course to ‘contain’ information? What choices are being made… what power is being used?
 > or
