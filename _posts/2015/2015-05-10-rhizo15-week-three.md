@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Rhizo15 Week Three: 'Content is People'"
+title: "Rhizo15 Week Three: &quot;Content is People&quot;"
 modified:
 categories: 2015
-excerpt: For Week Three of &#35;rhizo15, I write about
+excerpt: For Week Three of &#35;rhizo15, I trace a few thoughts on content vs discontents or reification and the observable outcomes of human actions.
 tags: [rhizo15, critical pedagogy, critlib]
 image:
   feature:
