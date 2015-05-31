@@ -41,17 +41,26 @@
   background-color: rgba($button-color, $button-standard-opacity);
   backface-visibility: hidden;
 
-  // TEXT
-  font-size: 1rem;
-  line-height: 0;
-  vertical-align: middle;
-  text-decoration: none;
-  -webkit-font-smoothing: antialiased;
+  &:after {
+     // CONTENT
+     content: attr(data-footnote-number);
 
-  // TRANSITIONS
-  transition-property: $button-transition-properties;
-  transition-duration: $popover-transition-default-duration;
+     // POSITION
+     position: absolute;
+     top: 50%; left: 50%;
+     transform: translate(-50%, -50%);
 
+     // DISPLAY AND SIZING
+     display: block;
+
+     // TEXT
+     font-size: $button-height*0.6;
+     font-weight: bold;
+     color: rgba($button-color, 0.5);
+
+     // TRANSITIONS
+     transition: color $popover-transition-default-duration $popover-transition-default-timing-function;
+   }
   &:hover,
   &:focus {
     outline: none;
