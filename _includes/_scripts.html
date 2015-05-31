@@ -5,7 +5,17 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/vendor/bigfoot.min.js"></script>
 <script type="text/javascript">
-   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article"}); 
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article",  buttonMarkup: (
+                    "<a href=\"#\" class=\"footnote-button\" " +
+                        "id=\"{{SUP:data-footnote-backlink-ref}}\" " +
+                        "data-footnote-identifier=\"{{FOOTNOTEID}}\" " +
+                        "data-footnote-style=\"default\"" +
+                        "alt=\"See Footnote {{FOOTNOTEID}}\" " +
+                        "rel=\"footnote\"" +
+                        "data-footnote-content=\"{{FOOTNOTECONTENT}}\">" +
+                            "{{FOOTNOTENUM}}" +
+                    "</a>"
+                )});
 </script>
 {% if site.owner.google.analytics %}
 <!-- Asynchronous Google Analytics snippet -->
