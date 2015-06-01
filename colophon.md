@@ -11,8 +11,6 @@ image:
 share:
 ---
 
-{% include _toc.html %}  
-
 Colophon  
 : *historical* A statement at the end of a book, typically with a printer’s emblem, giving information about its authorship and printing. [OED](http://www.oxforddictionaries.com/us/definition/american_english/colophon)
 
