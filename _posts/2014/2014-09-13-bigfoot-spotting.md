@@ -28,6 +28,8 @@ For now, here's a list of links I'd recommend for learning about Jekyll:
 3. [Mike Greiling's "Jekyll From Scratch"](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/) helped me get through starting my own.
 4. [Barry Clark's "Build a Blog with Jekyll and GitHub Pages"](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) also helps distinguish Jekyll from alternatives like WordPress.
 
+If you have questions about making a site of your own using Jekyll—or any of this, really—don't be shy about contacting me on Twitter.
+
 [^bgft]: You can find this arcane, hirsute magick [here](http://www.bigfootjs.com/) courtesy of Chris Sauvé, a Canadian otherwise [known as lemonmade](https://github.com/lemonmade).
 
 [^bgftfail]: After an afternoon of tweaking, tinkering, asking questions, and reading specifications sheets, it seems that Bigfoot.js won't work with Kramdown, the parser that Github pages uses to convert Markdown into html. It comes down to Bigfoot needing the footnote definitions list items to have a `class="footnote"` attribute, but there doesn't seem to be a way to make this happen with Kramdown. As awesome as Bigfoot.js appears, it will remain elusive around here until this aspect of Kramdown syntax changes or I decide to do a fundamental overhaul of how I make my site. I'm adding this edit so that this can be useful to anyone else hoping to make Bigfoot.js work with Jekyll and to anyone heartened by seeing others tinker and fail.
