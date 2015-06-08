@@ -2,7 +2,7 @@
 layout: page
 permalink: /portfolio/
 title: "Portfolio"
-modified: 2015-03-021 04:14
+modified: 2015-06-08 11:30
 tags: [projects and papers]
 image:
 share:
@@ -44,6 +44,7 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 ### Presentations  
 
+- “Critical Information Literacy as Collaborative Praxis.” Co-presented with Jessica Critten, Karen Nicholson, and Eamon Tewell. [*Cultural Studies Association Conference*](http://www.culturalstudiesassociation.org/program15), Riverside, CA. 2015.  
 - [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)
 *2015 Symposium on LIS Education*, University of Illinois, Urbana-Champaign, 2015.  
 [Presentation link.](http://www.slideshare.net/ryanprandall/ryan-lised-symp)

@@ -2,14 +2,14 @@
 layout: page
 permalink: /cv/
 title: "CV"
-modified: 2015-01-29 04:13
+modified: 2015-06-09 11:30
 tags: [cv]
 image:
 share: 
 ---
 
-Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/vcasoz59xr6l5h8/2015-04-18%20Ryan%20P.%20Randall%20CV.pdf?dl=0)  
-Last updated 2015-04-18.  
+Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/y1tjo72uuotdrc5/2015-06-07%20Ryan%20P.%20Randall%20CV.pdf?dl=0)  
+Last updated 2015-06-07.  
 {: .notice}
 
 ## Education 
@@ -17,7 +17,7 @@ Last updated 2015-04-18.
 {% include _toc.html %}					
 							       
 **Indiana University**, Bloomington, IN  
-*Master of Library Science*, (ALA Accredited) expected Spring 2015  
+*Master of Library Science*, (ALA Accredited) anticipated June 2015  
 
 - Library courses focused on digital libraries, library instruction, and humanities subject librarianship   
 
@@ -159,6 +159,7 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 
 ## Library Conference Presentations and Workshops  
 
+- “Critical Information Literacy as Collaborative Praxis.” Co-presented with Jessica Critten, Karen Nicholson, and Eamon Tewell. [*Cultural Studies Association Conference*](http://www.culturalstudiesassociation.org/program15), Riverside, CA. 2015.  
 - [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)   
 *2015 Symposium on LIS Education*, University of Illinois, Urbana-Champaign, 2015.  
 [Presentation link.](http://www.slideshare.net/ryanprandall/ryan-lised-symp)   
@@ -178,23 +179,23 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 - “This is a musical instrument. This is another. Combine them. Now perform historical materialism through your band.”: Bricolage and Historical Materialism as Audible in the Altered Instruments of Sonic Youth and Laurie Anderson  
 *Popular Culture Association/American Culture Association Conference*, Boston, MA, 2012   
 - “Musical Mutations, Alternative Institutions: A Materialist Cultural Studies Approach to the Early Works of Laurie Anderson and Sonic Youth”
-Cultural Studies Association Conference, San Diego, CA, 2012
+*Cultural Studies Association Conference*, San Diego, CA, 2012
 - “Marclay, Music, Materiality: Uncovering Discourses of the Body as Palimpsest and Presence”
-Making Sense of Visual Culture, University of Rochester, 2011
+*Making Sense of Visual Culture*, University of Rochester, 2011
 - “‘E Pluribus Unum’: Jacques Rancière, Sandy Bull, and the Peculiar Familiarity of Political Frustration in ‘New Weird America’ Folk Music”
-International Association for the Study of Popular Music-US Conference, Cincinnati, Ohio, 2011
+*International Association for the Study of Popular Music-US Conference*, Cincinnati, Ohio, 2011
 - “Looking via Listening: Drexciya, the Acousmêtre, and Political Metaphors”
-PCA/ACA Conference, St. Louis, Missouri, 2010
+*PCA/ACA Conference*, St. Louis, Missouri, 2010
 - “(Freedom Forever) Elvis Lives!: Reanimation, Hauntology, and Symbolic Slavery”
-Visible Memories Conference, Syracuse University, 2008
+*Visible Memories Conference*, Syracuse University, 2008
 - “Who? Me? Walking the Margins of Queer Visibility”
-(dis)junctions Conference, University of California, Riverside, 2006
+*(dis)junctions Conference*, University of California, Riverside, 2006
 - “David Wojnarowicz’s Use of Realist Representation in ‘Arthur Rimbaud in New York’”
-Theorising Queer Visualities: Postgraduate Symposium, University of Manchester (England), 2005
+*Theorising Queer Visualities: Postgraduate Symposium*, University of Manchester (England), 2005
 - “Her Majesty’s Secret Service: Containing the Corrupting Effects of Cultural Competency in Rudyard Kipling’s Kim”
-Contact, Contagion, and Containment Conference, Cornell University, 2005	 
+*Contact, Contagion, and Containment Conference*, Cornell University, 2005	 
 - “‘Heliocentric Worlds’ and Creatures from a Black Platoon: Afrofuturist Redefinitions of the Nation in the Works of Sun Ra and Drexciya”
-(dis)junctions Conference, University of California, Riverside, 2004
+*(dis)junctions Conference*, University of California, Riverside, 2004
 
 ## Memberships and Service
 
