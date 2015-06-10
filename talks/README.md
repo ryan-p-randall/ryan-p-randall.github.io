@@ -1,5 +1,7 @@
-# Our Princess is in Another Castle!
+# A V.I.L.E. henchman!  
 
-Hey! You've found my currently semi-public page of talks made using the [Reveal.js](http://lab.hakim.se/reveal-js/) JavaScript presentation system.   
+> You must be on the right track!  
 
-Good job. Have fun, super-sleuth.  
+You've found my semi-public page of talks made using the [Reveal.js](http://lab.hakim.se/reveal-js/) JavaScript presentation system.   
+
+Well played. Have fun, super-sleuth.  
