@@ -12,7 +12,7 @@ date: 2015-06-12T20:00:37-04:00
 
 Earlier today I saw a few [#critlib](http://tinyurl.com/critlibx) threads swirling around on Twitter—[here's one](https://twitter.com/lnwlk/status/609374412312309762) and [here's another](https://twitter.com/barnlib/status/609417944817381376). The ones that caught my eyes mostly had to do with how open #critlib twitter chats & their participants seem to critique or criticism, the extent to which critical theory has to do with social justice, and what critical theory does or doesn't include.  
 
-That's a lot to think about, particularly on the first truly summery Friday afternoon of the year. Good think we've got a ["critiquing #critlib from within"](http://tinyurl.com/critlibx) coming up on June 30th, right?   
+That's a lot to think about, particularly on the first truly summery Friday afternoon of the year. Good thing we've got a ["critiquing #critlib from within"](http://tinyurl.com/critlibx) coming up on June 30th, right?   
 
 Another person's comment mused something along the lines of "What's interesting to me [as someone with a science background] is that I thought people in the Arts were better prepared to talk about critical theory, but it seems like that might not be the case." I suspect that thinker might have removed it out of fear of being seen as snarky, but I believe they were very much onto something.[^stw]
 
@@ -36,7 +36,7 @@ First, I suspect that many humanities degree holders feel quite uncomfortable di
 
 Second, more unsettlingly, I fear that we rarely feel equipped to discuss knowledges, practices, truth claims, ontology, epistemology, or similar sorts of method-focused concerns. This might well be why so many humanities & liberal arts graduates emerge with enormous facility with argumentation, empathy, historical specificity, etc., but simultaneously stumble when asked to give a succinct answer to explain their "reason" for choosing a humanities major or what it offers them throughout their lives. [Constructivist pedagogy](http://www.columbia.edu/cu/libraries/inside/units/bibcontrol/osmc/elmborg.pdf) suggests that we learn by *doing*. I believe that most of us have *applied* critical theory routinely but in a somewhat piecemeal fashion and never really *evaluated* their various ways of making and practicing knowledge.   
 
-Since most readers will be coming to this with a background in library & information science, critical pedagogy, or perhaps digital humanities, I'd love to hear your experience of you own undergraduate coursework with regard to method, or of how you teach method to undergraduates if you do so in any capacity. Does this Friday evening musing ring true with you? Is it different in social sciences or science?    
+Since most readers will be coming to this with a background in library & information science, critical pedagogy, or perhaps digital humanities, I'd love to hear your experience of your own undergraduate coursework with regard to method, or of how you teach method to undergraduates if you do so in any capacity. Does this Friday evening musing ring true with you? Is it different in social sciences or science?    
 
 What might we do to help foster a bit more critical understanding of method in arts & humanities courses? Does it seem like social justice, critical theory, and/or critical information literacy can be woven into discussions of method for arts & humanities courses?  
 
