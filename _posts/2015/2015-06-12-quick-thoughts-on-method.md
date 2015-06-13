@@ -10,7 +10,7 @@ image:
 date: 2015-06-12T20:00:37-04:00
 ---
 
-Earlier today I saw a few [#critlib](tinyurl.com/critlibx) threads swirling around—[here's one](https://twitter.com/lnwlk/status/609374412312309762) and [here's another](https://twitter.com/barnlib/status/609417944817381376). The ones that caught my eyes mostly had to do with how open #critlib twitter chats & their participants seem to critique or criticism, the extent to which critical theory has to do with social justice, and what critical theory does or doesn't include.  
+Earlier today I saw a few [#critlib](http://tinyurl.com/critlibx) threads swirling around on Twitter—[here's one](https://twitter.com/lnwlk/status/609374412312309762) and [here's another](https://twitter.com/barnlib/status/609417944817381376). The ones that caught my eyes mostly had to do with how open #critlib twitter chats & their participants seem to critique or criticism, the extent to which critical theory has to do with social justice, and what critical theory does or doesn't include.  
 
 That's a lot to think about, particularly on the first truly summery Friday afternoon of the year. Good think we've got a ["critiquing #critlib from within"](http://tinyurl.com/critlibx) coming up on June 30th, right?   
 
