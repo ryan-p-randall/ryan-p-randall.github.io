@@ -7,6 +7,7 @@ excerpt: For Week Four of &#35;rhizo15, I write about
 tags: [rhizo15]
 image:
   feature:
+  thumb: 
 published: false
 date: 2015-05-18T15:08:07-04:00
 ---

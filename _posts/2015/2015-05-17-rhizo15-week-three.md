@@ -7,6 +7,7 @@ excerpt: For Week Three of &#35;rhizo15, I trace a few thoughts on content vs di
 tags: [rhizo15, critical pedagogy, critlib]
 image:
   feature:
+  thumb: bio-photo.jpg
 published: true
 date: 2015-05-17T20:50:53-04:00
 ---
