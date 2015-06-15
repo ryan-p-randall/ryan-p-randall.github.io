@@ -28,6 +28,8 @@ Jekyll and GitHub Pages make for a great alternative to [WordPress](https://word
 
 [Bigfoot.js](http://www.bigfootjs.com/) provides the fancy pop-up footnotes, [Reveal.js](http://lab.hakim.se/reveal-js/#/) serves as a splendid presentation alternative to PowerPoint or Keynote, & [FontAwesome](http://fontawesome.io) delivers some of the icons throughout the site.
 
+The favicon (currently the little ellipsis in a speech bubble) is by [Scott Lewis](https://thenounproject.com/term/blog/4618/), available with a CC BY-3.0 license from the Noun Project. I cropped and shrunk it into the favicon format.  
+
 ### Writing Formats  
 
 I've been using Fletcher Penney's [MultiMarkdown][mmd] so long, it's committed to muscle memory. In other words, it's part of my way of interfacing with the world, just like other languages and syntaxes. If you plan to use any variant of [Markdown](http://daringfireball.net/projects/markdown/), I recommend this one.  
