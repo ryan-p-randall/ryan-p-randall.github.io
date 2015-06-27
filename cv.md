@@ -229,11 +229,11 @@ Indiana University Digital Humanities Working Group, Indiana University, Bloomin
 
 Cultural Studies Association, National Association  
 
-- Member, 2011-12, 2014-2015  
+- Member, 2011-12, 2014–2015  
 
 PCA/ACA (Popular Culture Association/American Culture Association), National Association  
 
-- Member, 2010-2012
+- Member, 2010–2012
 
 (dis)junctions Conference, University of California, Riverside
 
@@ -247,7 +247,7 @@ PCA/ACA (Popular Culture Association/American Culture Association), National Ass
 
 **University of California, Riverside**
 
-- Dean’s Fellowship Recipient, 2003-2006  
+- Dean’s Fellowship Recipient, 2003–2006  
 - Michael Chesney Award for undergraduate English student working with music
 
 ## Media and Communication Experience
