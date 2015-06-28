@@ -16,6 +16,8 @@ Last updated 2015-06-07.
 
 {% include _toc.html %}
 
+<!-- markup clean_ -->
+
 **Indiana University**, Bloomington, IN  
 *Master of Library Science*, (ALA Accredited) anticipated June 2015  
 

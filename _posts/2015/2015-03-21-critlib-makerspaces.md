@@ -6,27 +6,29 @@ categories: 2015
 excerpt: I write about moderating a &#35;critlib Twitter chat on the constructivist potentials and neoliberal downsides of makerspaces, as well as briefly describe the moderation process.
 tags: [critlib, critical pedagogy]
 image:
-  feature: 
+  feature:
 date: 2015-03-21T19:45:47-04:00
 ---
 
 {% include _toc.html %}
 
+<!-- markdown clean_ -->
+
 ## Friend or Foe?
 
 ![Not-Sure](/images/critlib-not-sure.jpg)  
 
-I recently had the pleasure of moderating a [#critlib chat on Makerspaces](https://storify.com/oksveta/critlib-makerspaces). These spaces have been enjoying increasing popularity in libraries, demonstrating how libraries function as far more than warehouses for documents. At their best, makerspaces help community members learn by doing, regardless of whether these spaces operate in libraries or as institutions of their own. Participants can make critical interventions into their own lives using technology that would be prohibitively expensive, esoteric, or complicated to purchase and maintain for a single individual or household.   
+I recently had the pleasure of moderating a [#critlib chat on Makerspaces](https://storify.com/oksveta/critlib-makerspaces). These spaces have been enjoying increasing popularity in libraries, demonstrating how libraries function as far more than warehouses for documents. At their best, makerspaces help community members learn by doing, regardless of whether these spaces operate in libraries or as institutions of their own. Participants can make critical interventions into their own lives using technology that would be prohibitively expensive, esoteric, or complicated to purchase and maintain for a single individual or household.
 
 At the same time, makerspaces go beyond 3D printers or Raspberry Pi-based constructions. They bring along a host of explicit and implicit rhetorical, pedagogical, and cultural constructs—possibly bolstering neoliberal ideas about labor or education.[^nlwb] With this potent brew of possibilities, it seemed a particularly worthwhile topic for a #critlib chat. In particular, I wanted to discuss the pedagogical possibilities in these spaces.  
 
-[^nlwb]: Edit: Here's a link to a [great interview with Wendy Brown](http://www.dissentmagazine.org/blog/booked-3-what-exactly-is-neoliberalism-wendy-brown-undoing-the-demos) in which she discusses neoliberalism. It's one of the better treatments I've seen of that term, which gets thrown around much more frequently than definitions of it do. Had this interview come out before the chat, I would certainly have asked people to read it. It would help distinguish between "making" in service of pedagogy (like the old Bauhaus or other constructivist pedagogical approaches) and a vision of libraries, passtimes, and recreation that must always be in service of easily marketable skills.   
+[^nlwb]: Edit: Here's a link to a [great interview with Wendy Brown](http://www.dissentmagazine.org/blog/booked-3-what-exactly-is-neoliberalism-wendy-brown-undoing-the-demos) in which she discusses neoliberalism. It's one of the better treatments I've seen of that term, which gets thrown around much more frequently than definitions of it do. Had this interview come out before the chat, I would certainly have asked people to read it. It would help distinguish between "making" in service of pedagogy (like the old Bauhaus or other constructivist pedagogical approaches) and a vision of libraries, passtimes, and recreation that must always be in service of easily marketable skills.
 
-![Petagogy](/images/critlib-petagogy.jpg)    
+![Petagogy](/images/critlib-petagogy.jpg)
 
-## #critlib? 
+## #critlib?
 
-If you're unfamiliar with #critlib chats, they take the form of hour-long Twitter conversations on issues of critical librarianship. Using the hashtag "#critlib," a moderator posts a series of questions and other participants respond. The conversations often get really lively, so it's useful to use something like [Tweetdeck](http://tweetdeck.twitter.com/) to follow the hashtag in a dedicated column. Some chats are based on readings shared in advance and others revolve around recent events, participants' experiences, or other knowledge.   
+If you're unfamiliar with #critlib chats, they take the form of hour-long Twitter conversations on issues of critical librarianship. Using the hashtag "#critlib," a moderator posts a series of questions and other participants respond. The conversations often get really lively, so it's useful to use something like [Tweetdeck](http://tweetdeck.twitter.com/) to follow the hashtag in a dedicated column. Some chats are based on readings shared in advance and others revolve around recent events, participants' experiences, or other knowledge.
 
 As with most #critlib chats, this one was put into [a Storify](https://storify.com/oksveta/critlib-makerspaces) by another participant. This week's keeper of the record was Sveta Stoytcheva, who goes by ["oksveta" on Twitter](https://twitter.com/oksveta) and [for her own website](http://oksveta.com/). She's previously [Storified other #critlib chats](https://storify.com/oksveta) as well.  
 
@@ -34,7 +36,7 @@ As with most #critlib chats, this one was put into [a Storify](https://storify.c
 
 For anyone else interested in volunteering to moderate a #critlib chat, here's a walk-through of the process. I initially proposed the following through the convenient online form on the [#critlib Google Doc](http://tinyurl.com/critlibx):
 
-> The "Makerspace" is an increasingly popular form that encourages lifelong learning, collective ownership of means of production, and active learning. At the same time, there are substantive concerns about such spaces' ecological impact, their advocates' propensity toward entrepreneurial boosterism, and their general tendency to promote "making" as producing individuated skills and physical outcomes rather than, for instance, fostering collective experiences or abstract insights.   
+> The "Makerspace" is an increasingly popular form that encourages lifelong learning, collective ownership of means of production, and active learning. At the same time, there are substantive concerns about such spaces' ecological impact, their advocates' propensity toward entrepreneurial boosterism, and their general tendency to promote "making" as producing individuated skills and physical outcomes rather than, for instance, fostering collective experiences or abstract insights.
 
 > What aspects of #critlib mesh well with Makerspaces (including, potentially, the active "making" pedagogy of digital humanities)? What aspects could benefit from substantive critique? What might a #critlib version of a Makerspace look like?  
 
