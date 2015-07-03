@@ -9,9 +9,7 @@ image:
   feature:
 date: 2014-10-12T22:50:07-04:00
 ---
-
 {% include _toc.html %}
-
 <!-- markdown clean_ -->
 
 ## Welcome to the Command Line
