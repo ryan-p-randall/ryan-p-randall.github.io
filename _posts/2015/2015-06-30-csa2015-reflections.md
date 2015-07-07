@@ -24,6 +24,9 @@ First of all, I was able to collaborate with [Jessica Critten](http://jessicacri
 
 Second of all, talking to the [FLOW (Feminist Library on Wheels)](http://feministlibraryonwheels.com/) and [Women's Center for Creative Work](http://womenscenterforcreativework.com/) during a panel in the conference [Makerspace](https://twitter.com/MakeSpaceTho) was quite inspiring.[^confmakr] The WCCW creators advocate creating "enabling architecture," a really compelling figure for talking about libraries and other infrastructures for thought, reflection, and action. Both of these projects embody the sort of Do-It-Ourselves/Do-It-Together/DIY impulse shared by many of my favorite library workers & favorite alternative art/music/infoshop spaces.  
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">How 2 women from different bike backgrounds are creating FLOW: a Feminist Library on Wheels <a href="http://t.co/7azDYUzUa9">http://t.co/7azDYUzUa9</a> <a href="http://t.co/4BBKvRNUZr">pic.twitter.com/4BBKvRNUZr</a></p>&mdash; Women Bike (@WomenBike) <a href="https://twitter.com/WomenBike/status/497762713104179202">August 8, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
 [^confmaker]: Yes, that's the second Makerspace I've been to in a conference, with the other being the equally fantastic [Collective](http://www.thelibrarycollective.org/) conference!  
 
 Third, the ongoing discussions about the conference theme—"Another University is Possible"—consistently helped me reconsider our higher education practices.   
