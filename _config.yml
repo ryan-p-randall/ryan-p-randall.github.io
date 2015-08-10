@@ -17,6 +17,7 @@ sass:
 gems:
   - jekyll-sitemap
   - jemoji
+  - jekyll/scholar
 kramdown:
   auto_ids: true
   footnote_nr: 1
