@@ -13,3 +13,4 @@ image:
 ---
 
 {% include _about-me.html %}
+<!-- markdownfix_ -->  
