@@ -2,14 +2,14 @@
 layout: page
 permalink: /cv/
 title: "CV"
-modified: 2015-8-27 00:04
+modified: 2015-8-27 17:44
 tags: [cv]
 image:
 share:
 ---
 
-Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/fll8y7j2r654fg6/2015-06-25%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
-Last updated 2015-06-07. (I haven't put the MLS degree on there yet, but I will in the next day or so!)  
+Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/orvxxnup88t90oz/2015-08-27%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
+Last updated 2015-08-27.  
 {: .notice}
 
 ## Education
@@ -21,7 +21,7 @@ Last updated 2015-06-07. (I haven't put the MLS degree on there yet, but I will 
 **Indiana University**, Bloomington, IN  
 *Master of Library Science*, (ALA Accredited) received July 2015  
 
-- Library courses focused on digital libraries, library instruction, and humanities subject librarianship
+- Library courses focused on critical information literacy instruction, humanities subject librarianship, and digital humanities  
 
 **University of Rochester**, Rochester, NY  
 *Master of Arts in Visual and Cultural Studies*, 2012  
@@ -51,7 +51,7 @@ Last updated 2015-06-07. (I haven't put the MLS degree on there yet, but I will 
 **Indiana University** Bloomington, IN  
 
 *Maps Graduate Assistant / Map Collection Assistant / Government Information Reference Assistant*  
-Department of Government Information, Maps, and Microform Services, Herman B Wells Library, September 2013–present  
+Department of Government Information, Maps, and Microform Services, Herman B Wells Library, September 2013–July 2015  
 
 - Scanned maps at archival standards and managed [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073)  
 - Created digital displays, exhibits, finding aids, and instructional material  
@@ -60,19 +60,19 @@ Department of Government Information, Maps, and Microform Services, Herman B Wel
 - Supervised other student workers  
 
 *Assistant to the Subject Librarian for Germanic Studies, French & Italian, Philosophy, History & Philosophy of Science, Classical Studies, and Linguistics*
-Department of Arts & Humanities, Herman B Wells Library, August 2014-present  
+Department of Arts & Humanities, Herman B Wells Library, August 2014–July 2015  
 
 - Selected materials for French & Italian, Classical Studies collections according to collection development policies
 
 *Instruction Assistant*  
-Department of Teaching & Learning, Herman B Wells Library, September 2013–present  
+Department of Teaching & Learning, Herman B Wells Library, September 2013–July 2015  
 
 - Designed and led instruction sessions for undergraduate courses in Business and Life Sciences  
 - Consulted with professors to target session content to course outcomes and current assignments  
 - Instructed researchers during individual drop-in sessions
 
 *Ethnographic Research Assistant*
-Department of Library Academic Services, Herman B Wells Library, September 2013-present  
+Department of Library Academic Services, Herman B Wells Library, September 2013–July 2015  
 
 - Conducted field observations, transcribed recordings, analyzed and coded transcripts, and administered surveys for ethnographic studies of undergraduate and graduate library patrons
 
