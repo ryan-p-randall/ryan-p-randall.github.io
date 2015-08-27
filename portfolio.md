@@ -10,7 +10,8 @@ share:
 
 Here are some of the more library-related things I've done. This is current as of 2015-04-18. My full [cv is available here](/cv/).  
 
-{% include _toc.html %}
+{% include _toc.html %}   
+<!-- markdownfix_-->
 
 ## Projects
 

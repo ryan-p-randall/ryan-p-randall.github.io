@@ -18,7 +18,7 @@ Should you ever ask yourself, "how does one make such a thing?," start looking f
 
 ### This Very Site  
 
-This page is built with [Jekyll](http://jekyllrb.com), hosted on [GitHub Pages](https://pages.github.com/), and [looks like this under the hood](https://github.com/ryan-p-randall/ryan-p-randall.github.io). It uses Michael Rose's [Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes).[^mmjt]  
+This page is built with [Jekyll](http://jekyllrb.com), hosted on [GitHub Pages](https://pages.github.com/), and [looks like this under the hood](https://github.com/ryan-p-randall/ryan-p-randall.github.io). It uses Michael Rose's [Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes), albeit with some slight modifications.[^mmjt]  
 
 [^mmjt]: Michael Rose has a page about his various [free, open source Jekyll themes](https://mademistakes.com/work/jekyll-themes/) in case you'd like to see others.  
 

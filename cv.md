@@ -2,14 +2,14 @@
 layout: page
 permalink: /cv/
 title: "CV"
-modified: 2015-06-26 11:30
+modified: 2015-8-27 00:04
 tags: [cv]
 image:
 share:
 ---
 
 Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/fll8y7j2r654fg6/2015-06-25%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
-Last updated 2015-06-07.  
+Last updated 2015-06-07. (I haven't put the MLS degree on there yet, but I will in the next day or so!)  
 {: .notice}
 
 ## Education
@@ -19,7 +19,7 @@ Last updated 2015-06-07.
 <!-- markup clean_ -->
 
 **Indiana University**, Bloomington, IN  
-*Master of Library Science*, (ALA Accredited) anticipated June 2015  
+*Master of Library Science*, (ALA Accredited) received July 2015  
 
 - Library courses focused on digital libraries, library instruction, and humanities subject librarianship
 
