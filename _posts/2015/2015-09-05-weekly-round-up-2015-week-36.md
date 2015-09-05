@@ -21,6 +21,8 @@ They’ve said that an archive of the chat will be produced, so I’ll edit this
 
 Overall, I definitely recommend reading the [Schroeder and Hollister article](http://pdxscholar.library.pdx.edu/ulib_fac/152/) that framed this chat. Rather than looking for a philosophy of librarianship or investigating critical theory for the sake of abstract cogitation, the authors assert the primacy of social justice within librarianship and suggest that critical theory offers a useful way to articulate and reinforce this type of work within professional literature and LIS curricula.  
 
+As I mentioned in the chat, I'd love for there to be a series of zines and blog posts that introduce social justice issues, #radlib, #critlib, etc. viewpoints / theories / approaches to praxis / what have you. If you're interested in contributing or have ideas about the best way to facilitate that, please get in touch. I've already seen some great zines along those lines and believe it's an excellent format for discussing this kind of work.    
+
 ## Alison Macrina & the Library Freedom Project at IU Bloomington   
 
 Yesterday, 2015-09-04, Alison Macrina presented on her [Library Freedom Project](https://libraryfreedomproject.org/) at IU Bloomington. On top of being an excellent presentation, I enjoyed the chance to see [Staša Milojevic](http://www.ils.indiana.edu/people/profile.html?profile_id=86), [Ron Day](http://www.ils.indiana.edu/people/profile.html?profile_id=5), and [Andrew Asher](http://www.andrewasher.net/) at least once more before leaving town!  
