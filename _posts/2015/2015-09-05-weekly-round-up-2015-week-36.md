@@ -4,13 +4,15 @@ title: "Weekly Round-up 2015 Week 36"
 modified:
 categories: 2015
 excerpt: Reflections on the second  &#035;radlibchat and a Library Freedom Presentation by Alison Macrina.
-tags: [weekly round-up]
+tags: [weekly round-up, readings, critical theory]
 image:
   feature:
   thumb: 
 published: true  
 date: 2015-09-05T15:45:03-04:00
 ---
+{% include _toc.html %} <!-- markdownfix_ -->  
+
 ## #radlibchat “Librarians’ views on critical theories and critical practices”  
 
 On Tuesday, 2015-09-01, there was a great [#radlibchat](http://rlc.radicallibrarianship.org/2015/08/24/radlibchat-1st-september-2015/) focused on librarians' views of critical theories and critical practices. Hosted by the [Radical Librarians Collective](http://rlc.radicallibrarianship.org/), this recently-begun set of chats take place once a month. Much like [#critlib chats](http://critlib.org/twitter-chats/), they suggest readings that work as frames or guides for discussion, but the readings aren't required for participation. I particularly like that the #radlibchats choose Open Access readings (or pre-print versions) and that they have a [Safer Spaces Policy](http://rlc.radicallibrarianship.org/safer-spaces-policy/) for the chats.   
