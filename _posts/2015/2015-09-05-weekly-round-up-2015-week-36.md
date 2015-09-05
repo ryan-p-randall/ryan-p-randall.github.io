@@ -6,8 +6,8 @@ categories: 2015
 excerpt: Reflections on the second  &#035;radlibchat and a Library Freedom Presentation by Alison Macrina.
 tags: [weekly round-up, readings, critical theory]
 image:
-  feature:
-  thumb: 
+  feature: weekly-assemblage.png
+  thumb:  weekly-assemblage.png
 published: true  
 date: 2015-09-05T15:45:03-04:00
 ---
