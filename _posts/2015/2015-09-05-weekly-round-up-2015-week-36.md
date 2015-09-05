@@ -8,7 +8,7 @@ tags: [weekly round-up]
 image:
   feature:
   thumb: 
-published:
+published: true  
 date: 2015-09-05T15:45:03-04:00
 ---
 ## #radlibchat “Librarians’ views on critical theories and critical practices”  
