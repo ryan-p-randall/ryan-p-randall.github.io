@@ -9,7 +9,7 @@ image:
   feature:
   thumb: 
 published:
-date: 2015-09-05T15:35:03-04:00
+date: 2015-09-05T15:45:03-04:00
 ---
 ## #radlibchat “Librarians’ views on critical theories and critical practices”  
 
