@@ -45,7 +45,7 @@ owner:
   github: ryan-p-randall
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: foureyedsoul
   lastfm: foureyedsoul
   tumblr: foureyedsoul
   pinterest: #username
@@ -55,6 +55,7 @@ owner:
   goodreads: 2077359-ryan
   soundcloud: foureyedsoul
   zotero: ryanprandall
+  # add academia profile?
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
