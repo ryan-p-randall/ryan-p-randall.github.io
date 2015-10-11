@@ -2,7 +2,7 @@
 layout: page
 permalink: /colophon/
 title: "Colophon"
-modified: 2013-05-31
+modified: 2015-10-11
 tags: [meta, how-to]
 image:
   feature: laluttecontinue-crop.jpg
@@ -18,7 +18,7 @@ Should you ever ask yourself, "how does one make such a thing?," start looking f
 
 ### This Very Site  
 
-This page is built with [Jekyll](http://jekyllrb.com), hosted on [GitHub Pages](https://pages.github.com/), and [looks like this under the hood](https://github.com/ryan-p-randall/ryan-p-randall.github.io). It uses Michael Rose's [Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes), albeit with some slight modifications.[^mmjt]  
+This page is built with [Jekyll](http://jekyllrb.com), hosted on [GitHub Pages](https://pages.github.com/), and [looks like this under the hood](https://github.com/ryan-p-randall/ryan-p-randall.github.io). It uses Michael Rose's [Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes), with some slight modifications.[^mmjt]  
 
 [^mmjt]: Michael Rose has a page about his various [free, open source Jekyll themes](https://mademistakes.com/work/jekyll-themes/) in case you'd like to see others.  
 
@@ -46,14 +46,14 @@ Sam Nguyen's [TextDrop](https://www.textdropapp.com) lets you connect to your Dr
 
 [nvALT]: http://brettterpstra.com/projects/nvalt/.
 
-[Dillinger.io](http://dillinger.io/) can't be beat as a ubiquitously available Markdown playground, whether you're just wanting to learn Markdown or if you need to quickly turn a note into hmtl.  
+[Dillinger.io](http://dillinger.io/) can't be beat as a ubiquitously available Markdown playground, whether you're just wanting to learn Markdown or if you need to quickly turn your thoughts into various formats and export or save them elsewhere.  
 
-For editing the code, [Atom](https://atom.io/), [Brackets](http://brackets.io/), [TextWrangler](http://www.barebones.com/products/textwrangler/), & [Sublime Text](http://www.sublimetext.com/) all excel in various ways. The first three don't cost anything, and you can evaluate Sublime Text until you decide if it's for you. Jan T. Sott has made a spate of lovely themes, of which I particularly like [Paraíso Dark for Atom](https://github.com/idleberg/atom-paraiso-dark) and [Paraíso Black for TextMate & SublimeText](https://github.com/idleberg/ParaisoBlack.tmTheme)).  
+For editing the code, [Atom](https://atom.io/), [Brackets](http://brackets.io/), [TextWrangler](http://www.barebones.com/products/textwrangler/), & [Sublime Text](http://www.sublimetext.com/) all excel in various ways. The first three don't cost anything, and you can evaluate Sublime Text until you decide if it's for you. Jan T. Sott has made a spate of lovely themes, of which I particularly like [Paraíso Dark for Atom](https://github.com/idleberg/atom-paraiso-dark) and [Paraíso Black for TextMate & SublimeText](https://github.com/idleberg/ParaisoBlack.tmTheme).  
 
 For longer writing and task management, I use an odd duckling of a program called [FoldingText](http://www.foldingtext.com/) that combines aspects of an outliner with a Markdown previewing editor. Jesse Grosjean's making a version of [FoldingText for Atom](http://www.foldingtext.com/foldingtext-for-atom/about/), so keep an eye on that if you're interested on where it's going.
 
 ### Link Conventions
 
-Whenever possible, I link to [WorldCat](http://www.worldcat.org/) records for books. Why promote booksellers instead of libraries?  
+Whenever possible, I link to [WorldCat](http://www.worldcat.org/) records for books. Why not work to make library access our default practice?  
 
 [^hgg]: Yes, that last bit is a nod to Douglas Adam's [*Hitchhiker's Guide to the Galaxy*](http://www.worldcat.org/oclc/49710059) and the troubles time travel presents to grammar. Of course, we're all time traveling—just in one direction. But I digress....
