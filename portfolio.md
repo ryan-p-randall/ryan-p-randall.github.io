@@ -8,7 +8,7 @@ image:
 share:
 ---
 
-Here are some of the more library-related things I've done. This is current as of 2015-04-18. My full [cv is available here](/cv/).  
+Here are some of the more library-related things I've done. This is current as of 2015-10-10. My full [cv is available here](/cv/).  
 
 {% include _toc.html %}   
 <!-- markdownfix_-->
@@ -64,9 +64,11 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 #### Hack Library School
 
+- [This is Not a Pipette: Bringing Humanities Methods into LIS Programs](http://hacklibraryschool.com/2015/08/13/this-is-not-a-pipette/) (2015-08-13.)
+- [Cloud Storage: Dropbox](http://hacklibraryschool.com/2015/07/16/cloud-storage-dropbox/) (2015-07-16.)
+- [Presentation Alternatives: Reveal.js](http://hacklibraryschool.com/2015/06/18/presentation-alternatives-reveal/) (2015-06-18.)
 - [<del>Hack </del>Quirk Your Demonstrations.](http://hacklibschool.wordpress.com/2015/04/06/hack-quirk-your-demonstrations/) (2015-04-06.)
-- [How do you take notes? (or Markdown and Bullet Journals).](http://hacklibschool.wordpress.com/2015/01/20/how-do-you-take-notes/)
-(2015-01-20.)
+- [How do you take notes? (or Markdown and Bullet Journals).](http://hacklibschool.wordpress.com/2015/01/20/how-do-you-take-notes/) (2015-01-20.)
 - [#critlib: Chatty Critical Librarianship on Twitter.](http://hacklibschool.wordpress.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/) (2014-12-08.)  
 
 #### ET2 Blog (the Government Information, Maps, and Microform Services Department at IU's Herman B Wells Library)
