@@ -9,7 +9,7 @@ image:
   feature: weekly-assemblage.png
   thumb:  weekly-assemblage.png
 published: true
-date: 2015-09-27T00:09:30-04:00
+date: 2015-09-25T00:09:30-04:00
 ---
 I'm posting this week's write-up a bit late since this week was basically spent furiously packing and then on the road, moving from Bloomington, Indiana all the way to Boise, Idaho! This week we've got photos of that trip, plus reflections on a book I read before the trip.  
 
