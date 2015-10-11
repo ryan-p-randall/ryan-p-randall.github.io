@@ -2,14 +2,14 @@
 layout: page
 permalink: /cv/
 title: "CV"
-modified: 2015-8-27 17:44
+modified: 2015-10-11 17:44
 tags: [cv]
 image:
 share:
 ---
 
-Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/orvxxnup88t90oz/2015-08-27%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
-Last updated 2015-08-27.  
+Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
+Last updated 2015-10-11.  
 {: .notice}
 
 ## Education
@@ -46,7 +46,17 @@ Last updated 2015-08-27.
 
 - “Voice, Representation, Ideology” seminar with Dr. Michael Steinberg and Dr. Suzanne Stewart-Steinberg of Brown University
 
-## Library and Patron Services Experience  
+## Library Experience  
+
+**College of Western Idaho** Nampa, ID  
+
+*Instruction and Outreach Librarian*  
+Library, October 2015–present  
+
+- Coordinate library instruction program, including assessment of student learning and of library instruction sessions  
+- Create instruction materials to support online and in-person library instruction and critical information literacy  
+- Conduct outreach campaigns, programs, and events  
+
 
 **Indiana University** Bloomington, IN  
 
@@ -76,7 +86,7 @@ Department of Library Academic Services, Herman B Wells Library, September 2013�
 
 - Conducted field observations, transcribed recordings, analyzed and coded transcripts, and administered surveys for ethnographic studies of undergraduate and graduate library patrons
 
-**University of Rochester**	Rochester, NY  
+**University of Rochester** Rochester, NY  
 
 *Rare Books Manuscripts Clerk*  
 Rare Books and Special Collections, Rush Rhees Library, May–August 2010  
@@ -111,7 +121,7 @@ Department of American Studies, September–December 2012
 - Coordinated course content with two sections of English 101 as part of the college’s first-year Learning Community program  
 - Incorporated technology into course by having students collaborate on final research projects they posted (in part) on Tumblr  
 
-**University of Rochester**	Rochester, NY  
+**University of Rochester** Rochester, NY  
 *Writing Center Consultant*  
 Eastman Writing Center, Eastman School of Music, September 2010–May 2012  
 
@@ -151,7 +161,7 @@ Summer 2005
 - FLS is a program that offers courses and tutorial services for students for whom English is their second language  
 - Planned and taught ESL class for international high school students using immersion techniques and creative writing exercises  
 
-## Publication
+## Publications
 
 Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual History*, ed. Joan Rubin and Scott E. Casper. (2013).](http://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162)
 
