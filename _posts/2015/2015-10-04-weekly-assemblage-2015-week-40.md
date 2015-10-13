@@ -6,8 +6,8 @@ categories: 2015
 excerpt: Starting at the College of Western Idaho & going to the Idaho Library Association 2015 Annual Conference!
 tags: [weekly assemblage, conferences]
 image:
-feature: weekly-assemblage.png
-thumb:  weekly-assemblage.png
+  feature: weekly-assemblage.png
+  thumb:  weekly-assemblage.png
 published: true
 date: 2015-10-10T22:19:26-06:00
 ---
