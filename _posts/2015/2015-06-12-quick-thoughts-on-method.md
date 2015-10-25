@@ -4,7 +4,7 @@ title: "Quick Thoughts on Method & Knowledge Practices in Arts & Humanities"
 modified:
 categories: 2015
 excerpt: I reflect on how arts & humanities undergraduates are taught critical theory & method, and how that might fall short preparing us for evaluating knowledge practices.
-tags: [critlib, critical pedagogy, method]
+tags: [critlib, pedagogy, method]
 image:
   feature:
 date: 2015-06-12T20:00:37-04:00
@@ -41,4 +41,3 @@ Since most readers will be coming to this with a background in library & informa
 What might we do to help foster a bit more critical understanding of method in arts & humanities courses? Does it seem like social justice, critical theory, and/or critical information literacy can be woven into discussions of method for arts & humanities courses?  
 
 Until I sort out whether/how to put comments on this blog, I guess the best way to have a conversation with me would be through [Twitter](https://twitter.com/foureyedsoul) if you use it. Perhaps you might write a post of your own & link me to it? Maybe you'll join in the [critiquing #critlib from within](http://tinyurl.com/critlibx) conversation in a few weeks?    
-

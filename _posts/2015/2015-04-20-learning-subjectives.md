@@ -4,7 +4,7 @@ title: "Learning Subjectives"
 modified:
 categories: 2015
 excerpt: For Week One of &#35;rhizo15, I write about my predilection for research processes over writing outcomes & whether library "neutrality" thwarts supportive demeanor.
-tags: [rhizo15, critlib, critical pedagogy, digital humanities]
+tags: [rhizo15, critlib, pedagogy, digital humanities]
 image:
   feature:
 date: 2015-04-20T22:17:22-04:00
