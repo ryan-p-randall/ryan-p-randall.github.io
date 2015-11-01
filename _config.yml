@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Ryan P. Randall
-locale:           en_US
-url:              http://ryan-p-randall.github.io
-timezone:         America/Boise
-lifespan:         2014–2015
+title: Ryan P. Randall ∴ Info Fluxus
+locale: en_US
+url: http://ryan-p-randall.github.io
+timezone: America/Boise
+lifespan: 2014–2015
 
 # Jekyll configuration
 
-permalink:   /:year/:title/
-markdown:    kramdown
+permalink: /:year/:title/
+markdown: kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass
@@ -30,7 +30,7 @@ kramdown:
 owner:
   name: Ryan P. Randall
   avatar: bio-photo.jpg
-  bio: "Instruction & Outreach Librarian at the College of Western Idaho ∴ Literary, cultural & media studies scholar ∴ Sous les pavés, la plage ∴ We are, as always, stubborn, stoked, and petrified - GY!BE"
+  bio: "Instruction & Outreach Librarian at the College of Western Idaho ∴ Literary, media & cultural studies scholar ∴ Web Editor at In the Library with the Lead Pipe ∴ Sous les pavés, la plage ∴ We are, as always, stubborn, stoked, and petrified - GY!BE"
   email:
   disqus-shortname:
   twitter: foureyedsoul
@@ -55,7 +55,6 @@ owner:
   goodreads: 2077359-ryan
   soundcloud: foureyedsoul
   zotero: ryanprandall
-  # add academia profile?
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
