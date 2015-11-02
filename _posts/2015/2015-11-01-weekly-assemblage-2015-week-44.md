@@ -24,6 +24,7 @@ And here's a set of photos of library decorations (which I intentionally took wi
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/CWILibrary/posts/919142651501672" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/CWILibrary/posts/919142651501672"><p>If you haven&#039;t had a chance to see the Enchanted Forest yet, here&#039;s what you&#039;ve been missing. Our student workers have been super creative with the Once Upon a Time theme!</p>Posted by <a href="https://www.facebook.com/CWILibrary/">CWI Library</a> on&nbsp;<a href="https://www.facebook.com/CWILibrary/posts/919142651501672">Friday, October 30, 2015</a></blockquote></div></div>  
 
+&#32;  
 Most of our students seem to have Monday/Wednesday or Tuesday/Thursday schedules, so we chose to start dressing up on Wednesday. This meant that I got to teach my first library resources instruction session as Hook! It seemed to go rather well. We also did CWI's Trunk or Treat, bringing a game of bag toss (that's "corn hole" for you Midwesterners) that the children used steadily for a few hours.   
 
 ## Readings for This Month  
