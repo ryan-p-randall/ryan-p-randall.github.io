@@ -33,7 +33,6 @@
 </div>
 
 <div id="index">
-  <h1><a href="/tags/">Posts by Tag</a></h1>  
   <h1>{{ page.title }}</h1>
   {% for post in site.posts %}  
   {% unless post.next %}  
@@ -54,6 +53,7 @@
       {% endif %}
     </article>
   {% endfor %}  
+  <h3><a href="/tags/">Posts by Tag</a></h3>  
 </div><!-- /#index -->
 
 <div class="footer-wrap">
