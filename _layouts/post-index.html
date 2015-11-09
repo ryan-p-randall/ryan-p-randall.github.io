@@ -33,8 +33,8 @@
 </div>
 
 <div id="index">
+  <h1><a href="/tags/">Posts by Tag</a></h1>  
   <h1>{{ page.title }}</h1>
-  <h3><a href="/tags/">Posts by Tag</a></h3>  
   {% for post in site.posts %}  
   {% unless post.next %}  
     <h3>{{ post.date | date: '%Y' }}</h3>
