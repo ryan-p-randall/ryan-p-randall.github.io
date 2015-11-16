@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weekly Assemblage 2015week 46"
+title: "Weekly Assemblage 2015 Week 46"
 modified:
 categories: 2015
 excerpt:
@@ -26,7 +26,7 @@ The first provocation would be the championing of singularities over generalitie
 
 > To prove equal to the import, to follow the trail of the mattering-on, to honor the potential of the process, it is necessary to participate with great pragmatic and speculative care — and just as much artfulness. There is by the nature of this activity a political element to it. The art of mutual inclusion, with care: that could stand as the very definition of the political.   
 
-Librarianship as profession that is simultaneously caring, pragmatic, and deeply political? One that attends to the tendencies and specifics of people or works, in hopes of seeing how they transform? An image of information professionals who proceed not by authoritarian detachment or a priori assumptions, but by participation in processes of research & evaluation? Yes. I certainly will entertain this possibility & aim to articulate it further.    
+Librarianship as profession that is simultaneously caring, pragmatic, and deeply political? One that attends to the tendencies and specifics of people or works, in hopes of seeing how they transform? An image of information professionals who proceed not by authoritarian detachment or a priori assumptions, but by participation in processes of research & evaluation? _Yes_. I certainly will entertain this possibility & aim to articulate it further.    
 
 ## The Idea of a Writing Center"   
 
