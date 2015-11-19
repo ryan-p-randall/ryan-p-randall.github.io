@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Assemblage 2015 Week 46"
 modified:
 categories: 2015
-excerpt: Enthusiasm about Massumi putting Deleuze in a nutshell! Analogies between the pedagogy & structural place of Writing Centers & libraries! <del>Band </del>Jekyll on the Run!
+excerpt: Enthusiasm about Massumi putting Deleuze in a nutshell! Analogies between the pedagogy & structural place of Writing Centers & libraries! Jekyll on the Run!
 tags: [weekly assemblage, critlib, readings]
 image:
   feature: weekly-assemblage.png
