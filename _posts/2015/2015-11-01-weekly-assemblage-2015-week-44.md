@@ -7,7 +7,7 @@ excerpt: Halloween at CWI Library (Once Upon a Time); Readings I'm looking forwa
 tags: [weekly assemblage]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-11-01T19:44:33-07:00
 ---

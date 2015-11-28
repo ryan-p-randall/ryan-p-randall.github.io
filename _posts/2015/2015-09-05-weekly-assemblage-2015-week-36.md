@@ -7,7 +7,7 @@ excerpt: Reflections on the second  &#035;radlibchat and a Library Freedom Prese
 tags: [weekly assemblage, readings, critical theory]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true  
 date: 2015-09-05T15:45:03-04:00
 ---

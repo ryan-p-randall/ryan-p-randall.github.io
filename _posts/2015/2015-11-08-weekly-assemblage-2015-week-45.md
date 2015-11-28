@@ -7,7 +7,7 @@ excerpt: Three links &amp; lots of enthusiasm! Elmborg's "Literacies Large and S
 tags: [weekly assemblage, critlib, readings]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-11-08T21:09:05-07:00
 ---

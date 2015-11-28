@@ -7,7 +7,7 @@ excerpt: Enthusiasm about Massumi putting Deleuze in a nutshell! Analogies betwe
 tags: [weekly assemblage, critlib, readings]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-11-15T20:42:51-07:00
 ---

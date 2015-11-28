@@ -7,7 +7,7 @@ excerpt: Getting library cards and appreciating some unexpected aspects of Maria
 tags: [weekly assemblage, readings]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-09-26T18:31:39-06:00
 ---

@@ -7,7 +7,7 @@ excerpt: Live! Real! Humans! (in the Classroom); Code Camps, the "Californian Id
 tags: [weekly assemblage, critlib, pedagogy]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-10-18T21:08:13-06:00
 ---

@@ -7,7 +7,7 @@ excerpt: Driving from Bloomington, Indiana to Boise, Idaho; Luciano Floridi's _I
 tags: [weekly assemblage, readings, critical theory]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-09-25T00:09:30-04:00
 ---

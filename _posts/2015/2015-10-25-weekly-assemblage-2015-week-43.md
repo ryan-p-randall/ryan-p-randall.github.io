@@ -7,7 +7,7 @@ excerpt: A &#035;critlib chat on gender & leadership in LIS, plus some history l
 tags: [weekly assemblage, critlib, gender]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-10-25T11:31:37-06:00
 ---

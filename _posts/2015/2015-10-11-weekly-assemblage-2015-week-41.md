@@ -7,7 +7,7 @@ excerpt: Talking about librarianship values&#58; objectivity as a value and valu
 tags: [weekly assemblage, critlib, information literacy, critical race studies]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-10-11T23:39:58-06:00
 ---

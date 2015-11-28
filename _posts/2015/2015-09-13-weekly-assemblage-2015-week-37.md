@@ -7,7 +7,7 @@ excerpt: A &#035;critlib chat on information &amp; migrant populations; threats 
 tags: [weekly assemblage, critlib, privacy, cfp, critical race studies]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-09-13T19:48:43-04:00
 ---

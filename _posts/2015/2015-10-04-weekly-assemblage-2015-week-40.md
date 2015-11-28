@@ -7,7 +7,7 @@ excerpt: Starting at the College of Western Idaho & going to the Idaho Library A
 tags: [weekly assemblage, conferences]
 image:
   feature: weekly-assemblage.png
-  thumb:  weekly-assemblage.png
+  thumb: weekly-assemblage.png
 published: true
 date: 2015-10-10T22:19:26-06:00
 ---
