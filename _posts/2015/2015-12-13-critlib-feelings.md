@@ -6,8 +6,8 @@ categories: 2015
 excerpt: Why do I &#35;critlib? Because another librarianship is possible. 
 tags: [critlib, readings, critical theory]
 image:
-  feature: weekly-assemblage.png
-  thumb: weekly-assemblage.png
+  feature:
+  thumb:
 published: true
 date: 2015-12-13T10:46:03-07:00
 ---
@@ -41,4 +41,3 @@ As [I've written elsewhere](http://hacklibraryschool.com/2014/12/08/critlib-chat
 I was quite close to deleting my Twitter account, but the #critlib chats & the people I've found through them kept me around! My understanding of library history, library pedagogy, and the many critiques of library practice would be completely impoverished if I didn't have this network of people to learn from. More importantly, my toolbox of lenses to articulate, reflect upon, and improve my library practice would be far smaller—meaning that I'd be that much more likely to perpetuate systems of exclusion I don't want to have existed in the first place.   
 
 Just as I hope to instill a life-long love of learning in my students and patrons, I hope to be a life-long learner. I've learned tons from these chats, and I look forward to learning much more.   
-
