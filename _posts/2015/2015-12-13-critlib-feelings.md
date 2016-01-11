@@ -18,7 +18,7 @@ This is a post for the upcoming #critlib chat: "[#feelings](http://critlib.org/f
 
 Libraries exist as spaces for transformation and change. Without being convinced about the effects of library access on his own life, Andrew Carnegie almost certainly wouldn't have helped fund [so many libraries](https://en.wikipedia.org/wiki/Carnegie_library) with free public service and open stacks plans that encourage direct access, browsing, and discoverability.[^dpa]   
 
-[^dpa]: I don't actually know whether Carnegie's primary intention with open stacks was to minimize staffing requirements, with increased discoverability merely a felicitious by-product, or whether he viewed direct access as desirable itself. I'm still delving into these parts of library history, starting with Dee Garrison's [_Apostles of Culture: The Public Librarian and American Society, 1876-1920._](http://www.worldcat.org/oclc/50285121)  
+[^dpa]: I don't actually know whether Carnegie's primary intention with open stacks was to minimize staffing requirements, with increased discoverability merely a felicitous by-product, or whether he viewed direct access as desirable itself. I'm still delving into these parts of library history, starting with Dee Garrison's [_Apostles of Culture: The Public Librarian and American Society, 1876-1920._](http://www.worldcat.org/oclc/50285121)  
 
 As spaces for transformation, libraries are not intended to be neutral. They have been funded, built, and organized with particular outcomes in mind.  
 
@@ -32,7 +32,7 @@ As [an infrastructure](https://placesjournal.org/article/library-as-infrastructu
 
 By identifying as a critical librarian, I hope to make this type of goal more visible & more common in libraryland, as well as just make it easier to find more like-minded people. As with other facets of identity, "critical librarian" is something I work with, through, and sometimes even against. I definitely believe that [critical theory](http://www.worldcat.org/oclc/548555609)—particularly [cultural studies](http://culturalstudies.web.unc.edu/resources-2/what-is-cultural-studies/)—equips us with ways of investigating humans, human society, and producing social theory that can improve librarianship.   
 
-While I realize that some excellent librarians find the critical theory elements of critical librarianship off-putting, elitist, or otherwise exclusionary, I approach it as a set of useful tools for us to think through to improve what we do. More specfically, it's a set of tools that work for _me_ and my ways of thinking—I not only expect that your mileage will vary, but I'd love to learn more about what tools you've found most suitable.   
+While I realize that some excellent librarians find the critical theory elements of critical librarianship off-putting, elitist, or otherwise exclusionary, I approach it as a set of useful tools for us to think through to improve what we do. More specifically, it's a set of tools that work for _me_ and my ways of thinking—I not only expect that your mileage will vary, but I'd love to learn more about what tools you've found most suitable.   
 
 ## Why do you participate in these chats?  
 

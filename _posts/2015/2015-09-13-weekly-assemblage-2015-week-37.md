@@ -15,7 +15,7 @@ date: 2015-09-13T19:48:43-04:00
 
 Tuesday, 2015-09-08, saw a [#critlib Twitter chat on information & migrant populations](http://critlib.org/information-and-migrant-populations/). Amiably—and admirably—moderated by Greg Bemb, this chat took a broad approach to considering the information and access needs of different migrant communities. Participants considered international migration, urbanization within a particular country, and students moving to a larger college town.  
 
-Looking back at [the Storify](https://storify.com/violetbfox/critlib-9-8-2015) put together by Violet Fox, I'm struck at the degree to which the chat participants envisioned the role of libraries and library workers as *supporting* the agency and actions of migrants, rather than presuming that we or our various institutions bestow information upon others. It's perhaps an obvious stance, but that outlook of assistng and collaborating with library users seems vital to critical library praxis.    
+Looking back at [the Storify](https://storify.com/violetbfox/critlib-9-8-2015) put together by Violet Fox, I'm struck at the degree to which the chat participants envisioned the role of libraries and library workers as *supporting* the agency and actions of migrants, rather than presuming that we or our various institutions bestow information upon others. It's perhaps an obvious stance, but that outlook of assisting and collaborating with library users seems vital to critical library praxis.    
 
 ## Tor Exit Node Threatened at Kilton Public Library in Lebanon, NH   
 
