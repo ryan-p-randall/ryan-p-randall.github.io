@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Whaaa…?"
 modified:
 categories: 2016
-excerpt:
+excerpt: Why weekly? Why assemblage? Why Fluxus? And what's that "sous les pavés, la plage" thing about?
 tags: [weekly assemblage, meta]
 image:
   feature: weekly-assemblage.png
