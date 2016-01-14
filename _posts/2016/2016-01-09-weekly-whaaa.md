@@ -11,7 +11,7 @@ image:
 published: true
 date: 2016-01-09T22:50:33-07:00
 ---
-Having written these for a while, I think I've finally got an inkling of what they are &amp; how to describe them!  
+Having written these for a while, I think I've finally got an inkling of what they <del>are</del> do &amp; how to describe them!  
 
 ## tl;dr version   
 
