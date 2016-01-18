@@ -34,7 +34,7 @@
 
 <div id="index">
   <h1>{{ page.title }}</h1>
-   <span class="entry-tags"><a href="/tags/" class="btn-tag">Posts by Tag</a><br /></span>  
+   <span class="entry-tags"><a href="/tags/" class="btn">Posts by Tag</a></span><br />  
   {% for post in site.posts %}  
   {% unless post.next %}  
     <h3>{{ post.date | date: '%Y' }}</h3>
