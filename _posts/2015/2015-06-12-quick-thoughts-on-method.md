@@ -4,7 +4,7 @@ title: "Quick Thoughts on Method & Knowledge Practices in Arts & Humanities"
 modified:
 categories: 2015
 excerpt: I reflect on how arts & humanities undergraduates are taught critical theory & method, and how that might fall short preparing us for evaluating knowledge practices.
-tags: [critlib, pedagogy, method]
+tags: [critlib chats, pedagogy, method]
 image:
   feature:
 date: 2015-06-12T20:00:37-04:00

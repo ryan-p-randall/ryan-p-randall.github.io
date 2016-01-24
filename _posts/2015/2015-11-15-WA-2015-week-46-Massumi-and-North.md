@@ -4,7 +4,7 @@ title: "WA 2015 Week 46 Massumi and North"
 modified:
 categories: 2015
 excerpt: Enthusiasm about Massumi putting Deleuze in a nutshell! Analogies between the pedagogy & structural place of Writing Centers & libraries! Jekyll on the Run!
-tags: [weekly assemblage, critlib, readings]
+tags: [critical theory, infrastucture, critical information literacy]
 image:
   feature: weekly-assemblage.png
   thumb: weekly-assemblage.png

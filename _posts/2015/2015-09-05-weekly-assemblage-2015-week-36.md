@@ -4,7 +4,7 @@ title: "Weekly Assemblage 2015 Week 36"
 modified:
 categories: 2015
 excerpt: Reflections on the second  &#035;radlibchat and a Library Freedom Presentation by Alison Macrina.
-tags: [weekly assemblage, readings, critical theory]
+tags: [critical theory, privacy]
 image:
   feature: weekly-assemblage.png
   thumb: weekly-assemblage.png

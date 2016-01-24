@@ -4,7 +4,7 @@ title: "'Another University is Possible': Cultural Studies Association Conferenc
 modified:
 categories: 2015
 excerpt: The Cultural Studies Association 2015 conference was stellar—here are some highlights.
-tags: [conferences, critlib]
+tags: [conferences, critical information literacy]
 image:
   feature:
   thumb: 

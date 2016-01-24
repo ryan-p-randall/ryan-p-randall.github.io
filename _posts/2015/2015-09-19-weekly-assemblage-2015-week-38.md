@@ -4,7 +4,7 @@ title: "Weekly Assemblage 2015 Week 38"
 modified:
 categories: 2015
 excerpt: Driving from Bloomington, Indiana to Boise, Idaho; Luciano Floridi's _Information&#58; A Very Short Introduction_.
-tags: [weekly assemblage, readings, critical theory]
+tags: [critical theory]
 image:
   feature: weekly-assemblage.png
   thumb: weekly-assemblage.png

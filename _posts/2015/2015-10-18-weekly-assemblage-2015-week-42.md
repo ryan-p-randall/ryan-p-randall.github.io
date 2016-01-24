@@ -4,7 +4,7 @@ title: "Weekly Assemblage 2015 Week 42"
 modified:
 categories: 2015
 excerpt: Live! Real! Humans! (in the Classroom); Code Camps, the "Californian Ideology," & Higher Ed's Purpose; Open Access & "The Library of Forking Paths."  
-tags: [weekly assemblage, critlib, pedagogy]
+tags: [critical information literacy, pedagogy]
 image:
   feature: weekly-assemblage.png
   thumb: weekly-assemblage.png
