@@ -4,7 +4,7 @@ title: "Weekly Assemblage 2015 Week 43"
 modified:
 categories: 2015
 excerpt: A &#035;critlib chat on gender & leadership in LIS, plus some history links.
-tags: [critlib chats, gender, LIS history]
+tags: [critlib chats, gender, librar* history]
 image:
   feature: weekly-assemblage.png
   thumb: weekly-assemblage.png
