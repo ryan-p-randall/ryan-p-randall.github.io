@@ -4,7 +4,7 @@ title: "<del>Hack </del>Quirk Your Presentations"
 modified:
 categories: 2015
 excerpt: I wrote for Hack Library School about using quirky results or affordances to make your instruction sessions more engaging.
-tags: [hack library school, instruction, digital humanities]
+tags: [hack library school, instructional design & tools, digital humanities]
 image:
   feature:
 date: 2015-04-23T18:17:10-04:00
