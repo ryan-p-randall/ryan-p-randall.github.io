@@ -4,7 +4,7 @@ title: {{ title }}
 modified:
 categories: {{ dir }}
 excerpt:
-tags: [weekly assemblage,]
+tags: [tag,]
 image:
   feature: weekly-assemblage.png
   thumb: weekly-assemblage.png
