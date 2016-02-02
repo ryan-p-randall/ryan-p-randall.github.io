@@ -18,7 +18,7 @@ sitemap: false
 @import "normalize";
 @import "site";
 @import "typography";
-@import "pygments";
+@import "syntax";
 @import "coderay";
 @import "elements";
 @import "forms";
@@ -30,3 +30,4 @@ sitemap: false
 @import "vendor/bigfoot/bigfoot-mixins.scss";  
 @import "vendor/bigfoot/bigfoot-popover.scss";  
 //@import "vendor/google/fonts";
+@import "print";

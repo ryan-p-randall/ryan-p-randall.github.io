@@ -83,6 +83,9 @@ module.exports = function(grunt) {
   grunt.registerTask('scripts', [
     'clean',
     'uglify',
+  grunt.registerTask('images', [
+    'imagemin',
+    'svgmin'
   ]);
 
 };
