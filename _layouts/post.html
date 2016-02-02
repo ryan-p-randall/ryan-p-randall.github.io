@@ -44,9 +44,7 @@
       {{ content }}
       <hr />
       <footer role="contentinfo">
-        <div class="article-author-bottom">
-          {% include _author-bio.html %}
-        </div>
+        {% if page.share != false %}{% include _social-share.html %}{% endif %}
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
         <p class="byline"> 
         Comments? Let me know what you think via Twitter. <a href="https://twitter.com/share" class="twitter-share-button" data-via="foureyedsoul">Tweet</a>
@@ -64,6 +62,7 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
+  {% if site.related_posts.size > 0 %}
   <div class="related-articles">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
     <ul>
@@ -73,12 +72,13 @@
     </ul>
     <hr />
   </div><!-- /.related-articles -->
+  {% endif %}
   <footer>
     {% include _footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}	        
+{% include _scripts.html %}
 
 </body>
 </html>
