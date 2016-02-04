@@ -73,12 +73,15 @@ svg:not(:root) {
   margin-bottom: 20px;
   padding: 8px 20px;
   @include font-rem(14);
+  font-family: $heading-font;
+  font-weight: 700;
   background-color: $primary;
   color: $white;
   border-width: 2px !important;
   border-style: solid !important;
   border-color: $primary;
-  @include rounded(4px);
+  text-decoration: none !important;
+  @include rounded(3px);
   &:visited {
     color: $white;
   }
@@ -87,6 +90,8 @@ svg:not(:root) {
     color: $primary;
   }
 }
+
+/* Tag button */
 
 .btn-tag {
   background-color: $tag;
