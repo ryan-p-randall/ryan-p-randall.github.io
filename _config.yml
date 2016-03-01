@@ -10,7 +10,7 @@ lifespan: 2014–2016
 
 permalink: /:year/:title/
 markdown: kramdown
-highlighter: rouge
+syntax_highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -19,13 +19,18 @@ gems:
   - jemoji
   - jekyll/scholar
   - jekyll-gist
+  - rouge
 
 kramdown:
   auto_ids: true
+  input: GFM
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: false
+  syntax_highlighter: true
+  syntax_highlighter_opts:
+     default_lang: html
+     line_numbers: true
 
 # Octopress
 
