@@ -4,7 +4,7 @@ title: "Freire and Critical Librarianship"
 modified:
 categories:
 excerpt: For Week One of the Critical Pedagogy MOOC MOOC, I write about Paolo Freire's problem-posing method and its potential links to critical librarianship. 
-tags: [critlib chats, pedagogy, moocmooc, critical theory]
+tags: [critlib chats, pedagogy, moocmooc, critical theory, featured]
 image:
   feature:
 date: 2015-01-25T23:07:23-05:00
