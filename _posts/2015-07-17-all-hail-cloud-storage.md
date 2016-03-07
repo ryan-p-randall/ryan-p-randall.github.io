@@ -4,7 +4,7 @@ title: "All Hail Cloud Storage"
 modified:
 categories:
 excerpt: Dropbox has both saved me from computer problems and helped me work more ubiquitously, so I sang the praises of it and other cloud storage at Hack Library School.
-tags: [hack library school, markdown, meta, tools]
+tags: [hack library school, markdown, meta, tech tools]
 image:
   feature:
   thumb: 
@@ -17,6 +17,6 @@ What I didn't include were particular recommendations for other programs that in
 
 In any case, this is my own space, so here are the programs that I have linked to Dropbox that I use almost daily. None of these are affiliate links, I just think highly of them:  
 
-- [nvALT](http://brettterpstra.com/projects/nvalt/) A free program from Brett Terpstra that stores any number of text files. Using a search bar as the file-picking interface takes a bit of getting used to, but the program's profoundly useful as a place to store ideas for the future. Just start using breadcrumbs that can help you recall the terms you've used—things [like adding multiple `q` characters in a row](http://www.kungfugrippe.com/post/453204090/q-trick) for things of increasing importance, for instance. Michael Schechter shows you which [settings to change](http://bettermess.com/plain-text-primer-nvalt-101/) in order to save your files individually rather than as a single database.    
+- [nvALT](http://brettterpstra.com/projects/nvalt/) A free program from Brett Terpstra that stores any number of text files. Using a search bar as the file-picking interface takes a bit of getting used to, but the program's profoundly useful as a place to store ideas for the future. Just start using breadcrumbs that can help you recall the terms you've used—things [like adding multiple "q" characters in a row](http://www.kungfugrippe.com/post/453204090/q-trick) for things of increasing importance, for instance. Michael Schechter shows you which [settings to change](http://bettermess.com/plain-text-primer-nvalt-101/) in order to save your files individually rather than as a single database.    
 - [Editorial](http://omz-software.com/editorial/) Ole Moritz's program for iOS lets you work in plain text files and understands Markdown, TaskPaper, and Fountain formatting. It also has templates, automation, and Python scripting, so it's ridiculously customizable and extendable.   
 

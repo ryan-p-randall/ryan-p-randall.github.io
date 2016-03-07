@@ -4,7 +4,7 @@ title: "Presentation Alternatives: Reveal.js"
 modified:
 categories:
 excerpt: Are you looking for a good alternative to PowerPoint or Keynotes? Here's a Hack Library School post about an excellent free &amp; open source one!  
-tags: [hack library school, presentations, tools]
+tags: [hack library school, presentations, tech tools]
 image:
   feature:
   thumb: 
