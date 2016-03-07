@@ -30,7 +30,6 @@ kramdown:
   syntax_highlighter: true
   syntax_highlighter_opts:
      default_lang: html
-     line_numbers: true
 
 # Octopress
 
