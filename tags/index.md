@@ -21,6 +21,7 @@ search_omit: true
   <ul class="post-list">
   {% for post in site.tags[this_word] %}{% if post.title != null %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"> &there4; <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
+    <p>{{ post.excerpt | strip_html | markdownify | truncate: 220 }}</p>
   {% endif %}{% endfor %}
   </ul>
 {% endunless %}{% endfor %}

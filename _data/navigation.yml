@@ -1,10 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
 - title: Info Fluxus Blog
   url: /posts/
+
+- title: Recommended Reading
+  url: /recommended-reading/
+
+- title: About
+  url: /about/
 
 - title: CV
   url: /cv/
