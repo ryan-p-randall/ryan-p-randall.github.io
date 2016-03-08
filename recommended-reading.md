@@ -12,9 +12,15 @@ share:
 ---
 
 :construction: :construction: :construction:  
-This page is still _very much_ under construction. I'm inspired by [April Hathcock's](https://aprilhathcock.wordpress.com/recommended-reading/) and [Jessica Schomberg's](http://catassessmentresearch.blogspot.com/2016/02/critlib-and-diversity-related-books.html) lists and want to share something similar. I plan to have a range of things here, eventually including links to my own posts that deal with cultural studies & critical theory, particularly as it pertains to LIS. I'm also planning to organize and annotate these recommendations more along the way.   
+Just like reality and society, this page is continually under construction. And in a process of becoming.  
 :construction: :construction: :construction:  
 {: .notice}  
+
+ I'm inspired by [April Hathcock's](https://aprilhathcock.wordpress.com/recommended-reading/) and [Jessica Schomberg's](http://catassessmentresearch.blogspot.com/2016/02/critlib-and-diversity-related-books.html) lists and want to share something similar. I plan to have a range of things here, eventually including links to my own posts that deal with cultural studies & critical theory, particularly as it pertains to LIS. I'm also planning to organize and annotate these recommendations more along the way.  
+ 
+ The below aren't my attempt at an "intro to #critlib" or "intro to critical theory"—these are just readings that I profoundly appreciate and recommend to anyone interested.  
+ 
+ I'll start working on a more "intro to #critlib" section soon enough, though, and some of these will reappear there!  
 
 ### Books  
 
@@ -32,6 +38,8 @@ This page is still _very much_ under construction. I'm inspired by [April Hathco
   
 [_The Columbia Dictionary of Modern Literary and Cultural Criticism_](http://www.worldcat.org/oclc/31656730) eds. Joseph Childers and Cary Hentzi, 1995  
   
+[_Psychedelic White: Goa Trance and the Viscosity of Race_](http://www.worldcat.org/oclc/487578360), Arun Saldanha, 2007  
+  
 #### More towards Critical Pedagogy / Critical Information Literacy   
   
 [_Teaching to Transgress: Education as the Practice of Freedom_](http://www.worldcat.org/oclc/30668295), bell hooks, 1994  
@@ -42,7 +50,7 @@ This page is still _very much_ under construction. I'm inspired by [April Hathco
   
 [_Pedagogy of the Oppressed_](http://www.worldcat.org/oclc/921850604), Paulo Freire, 2015 (30<sup>th</sup> anniversary edition)
   
-### Articles  
+### Articles    
   
 #### More towards Cultural Studies / Critical Theory  
 
@@ -59,6 +67,8 @@ Jonathan Sterne writes, thinks, and speaks wonderfully. Check out his [repositor
   
 ["Agent of Change: An Interview with bell hooks"](http://www.tricycle.com/special-section/agent-change-interview-bell-hooks), bell hooks interviewed by Helen Tworkov for _Tricycle_, 1992  
   
+["Queering the Catalog: Queer Theory and the Politics of Correction"](http://www.journals.uchicago.edu/doi/10.1086/669547), Emily Drabinski, 2013, _The Library Quarterly_  
+  
 ["Library as Infrastructure"](https://placesjournal.org/article/library-as-infrastructure/), Shannon Mattern, 2014, _Places Journal_  
   
 "The Library Assemblage: Creative Institutions in an Information Society," Natasha Gerolami, 2015, _Journal of Documentation_   
@@ -67,8 +77,16 @@ Jonathan Sterne writes, thinks, and speaks wonderfully. Check out his [repositor
   
 ["The Body and the Archive"](http://www.worldcat.org/oclc/5548108887), Allan Sekula, 1986, _October_  
 
+["Locating the Library in Institutional Oppression"](http://www.inthelibrarywiththeleadpipe.org/2014/locating-the-library-in-institutional-oppression/), nina de jesus, 2014, _In the Library with the Lead Pipe_  
+
+["A Critical Take on OER Practices: Interrogating Commercialization, Colonialism, and Content"](http://www.inthelibrarywiththeleadpipe.org/2015/a-critical-take-on-oer-practices-interrogating-commercialization-colonialism-and-content/), Sarah Crissinger, 2015, _In the Library with the Lead Pipe_  
+
 #### More towards Critical Pedagogy / Critical Information Literacy  
 
-["A Decade of Critical Information Literacy: A Review of the Literature"](http://www.comminfolit.org/index.php?journal=cil&page=article&op=view&path%5B%5D=v9i1p24), Eamon Tewell, 2015  
+["A Decade of Critical Information Literacy: A Review of the Literature"](http://www.comminfolit.org/index.php?journal=cil&page=article&op=view&path%5B%5D=v9i1p24), Eamon Tewell, 2015, _Communications in Information Literacy_  
   
-["Information Literacy: a Review and Poststructural Critique"](http://eprints.qut.edu.au/8867/), Cushla Kapitzke, 2003  
+["Information Literacy: a Review and Poststructural Critique"](http://eprints.qut.edu.au/8867/), Cushla Kapitzke, 2003, _Australian Journal of Language and Literacy_  
+
+### Blog Posts   
+
+["Librarianing to Transgress"](https://chrisbourg.wordpress.com/2014/10/25/librarianing-to-transgress-closing-keynote-acrl-orwa-2014/) and ["https://chrisbourg.wordpress.com/2016/01/09/whiteness-social-justice-and-the-future-of-libraries/"](https://chrisbourg.wordpress.com/2016/01/09/whiteness-social-justice-and-the-future-of-libraries/), Chris Bourg, 2014 & 2016  
