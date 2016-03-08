@@ -90,6 +90,10 @@ Across this and some similar essays ("Cultural Studies and/in New Worlds," "The 
 
 #### More towards Critical Pedagogy / Critical Information Literacy  
 
+["Librarians as Disciplinary Discourse Mediators: Using Genre Theory to Move Toward Critical Information Literacy"](http://works.bepress.com/michelle_simmons/3/), Michelle H. Simmons, 2005, _portal: Libraries and the Academy_  
+   
+["Redefining Sources as Social Acts: Genre Theory in Information Literacy Instruction"](http://digitalcommons.unl.edu/libphilprac/413/), Joel M. Burkholder, 2010, _Library Philosophy and Practice_   
+   
 ["A Decade of Critical Information Literacy: A Review of the Literature"](http://www.comminfolit.org/index.php?journal=cil&page=article&op=view&path%5B%5D=v9i1p24), Eamon Tewell, 2015, _Communications in Information Literacy_  
   
 ["Information Literacy: a Review and Poststructural Critique"](http://eprints.qut.edu.au/8867/), Cushla Kapitzke, 2003, _Australian Journal of Language and Literacy_  
