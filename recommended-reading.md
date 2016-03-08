@@ -32,7 +32,7 @@ This page is still _very much_ under construction. I'm inspired by [April Hathco
   
 [_The Columbia Dictionary of Modern Literary and Cultural Criticism_](http://www.worldcat.org/oclc/31656730) eds. Joseph Childers and Cary Hentzi, 1995  
   
-#### More towards Critical Pedagogy   
+#### More towards Critical Pedagogy / Critical Information Literacy   
   
 [_Teaching to Transgress: Education as the Practice of Freedom_](http://www.worldcat.org/oclc/30668295), bell hooks, 1994  
   
@@ -45,6 +45,8 @@ This page is still _very much_ under construction. I'm inspired by [April Hathco
 ### Articles  
   
 #### More towards Cultural Studies / Critical Theory  
+
+"Cultural Studies: What's In a Name? (One More Time)", Lawrence Grossberg, 1995, anthologized in [_Bringing It All Back Home: Essays On Cultural Studies_](http://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
   
 ["Connecting with the Cosmic: Arthur Russell, Rhizomatic Musicianship, 
 and the Downtown Music Scene, 1973-92"](http://liminalities.net/3-3/index.htm), Tim Lawrence, 2007, _Liminalities: A Journal of Performance Studies_  
@@ -57,14 +59,16 @@ Jonathan Sterne writes, thinks, and speaks wonderfully. Check out his [repositor
   
 ["Agent of Change: An Interview with bell hooks"](http://www.tricycle.com/special-section/agent-change-interview-bell-hooks), bell hooks interviewed by Helen Tworkov for _Tricycle_, 1992  
   
+["Library as Infrastructure"](https://placesjournal.org/article/library-as-infrastructure/), Shannon Mattern, 2014, _Places Journal_  
+  
 "The Library Assemblage: Creative Institutions in an Information Society," Natasha Gerolami, 2015, _Journal of Documentation_   
   
 ["The Half of Whiteness"](http://www.saic.edu/media/saic/profiles/faculty/shawnsmith/The-Half-of-Whiteness_Jacob-Riis.pdf), Shawn Michelle Smith, 2006, _English Language Notes_  
-
-#### More towards Critical Pedagogy  
-
-"Cultural Studies: What's In a Name? (One More Time)", Lawrence Grossberg, 1995, anthologized in [_Bringing It All Back Home: Essays On Cultural Studies_](http://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
   
 ["The Body and the Archive"](http://www.worldcat.org/oclc/5548108887), Allan Sekula, 1986, _October_  
+
+#### More towards Critical Pedagogy / Critical Information Literacy  
+
+["A Decade of Critical Information Literacy: A Review of the Literature"](http://www.comminfolit.org/index.php?journal=cil&page=article&op=view&path%5B%5D=v9i1p24), Eamon Tewell, 2015  
   
-["Library as Infrastructure"](https://placesjournal.org/article/library-as-infrastructure/), Shannon Mattern, 2014, _Places Journal_  
+["Information Literacy: a Review and Poststructural Critique"](http://eprints.qut.edu.au/8867/), Cushla Kapitzke, 2003  
