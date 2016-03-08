@@ -12,7 +12,7 @@ share:
 ---
 
 :construction: :construction: :construction:  
-Just like reality and society, this page is continually under construction. And in a process of becoming.  
+Just like reality and society, this page is continually under construction.   
 :construction: :construction: :construction:  
 {: .notice}  
 
