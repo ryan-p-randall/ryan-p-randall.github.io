@@ -16,9 +16,9 @@ Just like reality and society, this page is continually under construction. And 
 :construction: :construction: :construction:  
 {: .notice}  
 
- I'm inspired by [April Hathcock's](https://aprilhathcock.wordpress.com/recommended-reading/) and [Jessica Schomberg's](http://catassessmentresearch.blogspot.com/2016/02/critlib-and-diversity-related-books.html) lists and want to share something similar. I plan to have a range of things here, eventually including links to my own posts that deal with cultural studies & critical theory, particularly as it pertains to LIS. I'm also planning to organize and annotate these recommendations more along the way.  
+I'm inspired by [April Hathcock's](https://aprilhathcock.wordpress.com/recommended-reading/) and [Jessica Schomberg's](http://catassessmentresearch.blogspot.com/2016/02/critlib-and-diversity-related-books.html) lists and want to share something similar. I plan to have a range of things here, eventually including links to my own posts that deal with cultural studies & critical theory, particularly as it pertains to LIS. I'm also planning to organize and annotate these recommendations more along the way.  
  
- The below certainly isn't my attempt at an "intro to #critlib" or "intro to critical theory"—these are just readings that I profoundly appreciate and recommend to anyone interested. My motivation is that I'm working toward having a quick answer to what I mean by "cultural studies," and these are some of the readings that are helping me develop that kind of elevator speech about what critical theory means to me.   
+The below certainly isn't my attempt at an "intro to #critlib" or "intro to critical theory"—these are just readings that I profoundly appreciate and recommend to anyone interested. My motivation is that I'm working toward having a quick answer to what I mean by "cultural studies," and these are some of the readings that are helping me develop that kind of elevator speech about what critical theory means to me.   
    
 I'll start working on a more "intro to #critlib" section soon enough and some of these will reappear there.    
 
