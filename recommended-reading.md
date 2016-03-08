@@ -5,11 +5,10 @@ title: "Recommended Reading"
 modified: 2016-03-06
 tags: []
 image:
-  feature: laluttecontinue-crop.jpg
-  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
-  creditlink: http://jeanpaulachard.com/mai/
 share:
 ---
+
+{% include _toc.html %}
 
 :construction: :construction: :construction:  
 Just like reality and society, this page is continually under construction.   
