@@ -18,9 +18,9 @@ Just like reality and society, this page is continually under construction. And 
 
  I'm inspired by [April Hathcock's](https://aprilhathcock.wordpress.com/recommended-reading/) and [Jessica Schomberg's](http://catassessmentresearch.blogspot.com/2016/02/critlib-and-diversity-related-books.html) lists and want to share something similar. I plan to have a range of things here, eventually including links to my own posts that deal with cultural studies & critical theory, particularly as it pertains to LIS. I'm also planning to organize and annotate these recommendations more along the way.  
  
- The below aren't my attempt at an "intro to #critlib" or "intro to critical theory"—these are just readings that I profoundly appreciate and recommend to anyone interested.  
- 
- I'll start working on a more "intro to #critlib" section soon enough, though, and some of these will reappear there!  
+ The below certainly isn't my attempt at an "intro to #critlib" or "intro to critical theory"—these are just readings that I profoundly appreciate and recommend to anyone interested. My motivation is that I'm working toward having a quick answer to what I mean by "cultural studies," and these are some of the readings that are helping me develop that kind of elevator speech about what critical theory means to me.   
+   
+I'll start working on a more "intro to #critlib" section soon enough and some of these will reappear there.    
 
 ### Books  
 
@@ -87,7 +87,7 @@ It's unfortunate that this reading isn't more widely accessible—although he do
 
 Across this and some similar essays ("Cultural Studies and/in New Worlds," "The Formations of Cultural Studies: An American in Birmingham," & "History, Politics, and Postmodernism: Stuart Hall and cultural studies")[^ideologycommunication] Grossberg does a stellar job of showing how cultural studies has evolved from a group of scholars primarily from working class backgrounds interested in adult education & labor concerns to a more intentionally decolonial, feminist, and queer undertaking. He does a great job of explaining Stuart Hall, Angela McRobbie, and other Cultural Studies touchstones, as well as showing how the cultural studies approach that he advocates for is both anti-essentialist and not relativistic, basing a claim's truthfulness on its ability to give the thinker purchase on effects in the world.   
 
-[^ideologycommunication]: I also really like his "The Ideology of Communication: Post-Structuralism and the Limits of Communication," which is on that non-IR site. It's definitely not an introductory reading, but it's a good one.  
+[^ideologycommunication]: I also really like Grossberg's "The Ideology of Communication: Post-Structuralism and the Limits of Communication," which is on that non-IR site. It's definitely not an introductory reading, but it's a good one.  
 
 #### More towards Critical Pedagogy / Critical Information Literacy  
 
