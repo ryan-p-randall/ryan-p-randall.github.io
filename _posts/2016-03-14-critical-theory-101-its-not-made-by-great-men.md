@@ -1,22 +1,21 @@
 ---
 layout: post
-title: WA 2016 Week 09
+title: Critical Theory 101 It's Not Made by Great Men
 modified:
 categories: 
 excerpt:
 tags: [tag,]
 image:
-  feature: weekly-assemblage.png
-  thumb: weekly-assemblage.png
+  feature:
+  thumb:
 published: false
-date: 2016-03-04T23:31:19-07:00
+date: 2016-03-14T23:31:42-06:00
 ---
   
 [Weekly Whaaa…?]({% post_url 2016-01-09-weekly-whaaa %})  
 {: .notice}  
 
-Mostly catching up from after [CLAPS2016](), so I haven't written much.   
-
 _remove image tags if not a weekly assemblage post, Ryan_
 
-_add an excerpt before posting_
+_add an excerpt before posting_  
+

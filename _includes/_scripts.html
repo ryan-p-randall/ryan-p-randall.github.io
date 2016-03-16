@@ -7,6 +7,11 @@
 <script type="text/javascript">
    $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
 </script>
+<script type="text/javascript" src="/assets/js/vendor/anchor.min.js"></script>
+<script type="text/javascript">
+   anchors.options = { icon: '#'};
+   anchors.add('.article-wrap h2, .article-wrap h3, .article-wrap h4');
+</script>
 {% if site.owner.google.analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>
