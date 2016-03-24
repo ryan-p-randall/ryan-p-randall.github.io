@@ -100,6 +100,8 @@ Across this and some similar essays ("Wandering Audiences, Nomadic Critics," "Cu
   
 - ["Information Literacy: a Review and Poststructural Critique"](http://eprints.qut.edu.au/8867/), Cushla Kapitzke, 2003, _Australian Journal of Language and Literacy_  
 
+- ["(In)formation literacy: A positivist epistemology and a politics of (out)formation"](http://eprints.qut.edu.au/5876/1/5876.pdf), Cushla Kapitzke, 2003, _Educational Theory_   
+
 ### Blog Posts   
 
 - ["Librarianing to Transgress"](https://chrisbourg.wordpress.com/2014/10/25/librarianing-to-transgress-closing-keynote-acrl-orwa-2014/) and ["Whiteness, Social Justice and the Future of Libraries"](https://chrisbourg.wordpress.com/2016/01/09/whiteness-social-justice-and-the-future-of-libraries/), Chris Bourg, 2014 & 2016  
