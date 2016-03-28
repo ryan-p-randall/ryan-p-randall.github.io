@@ -28,20 +28,24 @@
   </div><!-- /.image-wrap -->
 {% endif %}
 
-<div class="article-author-side">
-  {% include _author-bio.html %}
-</div>
-
-<div id="index">
-
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
   <article>
-  
+    <h1>{{ page.title }}</h1>
     <div class="article-wrap">
-
-  {{ content }}
-
+      {{ content }}
+      {% if page.share == true %}
+        <hr />
+        {% include _social-share.html %}
+      {% endif %}
     </div><!-- /.article-wrap -->
-</article>  
+    {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
 
 <!--only if I want to do a `critical_featured` tag or something similar  
 
