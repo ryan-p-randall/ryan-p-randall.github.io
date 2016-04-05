@@ -45,4 +45,4 @@ Or as I said in today's [#critlib chat](http://www.critlib.org), #critlib is a p
 
 We should all continually try to do better. To the degree that we can, we should also be willing to point out our own mistakes and how we're improving what we've done. In the words of Bill S. Preston, Esq., "Be Excellent to Each Other."  
 
-<img="https://media.giphy.com/media/POekkUcKs16gg/giphy.gif" width="95%" alt="Bill and Ted saying Be Excellent to Each Other and Party On, Dudes">
+<img src="https://media.giphy.com/media/POekkUcKs16gg/giphy.gif" width="95%" alt="Bill and Ted saying Be Excellent to Each Other and Party On, Dudes">
