@@ -31,7 +31,7 @@ Also, I'd like to elaborate a little on the multiple, intersecting types of acce
    - people with attention disabilities (ADHD, dyslexia, executive dysfunction resulting from a wide variety of causes, etc.)  
 - pedagogical accessibility  
 
-Many of these overlap, of course. For instance, it's quite common for economically underprivileged people to own or have access to a mobile device but not a laptop. We see this continually at the community college where I work! We also work with a ton of students, instructors, librarians, and staff with what I'm calling attention disabilities.   
+Many of these overlap, of course. For instance, it's quite common for economically underprivileged people to own or have access to a mobile device but not a laptop. We see this continually at the community college where I work! We also work with—and are ourselves—a ton of students, instructors, librarians, and staff with what I'm calling attention disabilities.   
 
 These attention disabilities bring us to pedagogical accessibility. How many times have you wanted to write down a link that was the last thing brought up on a slide, but the speaker advances it too quickly? How many times do you wish you could go back to see a definition introduced earlier in the talk, but couldn't? 
 
