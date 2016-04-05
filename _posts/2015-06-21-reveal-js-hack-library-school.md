@@ -43,6 +43,6 @@ Or as I said in today's [#critlib chat](http://www.critlib.org), #critlib is a p
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many comm coll students have mobile devices w/o laptops @ home. Need to make slides more screenreader accessible now. <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a> is a process!</p>&mdash; Ryan P. Randall (@foureyedsoul) <a href="https://twitter.com/foureyedsoul/status/717055097742622722">April 4, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-We should all continually try to do better. To the degree that we can, we should also be humble enough to point out mistakes and when we're improving what we've done. In the words of Bill S. Preston, Esq., "Be Excellent to Each Other."  
+We should all continually try to do better. To the degree that we can, we should also be willing to point out our own mistakes and how we're improving what we've done. In the words of Bill S. Preston, Esq., "Be Excellent to Each Other."  
 
-![Bill and Ted, "Be Excellent to Each Other and Party On, Dudes"](https://media.giphy.com/media/POekkUcKs16gg/giphy.gif)  
+<img data-src="https://media.giphy.com/media/POekkUcKs16gg/giphy.gif" width="95%" alt="Bill and Ted saying Be Excellent to Each Other and Party On, Dudes">
