@@ -37,9 +37,12 @@ These attention disabilities bring us to pedagogical accessibility. How many tim
 
 By giving your audience the ability to engage with your slides as you talk, Reveal.js asks your audience to become actual interlocutors, able to engage with your ideas on their terms & at their speeds rather than keeping them passively stuck to your timing.   
 
-All that said, one still needs to add alt-text descriptions to Reveal.js talks. Since I initially made the slides I routinely use at my library for my initial interview, right I was still learning how Reveal.js worked, I neglected to do this. I should go back and do that now.   
+All that said, one still needs to add `alt` descriptions to images in Reveal.js talks. Since I initially made the slides I routinely use at my library for my initial interview, which happened right as I was still learning how Reveal.js worked, I neglected to do this. I have just gone back and fixed that right now.   
 
-Or as I said in today's [#critlib chat](http://www.critlib.org), #critlib is a process.   
+Or as I said in today's [#critlib chat](http://www.critlib.org), #critlib is a process. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many comm coll students have mobile devices w/o laptops @ home. Need to make slides more screenreader accessible now. <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a> is a process!</p>&mdash; Ryan P. Randall (@foureyedsoul) <a href="https://twitter.com/foureyedsoul/status/717055097742622722">April 4, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+We should all continually try to do better. To the degree that we can, we should also be humble enough to point out mistakes and when we're improving what we've done. In the words of Bill S. Preson, Esq., "Be Excellent to Each Other."  
+
+![Bill and Ted, "Be Excellent to Each Other and Party On, Dudes"](https://media.giphy.com/media/POekkUcKs16gg/giphy.gif)  
