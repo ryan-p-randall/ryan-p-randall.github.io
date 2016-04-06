@@ -18,7 +18,7 @@ As librarians, academics, archivists, and/or instructors, we should consider the
 
 The post at Hack Library School sits within a series introducing and explaining alternatives to PowerPoint, so it's not quite a how-to sort of post. If you'd like pointers, please do feel free to get in touch via Twitter or when I add them—which I expect will be soon—the [Jekyll Static Comments](https://github.com/ldesgrange/jekyll-static-comments) system that I'm slowly working out.  
 
-__edits on 2016-04-04 & 2016-04-05:__  
+## edits on 2016-04-04 & 2016-04-05:  
 
 I found a great tutorial today: [Reveal.js for Beginners](http://htmlcheats.com/reveal-js/reveal-js-tutorial-reveal-js-for-beginners/). If you're looking at implementing this on your own site, I'd highly recommend starting there.  
 
