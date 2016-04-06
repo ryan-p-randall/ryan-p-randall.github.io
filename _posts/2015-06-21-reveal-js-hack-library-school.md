@@ -4,7 +4,7 @@ title: "Presentation Alternatives: Reveal.js"
 modified: 2016-04-05T23:59:05-06:00
 categories:
 excerpt: Are you looking for a good alternative to PowerPoint or Keynotes? Here's a Hack Library School post about an excellent free &amp; open source one!  
-tags: [hack library school, presentations, tech tools, pedagogy, critical theory]
+tags: [hack library school, presentations, tech tools, pedagogy, critical theory, a11y / accessibility]
 image:
   feature:
   thumb: 
@@ -41,7 +41,7 @@ Giving your audience the ability to engage with your slides as you talk effectiv
 
 [^bh1]: It's late as I write this and I've got a few of her works muddled together. I've recently read most of [_Teaching to Transgress_](http://www.worldcat.org/oclc/30668295), a [conversation between her and Thich Nhat Hanh](http://www.lionsroar.com/bell-hooks-and-thich-nhat-hanh-on-building-a-community-of-love/), and an [interview with her at _Tricycle_](http://tricycle.org/magazine/agent-change-an-interview-with-bell-hooks/), so I'm not sure what to cite for this notion at the moment. If I haven't revised this by firming up a reference, please [reach out to me on Twitter](https://twitter.com/foureyedsoul) and I'll try to figure it out or point you in a good direction.  
 
-All that said, one still needs to add `alt` descriptions to images in Reveal.js talks! Since I initially made [my current information literacy slides](http://ryanpatrickrandall.com/2015/reveal-js-hack-library-school/#edits-on-2016-04-04--2016-04-05) for my position interview, which happened as I was still learning how to make slides with this javascript framework, I neglected to do this. I have just gone back and fixed that now. I'll have to find someone who uses screen readers to see how accessible they feel these slides are now. 
+All that said, one still needs to add `alt` descriptions to images in Reveal.js talks! Since I initially made [my current information literacy slides](http://ryanpatrickrandall.com/talks/cwi.html#/) for my position interview, which happened as I was still learning how to make slides with this javascript framework, I neglected to do this. I have just gone back and fixed that now. I'll have to find someone who uses screen readers to see how accessible they feel these slides are now. 
 
 As for Reveal.js itself, the [issues for this framework](https://github.com/hakimel/reveal.js/search?q=screen+reader&type=Issues&utf8=✓) show that at least one of the people contributing to the project is [Marcy Sutton](https://github.com/marcysutton), who has apparently helped with [Girl Develop It's accessibility slides](http://girldevelopit.github.io/girldevelopit-rdu-access/#/). Here's her page of [web accessibility resources](http://marcysutton.com/web-accessibility-resources/). I'll be going through these soon to continue learning about how to make web resources more accessible for people with visual disabilities.   
 
