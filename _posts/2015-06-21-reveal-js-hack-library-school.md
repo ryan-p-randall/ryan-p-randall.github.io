@@ -27,7 +27,7 @@ Also, I'd like to elaborate a little on the multiple, intersecting types of acce
 - mobile device  
    - economic  
 - people with disabilities  
-   - low-vision / blind (i.e. relies on screen reader technology)   
+   - low-vision / blind (i.e. users of screen reader technology)   
    - people with attention disabilities (ADHD, dyslexia, executive dysfunction resulting from a wide variety of causes, etc.)  
 - pedagogical accessibility  
 
