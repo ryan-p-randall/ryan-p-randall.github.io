@@ -30,18 +30,20 @@ Also, I'd like to elaborate a little on the multiple, intersecting types of acce
    - economic  
 - people with disabilities  
    - low-vision / blind (i.e. users of screen reader technology)   
-   - people with attention disabilities (ADHD, dyslexia, executive dysfunction resulting from a wide variety of causes, etc.)  
+   - people with attention disabilities or cognitive disabilities (ADHD, dyslexia, executive dysfunction resulting from a wide variety of causes, learning disabilities, etc.)  
 - pedagogical accessibility  
 
-Many of these overlap, of course. For instance, it's quite common for economically underprivileged people to own or have access to a mobile device but not a laptop. We see this continually at the community college where I work! We also work with—and indeed, are ourselves—students, instructors, librarians, and staff with what I'm calling attention disabilities.   
+Many of these overlap, of course. For instance, it's quite common for economically underprivileged people to own or have access to a mobile device but not a laptop. We see this continually at the community college where I work! We also work with—and indeed, are ourselves—students, instructors, librarians, and staff with what I'm calling attention or cognitive disabilities. (I'm lumping those together not because they have the same root causes, but because they all seem to be best addressed by providing a way for the person to control how much time they spend engaging with something.)   
 
 These attention disabilities bring us to pedagogical accessibility. How many times have you wanted to write down a link or reference that was the last thing on a slide, but the speaker advances it just a few moments too quickly? How many times do you wish you could go back to see a term or definition introduced earlier in the talk, but couldn't?  
 
-Giving your audience the ability to engage with your slides as you talk effectively aides your audience in becoming actual interlocutors, able to engage with your ideas on their terms & at their speeds rather than ensnaring them within your own timing. This promotes the attitude of generosity and loving kindness that I associate with bell hooks' writings.[^bh1]   
+Giving your audience the ability to engage with your slides as you talk effectively aides your audience in becoming actual interlocutors, able to engage with your ideas on their terms & at their speeds. Why choose to ensnare them within your own timing? This slide framework promotes the attitude of generosity and loving kindness that I associate with bell hooks' writings.[^bh1]   
 
 [^bh1]: It's late as I write this and I've got a few of her works muddled together. I've recently read most of [_Teaching to Transgress_](http://www.worldcat.org/oclc/30668295), a [conversation between her and Thich Nhat Hanh](http://www.lionsroar.com/bell-hooks-and-thich-nhat-hanh-on-building-a-community-of-love/), and an [interview with her at _Tricycle_](http://tricycle.org/magazine/agent-change-an-interview-with-bell-hooks/), so I'm not sure what to cite for this notion at the moment. If I haven't revised this by firming up a reference, please [reach out to me on Twitter](https://twitter.com/foureyedsoul) and I'll try to figure it out or point you in a good direction.  
 
-All that said, one still needs to add `alt` descriptions to images in Reveal.js talks. Since I initially made the slides I routinely use at my library for my initial interview, which happened as I was still learning how to make slides with this javascript framework, I neglected to do this. I have just gone back and fixed that right now.   
+All that said, one still needs to add `alt` descriptions to images in Reveal.js talks! Since I initially made [my current information literacy slides](http://ryanpatrickrandall.com/2015/reveal-js-hack-library-school/#edits-on-2016-04-04--2016-04-05) for my position interview, which happened as I was still learning how to make slides with this javascript framework, I neglected to do this. I have just gone back and fixed that now. I'll have to find someone who uses screen readers to see how accessible they feel these slides are now. 
+
+As for Reveal.js itself, the [issues for this framework](https://github.com/hakimel/reveal.js/search?q=screen+reader&type=Issues&utf8=✓) show that at least one of the people contributing to the project is [Marcy Sutton](https://github.com/marcysutton), who has apparently helped with [Girl Develop It's accessibility slides](http://girldevelopit.github.io/girldevelopit-rdu-access/#/). Here's her page of [web accessibility resources](http://marcysutton.com/web-accessibility-resources/). I'll be going through these soon to continue learning about how to make web resources more accessible for people with visual disabilities.   
 
 Or as I said in today's [#critlib chat](https://storify.com/AlicePrael/intro-to-critlib-part-2), #critlib is a process. 
 
