@@ -7,6 +7,7 @@ modified:
 excerpt:
 tags: []
 image:
+   thumb:
 ---
 {% include _toc.html %}  
 

@@ -10,6 +10,7 @@ image:
   feature: laluttecontinue-crop.jpg
   credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
   creditlink: http://jeanpaulachard.com/mai/
+  thumb: laluttecontinue-crop.jpg
 ---
 
 {% include _about-me.html %}

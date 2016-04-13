@@ -5,6 +5,7 @@ title: "Recommended Reading"
 modified: 2016-03-06
 tags: []
 image:
+   thumb:
 share:
 ---
 :construction: :construction: :construction:  

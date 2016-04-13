@@ -5,6 +5,7 @@ title: "Portfolio"
 modified: 2015-06-08 11:30
 tags: [projects and papers]
 image:
+  thumb:
 share:
 ---
 
