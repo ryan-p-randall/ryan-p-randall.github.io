@@ -9,8 +9,7 @@ image:
   feature: 
   thumb:
 ---
-Ryan P. Randall  
-CAPAL 2016
+Presented at [CAPAL2016](http://conference.capalibrarians.org) on 2016-05-30
 
 # Productive Interpretations: Encouraging Patron Agency Through Cultural Criticism  
 
