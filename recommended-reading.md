@@ -90,3 +90,7 @@ Across this and some similar essays ("Wandering Audiences, Nomadic Critics," "Cu
 ## Blog Posts   
 
 - ["Librarianing to Transgress"](https://chrisbourg.wordpress.com/2014/10/25/librarianing-to-transgress-closing-keynote-acrl-orwa-2014/) and ["Whiteness, Social Justice and the Future of Libraries"](https://chrisbourg.wordpress.com/2016/01/09/whiteness-social-justice-and-the-future-of-libraries/), Chris Bourg, 2014 & 2016  
+
+### Blog Roll  
+
+[Futher Blog Roll]({{site:url}}/links/)
