@@ -22,10 +22,7 @@ share:
 - [Clinton McKay](http://clintonmckay.com/)   
 - [Erika Montenegro](http://researchguides.elac.edu/profile/ErikaMontenegro)   
 - [Nicole Pagowsky, "The Pumped Librarian"](http://pumpedlibrarian.blogspot.com/)   
-- [Theresa Quill](http://theresaquill.wordpress.com/)   
 - [Scott B. Weingart](http://www.scottbot.net)   
-- [Andy Woodworth](http://agnosticmaybe.wordpress.com/)   
-- [Anna-Sophia Zingarelli-Sweet](http://annasophiazingarelli.com)   
 
 ### Additional Academics     
 

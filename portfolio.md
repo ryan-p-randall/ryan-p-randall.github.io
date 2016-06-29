@@ -14,25 +14,20 @@ Here are some of the more library-related things I've done. This is current as o
 {% include _toc.html %}   
 <!-- markdownfix_-->
 
-## Projects
+## Presentations and Talks  
 
-### Raincross Underground  
+### Productive Interpretations: Encouraging Patron Agency Through Cultural Criticism, CAPAL 2016  
 
-![Raincross Underground Babyhead Image](/images/raincross-underground.jpg)  
+[![intro slide](/talks/images/Capal2016-01.png)]({{site:url}}/talks/capal16/)  
 
-Begun for my Digital Libraries class with John Walsh, [Raincross Underground](http://raincrossunderground.omeka.net/) is an [Omeka](http://omeka.org/) site with items from a Riverside, CA creative scene that existed during the early 2000s. It includes images, sounds, and TEI markup of songs from a band I was in.
+- [Speaking notes with slides]({{site:url}}/talks/capal16/)  
 
-### Bloomington City Directories Finding Guide
+### LIS Education and New Conceptions of Democracy, 2015 Symposium on LIS Education  
 
-![Bloomington City Directories Finding Guide](/images/bloomington-city-directories.jpg)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cWLGUlJFicfS0G" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/ryan-lised-symp" title="LIS Education and New Conceptions of Democracy" target="_blank">LIS Education and New Conceptions of Democracy</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>  
 
-Making the [Bloomington City Directories Finding Guide](http://libraries.iub.edu/guide-bloomington-city-directories) began with an inventory of the various directories held by the Herman B Wells Library. Then I had to decide the best way to organize and present this information to our patrons. Finally, I wrote the html code to inclue the guide on the website.  
-
-### Indiana Historical Maps Digital Collection
-
-![IHMDC](/images/indiana-historic-maps-screenshot.jpg)
-
-Although the work of digitizing this collection began before I arrived at the Government Documents, Maps, and Microform Services department, the [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073) project took the bulk of my first year there. A large part of my role as the Maps Graduate Assistant involved digitizing and adding maps to this collection, as well as determining, adding, and standardizing appropriate metadata like tags that relevant researchers would find useful throughout the collection.
+- [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)
+*2015 Symposium on LIS Education*, University of Illinois, Urbana-Champaign, 2015.  
 
 ## Writing
 
@@ -88,9 +83,23 @@ Although the work of digitizing this collection began before I arrived at the Go
 
 - "Literary Maps" slideshow for the ET2 Digital Displays.
 
-### Presentation Slideshows
+## Projects
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/cWLGUlJFicfS0G" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryanprandall/ryan-lised-symp" title="LIS Education and New Conceptions of Democracy" target="_blank">LIS Education and New Conceptions of Democracy</a> </strong> from <strong><a href="//www.slideshare.net/ryanprandall" target="_blank">ryanprandall</a></strong> </div>  
+### Raincross Underground  
 
-- [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)
-*2015 Symposium on LIS Education*, University of Illinois, Urbana-Champaign, 2015.  
+![Raincross Underground Babyhead Image](/images/raincross-underground.jpg)  
+
+Begun for my Digital Libraries class with John Walsh, [Raincross Underground](http://raincrossunderground.omeka.net/) is an [Omeka](http://omeka.org/) site with items from a Riverside, CA creative scene that existed during the early 2000s. It includes images, sounds, and TEI markup of songs from a band I was in.
+
+### Bloomington City Directories Finding Guide
+
+![Bloomington City Directories Finding Guide](/images/bloomington-city-directories.jpg)
+
+Making the [Bloomington City Directories Finding Guide](http://libraries.iub.edu/guide-bloomington-city-directories) began with an inventory of the various directories held by the Herman B Wells Library. Then I had to decide the best way to organize and present this information to our patrons. Finally, I wrote the html code to inclue the guide on the website.  
+
+### Indiana Historical Maps Digital Collection
+
+![IHMDC](/images/indiana-historic-maps-screenshot.jpg)
+
+Although the work of digitizing this collection began before I arrived at the Government Documents, Maps, and Microform Services department, the [Indiana Historical Maps Digital Collection](http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073) project took the bulk of my first year there. A large part of my role as the Maps Graduate Assistant involved digitizing and adding maps to this collection, as well as determining, adding, and standardizing appropriate metadata like tags that relevant researchers would find useful throughout the collection.
+

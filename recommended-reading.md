@@ -3,7 +3,7 @@ layout: recommended-reading
 permalink: /recommended-reading/
 title: "Recommended Reading"
 modified: 2016-03-06
-tags: []
+tags: [recommended reading]
 image:
    thumb:
 share:
