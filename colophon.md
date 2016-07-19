@@ -27,7 +27,7 @@ Jekyll and GitHub Pages make for a great alternative to [WordPress](https://word
 
 [^jkp]: I'm probably going to make a separate post about all this before long, but until I do, here's a bunch of other useful links for Jekyll things. [Michael Rose's "Going Static"](https://mademistakes.com/articles/going-static/), [Mike Greiling's "Jekyll From Scratch"](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/), & [Barry Clark's "Build a Blog with Jekyll and GitHub Pages"](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) all do the job of introducing Jekyll admirably. [Carl Boettinger's "Learning Jekyll"](http://www.carlboettiger.info/2012/12/30/learning-jekyll.html) and [W. Caleb McDaniel's "Open Notebook History"](http://wcm1.web.rice.edu/open-notebook-history.html) each show how Jekyll- or Git-based sites work well for scholarly notebooks.
 
-[Bigfoot.js](http://www.bigfootjs.com/) provides the fancy pop-up footnotes, [Reveal.js](http://lab.hakim.se/reveal-js/#/) serves as a splendid presentation alternative to PowerPoint or Keynote, & [FontAwesome](http://fontawesome.io) delivers some of the icons throughout the site.
+[Bigfoot.js](http://www.bigfootjs.com/) provides the fancy pop-up footnotes, [Reveal.js](http://lab.hakim.se/reveal-js/#/) serves as a splendid presentation alternative to PowerPoint or Keynote, [FontAwesome](http://fontawesome.io) delivers some of the icons throughout the site, and James Walsh's [Academicons](http://jpswalsh.github.io/academicons/) supplements Font Awesome with the Open Access lock, Academia-dot-edu, and Zotero icons.  
 
 The favicon (currently the little ellipsis in a speech bubble) is by [Scott Lewis](https://thenounproject.com/term/blog/4618/), available with a CC BY-3.0 license from the Noun Project. I cropped and shrunk it into the favicon format.  
 
@@ -43,15 +43,13 @@ For keeping my mental lines of flight somewhat directed, I've developed somethin
 
 Brett Terpstra's [nvALT][nvALT] combines plain text files, [Dropbox](http://www.dropbox.com) sync, and a variety of well-thought features to make it the writing equivalent of the maximal-minimalist, delight-is-in-the-details visual aesthetic that [The Designers Republic™](http://thedesignersrepublic.com/) often use for [Warp Records](http://warp.net/). For those unfamiliar, that means it's *ace*.  
 
-Sam Nguyen's [TextDrop](https://www.textdropapp.com) lets you connect to your Dropbox notes even when you're not on your own device. I almost always have this open in a tab at work to keep a log of what I am doing, will do, and haven been doing.[^hgg]  
-
 [nvALT]: http://brettterpstra.com/projects/nvalt/.
 
 [Dillinger.io](http://dillinger.io/) can't be beat as a ubiquitously available Markdown playground, whether you're just wanting to learn Markdown or if you need to quickly turn your thoughts into various formats and export or save them elsewhere.  
 
-For editing the code, [Atom](https://atom.io/), [Brackets](http://brackets.io/), [TextWrangler](http://www.barebones.com/products/textwrangler/), & [Sublime Text](http://www.sublimetext.com/) all excel in various ways. The first three don't cost anything, and you can evaluate Sublime Text until you decide if it's for you. Jan T. Sott has made a spate of lovely themes, of which I particularly like [Paraíso Dark for Atom](https://github.com/idleberg/atom-paraiso-dark) and [Paraíso Black for TextMate & SublimeText](https://github.com/idleberg/ParaisoBlack.tmTheme).  
+[Atom](https://atom.io/) excels at code editing and general note-taking. It's free, plus there are many extensions and themes. Since I rely a lot on Github-Flavored Markdown for both website making and bullet-journal style notes, I've swapped out the stock Markdown package for David van Gemeren's [language-markdown](https://atom.io/packages/language-markdown) and [minimal-syntax-dark](https://atom.io/themes/minimal-syntax-dark). If you're not that into the whole Markdown thing and just want a code editor that can make the pretty, Jan T. Sott has crafted a spate of lovely themes. I particularly enjoy his [Paraíso Dark for Atom](https://github.com/idleberg/atom-paraiso-dark).   
 
-For longer writing and task management, I use an odd duckling of a program called [FoldingText](http://www.foldingtext.com/) that combines aspects of an outliner with a Markdown previewing editor. Jesse Grosjean's making a version of [FoldingText for Atom](http://www.foldingtext.com/foldingtext-for-atom/about/), so keep an eye on that if you're interested on where it's going.
+I use different Dropbox accounts for my personal and work files. Since I move between two campuses and a few different computers at my library, I access these to-do files through [CodeAnywhere](http://codeanywhere.com). It's not quite as favorite as Atom, but it's the best cloud-based editor I've found that integrates easily with Dropbox. If you're like me and save your Markdown files as `.txt` 'cause they're just text files, you might encounter an error where CodeAnywhere doesn't want to render them as markdown. I've found that if you just save a single file as `.md` in your directory, that's enough to convince their interface to theme Markdown appropriately.   
 
 ### Link Conventions
 
