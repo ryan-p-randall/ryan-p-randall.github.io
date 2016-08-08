@@ -344,8 +344,7 @@ $button-size: 1.5rem;
 		margin-bottom: 0;
 	}
 	p {
-		font-size: 80%;
-		font-style: italic;
+		font-size: 90%;
 	}
 	a, a:hover {
 		border-bottom: 0 solid transparent;
@@ -356,7 +355,7 @@ $button-size: 1.5rem;
 .author-social {
   display: block;
   margin-bottom: 5px;
-  @include font-rem(14);
+  @include font-rem(16);
   color: $black;
   &:visited {
     color: $black;
