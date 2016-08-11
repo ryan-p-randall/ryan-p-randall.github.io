@@ -47,7 +47,8 @@
         {% if page.share == true %}{% include _social-share.html %}{% endif %}
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
         <p class="byline"> 
-        Comments? Let me know what you think via Twitter. <a href="https://twitter.com/share" class="twitter-share-button" data-via="foureyedsoul">Tweet</a>
+        Comments? Let me know what you think using this form. Or reach out on Twitter. <a href="https://twitter.com/share" class="twitter-share-button" data-via="foureyedsoul">Tweet</a>
+        {% include _staticmanform.html %}
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
         </br>
         <span class="entry-tags">Tags for this post: {% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" class="btn-tag" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&there4;&nbsp;{% endunless %}{% endfor %}</span>
@@ -62,6 +63,7 @@
          </p>
       </footer>
     </div><!-- /.article-wrap -->
+
   {% if site.owner.disqus-shortname and page.comments == true %}
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
   {% endif %}

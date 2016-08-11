@@ -79,5 +79,15 @@ owner:
   flickr: #username
   codepen: #username
 
+staticman:  
+  allowedFields: ['name', 'email', 'comment']  
+  branch: 'gh-pages'  
+  filename: entry{@timestamp}  
+  format: 'yaml'  
+  moderation: true  
+  path: _data/posts/{options.post-slug}  
+  requiredFields: ['name', 'comment']  
+  
+
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "LICENSE", "README.md"]
