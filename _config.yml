@@ -81,7 +81,7 @@ owner:
 
 staticman:  
   allowedFields: ['name', 'email', 'message']  
-  branch: gh-pages  
+  branch: master  
   commitMessage: "Moderation is under way, friendly human."
   filename: "entry{@timestamp}"  
   format: yaml  
