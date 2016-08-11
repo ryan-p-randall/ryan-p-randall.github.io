@@ -81,11 +81,12 @@ owner:
 
 staticman:  
   allowedFields: ['name', 'email', 'comment']  
-  branch: 'gh-pages'  
-  filename: entry{@timestamp}  
-  format: 'yaml'  
+  branch: gh-pages  
+  commitMessage: "Moderation is under way, friendly human."
+  filename: "entry{@timestamp}"  
+  format: yaml  
   moderation: true  
-  path: _data/posts/{options.post-slug}  
+  path: "_data/posts/{options.post-slug}"  
   requiredFields: ['name', 'comment']  
   
 
