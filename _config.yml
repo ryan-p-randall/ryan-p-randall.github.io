@@ -84,7 +84,7 @@ staticman:
   branch: master  
   commitMessage: "Moderation is under way, friendly human."
   filename: "entry{@timestamp}"  
-  format: yaml  
+  format: yml  
   moderation: true  
   path: "_data/posts/
   requiredFields: ['name', 'message']
