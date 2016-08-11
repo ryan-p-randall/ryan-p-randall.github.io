@@ -62,7 +62,7 @@
      </form></p><!--/ comments form -->
       <!-- comments results here -->  
       <div class="js-comments">
-	{% assign comments = site.data.posts | {{ page.title }} %}
+	{% assign comments = site.data.posts.{{ page.title }} %}
 	
 	{% for comment in comments reversed %}
 		{% assign commentData = comment[1] %}
