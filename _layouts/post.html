@@ -48,38 +48,9 @@
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
         <p class="byline"> 
         <!-- comments form here -->  
-        Comments? Let me know what you think using this form. Or reach out on Twitter. <a href="https://twitter.com/share" class="twitter-share-button" data-via="foureyedsoul">Tweet</a>
-        <form method="POST" action="https://api.staticman.net/v1/entry/ryan-p-randall/ryan-p-randall.github.io/master">
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-        <label for="fields[name]">Your name</label>
-        <input name="fields[name]" type="text">
-        <label for="fields[email]">Your email</label>
-        <input name="fields[email]" type="email">
-        <label for="fields[message]">Your comments, corrections, fist-bumbs, and/or etc.</label>
-        <input type="hidden" name="options[post-slug]" value="{{ page.title }}">
-        <textarea name="fields[message]"></textarea>
-        <button type="submit">Do the thing! (aka "Submit!")</button>
-     </form></p><!--/ comments form -->
-      <!-- comments results here -->  
-      <div class="js-comments">
-{% capture post_slug %}{{ page.title }}{% endcapture %}
-{% if site.data.comments[post_slug] %}
-         {% assign comments = site.data.comments[post_slug] | sort %}
-         
-         {% for comment in comments %}
-            {% assign name = comment[1].name %}
-            {% assign url = comment[1].url %}
-            {% assign date = comment[1].date %}
-            {% assign message = comment[1].message %}
-
-            <div class="comment__content-wrapper">
-		<h3 class="comment__author">
-
-				{{ include.name }}
-		</h3>		{{ include.message }}
-	</div>
-         {% endfor %}
-      {% endif %}
+        {% if site.comments.provider and page.comments %}
+          {% include comments.html %}
+        {% endif %}
 </div><!-- /comments results --> 
 <p class="byline">
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
