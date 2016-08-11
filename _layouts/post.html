@@ -62,17 +62,38 @@
      </form></p><!--/ comments form -->
       <!-- comments results here -->  
       <div class="js-comments">
-	
-	{% for comment in https://github.com/ryan-p-randall/ryan-p-randall.github.io/tree/master/_data/posts/ {{ page.title }} %}
+{% capture post_slug %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}{% endcapture %}
+{% if site.data.posts[post_slug] %}
+         {% assign comments = site.data.posts[post_slug] | sort %}
+         
+         {% for comment in comments %}
+            {% assign email = comment[1].email %}
+            {% assign name = comment[1].name %}
+            {% assign url = comment[1].url %}
+            {% assign date = comment[1].date %}
+            {% assign message = comment[1].message %}
 
-		<article class="comment">
-		    <h4 class="comment__title">{{ commentData.title }}</h4>
-		  	<p><strong>Comment by: </strong>{{ commentData.name }}</p>
-		    <p><strong>Comment:</strong>
-		      {{ commentData.comment) }}
-		    </p>
-		</article></br>
-	{% endfor %}
+            <div class="comment__content-wrapper">
+		<h3 class="comment__author">
+			{% if (include.url) and (include.url != '@url') %}
+				<a rel="nofollow" href="{{ include.url }}">{{ include.name }}</a>
+			{% else %}
+				{{ include.name }}
+			{% endif %}
+		</h3>
+		<p class="comment__date">
+			{% if include.date %}
+				{% if include.index %}<a href="#comment{{ include.index }}">{% endif %}
+				{% include helpers/format-date.html date=include.date time=true %}
+				{% if include.index %}</a>{% endif %}
+			{% else %}
+				<em>This is a preview of your comment. It may take a couple of minutes for it to be displayed to others.</em>
+			{% endif %}
+		</p>
+		{{ include.message }}
+	</div>
+         {% endfor %}
+      {% endif %}
 </div><!-- /comments results --> 
 <p class="byline">
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
