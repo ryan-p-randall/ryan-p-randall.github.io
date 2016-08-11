@@ -47,6 +47,7 @@
         {% if page.share == true %}{% include _social-share.html %}{% endif %}
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
         <p class="byline"> 
+        <!-- comments form here -->  
         Comments? Let me know what you think using this form. Or reach out on Twitter. <a href="https://twitter.com/share" class="twitter-share-button" data-via="foureyedsoul">Tweet</a>
         <form method="POST" action="https://api.staticman.net/v1/entry/ryan-p-randall/ryan-p-randall.github.io/master">
   <!-- e.g. "2016-01-02-this-is-a-post" -->
@@ -58,7 +59,26 @@
         <input type="hidden" name="options[post-slug]" value="{{ page.title }}">
         <textarea name="fields[message]"></textarea>
         <button type="submit">Do the thing! (aka "Submit!")</button>
-      </form>
+     </form><!--/ comments form -->
+      <!-- comments results here -->  
+      <div class="js-comments">
+	{% assign comments = site.data.posts | sort %}
+	
+	{% for comment in comments reversed %}
+		{% assign commentData = comment[1] %}
+
+		<article class="comment">
+		  <div class="comment__title">
+		    <h4 class="comment__title">{{ commentData.title }}</h4>
+		  </div>
+		  <div class="mdl-card__supporting-text">
+		  	<p><strong>Comment by: </strong>{{ commentData.name }}</p>
+		    <p><strong>Comment:</strong>
+		      {{ commentData.comment) }}
+		    </p>
+		</article>
+	{% endfor %}
+</div><!-- /comments results --> 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
         </br>
         <span class="entry-tags">Tags for this post: {% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" class="btn-tag" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&there4;&nbsp;{% endunless %}{% endfor %}</span>
