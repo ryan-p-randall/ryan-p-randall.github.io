@@ -62,7 +62,7 @@
      </form></p><!--/ comments form -->
       <!-- comments results here -->  
       <div class="js-comments">
-{% capture post_slug %}{{ page.title | slugify }}{% endcapture %}
+{% capture post_slug %}{{ page.title }}{% endcapture %}
 {% if site.data.comments[post_slug] %}
          {% assign comments = site.data.comments[post_slug] | sort %}
          
@@ -74,14 +74,9 @@
 
             <div class="comment__content-wrapper">
 		<h3 class="comment__author">
-			{% if (include.url) and (include.url != '@url') %}
-				<a rel="nofollow" href="{{ include.url }}">{{ include.name }}</a>
-			{% else %}
+
 				{{ include.name }}
-			{% endif %}
-		</h3>
-{% include partials/post-comment.html index=forloop.index email=email name=name url=url date=date message=message %}
-		{{ include.message }}
+		</h3>		{{ include.message }}
 	</div>
          {% endfor %}
       {% endif %}
