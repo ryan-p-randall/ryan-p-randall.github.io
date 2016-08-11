@@ -63,17 +63,24 @@
       <!-- comments results here -->  
       <div class="js-comments">
 {% capture post_slug %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}{% endcapture %}
-{% if site.data.posts[post_slug] %}
-         {% assign comments = site.data.posts[post_slug] | sort %}
+{% if site.data.comments[post_slug] %}
+         {% assign comments = site.data.comments[post_slug] | sort %}
          
          {% for post in comments %}
-            {% assign name = post[1].name %}
-            {% assign message = post[1].message %}
+            {% assign name = comment[1].name %}
+            {% assign url = comment[1].url %}
+            {% assign date = comment[1].date %}
+            {% assign message = comment[1].message %}
 
             <div class="comment__content-wrapper">
 		<h3 class="comment__author">
+			{% if (include.url) and (include.url != '@url') %}
+				<a rel="nofollow" href="{{ include.url }}">{{ include.name }}</a>
+			{% else %}
 				{{ include.name }}
+			{% endif %}
 		</h3>
+{% include partials/post-comment.html index=forloop.index email=email name=name url=url date=date message=message %}
 		{{ include.message }}
 	</div>
          {% endfor %}
