@@ -62,7 +62,7 @@
      </form></p><!--/ comments form -->
       <!-- comments results here -->  
       <div class="js-comments">
-{% capture post_slug %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}{% endcapture %}
+{% capture post_slug %}{{ page.title | slugify }}{% endcapture %}
 {% if site.data.comments[post_slug] %}
          {% assign comments = site.data.comments[post_slug] | sort %}
          
