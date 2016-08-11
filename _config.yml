@@ -86,7 +86,7 @@ staticman:
   filename: "entry{@timestamp}"  
   format: yml  
   moderation: true  
-  path: _data/posts/{options.post-slug}
+  path: "_data/posts/"
   requiredFields: ['name', 'message']
   
 
