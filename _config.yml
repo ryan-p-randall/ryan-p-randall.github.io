@@ -80,14 +80,14 @@ owner:
   codepen: #username
 
 staticman:  
-  allowedFields: ['name', 'email', 'message']  
+  allowedFields: ['name', 'email', 'message']
   branch: master  
   commitMessage: "Moderation is under way, friendly human."
   filename: "entry{@timestamp}"  
   format: yaml  
   moderation: true  
   path: "_data/posts/
-  requiredFields: ['name', 'message']  
+  requiredFields: ['name', 'message']
   
 
 include: [".htaccess"]
