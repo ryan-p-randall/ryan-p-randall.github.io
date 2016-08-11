@@ -59,10 +59,10 @@
         <input type="hidden" name="options[post-slug]" value="{{ page.title }}">
         <textarea name="fields[message]"></textarea>
         <button type="submit">Do the thing! (aka "Submit!")</button>
-     </form><!--/ comments form -->
+     </form></p><!--/ comments form -->
       <!-- comments results here -->  
       <div class="js-comments">
-	{% assign comments = site.data.posts{{ page.title }} | sort %}
+	{% assign comments = site.data.posts{{ post.title }} | sort %}
 	
 	{% for comment in comments reversed %}
 		{% assign commentData = comment[1] %}
