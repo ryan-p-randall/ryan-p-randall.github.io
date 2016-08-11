@@ -62,16 +62,13 @@
      </form></p><!--/ comments form -->
       <!-- comments results here -->  
       <div class="js-comments">
-	{% assign comments = site.data.posts.{{ page.title }} %}
+	{% assign comments = site.data.posts.{{ page.title }} | sort %}
 	
 	{% for comment in comments reversed %}
 		{% assign commentData = comment[1] %}
 
 		<article class="comment">
-		  <div class="comment__title">
 		    <h4 class="comment__title">{{ commentData.title }}</h4>
-		  </div>
-		  <div class="mdl-card__supporting-text">
 		  	<p><strong>Comment by: </strong>{{ commentData.name }}</p>
 		    <p><strong>Comment:</strong>
 		      {{ commentData.comment) }}
