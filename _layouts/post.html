@@ -66,7 +66,7 @@
 {% if site.data.comments[post_slug] %}
          {% assign comments = site.data.comments[post_slug] | sort %}
          
-         {% for post in comments %}
+         {% for comment in comments %}
             {% assign name = comment[1].name %}
             {% assign url = comment[1].url %}
             {% assign date = comment[1].date %}
