@@ -62,7 +62,7 @@
      </form></p><!--/ comments form -->
       <!-- comments results here -->  
       <div class="js-comments">
-	{% assign comments = site.data.posts{{ post.title }} | sort %}
+	{% assign comments = site.data.posts{{ page.title }} | sort %}
 	
 	{% for comment in comments reversed %}
 		{% assign commentData = comment[1] %}
@@ -79,6 +79,7 @@
 		</article>
 	{% endfor %}
 </div><!-- /comments results --> 
+<p class="byline">
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
         </br>
         <span class="entry-tags">Tags for this post: {% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" class="btn-tag" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&there4;&nbsp;{% endunless %}{% endfor %}</span>
