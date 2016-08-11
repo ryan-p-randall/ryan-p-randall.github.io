@@ -3,6 +3,8 @@
 title: Ryan P. Randall ∴ Info Fluxus
 locale: en_US
 url: http://ryan-p-randall.github.io
+baseurl:   
+repository: "ryan-p-randall/ryan-p-randall.github.io"
 timezone: America/Boise
 lifespan: 2014–2016
 
