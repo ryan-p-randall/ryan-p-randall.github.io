@@ -1,5 +1,9 @@
 # Thoughts to Remember   
 
+## Site Tweaks   
+
+- [ ] check to see if `<div class="comment__content-wrapper">` is connected to css styles  
+
 ## Possible Posts   
 
 - [ ] Write something about how, whether or not you agree with poststructuralism, it's neither: 
