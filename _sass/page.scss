@@ -600,6 +600,14 @@ $button-size: 1.5rem;
 		}
 }
 
+.comment {
+	@include container;
+	@include clearfix;
+	@media #{$micro} {
+			@include grid(12,12);
+		}	
+}
+
 /* Social sharing links */
 /* Social media brand buttons */
 .social-share {
