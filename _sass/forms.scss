@@ -4,6 +4,7 @@
 
 form {
   margin: 0 0 5px 0;
+  float: left;
 
   fieldset {
     margin-bottom: 5px;
@@ -172,6 +173,7 @@ input[type="hidden"] {
 
 .form {
   position: relative;
+  float: left;
 }
 
 .radio,
