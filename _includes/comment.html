@@ -1,4 +1,4 @@
-<article id="comment{{ include.index }}" class="js-comment comment">
+<div id="comment{{ include.index }}" class="js-comments comment">
   <div class="comment__avatar-wrapper">
     <img class="comment__avatar" src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=80">
   </div>
@@ -19,4 +19,4 @@
     </p>
     {{ include.message | markdownify }}
   </div>
-</article>
+</div>
