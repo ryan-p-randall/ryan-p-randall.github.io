@@ -7,6 +7,8 @@ excerpt: For Week One of &#35;rhizo15, I write about my predilection for researc
 tags: [rhizo15, neutrality, pedagogy, digital humanities]
 image:
   feature:
+published: true
+comments: true
 date: 2015-04-20T22:17:22-04:00
 ---
 

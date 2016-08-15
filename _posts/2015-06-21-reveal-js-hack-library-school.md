@@ -9,6 +9,7 @@ image:
   feature:
   thumb: 
 published: true  
+comments: true  
 date: 2015-06-21T02:38:52-04:00
 ---
 

@@ -7,6 +7,8 @@ excerpt: I write about moderating a &#35;critlib Twitter chat on the constructiv
 tags: [critlib chats, pedagogy, makerspaces]
 image:
   feature:
+published: true
+comments: true
 date: 2015-03-21T19:45:47-04:00
 ---
 

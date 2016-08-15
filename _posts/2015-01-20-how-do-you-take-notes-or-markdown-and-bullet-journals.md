@@ -7,6 +7,8 @@ excerpt: I wrote for Hack Library School about taking notes—the actions, ideas
 tags: [hack library school, markdown, meta, notetaking]
 image:
   feature:
+published: true
+comments: true
 date: 2015-01-20T23:48:34-05:00
 ---
 

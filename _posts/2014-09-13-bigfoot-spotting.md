@@ -7,6 +7,8 @@ excerpt: A post where I describe trying—and thus far, failing—to use Bigfoot
 tags: [meta, tech tools]
 image:
   feature:
+published: true
+comments: true
 date: 2014-09-13T21:38:37-04:00
 ---
 

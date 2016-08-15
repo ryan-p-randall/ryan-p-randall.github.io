@@ -9,6 +9,7 @@ image:
   feature: weekly-assemblage.png
   thumb: weekly-assemblage.png
 published: false
+comments: 
 ---  
 [Weekly Whaaa…?]({% post_url 2016-01-09-weekly-whaaa %})  
 {: .notice}  

@@ -7,6 +7,8 @@ excerpt: For Week One of the Critical Pedagogy MOOC MOOC, I write about Paolo Fr
 tags: [critlib chats, pedagogy, moocmooc, critical theory, featured]
 image:
   feature:
+published: true
+comments: true
 date: 2015-01-25T23:07:23-05:00
 ---
 

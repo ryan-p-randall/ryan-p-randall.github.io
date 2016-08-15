@@ -7,6 +7,8 @@ excerpt: I reflect on how arts & humanities undergraduates are taught critical t
 tags: [critlib chats, pedagogy, method]
 image:
   feature:
+published: true
+comments: true
 date: 2015-06-12T20:00:37-04:00
 ---
 

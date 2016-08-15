@@ -9,6 +9,7 @@ image:
   feature:
   thumb: 
 published: false
+comments: false
 date: 2015-06-30T01:36:08-04:00
 ---
 {% include _toc.html %}

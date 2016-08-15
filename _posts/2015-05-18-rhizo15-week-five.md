@@ -8,6 +8,7 @@ tags: [rhizo15]
 image:
   feature:
 published: false
+comments: false
 date: 2015-05-15T13:52:59-04:00
 ---
 

@@ -7,6 +7,8 @@ excerpt: Kathleen Fitzpatrick and Nicholas Basbanes recently gave talks touching
 tags: [digital libraries, coursework]
 image:
   feature:
+published: true
+comments: true
 date: 2014-11-30T21:35:46-05:00
 ---
 

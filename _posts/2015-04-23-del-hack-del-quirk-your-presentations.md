@@ -7,6 +7,8 @@ excerpt: I wrote for Hack Library School about using quirky results or affordanc
 tags: [hack library school, instructional design & tools, digital humanities]
 image:
   feature:
+published: true
+comments: true
 date: 2015-04-23T18:17:10-04:00
 ---
 

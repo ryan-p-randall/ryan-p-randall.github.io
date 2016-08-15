@@ -7,6 +7,8 @@ excerpt: Week Two of &#35;rhizo15—How we might count the affective aspects of 
 tags: [rhizo15, digital humanities, tech tools]
 image:
   feature:
+published: true
+comments: true
 date: 2015-04-28T22:34:48-04:00
 ---
 

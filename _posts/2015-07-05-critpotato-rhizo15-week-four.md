@@ -9,6 +9,7 @@ image:
   feature:
   thumb:
 published: true
+comments: true
 date: 2015-07-05T16:20:07-04:00
 ---
 This post responds to the prompt for [Week Four](http://rhizomatic.net/2015/05/06/week-4-canshould-we-get-rid-of-the-idea-of-dave-how-do-we-teach-rhizomatically/) of [#rhizo15](http://rhizomatic.net/): "How Do We Teach Rhizomatically?". 

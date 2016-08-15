@@ -7,6 +7,8 @@ excerpt: Still under construction, this post will be about my process of making 
 tags: [coursework, digital humanities, visual culture]
 image:
   feature:
+published: true
+comments: true
 date: 2015-04-02T02:10:24-04:00
 ---
 

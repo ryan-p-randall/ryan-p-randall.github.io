@@ -9,6 +9,7 @@ image:
   feature:
   thumb: 
 published: true
+comments: true
 date: 2015-07-17T20:43:42-04:00
 ---
 I wrote for [Hack Library School about why & how I use Dropbox](http://hacklibraryschool.com/2015/07/16/cloud-storage-dropbox/).   

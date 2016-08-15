@@ -7,6 +7,8 @@ excerpt: Brief reflections on a talk about bringing digital humanities to the re
 tags: [conferences, presentations, digital humanities]
 image:
   feature:
+published: true
+comments: true
 date: 2014-04-08T03:03:15-04:00
 ---
 <br />

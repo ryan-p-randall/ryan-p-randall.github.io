@@ -9,6 +9,7 @@ image:
   feature:
   thumb: bio-photo.jpg
 published: true
+comments: true
 date: 2015-05-17T20:50:53-04:00
 ---
 

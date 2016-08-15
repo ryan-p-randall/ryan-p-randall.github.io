@@ -7,6 +7,8 @@ excerpt: I wrote about critical librarianship and the &#35;critlib chats on Twit
 tags: [critlib chats, hack library school]
 image:
   feature:
+published: true
+comments: true
 date: 2014-12-08T23:47:52-05:00
 link: 
 ---
