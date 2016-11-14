@@ -13,6 +13,7 @@
 - [ ] post on Henry Giroux and critical pedagogies?   
 - [ ] post on Critlib Feelings (Always Room For Improvement Remix)?   
 - [ ] post on Critical Theory 101: It's Not Made By Great Men  
+- [ ] post with instructions for adding Bigfoot.js to a Jekyll site, or at least one that uses this same template  
 
 ## Things for Weekly Assemblages  
 
