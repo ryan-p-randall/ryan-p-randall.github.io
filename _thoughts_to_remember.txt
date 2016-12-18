@@ -2,6 +2,7 @@
 
 ## Site Tweaks   
 
+- [ ] pull in [these improvements for comments](https://github.com/mmistakes/minimal-mistakes/issues/582)  
 - [ ] check to see if `<div class="comment__content-wrapper">` is connected to css styles  
 
 ## Possible Posts   
@@ -14,6 +15,7 @@
 - [ ] post on Critlib Feelings (Always Room For Improvement Remix)?   
 - [ ] post on Critical Theory 101: It's Not Made By Great Men  
 - [ ] post with instructions for adding Bigfoot.js to a Jekyll site, or at least one that uses this same template  
+- [ ] post on _Rhetorical Listening_ book  
 
 ## Things for Weekly Assemblages  
 
