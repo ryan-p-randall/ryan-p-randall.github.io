@@ -32,7 +32,7 @@ Here's a few more that I believe help nuance those and make our answers more cri
 - Does this way of thinking frame people as passive or active?   
 - How is this useful? What does it help us do in the world?  
 
-[^ct]: I don't recall seeing these anywhere in particular; they're sort of a distillation of what I've picked up from various types of what I consider "critical theory," ranging from Cultural Studies to [crimethinc](http://crimethinc.com) to rhetorical analysis.  
+[^ct]: I don't recall seeing these anywhere in particular; they're sort of a distillation of what I've picked up from various types of what I consider "critical theory," ranging from Cultural Studies to various types of activism to rhetorical analysis.  
 
 David Seah's various [productivity tools](http://davidseah.com/productivity-tools/) profoundly help reinforce a practice of reflection. Unlike a lot of people who write about productivity, his site and tools don't trip my spidey sense for boosterism or selling things. He gives the documents away as free downloads! (He does sell pre-printed ones as well.) Instead, between his explanations of the various tools and his own blog about things like his ["groundhog resolutions"](http://davidseah.com/tag/ghdr/), he seems very committed to the idea that review is a (maybe _the?_) path to progress.   
 
