@@ -39,7 +39,7 @@
         <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://api.staticman.net/v1/entry/{{ site.repository }}/{{ site.staticman.branch }}">
          <!-- take out form__spinner  
           <div class="form__spinner">
-            <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+            <i class="fa fa-spinner fa-spin fa-3x fa-fw" aria-hidden="true"></i>
             <span class="sr-only">{{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}</span>
           </div>
        -->  
