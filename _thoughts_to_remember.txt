@@ -2,6 +2,10 @@
 
 ## Site Tweaks   
 
+- [ ] probably update to new Minimal Mistakes theme over summer  
+- [ ] possibly make website https, mostly using github.io domain  
+  - [ ] see how url would work for this; if can still be constant base domain or if it'd just be a redirect  
+
 - [ ] pull in [these improvements for comments](https://github.com/mmistakes/minimal-mistakes/issues/582)  
 - [ ] check to see if `<div class="comment__content-wrapper">` is connected to css styles  
 
@@ -9,7 +13,21 @@
   - [ ] look at [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/tree/master/_includes)  
   - [ ] follow [this post as necessary](https://mademistakes.com/articles/improving-jekyll-static-comments/)  
 
-## Possible Posts   
+## Posts  
+
+### Next few posts  
+
+- [ ] write quick post on [CSS for MLA and APA Works Cited with Hanging Indents](http://www.jeremiahhenry.com/2014/10/css-mla-apa-style-works-cited-entries/)  
+  - [ ] add bit about liquid / jekyll for starting & ending works cited sections  
+  - [ ] have an example in the text, showing code as well as rendered output  
+
+- [ ] write quick post on using bib snippets in Atom  
+  - [ ] link to my previous post about snippets in Atom  
+  - [ ] link to VukanJ's [bibtext-helper](https://github.com/VukanJ/bibtex-helper), plus Dennis Tenen and Grant Wythoff's [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) lesson  
+  - [ ] explain how to put snippets into snippets file & make sure Atom knows which file type to use them with  
+  - [ ] explain that Atom will likely autointerpret your bib file as YAML, so you need to remember to change that in order for Atom to realize you expect snippets to be expanded in this file  
+
+### Possible Posts   
 
 - [ ] Write something about how, whether or not you agree with poststructuralism, it's neither: 
    - sheer relativism nor  
