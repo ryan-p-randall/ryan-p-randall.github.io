@@ -15,7 +15,7 @@ body {
   background-color: #222; }
 
 .reveal {
-  font-family: "Alegreya Sans", "Lucida Sans Unicode", sans-serif;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 38px;
   font-weight: normal;
   color: #fff; }
@@ -41,7 +41,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #fff;
-  font-family: "Alegreya Sans", "Lucida Sans Unicode", Helvetica, sans-serif;
+  font-family: "Lato", "Lato", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
