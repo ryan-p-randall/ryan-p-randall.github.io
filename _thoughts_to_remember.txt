@@ -1,10 +1,26 @@
 # Thoughts to Remember   
 
+## Site Updates  
+
+- [ ] update `_about-me.html` for 2017-10  
+- [ ] update `cv.md` for 2017-10  
+  - [ ] ILA Unconference  
+  - [ ] ACRLPNW Panel  
+- [ ] update `portfolio.md` for 2017-10  
+  - [ ] ILA Unconference  
+  - [ ] ACRLPNW Panel  
+- [ ] update linked cv file for 2017-10  
+  - [ ] switch it from .docx source to .md source  
+  - [ ] find appropriate LaTeX/Pandoc converter to .pdf  
+  - [ ] ILA Unconference  
+  - [ ] ACRLPNW Panel  
+
 ## Site Tweaks   
 
-- [ ] probably update to new Minimal Mistakes theme over summer  
+- [ ] probably update to new Minimal Mistakes theme over 2018 Summer  
 - [ ] possibly make website https, mostly using github.io domain  
   - [ ] see how url would work for this; if can still be constant base domain or if it'd just be a redirect  
+  - [ ] use Cloudflare CDN?  
 
 - [ ] pull in [these improvements for comments](https://github.com/mmistakes/minimal-mistakes/issues/582)  
 - [ ] check to see if `<div class="comment__content-wrapper">` is connected to css styles  
@@ -20,6 +36,10 @@
 - [ ] write quick post on [CSS for MLA and APA Works Cited with Hanging Indents](http://www.jeremiahhenry.com/2014/10/css-mla-apa-style-works-cited-entries/)  
   - [ ] add bit about liquid / jekyll for starting & ending works cited sections  
   - [ ] have an example in the text, showing code as well as rendered output  
+
+- [ ] post about ILA Conference  
+
+- [ ] post about ACRLPNW  
 
 - [ ] write quick post on using bib snippets in Atom  
   - [ ] link to my previous post about snippets in Atom  
