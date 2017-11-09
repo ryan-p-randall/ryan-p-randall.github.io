@@ -29,7 +29,7 @@ body {
 	margin-bottom: 1em;
 	float: none;
 	display: block;
-	@include font-rem(24);
+	@include font-rem(20);
 	@media #{$small} {
 		@include grid(12,2);
 		@include prefix(12,0.5);
@@ -69,7 +69,7 @@ body {
 		list-style-type: none;
 		border-bottom: 1px solid lighten($black,80);
 		border-bottom: 1px solid fade($black,10);
-		@include font-rem(16);
+		@include font-rem(20);
 		&:last-child {
 			border-bottom: 0 solid transparent;
 		}
@@ -166,7 +166,7 @@ $button-size: 1.5rem;
 }
 // Style the toggle menu link and hide it
 .nav .navtoggle {
-	@include font-rem(18);
+	@include font-rem(20);
 	font-weight: normal;
 	background-color: $black;
 	color: $white;
