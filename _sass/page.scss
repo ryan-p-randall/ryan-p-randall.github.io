@@ -17,7 +17,7 @@ body {
 	padding: 2em 0 0;
 	font-family: $heading-font;
 	font-weight: 700;
-	text-transform: uppercase;
+	text-transform: none;
 	@include clearfix;
 }
 
@@ -480,7 +480,7 @@ $button-size: 1.5rem;
 		padding: 5px 10px;
 		color: $white;
 		@include font-rem(16);
-		text-transform: uppercase;
+		text-transform: none;
 		&:hover {
 			cursor: pointer;
 		}
@@ -643,7 +643,7 @@ $button-size: 1.5rem;
 	  display: block;
 	  padding: 8px 20px;
 	  text-decoration: none !important;
-	  text-transform: uppercase;
+	  text-transform: none;
 	  @include font-rem(14);
 	  font-family: $heading-font;
 	  font-weight: 700;
@@ -663,7 +663,7 @@ $button-size: 1.5rem;
 	h4 {
 		@include font-rem(14);
 		margin-bottom: 10px;
-		text-transform: uppercase;
+		text-transform: none;
 	}
 }
 
@@ -718,7 +718,7 @@ $button-size: 1.5rem;
 		@include suffix(12,3.5);
 	}
 	h4 {
-		text-transform: uppercase;
+		text-transform: none;
 		margin-bottom: 0;
 	}
 	li {
