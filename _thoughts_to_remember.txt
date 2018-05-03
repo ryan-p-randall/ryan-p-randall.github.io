@@ -17,6 +17,7 @@
 
 ## Site Tweaks   
 
+- [ ] add `citation` class, with css for mla-style hanging indent  
 - [ ] probably update to new Minimal Mistakes theme over 2018 Summer  
 - [ ] possibly make website https, mostly using github.io domain  
   - [ ] see how url would work for this; if can still be constant base domain or if it'd just be a redirect  
