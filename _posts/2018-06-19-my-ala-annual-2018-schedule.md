@@ -18,15 +18,15 @@ date: 2018-06-19T11:34:53-07:00
 
 ## #ALAAC2018  
 
-I haven't been to an Annual ALA Conference yet, so it'll be interesting to see how my attention span can hold up to meeting so many people and hearing so many ideas. I've been to a number of smaller conferences, but nothing on this scale.  
+I haven't been to an Annual ALA Conference yet, so it'll be interesting to see how my attention can hold up to meeting so many people and hearing so many ideas. I've been to a number of smaller conferences, but nothing on this scale.  
 
-Building from the [Critical ALA Annual 2018](https://oasis.sandstorm.io/shared/FtfUzJBeY_PW_tNa-1WPCxD-sONAqiUU9X5ZUvC19Dn) list of "sessions of possible interest to critical library workers" made by Eamon Tewell and others, here's a schedule of where I intend to be while in NOLA. I'll do my best to update this throughout the week, so we can try to meet up if you'd like. Message me on [Mastodon](https://scholar.social/@foureyedsoul) or [Twitter](https://twitter.com/foureyedsoul) if you'd like.  
+Building from the [Critical ALA Annual 2018](https://oasis.sandstorm.io/shared/FtfUzJBeY_PW_tNa-1WPCxD-sONAqiUU9X5ZUvC19Dn) list of "sessions of possible interest to critical library workers" made by Eamon Tewell and others, here's a schedule of where I intend to be while in NOLA. I'll do my best to update this throughout the week, so we can try to meet up if you'd like. Messaging me on [Mastodon](https://scholar.social/@foureyedsoul) or [Twitter](https://twitter.com/foureyedsoul) would be great ways to get in touch.  
 
-I'll do my best to always have an _In the Library with the Lead Pipe_ button on my backpack or lanyard to make it easier to spot me. Please feel free to chat about the journal's submission or open peer review processes, talk about ideas you have, or anything else. I'll bring a few buttons with the journal logo's to give away as well.  
+I'll do my best to always have an [_In the Library with the Lead Pipe_](http://www.inthelibrarywiththeleadpipe.org/about/) button on my backpack or lanyard to make it easier to spot me. Please feel free to chat about the journal's submission or open peer review processes, talk about ideas you have, or anything else. I'll bring a few buttons with the journal logo's to give away as well.  
 
 ![logo button]({{site:url}}/images/lpLogoButton.jpg)  
 
-I'll probably also bring a fair number of earplugs. So if you plan to go out dancing or if you see me out somewhere loud, ask and I might have some for you & your ears.  
+I'll probably also bring a small number of earplugs. So if you plan to go out dancing or if you see me out somewhere loud, ask and I might have some for you & your ears.  
 
 ## Group Note-taking > Live Tweeting  
 
@@ -53,7 +53,7 @@ Lastly, please: **if there's a microphone, always use the microphone.**
 
 I'm flying in today—and I wish I could be listening to [KEXP's breakdown of Public Enemy's _It Takes a Nation of Millions to Hold Us Back_](https://www.kexp.org/read/2018/5/10/announcing-public-enemy-album-breakdown/) while in flight. Hopefully they record it or at least spell out the playlist somewhere. _Fear of a Black Planet_ was much more formative for me but I'd love to learn anything I could about the Bomb Squad's production process for any of their albums.  
 
-I might be down for meeting up for vegetarian/vegan food, coffee, or other stuff this evening. Let me know!  
+I might be down to meet up for vegetarian/vegan food, coffee, or other stuff this evening. Let me know!  
 
 ### Friday  
 
