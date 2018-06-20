@@ -41,6 +41,7 @@ The three main things I've learned beyond the Tenen and Whythoff tutorial are:
 1. How to generate & use a reference doc  
 2. How to set the title of your reference section  
 3. That Biblatex allows many optional fields for sources  
+4. Pandoc no longer needs the `--smart` filter  
 
 These things are what I'll cover below.  
 
@@ -68,8 +69,15 @@ To use Pandoc to turn your text file into a Word document, you'll need to open y
 
 In order to 
 
+{>>make the different examples all use the same syntax, or else explain that the syntax can apparently vary; explain that this variability confused me for a while<<}
+{>>try converting to mla to see how it handles `urldate` field, explain what it does if it works correctly<<}
+Current syntax:  
 ```
-$ pandoc -smart --reference-doc=/Users/yoshimi-p-we/Desktop/this-semester/reference-mla.docx -o "Grow-Sound-Tree.docx" "grow-sound-tree.txt  
+pandoc -s cda-theory-paper.txt --filter pandoc-citeproc -o CDA-new-syntax-557pm.docx --reference-doc=rr-apa.docx
+```
+
+```
+$ pandoc -s --reference-doc=/Users/yoshimi-p-we/Desktop/this-semester/reference-mla.docx -o "Grow-Sound-Tree.docx" "grow-sound-tree.txt  
 ```
 
 [^why-txt]: Most people seem to use `.md` or `.markdown` as the file type for their markdown files, but I've tended to just use `.txt`. I think that's because the text editors I initially had to use on iOS for markdown didn't support different file extensions, but I can't remember at this point. I don't care to reduce the interoperability of the files by renaming them all at this point. Plus, to my brain the file _type_ is just plain text, while the _language_ is markdown. Pandoc and all the other markdown tools I use allow you to set which files types should be treated as markdown, so I'll leave that to your own discretion.  
@@ -80,10 +88,8 @@ Pandoc excels at switching between formats. If you're an academic writer, its ma
 
 Let's say that your user name is `debbieGooge` and you're about to submit your article, `cite-it-all-over-me`.[^cite-it-all-over-me] Your files are all on your Mac's desktop and you want the resulting Word document to not just use MLA formatting style, but also have hanging indents and all the other MLA style conventions.  
 
-
-
 ```
-$ pandoc -smart --reference-doc=/Users/debbieGooge/Desktop/reference-mla.docx -o "GoogeSubmission.docx" --filter pandoc-citeproc "cite-it-all-over-me.txt"  
+$ pandoc -s --reference-doc=/Users/debbieGooge/Desktop/reference-mla.docx -o "GoogeSubmission.docx" --filter pandoc-citeproc "cite-it-all-over-me.txt"  
 ```
 
 ### Writing is Alright  
