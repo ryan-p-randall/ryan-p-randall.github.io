@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ALA Annual 2018—My Schedule, Our Notes
+title: "ALA Annual 2018: My Schedule, Our Notes"
 modified:
 categories:
 excerpt: Where I intend to be for ALAAC2018 and how I think we can make group notes.  
