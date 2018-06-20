@@ -79,7 +79,6 @@ In the morning & early afternoon I'll be exploring NOLA and the convention cente
 4:00pm--5:00pm: [Bridging the Gap: Supporting Subject Liaisons to Become Ambassadors for Digital Scholarship in Academic Libraries](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352251) **OR** [Neutrality and Its Discontents: Exploring the Ethics of Librarianship in a Partisan World](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352471)  
 **OR MORE LIKELY**  
 4:30om--5:30pm: [Progressive Librarians Guild Meeting](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380758)  
-
 6:00pm--8:00pm: [GLBT Round Table Social](https://www.facebook.com/events/244714849439515/) **OR** [DSS Social (ACRL DSS)](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380478)  
 8:00pm--??: [Que(e)ry at ALA New Orleans](https://www.facebook.com/events/243039979783985/)  
 
