@@ -36,9 +36,9 @@ If you're interested in helping take group notes—which seem like a more hospit
 
 My plan is to:  
 
-- [ ] make a pad for each session I'll attend (I'm posting this before doing so & will add the links tomorrow)  
-- [ ] give each pad a 1 year lifespan (which anyone can do as they create a pad)  
-- [ ] link to those pads here  
+- [x] make a pad for each session I'll attend @done  
+- [x] give each pad a 1 year lifespan (which anyone can do as they create a pad) @done  
+- [x] link to those pads here @done  
 - [ ] ultimately move our collectively-written notes somewhere else to be determined, such as my site or maybe something like a Sandstorm.io instance for library workers and/or other folks interested in #critlib-type things.[^sandpie]  
 
 [^sandpie]: Making a Sandstorm instance is kind of pie-in-the-sky as a goal for me at the moment, but I can definitely put the notes on my blog at minimum. If you're interested in helping with a Sandstorm instance for library workers, let's talk!  
@@ -59,24 +59,24 @@ I might be down to meet up for vegetarian/vegan food, coffee, or other stuff thi
 
 In the morning & early afternoon I'll be exploring NOLA and the convention center.  
 
-4:00pm--5:30pm: [Opening General Session featuring Michelle Obama](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=405586)  
+4:00pm--5:30pm: [Opening General Session featuring Michelle Obama](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=405586) [etherpad notes](https://pad.riseup.net/p/ALAAC2018Fri0400pm-keep)  
 5:30pm--6:30pm: [Meet the Authors: Mariko Tamaki and Shea Fontana](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=400110) (most likely)  
 
 ### Saturday  
 
-9:00am--10:00am: [Making the Framework Work: Adapting the ACRL Framework for Information Literacy in Community College Library Instruction](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352598)  
-10:30am--11:30am: [Student Learning and Information Literacy Committee Discussion Forum](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380846)  
-1:00pm--2:30pm: [(LIRT) Moving Beyond the Threshold: Next Steps in Critical Information Literacy](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=353518)  
-2:30pm--3:30pm: [Building Inclusion: How Can Research Instruction at Two-Year Colleges Help Students Successfully Transition to the University?](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352254)  
-4:00pm--5:00pm: [New Librarians on the Block: Early Career Librarianship, Management, and Leadership](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352459)  
+9:00am--10:00am: [Making the Framework Work: Adapting the ACRL Framework for Information Literacy in Community College Library Instruction](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352598) [etherpad notes](https://pad.riseup.net/p/CAIs6xumpU3Z-keep)  
+10:30am--11:30am: [Student Learning and Information Literacy Committee Discussion Forum](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380846) [etherpad notes](https://pad.riseup.net/p/hEqgaJDiNPSg-keep)  
+1:00pm--2:30pm: [(LIRT) Moving Beyond the Threshold: Next Steps in Critical Information Literacy](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=353518) [etherpad notes](https://pad.riseup.net/p/kK7pf0E4icCG-keep)  
+2:30pm--3:30pm: [Building Inclusion: How Can Research Instruction at Two-Year Colleges Help Students Successfully Transition to the University?](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352254) [etherpad notes](https://pad.riseup.net/p/ALAAC2018Sat230p-keep)  
+4:00pm--5:00pm: [New Librarians on the Block: Early Career Librarianship, Management, and Leadership](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352459) [etherpad notes](https://pad.riseup.net/p/ALAAC2018Sat0400pm-keep)  
 
 ### Sunday   
 
-9:00am--10:00am: [High Impact Librarianship: A Showcase of Collaborative and Experiential Learning Initiatives](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352608)  
-10:30am--11:30am: [Whiteness in LIS: Tracing its Impact, Mapping Resistance](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352589)  
+9:00am--10:00am: [High Impact Librarianship: A Showcase of Collaborative and Experiential Learning Initiatives](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352608) [etherpad notes](https://pad.riseup.net/p/ALAAC2018Sun0900am-keep)  
+10:30am--11:30am: [Whiteness in LIS: Tracing its Impact, Mapping Resistance](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352589) [etherpad notes](https://pad.riseup.net/p/ALAAC2018Sun1030am-keep)  
 12:00pm--1:00pm: In the Library in the Lead Pipe meet up in the [Networking Uncommons](https://2018.alaannual.org/whats-happening/networking-uncommons)  
-2:30pm--3:30pm: [Breaking Below the Surface of Racism, Whiteness, and Implicit Bias](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352249)  
-4:00pm--5:00pm: [Bridging the Gap: Supporting Subject Liaisons to Become Ambassadors for Digital Scholarship in Academic Libraries](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352251) **OR** [Neutrality and Its Discontents: Exploring the Ethics of Librarianship in a Partisan World](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352471)  
+2:30pm--3:30pm: [Breaking Below the Surface of Racism, Whiteness, and Implicit Bias](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352249) [etherpad notes](https://pad.riseup.net/p/ALAAC2018Sun0230pm-keep)  
+4:00pm--5:00pm: [Bridging the Gap: Supporting Subject Liaisons to Become Ambassadors for Digital Scholarship in Academic Libraries](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352251) [etherpad notes](https://pad.riseup.net/p/ALAAC2018Sun0400pm-keep) **OR** [Neutrality and Its Discontents: Exploring the Ethics of Librarianship in a Partisan World](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352471) [etherpad notes](https://pad.riseup.net/p/ALAAC2018Sun0400pmNeutrality-keep)  
 **OR MORE LIKELY**  
 4:30om--5:30pm: [Progressive Librarians Guild Meeting](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380758)  
 6:00pm--8:00pm: [GLBT Round Table Social](https://www.facebook.com/events/244714849439515/) **OR** [DSS Social (ACRL DSS)](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380478)  
@@ -84,11 +84,11 @@ In the morning & early afternoon I'll be exploring NOLA and the convention cente
 
 ### Monday  
 
-9:00am--10:00am: [Evidence Based Library and Information Practice is…](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352359)  
-10:30am--11:30am: [Buried in a “Dying” Field: Pessimism, Uncertain Futures, and the LIS job search](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352258) **OR** [When to Speak Up, When to Listen: Allyship, Race, and Communication in the Academic Library](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352298) **OR** [Open Education Resources (OER): Where Libraries Are and Where We are Going](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352299)  
-1:00pm--2:00pm: [Effort, Education, Knowledge, Skill and Teaching Recognized: The READ (Reference Effort Assessment Data) Scale at work in Academic, Public & Special Libraries](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352323)  
-4:00pm--5:00pm: [A Library for Everyone: Community Centered Design to Promote Inclusive Librarianship](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352236)  
+9:00am--10:00am: [Evidence Based Library and Information Practice is…](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352359) [etherpad link](https://pad.riseup.net/p/ALAAC2018Mon0900am-keep)  
+10:30am--11:30am: [Buried in a “Dying” Field: Pessimism, Uncertain Futures, and the LIS job search](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352258) [etherpad link](https://pad.riseup.net/p/ALAAC2018Mon1030amLISJobSearch-keep) **OR** [When to Speak Up, When to Listen: Allyship, Race, and Communication in the Academic Library](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352298) [etherpad link](https://pad.riseup.net/p/ALAAC2018Mon1030amAllyshipRace-keep) **OR** [Open Education Resources (OER): Where Libraries Are and Where We are Going](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352299) [etherpad link](https://pad.riseup.net/p/ALAAC2018Mon1030amOER-keep)  
+1:00pm--2:00pm: [Effort, Education, Knowledge, Skill and Teaching Recognized: The READ (Reference Effort Assessment Data) Scale at work in Academic, Public & Special Libraries](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352323) [etherpad link](https://pad.riseup.net/p/ALAAC2018Mon0100pmREADscale-keep)  
+4:00pm--5:00pm: [A Library for Everyone: Community Centered Design to Promote Inclusive Librarianship](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352236) [etherpad link](https://pad.riseup.net/p/ALAAC2018Mon0400pmCommunity-keep)  
 
 ### Tuesday  
 
-10:00am--11:30am: [Closing General Session featuring Viola Davis](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380141)  
+10:00am--11:30am: [Closing General Session featuring Viola Davis](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380141) [etherpad link](https://pad.riseup.net/p/ALAAC2018Tues1000amClosing-ViolaDavis-keep)  
