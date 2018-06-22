@@ -59,6 +59,10 @@ I might be down to meet up for vegetarian/vegan food, coffee, or other stuff thi
 
 In the morning & early afternoon I'll be exploring NOLA and the convention center.  
 
+1:00p--2:00pm:  
+[(NMRT) Annual Conference Orientation](https://www.eventscribe.com/2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380901)  
+[etherpad notes](https://pad.riseup.net/p/ALAAC2018Fri0100pmNewMembers-keep)  
+
 4:00pm--5:30pm:  
 [Opening General Session featuring Michelle Obama](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=405586)  
 [etherpad notes](https://pad.riseup.net/p/ALAAC2018Fri0400pm-keep)  
