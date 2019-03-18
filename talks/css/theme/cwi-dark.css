@@ -304,10 +304,10 @@ body {
     z-index: 10; 
     font-size: 35%;
     text-align:left;
-    background-image: url(../../images/CWI-library-logo.jpg);
+    /* background-image: url(../../images/CWI-library-logo.jpg);
     background-repeat: no-repeat;
     background-size: auto 74%;
-    background-position: 7px 0;
+    background-position: 7px 0; */
     font-family:;
 }
 .reveal footer .copyright{
