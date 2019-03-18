@@ -2,15 +2,15 @@
 layout: page
 permalink: /cv/
 title: "CV"
-modified: 2015-10-11 17:44
+modified: 2019-03-18 16:49
 tags: [cv]
 image:
    thumb:
 share:
 ---
 
-Download a differently-formatted version of this [C.V. as a .pdf](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
-Last updated 2015-10-11.  
+Download an older version of this [C.V. as a .pdf from 2015](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
+Last updated 2019-03-18.  
 {: .notice}
 
 ## Education  
@@ -18,6 +18,9 @@ Last updated 2015-10-11.
 {% include _toc.html %}
 
 <!-- markup clean_ -->
+
+**Idaho State University**, Pocatello, ID  
+*currently enrolled*, Ph.D. Program in English and the Teaching of English  
 
 **Indiana University**, Bloomington, IN  
 *Master of Library Science*, (ALA Accredited) received July 2015  
@@ -51,12 +54,13 @@ Last updated 2015-10-11.
 
 **College of Western Idaho** Nampa, ID  
 
-*Instruction and Outreach Librarian*  
+*Instruction Coordinator and Faculty Outreach Librarian*  
 Library, October 2015–present  
 
 - Coordinate library instruction program, including assessment of student learning and of library instruction sessions  
 - Create instruction materials to support online and in-person library instruction and critical information literacy  
 - Conduct outreach campaigns, programs, and events  
+- Represent the Library at faculty committee meetings  
 
 **Indiana University** Bloomington, IN  
 
@@ -169,26 +173,44 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 - [Graffiti](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  
 - [Guerilla Theatre](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)  
 
-## Library Conference Presentations and Workshops  
+["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053). With Katie Clark, Jane Smith, and Nancy Fried Foster. September 2008. Technical report.  
 
-- “Critical Information Literacy as Collaborative Praxis.” Co-presented with Jessica Critten, Karen Nicholson, and Eamon Tewell. [*Cultural Studies Association Conference*](http://www.culturalstudiesassociation.org/program15), Riverside, CA. 2015.  
-- [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)  
-*2015 Symposium on LIS Education*, University of Illinois, Urbana-Champaign, 2015.  
-[Presentation link.](http://www.slideshare.net/ryanprandall/ryan-lised-symp)  
-- “Undergraduate as Creator, Undergraduate as Curator: Exploring the Role of the Instruction Librarian in the Digital Humanities.” Co-presented with Katherine Ahnberg, Megan Browndorf, and Cynthia Fisher.  
+["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409). With Nancy Friend Foster. September 2007. Technical report.  
+
+## Library Conference Presentations  
+
+- ["ILA Social Justice Committee, Equity, and Libraries."](http://ryanpatrickrandall.com/talks/swila2017)  
+*SWILA (Southwestern Idaho Library Association) Conference*, Meridian, ID, 2017. __Keynote speaker__.  
+[Presentation slides.](http://ryanpatrickrandall.com/talks/swila2017)  
+- ["Productive Interpretations: Encouraging Patron Agency through Cultural Criticism."](https://capalibrarians.org/wp/wp-content/uploads/2016/08/4A_Randall_paper.pdf)  
+[*CAPAL 2016 Conference*](https://capalibrarians.org/capal-conference-2016/), Calgary, AB, Canada, 2016.  
+[Presentation slides and transcript.](http://ryanpatrickrandall.com/talks/capal16/)  
+- “Critical Information Literacy as Collaborative Praxis.”  
+Co-presented with Jessica Critten, Karen Nicholson, and Eamon Tewell.  
+[*Cultural Studies Association Conference*](http://www.culturalstudiesassociation.org/program15), Riverside, CA, 2015.  
+- [“LIS Education and New Conceptions of Democracy.”](https://hdl.handle.net/2142/78057)  
+[*2015 Symposium on LIS Education*](https://lisedsymposium.wordpress.com/refereed-presentations/), University of Illinois, Urbana-Champaign, 2015.  
+[Presentation slides.](http://www.slideshare.net/ryanprandall/ryan-lised-symp)  
+- “Undergraduate as Creator, Undergraduate as Curator: Exploring the Role of the Instruction Librarian in the Digital Humanities.”  
+Co-presented with Katherine Ahnberg, Megan Browndorf, and Cynthia Fisher.  
 *The Collective*, University of Tennessee, Knoxville, 2015.  
 [http://sched.co/233V](http://sched.co/233V)  
-- “Community Building Workshop.” Co-led with Meghan McGrath.  
+- “Community Building Workshop.”  
+Co-led with Meghan McGrath.  
 *Women in Information Science Symposium*, Indiana University, Bloomington, 2014.  
-- “Digital Maps at IU.” Lighting Round talk co-presented with Theresa Quill.  
+- “Digital Maps at IU.”  
+Co-presented with Theresa Quill. Lighting Round talk.  
 *IU Libraries In-House Institute*, Indiana University, Bloomington, 2014.  
-- [“Don’t Know Much About [Digital] Humanities?”](https://github.com/ryan-p-randall/dhreadyreference) Co-presented with Katherine Ahnberg.  
+- [“Don’t Know Much About [Digital] Humanities?”](https://github.com/ryan-p-randall/dhreadyreference)  
+Co-presented with Katherine Ahnberg.  
 *New Directions in Information Fluency*, Augustana College, Rock Island, Illinois, 2014.  
 [Presentation link.](https://github.com/ryan-p-randall/dhreadyreference)  
 
 ## Other Academic Conference Papers Presented  
 
-- “This is a musical instrument. This is another. Combine them. Now perform historical materialism through your band.”: Bricolage and Historical Materialism as Audible in the Altered Instruments of Sonic Youth and Laurie Anderson  
+- "Is a Plant a Document? The Knowledge Practices of Renaissance Natural History, Francis Bacon, and Contemporary Library Science."  
+*Intermountain Graduate Conference*, Pocatello, ID, 2019.  
+- “'This is a musical instrument. This is another. Combine them. Now perform historical materialism through your band.': Bricolage and Historical Materialism as Audible in the Altered Instruments of Sonic Youth and Laurie Anderson"  
 *Popular Culture Association/American Culture Association Conference*, Boston, MA, 2012  
 - “Musical Mutations, Alternative Institutions: A Materialist Cultural Studies Approach to the Early Works of Laurie Anderson and Sonic Youth”  
 *Cultural Studies Association Conference*, San Diego, CA, 2012  
