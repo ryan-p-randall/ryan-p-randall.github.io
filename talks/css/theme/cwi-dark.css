@@ -310,6 +310,10 @@ body {
     background-position: 7px 0; */
     font-family:;
 }
+
+.reveal footer a img{
+    vertical-align: middle;
+}
 .reveal footer .copyright{
     margin:7px 12px 0 70px;
 }
