@@ -1,7 +1,7 @@
 /**
- * cwi-dark theme with CWI colors for reveal.js. Ryan Randall made this based off Hakim El Hattab's "black" theme.
+ * cwi-dark-logo theme with CWI colors and library logo for reveal.js. Ryan Randall made this based off Hakim El Hattab's "black" theme.
  *
- * Copyright (C) 2017 Ryan Randall, http://www.ryanpatrickrandall.com  
+ * Copyright (C) 2019 Ryan Randall, http://www.ryanpatrickrandall.com  
  * Licensed CC-BY-SA (Attribution, Share-alike)  
  */
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
@@ -304,6 +304,7 @@ body {
     z-index: 10; 
     font-size: 35%;
     text-align:left;
+    background-image: url(../../images/CWI-library-logo.jpg);
     background-repeat: no-repeat;
     background-size: auto 74%;
     background-position: 7px 0;
