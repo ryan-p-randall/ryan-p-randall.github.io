@@ -173,9 +173,9 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 - [Graffiti](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  
 - [Guerilla Theatre](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)  
 
-["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053). With Katie Clark, Jane Smith, and Nancy Fried Foster. September 2008. Technical report.  
+["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053) With Katie Clark, Jane Smith, and Nancy Fried Foster. September 2008. Technical report.  
 
-["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409). With Nancy Friend Foster. September 2007. Technical report.  
+["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) With Nancy Friend Foster. September 2007. Technical report.  
 
 ## Library Conference Presentations  
 
