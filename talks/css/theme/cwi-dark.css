@@ -299,7 +299,7 @@ body {
     position: fixed;
     height: 26px;
     width: 100%;
-    bottom: 12px;
+    bottom: 15px;
     left: 0;
     z-index: 10; 
     font-size: 35%;
@@ -318,8 +318,5 @@ body {
 }
 .reveal footer .copyright p {
   margin: .3em .3em;
-}
-.reveal footer .copyright a img {
-    vertical-align: middle;
 }
 .reveal footer span {color: #cccccc;}
