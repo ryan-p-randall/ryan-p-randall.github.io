@@ -295,7 +295,7 @@ body {
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
 
-  .reveal footer{
+  .reveal footer {
     position: fixed;
     height: 26px;
     width: 100%;
@@ -309,10 +309,17 @@ body {
     background-position: 7px 0;
     font-family:;
 }
-.reveal footer .copyright{
-    margin:5px 12px 0 70px;
+.reveal footer .copyright {
+    margin:5px 12px 15px 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
 }
-.reveal footer .copyright a img{
+.reveal footer .copyright p {
+  margin: .3em .3em;
+}
+.reveal footer .copyright a img {
     vertical-align: middle;
 }
 .reveal footer span {color: #cccccc;}
