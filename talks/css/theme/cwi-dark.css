@@ -299,7 +299,7 @@ body {
     position: fixed;
     height: 26px;
     width: 100%;
-    bottom: 15px;
+    bottom: 5px;
     left: 0;
     z-index: 10; 
     font-size: 35%;
@@ -310,7 +310,7 @@ body {
     font-family:;
 }
 .reveal footer .copyright {
-    margin:5px 12px 15px 70px;
+    margin:5px;
     display: flex;
     flex-direction: row;
     justify-content: start;
