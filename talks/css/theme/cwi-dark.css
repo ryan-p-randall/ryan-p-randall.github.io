@@ -310,13 +310,16 @@ body {
     font-family:;
 }
 .reveal footer .copyright {
-    margin:5px;
-    display: flex;
-    flex-direction: row;
-    justify-content: start;
-    align-items: center;
-    vertical-align: middle;
+  margin:5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
 }
+.reveal footer .copyright * {
+  vertical-align: middle;
+}
+
 .reveal footer .copyright p {
   margin: .3em .3em;
 }
