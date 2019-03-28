@@ -177,8 +177,11 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 
 ["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) With Nancy Friend Foster. September 2007. Technical report.  
 
-## Library Conference Presentations  
+## Library Conference Panels and Presentations  
 
+- "Changing Tides: Exploring Current Trends in Information Literacy Programs."  
+Panel with Zoe Fisher, Danielle Rowland, Megan Smithling, and Elizabeth Brown.  
+[*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA  
 - ["ILA Social Justice Committee, Equity, and Libraries."](http://ryanpatrickrandall.com/talks/swila2017)  
 *SWILA (Southwestern Idaho Library Association) Conference*, Meridian, ID, 2017. __Keynote speaker__.  
 [Presentation slides.](http://ryanpatrickrandall.com/talks/swila2017)  

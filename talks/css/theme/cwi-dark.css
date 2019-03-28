@@ -315,6 +315,7 @@ body {
     flex-direction: row;
     justify-content: start;
     align-items: center;
+    vertical-align: middle;
 }
 .reveal footer .copyright p {
   margin: .3em .3em;
