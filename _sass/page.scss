@@ -371,9 +371,9 @@ $button-size: 1.5rem;
 /* comment out to possibly fix focus  &:hover {
     @include scale(1.1);
   } */
-  &:active {
+/*  &:active {
     @include translate(0, 2px);
-  }
+  } */
   .fa {
 		margin-right: 5px;
 	}
