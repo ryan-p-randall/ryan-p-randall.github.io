@@ -42,7 +42,7 @@ a {
 		color: $linkcolorhover;
 	}
 	&:focus {
-		outline: 2px;
+		outline: 5px solid;
 		color: $linkcolorfocus;
 	}
 	&:hover,
