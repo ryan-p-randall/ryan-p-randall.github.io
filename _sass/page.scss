@@ -364,6 +364,9 @@ $button-size: 1.5rem;
   &:visited {
     color: $black;
   }
+  &:focus {
+    outline: 5px solid;
+  }
   &:hover {
     @include scale(1.1);
   }
