@@ -223,7 +223,7 @@ input:focus,
 textarea:focus {
   border-color: $basecolor;
   outline: 0;
-  outline: thin dotted \9;
+  outline: 1rem thick \9;
 }
 
 input[type="file"]:focus,
