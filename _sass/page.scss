@@ -365,7 +365,7 @@ $button-size: 1.5rem;
     color: $black;
   }
   &:focus {
-    outline: 5px solid;
+    outline: 5px solid !imporant;
     z-index: 5;
   }
 /* comment out to possibly fix focus  &:hover {
@@ -385,6 +385,13 @@ $button-size: 1.5rem;
 	.bio-photo {
 		max-width: 110px;
 		@include rounded(150px);
+	}
+	a {
+		color: $link-color;
+		&:focus {
+			outline: 5px solid !important;
+			color: $linkcolorfocus;
+		}
 	}
 	@media #{$small} {
 		display: block;
