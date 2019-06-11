@@ -386,13 +386,13 @@ $button-size: 1.5rem;
 		max-width: 110px;
 		@include rounded(150px);
 	}
-	a {
+/*	a {
 		color: $link-color;
 		&:focus {
 			outline: 5px solid !important;
 			color: $linkcolorfocus;
 		}
-	}
+	} */
 	@media #{$small} {
 		display: block;
 		@include grid(12,2);
