@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Standards and Framework Roundup
 modified:
 categories: 

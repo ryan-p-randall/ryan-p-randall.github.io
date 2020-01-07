@@ -1,13 +1,12 @@
 ---
-layout: post
 title: "Weekly Assemblage 2015 Week 40"
 modified:
-categories:
+categories: [weekly-assemblage]
 excerpt: Starting at the College of Western Idaho & going to the Idaho Library Association 2015 Annual Conference!
 tags: [conferences]
-image:
-  feature: weekly-assemblage.png
-  thumb: weekly-assemblage.png
+header:
+  image: /assets/images/weekly-assemblage.png
+#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-10-10T22:19:26-06:00
 ---

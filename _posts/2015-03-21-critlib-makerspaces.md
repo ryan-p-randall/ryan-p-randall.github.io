@@ -1,20 +1,14 @@
 ---
-layout: post
 title: "#critlib Makerspaces"
 modified:
 categories:
 excerpt: I write about moderating a &#35;critlib Twitter chat on the constructivist potentials and neoliberal downsides of makerspaces, as well as briefly describe the moderation process.
 tags: [critlib chats, pedagogy, makerspaces]
-image:
-  feature:
 published: true
 comments: true
 date: 2015-03-21T19:45:47-04:00
+toc: true
 ---
-
-{% include _toc.html %}
-
-<!-- markdown clean_ -->
 
 ## Friend or Foe?
 

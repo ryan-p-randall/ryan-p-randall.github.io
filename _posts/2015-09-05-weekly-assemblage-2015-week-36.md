@@ -1,15 +1,16 @@
 ---
-layout: post
 title: "Weekly Assemblage 2015 Week 36"
 modified:
-categories:
+categories: [weekly-assemblage]
 excerpt: Reflections on the second  &#035;radlibchat and a Library Freedom Presentation by Alison Macrina.
 tags: [critical theory, privacy]
-image:
-  feature: weekly-assemblage.png
-  thumb: weekly-assemblage.png
+
+header:
+  image: /assets/images/weekly-assemblage.png
+#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true  
 date: 2015-09-05T15:45:03-04:00
+toc: true
 ---
 ## #radlibchat “Librarians’ views on critical theories and critical practices”  
 

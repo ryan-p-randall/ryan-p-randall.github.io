@@ -1,20 +1,14 @@
 ---
-layout: post
 title: "Everything Counts in Affective Amounts"
 modified:
 categories:
 excerpt: Week Two of &#35;rhizo15—How we might count the affective aspects of learning? Also, what potential does Git give us for making open humanities notebooks?
 tags: [rhizo15, digital humanities, tech tools]
-image:
-  feature:
 published: true
 comments: true
 date: 2015-04-28T22:34:48-04:00
+toc: true
 ---
-
-{% include _toc.html %}
-
-<!-- markup clean_ -->
 
 This post is for [Week Two](http://rhizomatic.net/2015/04/22/learning-is-not-a-counting-noun-so-what-should-we-count/) of [#rhizo15](http://rhizomatic.net/).  
 {: .notice}  

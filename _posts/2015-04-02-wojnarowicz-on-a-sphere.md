@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Wojnarowicz on a Sphere"
 modified: 2015-06-28
 categories:

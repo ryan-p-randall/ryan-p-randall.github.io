@@ -1,81 +1,29 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include _head.html %}
-</head>
+---
+layout: archive
+---
 
-<body class="home">
+{{ content }}
 
-{% include _browser-upgrade.html %}
+<h1>About Me</h1>
 
-{% include _navigation.html %}
+{% include about-me.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image of May '68 protest poster reading la lutte continue in French">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
+<h2>Featured Posts</h2>
+{% for post in site.tags.featured %}
+<article>
+{% if post.link %}
+  <h3 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link" aria-hidden="true"></i></h3>
+{% else %}
+  <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+  {{ post.excerpt | markdownify | truncate: 220 }}
 {% endif %}
+</article>
+{% endfor %}
 
-<div class="article-author-side">
-  {% include _author-bio.html %}
-</div>
+<h2>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
-<div id="index">
+{% for post in paginator.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
 
-  <article>
-  
-    <div class="article-wrap">
-
-  {% include _about-me.html %}
-
-    </div><!-- /.article-wrap -->
-</article>  
-
-  <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-  {% for post in site.posts limit:3 %}    
-  <article>
-    {% if post.link %}
-      <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link" aria-hidden="true"></i></h2>
-    {% else %}
-      <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-      {{ post.excerpt | markdownify | truncate: 220 }}
-    {% endif %}
-  </article>
-  {% endfor %}
-
-  <h3>Featured Posts</h3>
-  {% for post in site.tags.featured %}
-  <article>
-  {% if post.link %}
-    <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link" aria-hidden="true"></i></h2>
-  {% else %}
-    <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-    {{ post.excerpt | markdownify | truncate: 220 }}
-  {% endif %}
-  </article>
-  {% endfor %}
-  
-</div><!-- /#index -->
-
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include _scripts.html %}
-
-</body>
-</html>
+{% include paginator.html %}

@@ -1,15 +1,17 @@
 ---
-layout: post
 title: "New Directions in Information Fluency"
-modified: 
+last_modified_at: 
 categories:
-excerpt: Brief reflections on a talk about bringing digital humanities to the reference desk, which I co-presented with Katherine Ahnberg at the New Directions in Information Fluency conference.
-tags: [conferences, presentations, digital humanities]
+  - Blog
+excerpt: "Brief reflections on a talk about bringing digital humanities to the reference desk, which I co-presented with Katherine Ahnberg at the New Directions in Information Fluency conference."
+tags: 
+  - conferences
+  - presentations
+  - digital humanities
 image:
   feature:
 published: true
 comments: true
-date: 2014-04-08T03:03:15-04:00
 ---
 <br />
 On April 4th & 5th, I drove up to Augustana College in Rock Island, Illinois with my friend & colleague [Katherine Ahnberg](http://katherineahnberg.wordpress.com/) for the [New Directions in Information Literacy conference](http://www.augustana.edu/x59440.xml) at Augustana College.  

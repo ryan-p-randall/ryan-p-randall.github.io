@@ -1,13 +1,12 @@
 ---
-layout: post
 title: "Weekly Assemblage 2015 Week 44"
 modified:
-categories:
+categories: [weekly-assemblage]
 excerpt: Halloween at CWI Library (Once Upon a Time); Readings I'm looking forward to; Taught my first library resources session.  
 tags: [outreach]
-image:
-  feature: weekly-assemblage.png
-  thumb: weekly-assemblage.png
+header:
+  image: /assets/images/weekly-assemblage.png
+#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-11-01T19:44:33-07:00
 ---

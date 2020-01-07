@@ -1,20 +1,13 @@
 ---
-layout: post
 title: "ALA Annual 2018: My Schedule, Our Notes"
-modified:
-categories:
-excerpt: Where I intend to be for ALAAC2018 and how I think we can make group notes.  
-tags: [conferences]
-image:
-  feature:  
-  thumb:  
-published: true
-comments:
+last_modified_at:
 date: 2018-06-19T11:34:53-07:00
+excerpt: Where I intend to be for ALAAC2018 and how I think we can make group notes.  
+categories:
+tags: 
+  - conferences
+toc: true
 ---
-
-- Auto generated table of contents  
-{:toc}  
 
 ## #ALAAC2018  
 
@@ -24,7 +17,7 @@ Building from the [Critical ALA Annual 2018](https://oasis.sandstorm.io/shared/F
 
 I'll do my best to always have an [_In the Library with the Lead Pipe_](http://www.inthelibrarywiththeleadpipe.org/about/) button on my backpack or lanyard to make it easier to spot me. Please feel free to chat about the journal's submission or open peer review processes, talk about ideas you have, or anything else. I'll bring a few buttons with the journal logo's to give away as well.  
 
-![logo button]({{site:url}}/images/lpLogoButton.jpg)  
+![logo button]({{site.url}}/images/lpLogoButton.jpg)  
 
 I'll probably also bring a small number of earplugs. So if you plan to go out dancing or if you see me out somewhere loud, ask and I might have some for you & your ears.  
 

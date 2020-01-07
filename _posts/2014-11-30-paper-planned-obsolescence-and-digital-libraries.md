@@ -1,15 +1,13 @@
 ---
-layout: post
 title: "“Paper,” “Planned Obsolescence,” and Digital Libraries"
-modified:
-categories:
-excerpt: Kathleen Fitzpatrick and Nicholas Basbanes recently gave talks touching on practices & situated uses of born-digital and cellulose-fiber materials, respectively. How can this inform digital libraries?
-tags: [digital libraries, coursework]
-image:
-  feature:
-published: true
-comments: true
+last_modified_at:
 date: 2014-11-30T21:35:46-05:00
+excerpt: Kathleen Fitzpatrick and Nicholas Basbanes recently gave talks touching on practices & situated uses of born-digital and cellulose-fiber materials, respectively. How can this inform digital libraries?
+categories:
+tags: 
+  - digital libraries
+  - coursework
+toc: true
 ---
 
 This post was originally an assignment for [John Walsh's](http://biblicon.org/about) "Z652 Digital Libraries" [course](http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS) at IU-Bloomington. 

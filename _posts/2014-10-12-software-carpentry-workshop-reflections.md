@@ -1,18 +1,13 @@
 ---
-layout: post
 title: "Software Carpentry Workshop Reflections"
-modified:
-categories:
-excerpt: Although aimed at scientists, Software Carpentry's workshops offer great learning experience for librarians, digital humanities folks, and anyone looking to work on digital files in groups.
-tags: [digital humanities]
-published: true
-comments: true
-image:
-  feature:
+last_modified_at:
 date: 2014-10-12T22:50:07-04:00
+excerpt: Although aimed at scientists, Software Carpentry's workshops offer great learning experience for librarians, digital humanities folks, and anyone looking to work on digital files in groups.
+categories:
+tags: 
+  - digital humanities
+toc: true
 ---
-{% include _toc.html %}
-<!-- markdown clean_ -->
 
 ## Welcome to the Command Line
 

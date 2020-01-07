@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Bullet Journal Lives Inside the Computer
 modified:
 categories: 

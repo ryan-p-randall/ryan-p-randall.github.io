@@ -1,20 +1,14 @@
 ---
-layout: post
 title: "White Fragility"
 modified:
 categories:
 excerpt: Robin DiAngelo's talk and a book club  
-tags: [conferences]
-image:
-  feature:  
-  thumb:  
+tags: 
+  - conferences
+toc: true
 published: false
-comments:
 date: 2019-02-09T11:34:53-07:00
 ---
-
-- Auto generated table of contents  
-{:toc}  
 
 ### Slides from DiAngelo's Talk  
 

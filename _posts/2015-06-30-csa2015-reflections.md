@@ -1,19 +1,14 @@
 ---
-layout: post
 title: "'Another University is Possible': Cultural Studies Association Conference 2015 Reflections"
 modified:
 categories:
 excerpt: The Cultural Studies Association 2015 conference was stellar—here are some highlights.
 tags: [conferences, critical information literacy]
-image:
-  feature:
-  thumb: 
 published: false
 comments: false
 date: 2015-06-30T01:36:08-04:00
+toc: true
 ---
-{% include _toc.html %}
-<!-- markdown clean_ -->
 
 Held this year in Riverside, CA—my former hometown—the 2015 Cultural Studies Association conference had a bumper crop of highlights.  
 

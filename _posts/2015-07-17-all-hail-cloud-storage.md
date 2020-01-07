@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "All Hail Cloud Storage"
 modified:
 categories:
 excerpt: Dropbox has both saved me from computer problems and helped me work more ubiquitously, so I sang the praises of it and other cloud storage at Hack Library School.
 tags: [hack library school, markdown, meta, tech tools]
-image:
-  feature:
-  thumb: 
 published: true
 comments: true
 date: 2015-07-17T20:43:42-04:00

@@ -666,7 +666,8 @@ $button-transition-properties:      background-color !default;
     // TEXT
     font-size: $button-height*0.6;
     font-weight: bold;
-    color: rgba($button-color, 0.5);
+    color: #ff6600;
+// originally:   color: rgba($button-color, 0.5);
 
     // TRANSITIONS
     transition: color $popover-transition-default-duration $popover-transition-default-timing-function;

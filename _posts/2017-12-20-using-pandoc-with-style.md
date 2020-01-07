@@ -1,26 +1,17 @@
 ---
-layout: post
 title: Using Pandoc With Style
-modified:
+last_modified_at:
 categories:
 excerpt: Writing is hard. Pandoc can make citation and document formatting alright.  
 tags: [tech tools, tools for thinking, infrastructure]
-image:
-  feature:  
-  thumb:  
 published: false
-comments:
 date: 2017-12-20T11:34:53-07:00
 ---
-
 I'm figuring all this out by doing, so I don't mean to present this as authoritative. If I've gotten anything wrong or left out any steps, please [get in touch on Twitter](http://twitter.com/foureyedsoul) or leave a comment right here.  
 {: .notice}  
 
 ### Contents  
 {:.no_toc}  
-
-- Auto generated table of contents  
-{:toc}  
 
 ### Writing is Hard  
 

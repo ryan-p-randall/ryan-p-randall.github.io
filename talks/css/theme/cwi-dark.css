@@ -254,6 +254,7 @@ body {
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
+/* commented out   
 .reveal .controls .navigate-left,
 .reveal .controls .navigate-left.enabled {
   border-right-color: #780000; }
@@ -282,6 +283,11 @@ body {
 .reveal .controls .navigate-down.enabled:hover {
   border-top-color: #2c0000; }
 
+*/
+
+  .reveal .controls button {
+    color: #eeb111;
+}
 /*********************************************
  * PROGRESS BAR
  *********************************************/

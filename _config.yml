@@ -1,87 +1,116 @@
-# Site wide configuration
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Ryan P. Randall ∴ Info Fluxus
-locale: en_US
-url: http://ryan-p-randall.github.io
-baseurl: http://www.ryanpatrickrandall.com
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+locale: "en-US"
+title: "Ryan P. Randall"
+title_separator: "—"
+subtitle:
+name: "Ryan P. Randall"
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  "Ryan P. Randall's website, Ph.D. student, and community college librarian blog"
+url: "http://ryanpatrickrandall.com"
+baseurl: ""
 repository: "ryan-p-randall/ryan-p-randall.github.io"
-timezone: America/Boise
-lifespan: 2014–2019
+lifespan: 2014-2020
+teaser:  
+logo:  
+masthead_title: 
+breadcrumbs: true  
+words_per_minute: 160  
+comments:  
+  provider: false # "utterances"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+twitter_username: foureyedsoul
+github_username: ryan-p-randall
+minimal_mistakes_skin: dark-custom
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : true # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
 
-# Jekyll configuration
-
-permalink: /:year/:title/
+# Build settings
 markdown: kramdown
-syntax_highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+  - _sass
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
-  - jekyll/scholar
   - jekyll-gist
-  - rouge
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-kramdown:
-  auto_ids: true
-  input: GFM
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-     default_lang: html
-
-# Octopress
-
-# Default extensions
-post_ext: md
-page_ext: md
-
-# Found in _templates/
-post_layout: post
-page_layout: page
-
-# Format titles with titlecase?
-titlecase: true
-
-# Site owner
-owner:
-  name: Ryan P. Randall
-  avatar: bio-photo.jpg
-  bio: "Instruction Coordinator & Faculty Outreach Librarian at the College of Western Idaho ∴ Literary, media & cultural studies ∴ Web Editor at In the Library with the Lead Pipe ∴ Sous les pavés, la plage ∴ We are, as always, stubborn, stoked, and petrified - GY!BE"
-  email:
-  disqus-shortname:
-  mastodon: foureyedsoul
+author:
+  name   : "Ryan P. Randall"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Instruction Coordinator & Faculty Outreach Librarian at the College of Western Idaho ∴ Literary, media, & cultural studies ∴ Web Editor at In the Library with the Lead Pipe. ∴ Another world is possible."
+  location: "Boise, Idaho"
+#  uri: http://www.ryanpatrickrandall.com
   twitter: foureyedsoul
-  facebook: #username
-  google:
-    plus: #username
-    analytics: #UA-49717180-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
   github: ryan-p-randall
-  leadpipe: about/editorial-board/ryan-randall/
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: foureyedsoul
-  lastfm: foureyedsoul
-  tumblr: foureyedsoul
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  goodreads: 2077359-ryan
-  soundcloud: foureyedsoul
-  zotero: ryanprandall
-  academia: ryanrandall
-  youtube: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+# links:
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://www.ryanpatrickrandall.com/mm-github-pages-starter"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/foureyedsoul"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/ryan-p-randall"
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
+
+footer:
+  # links:
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/"
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -89,37 +118,25 @@ defaults:
       path: ""
       type: posts
     values:
-      comments: false
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
-comments:
-  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "LICENSE", "README.md"]
+# scripts

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "critlib &#35;feelings"
 modified:
 categories:
@@ -10,6 +9,7 @@ image:
   thumb:
 published: true
 date: 2015-12-13T10:46:03-07:00
+toc: true
 ---
 This is a post for the upcoming #critlib chat: "[#feelings](http://critlib.org/feelings/)".  
 {: .notice}

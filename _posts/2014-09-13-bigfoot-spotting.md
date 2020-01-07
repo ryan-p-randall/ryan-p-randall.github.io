@@ -1,15 +1,12 @@
 ---
-layout: post
 title: "Bigfoot Spotting and Other Jekyll Adventures"
-modified: 2015-05-31
-categories: 
-excerpt: A post where I describe trying—and thus far, failing—to use Bigfoot.js to make footnotes more engaging in a Jekyll/GitHub Pages blog. I'll revisit this soon to give it another try.
-tags: [meta, tech tools]
-image:
-  feature:
-published: true
-comments: true
+last_modified_at: 2015-05-31
 date: 2014-09-13T21:38:37-04:00
+excerpt: A post where I describe trying—and thus far, failing—to use Bigfoot.js to make footnotes more engaging in a Jekyll/GitHub Pages blog. I'll revisit this soon to give it another try.
+categories: 
+tags: 
+  - meta
+  - tech tools
 ---
 
 Here's a test of [Bigfoot.js](http://www.bigfootjs.com/), a rather awesome addition to the web. [^bgft] (edit: It'll remain elusive, see footnote #2.)[^bgftfail] (edit &#8470; 2: I've gotten it to work, as of 2015-05-31! It *wasn't* an issue with Jekyll or GitHub Pages, but rather with my understanding of how Jekyll & GitHub plugins work. Once I realized that, it just took some more tinkering to get the appropriate JavaScript calls and SCSS things working.)  

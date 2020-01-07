@@ -1,16 +1,13 @@
 ---
-layout: post
 title: Critical Reflection &#35;critlib chat
 modified:
 categories: 
 excerpt: Critical reflection questions I ask myself and tools I find useful.
 tags: [critlib chats, tools for thinking]
-image:
-  feature:
-  thumb:
 published: true
 comments:
 date: 2016-12-18T00:20:10-07:00
+toc: true
 ---
 
 Here's a post in preparation for the ["Critical Reflection" #critlib chat](http://critlib.org/critical-reflection-chat/) moderated by Lisa Hubbell.

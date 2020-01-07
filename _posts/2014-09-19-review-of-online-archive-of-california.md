@@ -1,21 +1,18 @@
 ---
-layout: post
 title: "Review of Online Archive of California"
-modified:
-categories:
-excerpt: The Online Archive of California lies somewhere between a finding aid and a digital library—and is a huge boon to researchers that would be worth emulating elsewhere.
-tags: [digital humanities, coursework]
-published: true
-comments: true
-image: 
-  feature: 
 date: 2014-09-19T23:55:19-04:00
+last_modified_at:
+excerpt: The Online Archive of California lies somewhere between a finding aid and a digital library—and is a huge boon to researchers that would be worth emulating elsewhere.
+categories:
+tags: 
+  - digital humanities 
+  - coursework
 ---
 
 This post was originally an assignment for [John Walsh's](http://biblicon.org/about) "Z652 Digital Libraries" [course](http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS) at IU-Bloomington. 
 {: .notice}  
 
-![Banner image of Online Archive of California's logo and search bar.]({{site:url}}/images/OAC_Banner.png)
+![Banner image of Online Archive of California's logo and search bar.]({{site.url}}/images/OAC_Banner.png)
 
 A fantastic clearing house of information about Californian collections, the [Online Archive of California](http://www.oac.cdlib.org/) serves as a centralized set of links to and descriptions of an enormous number of collections from various archives, historical societies, libraries, museums, and special collections in California, including each campus of the University of California. According to the OAC's about page, this makes for over 200 contributing institutions, more than 20,000 online collection guides, and more than 220,000 digital images and documents.[^about] Administered by the Digital Special Collections program of University of California's California Digital Library (CDL), the Collection aims to increase the ease with which collections held throughout a variety of Californian institutions can be found by researchers. In addition to increasing this "findability," the Archive benefits the involved member institutions by giving access to a variety of tools, services, and training from the OAC, as well as by expanding grant opportunities as a result of the partnership with the CDL.   
 
@@ -23,7 +20,7 @@ As a project, the OAC goes back to a prototype finding aid standard made in 1993
 
 This Digital Special Collections team includes six people: a "Director," "Technical Lead," "Program Coordinator," "Contributor Support Specialist," "Programmer Analyst," and "Data Consultant." It appears that five work in Oakland and one in San Diego. Although the team does not list every member's background, their previous experience appears to vary in precisely the way that seems common to digital humanities/digital libraries work: Catherine Mitchell, the Director, has a Ph.D. in English Literature from UC Berkeley and was previously the Web Director at the Commonwealth Club of San Francisco; Brian Tingle, the Technical Lead, received a B.S. in Ecology, Behavior, & Evolution from UC San Diego and has worked from the UC Libraries since 1996; and Adrian Turner, the Data Consultant, earned an M.L.I.S. from UCLA and an M.A. from UC Santa Cruz and has worked as an archivist and manuscripts processor at UC Irvine Special Collections and Archives, among other places.[^OAC_DSC_folks] The OAC has a broad focus, taking any collection held by a Californian archive, college, historical society, library, museum, special collection, or university as its subject. As shown in the image below, content in the OAC is browsable by institution, by collection, and by location on a map—the last of which must be particularly useful to visiting researchers unfamiliar with the size and geography of California.   
 
-![OAC browse functions—especially geography!]({{site:url}}/images/Online_Archive_of_California_-_Browse_Map.png)  
+![OAC browse functions—especially geography!]({{site.url}}/images/Online_Archive_of_California_-_Browse_Map.png)  
 
 Not surprisingly, considering its history as a means of testing the Encoded Archival Description (EAD) metadata standard, the OAC uses EAD extensively. As of July 2008, the site allows for searches across MARC records and EAD through a single search system.[^OAChist] According to its [technical information page](http://www.cdlib.org/services/access_publishing/dsc/technical.html), the Metadata Encoding and Transmission Standard (METS) and the Archival Resource Key (ARK) schema are also used for the content in the repository shared by the OAC and Calisphere.[^OACtech] The Archive makes its metadata records available for other aggregators through [OAI-PMH](http://www.cdlib.org/services/access_publishing/dsc/contribute/oai_pmh.html).[^OAIPMH] The project began in part to test EAD, but the MARC records (specifically MARC21) that were later integrated likely preceded the OAC. It's unclear how these records were converted to digital format when and if it was necessary.   
 
@@ -31,7 +28,7 @@ According to the ["Calisphere and OAC Technical Information"](http://www.cdlib.o
 
 The OAC aims to aid "research-oriented users who want to go beyond what is available online and locate the actual, physical item," whereas its sibling Calisphere draws from the same digital content to serve a website targeting "users whose primary interest is to view digitized images and documents."[^Calisphere] Searches can be performed from a single bar, which then allows limiters to be placed on the results. Results can be ordered by relevance and title, with limits available by institution, by date (to the decade), and whether online items are available (i.e. images or text beyond the OAC's description). The OAC seems to place an equal emphasis on browsing, for its landing page highlights that the Archive can be browsed by institution, collection, and map. Not only are these functions accessible from a menu bar across the top, but the visitor will immediately recognize these capabilities because they present themselves in three columns, already populated with information (see image below).      
 
-![Image of OAC's landing page with three columns of browsing functions.]({{site:url}}/images/OAC_Landing.png)  
+![Image of OAC's landing page with three columns of browsing functions.]({{site.url}}/images/OAC_Landing.png)  
 
 In a section of [its "Help" page,](http://www.oac.cdlib.org/help/#publication) the OAC clarifies what users may do with materials they find through the Archive.[^OACHelp] The OAC alerts users to the fact that copyright may pertain to the Archive's materials and that it neither owns nor houses any of the listed materials. The OAC then refers users to the institution housing the relevant collection, noting that each collection guide contains a link to contact information at the top.   
 

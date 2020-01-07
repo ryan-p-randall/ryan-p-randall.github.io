@@ -1,15 +1,15 @@
 ---
-layout: post
 title: "Weekly Assemblage 2015 Week 42"
 modified:
-categories:
+categories: [weekly-assemblage]
 excerpt: Live! Real! Humans! (in the Classroom); Code Camps, the "Californian Ideology," & Higher Ed's Purpose; Open Access & "The Library of Forking Paths."  
 tags: [critical information literacy, pedagogy]
-image:
-  feature: weekly-assemblage.png
-  thumb: weekly-assemblage.png
+header:
+  image: /assets/images/weekly-assemblage.png
+#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-10-18T21:08:13-06:00
+toc: true
 ---
 ## Crissinger's "Being 'Human' in the Classroom"  
 

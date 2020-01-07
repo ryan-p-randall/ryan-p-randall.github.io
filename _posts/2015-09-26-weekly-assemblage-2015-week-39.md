@@ -1,13 +1,12 @@
 ---
-layout: post
 title: "Weekly Assemblage 2015 Week 39"
 modified: 2015-10-10
-categories:
+categories: [weekly-assemblage]
 excerpt: Getting library cards and appreciating some unexpected aspects of Maria Accardi's _Feminist Pedagogy for Library Instruction._
 tags: [pedagogy, critical information literacy]
-image:
-  feature: weekly-assemblage.png
-  thumb: weekly-assemblage.png
+header:
+  image: /assets/images/weekly-assemblage.png
+#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-09-26T18:31:39-06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "#Rhizo15 Week Three: &quot;Content is People&quot;"
 modified:
 categories:

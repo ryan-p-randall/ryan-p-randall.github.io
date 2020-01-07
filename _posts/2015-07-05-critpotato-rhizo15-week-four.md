@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "Critical Hot Potato! aka #Rhizo15 Week Four"
 modified:
 categories:
 excerpt: Reflecting on &#035;critlib morphs into &#035;critpotato for my much-delayed Week Four of &#35;rhizo15 post, examining how online learning operates.
 tags: [rhizo15, critlib chats, critical theory]
-image:
-  feature:
-  thumb:
 published: true
 comments: true
 date: 2015-07-05T16:20:07-04:00
