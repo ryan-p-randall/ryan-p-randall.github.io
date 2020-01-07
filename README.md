@@ -1,27 +1,9 @@
-# Minimal Mistakes remote theme starter
+# Ryan P. Randall's Website  
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This is a static site primarily made using [Jekyll](http://jekyllrb.com/), [Markdown](http://daringfireball.net/projects/markdown/), the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme, tinkering, and patience.  
 
-Contains basic configuration to get you a site with:
+You might also encounter [Bigfoot.js](http://www.bigfootjs.com/) and [Reveal.js](http://revealjs.com/) scattered throughout this site. 
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Take [a look here](http://ryan-p-randall.github.io/).  
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+If you're looking to make a similar website for yourself, here's a great [set of introductions & instructions to Jekyll & GitHub Pages](http://www.trevordjones.com/jekyll).  
