@@ -37,7 +37,7 @@ comments:
     issue_term           : # "pathname" (default)
 twitter_username: foureyedsoul
 github_username: ryan-p-randall
-minimal_mistakes_skin: dark-custom
+minimal_mistakes_skin: dark-citrus-sage
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
