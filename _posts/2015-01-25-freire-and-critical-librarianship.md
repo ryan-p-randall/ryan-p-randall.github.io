@@ -12,7 +12,7 @@ date: 2015-01-25T23:07:23-05:00
 This post is for [Week One](http://www.hybridpedagogy.com/announcements/mmcp-critical-critical-pedagogy/) of [MOOC MOOC: Critical Pedagogy](http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/). 
 {: .notice}  
 
-![Cover image of Pedagogy of the Oppressed](/images/coverpfpo.jpg)
+![Cover image of Pedagogy of the Oppressed](/assets/images/coverpfpo.jpg)
 
 Processes. Processes, all the way down. 
 

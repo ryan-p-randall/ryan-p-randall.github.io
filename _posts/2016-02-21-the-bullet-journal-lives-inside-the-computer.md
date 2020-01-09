@@ -37,6 +37,6 @@ For instance, if you're writing an html file with a link, you can use a theme th
   
 _add an excerpt before posting_
 
-![Gif from Zoolander of characters physically tapping on an iMac rather than using interface](/images/Zoolander_Files_in_Computer.gif)  
+![Gif from Zoolander of characters physically tapping on an iMac rather than using interface](/assets/images/Zoolander_Files_in_Computer.gif)  
 
 

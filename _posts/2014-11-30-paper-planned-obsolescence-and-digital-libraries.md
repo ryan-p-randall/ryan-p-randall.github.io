@@ -15,7 +15,7 @@ This post was originally an assignment for [John Walsh's](http://biblicon.org/ab
 
 Two talks given at IU in the last month offer insights for digital libraries, one benefiting from direct experimentation with forms of scholarly communication and sustained analysis of academic practices, while the other's scope provides an intriguing provocation about what libraries might consider as "digital" material. On 2014-10-30, Kathleen Fitzpatrick gave a talk related to her book *Planned Obsolescence* as part of the celebrations of the new Scholars' Commons. Soon after, on 2014-11-13, Nicholas Basbanes gave a talk entitled "Paper: A Defining Technology" at the Lilly Library. Surprisingly, each presentation highlighted the practices and situated use of their subject matter, a feature which makes them work well together to discuss digital libraries. Below are abstracts and screenshots of the promotional pages for each talk:  
 
-![Fitzpatrick's talk](/images/kathleen-fitzpatrick-announcement.png)  
+![Fitzpatrick's talk](/assets/images/kathleen-fitzpatrick-announcement.png)  
 
 > On Thursday, October 30, the IU Libraries will be celebrating the grand opening of the Scholars’ Commons on the first floor of Wells Library East Tower.  This celebration will include a free public lecture by Kathleen Fitzpatrick in 219 Hodge Hall at 2:00 pm and a grand opening ceremony in the Scholars’ Commons at 4:00.   
  
@@ -25,7 +25,7 @@ Two talks given at IU in the last month offer insights for digital libraries, on
  
 > We hope you will join us in this celebration.  
 
-![Basbanes' talk](/images/nicholas-basbanes-paper-talk.png "title?")   
+![Basbanes' talk](/assets/images/nicholas-basbanes-paper-talk.png "title?")   
 
 > The Friends of the Lilly Library annual meeting  will take place on November 13, at 5:30 p.m. After the general business meeting, eminent writer and bibliophile Nicholas Basbanes will present a talk titled "Paper: A Defining Technology." A prolific writer on all things related to books and book collecting, Basbanes is the author of *A Gentle Madness: Bibliophiles, Bibliomanes, and the Eternal Passion for Books*, which was a finalist in 1995 for the National Book Critics Circle Award for nonfiction and was named a New York Times Notable Book of the Year. His most recent book, *On Paper: The Everything of Its Two Thousand Year History* (Alfred A. Knopf, 2013), was the recipient of a National Endowment for the Humanities research fellowship in 2008, and was selected as one of three finalists for the Andrew Carnegie Medal for Excellence in Nonfiction for 2014. It was also named a notable book of the year by the American Library Association, one of the best books of the year by *Booklist*, *Kirkus Reviews*, *Mother Jones*, and *Bloomberg News*, and a “favourite” book of 2013 by the *National Post* (Canada). A paperback edition was issued by Vintage Press in 2014. A reception will follow the talk.
 

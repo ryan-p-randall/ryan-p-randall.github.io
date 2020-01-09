@@ -12,7 +12,7 @@ toc: true
 
 ## Friend or Foe?
 
-![Not-Sure](/images/critlib-not-sure.jpg)  
+![Fry from Futurama wondering "Not sure if makerspaces are #critlib friend or neoliberal foe"](/assets/images/critlib-not-sure.jpg)  
 
 I recently had the pleasure of moderating a [#critlib chat on Makerspaces](https://storify.com/oksveta/critlib-makerspaces). These spaces have been enjoying increasing popularity in libraries, demonstrating how libraries function as far more than warehouses for documents. At their best, makerspaces help community members learn by doing, regardless of whether these spaces operate in libraries or as institutions of their own. Participants can make critical interventions into their own lives using technology that would be prohibitively expensive, esoteric, or complicated to purchase and maintain for a single individual or household.
 
@@ -20,7 +20,7 @@ At the same time, makerspaces go beyond 3D printers or Raspberry Pi-based constr
 
 [^nlwb]: Edit: Here's a link to a [great interview with Wendy Brown](http://www.dissentmagazine.org/blog/booked-3-what-exactly-is-neoliberalism-wendy-brown-undoing-the-demos) in which she discusses neoliberalism. It's one of the better treatments I've seen of that term, which gets thrown around much more frequently than definitions of it do. Had this interview come out before the chat, I would certainly have asked people to read it. It would help distinguish between "making" in service of pedagogy (like the old Bauhaus or other constructivist pedagogical approaches) and a vision of libraries, passtimes, and recreation that must always be in service of easily marketable skills.
 
-![Petagogy](/images/critlib-petagogy.jpg)
+![cat dressed like a chemistry professor saying "what's a #critlib opportunity in makerspaces? the petagogy"](/assets/images/critlib-petagogy.jpg)
 
 ## #critlib?
 
