@@ -28,6 +28,7 @@ lifespan: 2014-2020
 teaser:  
 logo:  
 masthead_title: 
+og_image: /assets/images/pocket-notebooks-square.jpg
 breadcrumbs: true  
 words_per_minute: 160  
 comments:  
@@ -81,9 +82,9 @@ plugins:
 author:
   name   : "Ryan P. Randall"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Instruction Coordinator & Faculty Outreach Librarian at the College of Western Idaho ∴ Literary, media, & cultural studies ∴ Web Editor at In the Library with the Lead Pipe. ∴ Another world is possible."
+  bio    : "Instruction Coordinator & Faculty Outreach Librarian at the College of Western Idaho ∴ Literary, media, & cultural studies ∴ Web Editor at _In the Library with the Lead Pipe_. ∴ Another world is possible."
   location: "Boise, Idaho"
-#  uri: http://www.ryanpatrickrandall.com
+# uri: http://www.ryanpatrickrandall.com
   twitter: foureyedsoul
   github: ryan-p-randall
 # links:
