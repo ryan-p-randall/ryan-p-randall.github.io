@@ -18,13 +18,13 @@ a:focus, button:focus, .bigfoot-footnote__button:focus {
   outline-color: #00b386;
 }
 
-.greedy-nav a:focus, div:focus, .search__toggle a:focus, button:focus {
+.greedy-nav a:focus, div:focus, .search__toggle a:focus, button:focus, .taxonomy__index a:focus, a.back-to-top:focus {
   outline: solid 3px;
   outline-offset: -1px;
   outline-color: #00b386;
 }
 
-.author__urls a:focus, .page__taxonomy-item:focus, .pagination li a:focus, .pagination--pager:focus, .archive__item a:focus, .toc__menu a:focus {
+.author__urls a:focus, .page__taxonomy-item:focus, .pagination li a:focus, .pagination--pager:focus, .archive__item a:focus, .toc__menu a:focus, a.btn:focus {
   outline: solid 3px;
   outline-offset: -3px;
   outline-color: #00b386;
@@ -35,6 +35,8 @@ h1:focus, h2:focus, h3:focus, h4:focus, h5:focus, h6:focus {
   outline-offset: -3px;
   outline-color: #00b386;
 }
+
+.archive__item a[rel="permalink"] { position: relative; }
 
 h2 {
     padding-bottom: 0em;
