@@ -206,9 +206,9 @@ body {
  *********************************************/
 .reveal a {
   color: #cdcd9b;
-  text-decoration: underline #cdcd9b dotted;
-  -webkit-text-decoration: underline #cdcd9b dotted;
-  -moz-text-decoration: underline #cdcd9b dotted;
+  text-decoration: underline #cdcd9b solid;
+  -webkit-text-decoration: underline #cdcd9b solid;
+  -moz-text-decoration: underline #cdcd9b solid;
   -webkit-transition: color 0.15s ease;
   -moz-transition: color 0.15s ease;
   transition: color 0.15s ease; }
@@ -217,9 +217,9 @@ body {
   color: #eeb111;
   text-shadow: none;
   border: none; 
-  text-decoration: underline #eeb111 dotted;
-  -webkit-text-decoration: underline #eeb111 dotted;
-  -moz-text-decoration: underline #eeb111 dotted;
+  text-decoration: underline #eeb111 solid;
+  -webkit-text-decoration: underline #eeb111 solid;
+  -moz-text-decoration: underline #eeb111 solid;
   -webkit-transition: color 0.15s ease;
   -moz-transition: color 0.15s ease;
   transition: color 0.15s ease; }
