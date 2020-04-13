@@ -21,7 +21,7 @@ name: "Ryan P. Randall"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   "Ryan P. Randall's website, Ph.D. student, and community college librarian blog"
-url: "http://ryanpatrickrandall.com"
+url: "https://ryan-p-randall.github.io" # "http://ryanpatrickrandall.com"
 baseurl: ""
 repository: "ryan-p-randall/ryan-p-randall.github.io"
 lifespan: 2014-2020
@@ -86,7 +86,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Instruction Coordinator & Faculty Outreach Librarian at the College of Western Idaho ∴ Literary, media, & cultural studies ∴ Web Editor at _In the Library with the Lead Pipe_. ∴ Another world is possible."
   location: "Boise, Idaho"
-  uri: http://www.ryanpatrickrandall.com
+  uri: "https://ryan-p-randall.github.io" # "http://ryanpatrickrandall.com"
   twitter: foureyedsoul
   github: ryan-p-randall
 # links:
