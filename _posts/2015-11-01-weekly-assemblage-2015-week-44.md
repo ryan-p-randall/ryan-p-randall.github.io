@@ -30,8 +30,8 @@ Most of our students seem to have Monday/Wednesday or Tuesday/Thursday schedules
 
 Now that the move has mostly settled down, here's a few things I'm hoping to read in the next month or so:  
 
-- Chantal Mouffe's [*Agonistics: Thinking the World Politically*](http://www.worldcat.org/title/agonistics-thinking-the-world-politically/oclc/813931637)  
-- Dee Garrison's [*Apostles of Culture: The Public Librarian and American Society, 1876-1920*](http://www.worldcat.org/title/apostles-of-culture-the-public-librarian-and-american-society-1876-1920/oclc/4529934)  
-- Geoffrey C. Bowker's [*Sorting Things Out: Classification and Its Consequences*](http://www.worldcat.org/title/sorting-things-out-classification-and-its-consequences/oclc/878583923)  
+- Chantal Mouffe's [*Agonistics: Thinking the World Politically*](https://www.worldcat.org/title/agonistics-thinking-the-world-politically/oclc/813931637)  
+- Dee Garrison's [*Apostles of Culture: The Public Librarian and American Society, 1876-1920*](https://www.worldcat.org/title/apostles-of-culture-the-public-librarian-and-american-society-1876-1920/oclc/4529934)  
+- Geoffrey C. Bowker's [*Sorting Things Out: Classification and Its Consequences*](https://www.worldcat.org/title/sorting-things-out-classification-and-its-consequences/oclc/878583923)  
 
 We'll see how rapidly I get through them, but I'm hoping to be able to chat about these soon enough since I've heard them praised or referenced repeatedly.   

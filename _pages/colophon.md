@@ -29,7 +29,7 @@ The favicon (the little ellipsis in a speech bubble) is ["Blog" by Scott Lewis](
 
 ### Link Conventions
 
-Whenever possible, I link to [WorldCat](http://www.worldcat.org/) records for books. Why not work to make library access a default practice?  
+Whenever possible, I link to [WorldCat](https://www.worldcat.org/) records for books. Why not work to make library access a default practice?  
 
 ### Writing Formats  
 

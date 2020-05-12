@@ -40,7 +40,7 @@ Alison points out that she’s not “anything new” in librarianship, privacy 
 
 2005 Connecticut Librarians who challenged the constitutionality of the gag order (Connecticut 5?)   
 
-Library Awareness Program, late Cold War FBI program targeted libraries, believing them to be KGB houses, she recommends a great book on this called [*Surveillance in the Stacks*](http://www.worldcat.org/title/surveillance-in-the-stacks-the-fbis-library-awareness-program/oclc/21905912)   
+Library Awareness Program, late Cold War FBI program targeted libraries, believing them to be KGB houses, she recommends a great book on this called [*Surveillance in the Stacks*](https://www.worldcat.org/title/surveillance-in-the-stacks-the-fbis-library-awareness-program/oclc/21905912)   
 
 #### Current Things  
 

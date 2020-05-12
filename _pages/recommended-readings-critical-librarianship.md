@@ -18,13 +18,13 @@ I'll link to things beyond these contexts as well, when I read ones that excite 
 
 ### Books 
 
-- [_Teaching to Transgress: Education as the Practice of Freedom_](http://www.worldcat.org/oclc/30668295), bell hooks, 1994  
+- [_Teaching to Transgress: Education as the Practice of Freedom_](https://www.worldcat.org/oclc/30668295), bell hooks, 1994  
   
-- [_On Critical Pedagogy_](http://www.worldcat.org/oclc/694396588), Henry Giroux, 2011  
+- [_On Critical Pedagogy_](https://www.worldcat.org/oclc/694396588), Henry Giroux, 2011  
   
-- [_Feminist Pedagogy for Library Instruction_](http://www.worldcat.org/oclc/908058695), Maria T. Accardi, 2013  
+- [_Feminist Pedagogy for Library Instruction_](https://www.worldcat.org/oclc/908058695), Maria T. Accardi, 2013  
   
-- [_Pedagogy of the Oppressed_](http://www.worldcat.org/oclc/921850604), Paulo Freire, 2015 (30<sup>th</sup> anniversary edition)
+- [_Pedagogy of the Oppressed_](https://www.worldcat.org/oclc/921850604), Paulo Freire, 2015 (30<sup>th</sup> anniversary edition)
 
 ### Articles  
 

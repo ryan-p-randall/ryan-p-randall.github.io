@@ -159,7 +159,7 @@ Summer 2005
 
 ## Publications  
 
-Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual History*, ed. Joan Rubin and Scott E. Casper. (2013).](http://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162)  
+Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual History*, ed. Joan Rubin and Scott E. Casper. (2013).](https://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162)  
 
 - [John Cage](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
 - [Graffiti](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  

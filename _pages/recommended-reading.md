@@ -27,21 +27,21 @@ I'll start working on a more "intro to #critlib" section soon enough and some of
   
 ### More towards Cultural Studies / Critical Theory  
 
-- [_Bringing It All Back Home: Essays On Cultural Studies_](http://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
+- [_Bringing It All Back Home: Essays On Cultural Studies_](https://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
     
-- [_Agonistics: Thinking the World Politically_](http://www.worldcat.org/oclc/813931637), Chantal Mouffe, 2013   
+- [_Agonistics: Thinking the World Politically_](https://www.worldcat.org/oclc/813931637), Chantal Mouffe, 2013   
   
-- [_Hegemony and Socialist Strategy: Toward a Radical Democratic   Politics_](http://www.worldcat.org/oclc/886808969), Ernesto Laclau and Chantal Mouffe, 2001, 2<sup>nd</sup> ed.  
+- [_Hegemony and Socialist Strategy: Toward a Radical Democratic   Politics_](https://www.worldcat.org/oclc/886808969), Ernesto Laclau and Chantal Mouffe, 2001, 2<sup>nd</sup> ed.  
   
 ### More towards Critical Pedagogy / Critical Information Literacy   
   
-- [_Teaching to Transgress: Education as the Practice of Freedom_](http://www.worldcat.org/oclc/30668295), bell hooks, 1994  
+- [_Teaching to Transgress: Education as the Practice of Freedom_](https://www.worldcat.org/oclc/30668295), bell hooks, 1994  
   
-- [_On Critical Pedagogy_](http://www.worldcat.org/oclc/694396588), Henry Giroux, 2011  
+- [_On Critical Pedagogy_](https://www.worldcat.org/oclc/694396588), Henry Giroux, 2011  
   
-- [_Feminist Pedagogy for Library Instruction_](http://www.worldcat.org/oclc/908058695), Maria T. Accardi, 2013  
+- [_Feminist Pedagogy for Library Instruction_](https://www.worldcat.org/oclc/908058695), Maria T. Accardi, 2013  
   
-- [_Pedagogy of the Oppressed_](http://www.worldcat.org/oclc/921850604), Paulo Freire, 2015 (30<sup>th</sup> anniversary edition)
+- [_Pedagogy of the Oppressed_](https://www.worldcat.org/oclc/921850604), Paulo Freire, 2015 (30<sup>th</sup> anniversary edition)
   
 ## Articles    
   
@@ -64,7 +64,7 @@ Jonathan Sterne writes, thinks, and speaks wonderfully. Check out his [repositor
   
 - "The Library Assemblage: Creative Institutions in an Information Society," Natasha Gerolami, 2015, _Journal of Documentation_   
 
-- "Cultural Studies: What's In a Name? (One More Time)", Lawrence Grossberg, 1995, anthologized in [_Bringing It All Back Home: Essays On Cultural Studies_](http://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
+- "Cultural Studies: What's In a Name? (One More Time)", Lawrence Grossberg, 1995, anthologized in [_Bringing It All Back Home: Essays On Cultural Studies_](https://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
 
 It's unfortunate that this reading isn't more widely accessible—although he does touch on a lot of similar topics in a few of the many articles he has on [Academia.edu](https://unc.academia.edu/LawrenceGrossberg), which I feel vaguely dirty even linking to since it's far from a substitute for an actual institutional repository.   
 

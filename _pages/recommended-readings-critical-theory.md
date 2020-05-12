@@ -15,21 +15,21 @@ Of all the various types of critical theory, I identify most closely with cultur
 
 ## Some of My Favorite Books on Critical Theories 
 
-- [_Bringing It All Back Home: Essays On Cultural Studies_](http://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
+- [_Bringing It All Back Home: Essays On Cultural Studies_](https://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
   
-- [_May '68 and Its Afterlives_](http://www.worldcat.org/oclc/48263748), Kristin Ross, 2002  
+- [_May '68 and Its Afterlives_](https://www.worldcat.org/oclc/48263748), Kristin Ross, 2002  
   
-- [_Agonistics: Thinking the World Politically_](http://www.worldcat.org/oclc/813931637), Chantal Mouffe, 2013   
+- [_Agonistics: Thinking the World Politically_](https://www.worldcat.org/oclc/813931637), Chantal Mouffe, 2013   
   
-- [_Hegemony and Socialist Strategy: Toward a Radical Democratic   Politics_](http://www.worldcat.org/oclc/886808969), Ernesto Laclau and Chantal Mouffe, 2001, 2<sup>nd</sup> ed.  
+- [_Hegemony and Socialist Strategy: Toward a Radical Democratic   Politics_](https://www.worldcat.org/oclc/886808969), Ernesto Laclau and Chantal Mouffe, 2001, 2<sup>nd</sup> ed.  
   
-- [_The Modern Invention of Information_](http://www.worldcat.org/oclc/231881313), Ronald E. Day, 2001  
+- [_The Modern Invention of Information_](https://www.worldcat.org/oclc/231881313), Ronald E. Day, 2001  
   
-- [_American Archives: Gender, Race, and Class in Visual Culture_](http://www.worldcat.org/oclc/40939988), Shawn Michelle Smith, 1999  
+- [_American Archives: Gender, Race, and Class in Visual Culture_](https://www.worldcat.org/oclc/40939988), Shawn Michelle Smith, 1999  
   
-- [_The Columbia Dictionary of Modern Literary and Cultural Criticism_](http://www.worldcat.org/oclc/31656730) eds. Joseph Childers and Cary Hentzi, 1995  
+- [_The Columbia Dictionary of Modern Literary and Cultural Criticism_](https://www.worldcat.org/oclc/31656730) eds. Joseph Childers and Cary Hentzi, 1995  
   
-- [_Psychedelic White: Goa Trance and the Viscosity of Race_](http://www.worldcat.org/oclc/487578360), Arun Saldanha, 2007  
+- [_Psychedelic White: Goa Trance and the Viscosity of Race_](https://www.worldcat.org/oclc/487578360), Arun Saldanha, 2007  
   
 ## Some of My Favorite Articles on Critical Theories  
 
@@ -54,13 +54,13 @@ Jonathan Sterne writes, thinks, and speaks wonderfully. Check out his [repositor
   
 - ["The Half of Whiteness"](http://www.saic.edu/media/saic/profiles/faculty/shawnsmith/The-Half-of-Whiteness_Jacob-Riis.pdf), Shawn Michelle Smith, 2006, _English Language Notes_  
   
-- ["The Body and the Archive"](http://www.worldcat.org/oclc/5548108887), Allan Sekula, 1986, _October_  
+- ["The Body and the Archive"](https://www.worldcat.org/oclc/5548108887), Allan Sekula, 1986, _October_  
 
 - ["Locating the Library in Institutional Oppression"](http://www.inthelibrarywiththeleadpipe.org/2014/locating-the-library-in-institutional-oppression/), nina de jesus, 2014, _In the Library with the Lead Pipe_  
 
 - ["A Critical Take on OER Practices: Interrogating Commercialization, Colonialism, and Content"](http://www.inthelibrarywiththeleadpipe.org/2015/a-critical-take-on-oer-practices-interrogating-commercialization-colonialism-and-content/), Sarah Crissinger, 2015, _In the Library with the Lead Pipe_  
 
-- "Cultural Studies: What's In a Name? (One More Time)", Lawrence Grossberg, 1995, anthologized in [_Bringing It All Back Home: Essays On Cultural Studies_](http://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
+- "Cultural Studies: What's In a Name? (One More Time)", Lawrence Grossberg, 1995, anthologized in [_Bringing It All Back Home: Essays On Cultural Studies_](https://www.worldcat.org/oclc/916066759), Lawrence Grossberg, 1997  
 
 It's unfortunate that this reading isn't more widely accessible—although he does touch on a lot of similar topics in a few of the many articles he has on [Academia.edu](https://unc.academia.edu/LawrenceGrossberg), which I feel vaguely dirty even linking to since it's far from a substitute for an actual institutional repository.   
 

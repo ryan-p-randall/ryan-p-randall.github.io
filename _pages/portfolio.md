@@ -27,7 +27,7 @@ Here are some of the more library-related things I've done. This is current as o
 
 ### Publications
 
-- Entries in the [*The Oxford Encyclopedia of American Cultural and Intellectual History*](http://www.worldcat.org/oclc/5115699820), ed. Joan Rubin and Scott E. Casper. (2013.)
+- Entries in the [*The Oxford Encyclopedia of American Cultural and Intellectual History*](https://www.worldcat.org/oclc/5115699820), ed. Joan Rubin and Scott E. Casper. (2013.)
 	- ["John Cage"](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
 	- ["Graffiti"](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  
 	- ["Guerilla Theatre"](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)
