@@ -1,9 +1,9 @@
 ---
-title: "Introducing Monthly Media Lists"
+title: "Introducing Monthly Signal Boosts"
 last_modified_at: 2020-07-01
 date: 2020-07-01T12:34:53-07:00
-excerpt: Monthly media lists will be short reflections on what I've read, listened to, watch, etc.  
-categories: monthly-media-list
+excerpt: Monthly signal boosts will be short reflections on what I've read, listened to, watch, etc.  
+categories: monthly-signal-boost
 tags: 
   -   
   -   
@@ -22,7 +22,7 @@ We'll see where this goes!
 
 I'm really good at reading and engaging widely—but I'm not as great at keeping notes or forcing myself to reflect. So I'll experiment with the exact way I'll annotate or respond to what I mention in these.  
 
-I'm planning to start a post at the beginning of each month, then edit it throughout the month. So each will be a monthly log, pretty much.  
+I'm planning to start a post at the beginning of each month, then edit it throughout the month. So each will be a monthly log, pretty much, of stuff I want to amplify.  
 
 ## Is That It?  
 
