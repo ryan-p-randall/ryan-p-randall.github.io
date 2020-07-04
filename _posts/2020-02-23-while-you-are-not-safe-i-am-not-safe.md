@@ -1,6 +1,6 @@
 ---
 title: "ah, Carl, while you are not safe I am not safe"
-last_modified_at: 2020-02-29T18:50-07:00
+last_modified_at: 2020-07-03T18:50-07:00
 date: 2020-02-23T11:34:53-07:00
 excerpt: The social model of disability offers insights into society, differences, and oppressive structures beyond disability.  
 categories:
@@ -53,7 +53,7 @@ But "ah, Carl, while you are not safe I am not safe"—so I need to be louder ab
 
 ## Poetry & Other Infrastructures of Support  
 
-[Riverside Underground Poetry Organization](https://raincrossunderground.omeka.net/items/show/2) in many ways got me through the depression of not being in school after undergrad, then through the anxiety of being back in grad school. Started as an all ages open mic in the basement of a coffeeshop owned by a gay Black man, it's one of the more radically inclusive communities I've been part of—even though I now realize the problems posed by the lack of physical accessibility to this kind of basement event.  
+[Riverside Underground Poetry Organization](https://raincrossunderground.omeka.net/items/show/2) in many ways got me through the depression of not being in school after undergrad, then through the anxiety of being back in grad school. An all ages open mic held in the basement of a coffeeshop owned by Darren (a gay Black man, whom I had the pleasure of interviewing for my high school newspaper the summer he opened the place), it's one of the more radically inclusive communities I've been part of—even though I now realize the problems posed by the lack of physical accessibility to this kind of basement event.  
 
 The open mics offered an infrastructure for questioning society's expectations and boundaries, a platform for performing multiple facets of your being in the span of three pieces or 10 minutes, whichever came first. That community carried me and others through quite a few years of ups and downs, heartbreaks and breakdowns and elations and achievements. I didn't realize how much the loss of that community would affect me when I followed a professor's recommendation to uproot myself and move across the country for a different program—I figured that something akin to that __simply must exist__ in other towns, since Southern California dumps on Riverside and the greater Inland Empire constantly for being a cultural backwater.  
 
