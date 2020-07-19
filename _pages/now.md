@@ -1,13 +1,14 @@
 ---
 permalink: /now/
 title: "Now"
+date: 2020-07-18
 last_modified_at: 2020-07-18
 header: 
   image: /assets/images/pocket-notebooks.jpg
   image_description: "ryan's pocket notebooks"
 toc: true
 ---
-## Now  
+## What I'm Doing Currently  
 
 Here are some of the things I'm currently doing, as of Summer 2020:  
 
