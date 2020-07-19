@@ -1,8 +1,8 @@
 ---
 title: "July 2020 Monthly Signal Boost"
-last_modified_at: 2020-07-05
 date: 2020-07-05T12:34:53-07:00
-excerpt: Organizing Ideas Podcast; The Latino Card; Tricycle Magazine; etc  
+last_modified_at: 2020-07-19
+excerpt: Organizing Ideas Podcast; The Latino Card; Tricycle Magazine; etc.  
 categories: monthly-signal-boost
 tags: 
   -   
