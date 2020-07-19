@@ -2,7 +2,7 @@
 permalink: /recommended-readings-critical-theory/
 title: "Recommended Readings for Critical Theories"
 date: 2016-03-26T23:20:29-06:00
-modified:
+last_modified_at: 2016-03-26T23:20:29-06:00
 excerpt:
 tags:
 header: 

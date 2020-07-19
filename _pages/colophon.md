@@ -1,7 +1,7 @@
 ---
 permalink: /colophon/
 title: "Colophon"
-modified: 2020-01-06
+last_modified_at: 2020-01-06
 header: 
   image: /assets/images/pocket-notebooks.jpg
   image_description: "ryan's pocket notebooks"

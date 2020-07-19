@@ -1,7 +1,7 @@
 ---
 permalink: /portfolio/
 title: "Portfolio"
-modified: 2015-06-08 11:30
+last_modified_at: 2015-10-10 11:30
 tags: [projects and papers]
 toc: true
 ---

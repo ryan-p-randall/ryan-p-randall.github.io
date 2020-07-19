@@ -2,7 +2,7 @@
 permalink: /talks/
 title: "Talks"
 date: 2016-06-28T23:39:09-06:00
-modified:
+last_modified_at: 2016-06-28
 excerpt:
 header: 
   image: /assets/images/pocket-notebooks.jpg

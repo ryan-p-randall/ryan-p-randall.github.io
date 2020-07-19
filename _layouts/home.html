@@ -9,7 +9,7 @@ layout: single
 {% include about-me.html %}
 
 <h2>Featured Posts</h2>
-{% for post in site.tags.featured %}
+{% for post in site.tags.featured %} 
 <article>
 {% if post.link %}
   <h3 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link" aria-hidden="true"></i></h3>

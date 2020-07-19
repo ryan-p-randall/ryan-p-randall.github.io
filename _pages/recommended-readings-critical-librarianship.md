@@ -2,7 +2,7 @@
 permalink: /recommended-readings-critical-librarianship/
 title: "Recommended Readings for Critical Librarianship" 
 date: 2016-03-26T23:20:29-06:00
-modified:
+last_modified_at: 2016-03-26T23:20:29-06:00
 excerpt:
 header: 
   image: /assets/images/pocket-notebooks.jpg
