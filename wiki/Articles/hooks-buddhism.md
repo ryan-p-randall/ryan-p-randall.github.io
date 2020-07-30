@@ -8,7 +8,6 @@ sidebar:
     text: "Here's my collection of continually updated notes."
 status: ":herb:"
 ---
-Just a quick test of the new wiki setup!  
-{: .notice}  
+{ Hey! This is just a quick test of the new wiki setup! }  
 
 This is one of a number of articles bell hooks wrote about identities. Her approach is different from—but complements—Stuart Hall approach's in [hall-new-identities](/wiki/articles/hall-new-identities).  

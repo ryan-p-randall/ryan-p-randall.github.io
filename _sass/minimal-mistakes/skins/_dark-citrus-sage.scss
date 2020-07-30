@@ -42,13 +42,13 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .wiki-folder-grid {
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
 }
 
 .wiki-folder-grid-thirds {
   flex: none;
+  flex-basis: calc(100%/3);
   text-align: center;
-  width: 32%;
   padding: .5em .5em .5em .5em;
 }

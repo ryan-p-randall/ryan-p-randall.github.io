@@ -6,8 +6,7 @@ layout: wiki
 excerpt: classic Hall article
 status: ":seedling:"
 ---
-Just a quick test of the new wiki setup!  
-{: .notice}  
+{ Hey! This is just a quick test of the new wiki setup! }  
 
 Stuart Hall's article "New Identities" is great.  
 
