@@ -1,0 +1,23 @@
+---
+layout: single
+breadcrumbs: false
+author_profile: false
+sidebar:
+  - title: "Wonky Wiki"
+    text: "Testing the garden"
+---
+{% include wikiheader.html %}
+
+{% include wikibreadcrumb.html %}
+
+{% if page.title %}
+    <h1>{{page.title}}</h1>
+{% endif %}
+
+{% if page.status %}
+  <p>Status: {{page.status}}</p>
+{% endif %}
+
+{{content}}
+
+{% include wikifooter.html %}

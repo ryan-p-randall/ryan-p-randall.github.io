@@ -1,0 +1,152 @@
+---
+layout: single
+breadcrumbs: false
+sidebar:
+  - title: "Wonky Wiki"
+    text: "Here's my collection of continually updated notes."
+---
+{% assign folderfilter = page.path | replace: "/index.html" , "" %}
+
+{% assign path = page.path | split:"/" %}
+
+{% include wikiheader.html %}
+
+{% include wikibreadcrumb.html %}
+
+{% if page.folder-title %}
+<h1 class="visually-hidden">{{page.folder-title}}</h1>
+{% endif %}
+
+<p>{{content}}</p>
+
+<div class="">
+{% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | sort:"pinned" | reverse %}
+
+{% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
+
+<h2>Notes:</h2>
+
+{% if page.expand %}
+{% for item in notes %}
+    {% unless item.path contains "index.html" %}
+    <div class="">
+        <hr>
+    <a class="" href="{{item.url}}"># {{item.path | replace: folderfilter , ""}}</a></li>
+    (last updated {{item.last_modified_at}})
+    {{item.content | markdownify}}  
+    </div>
+    {% endunless %}
+{% endfor %}
+{% else %}
+<ul>
+{% for item in notes %}
+    {% unless item.path contains "index.html" %}
+        <li class="">{%if item.pinned %}📌{% endif %} <a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
+    {% endunless %}
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if page.excerpts %}
+{% for item in notes %}
+    {% unless item.path contains "index.html" %}
+    <div class="">
+        <hr>
+    <a class="" href="{{item.url}}"># {{item.path | replace: folderfilter , ""}}</a></li>
+    (last updated {{item.last_modified_at}})
+    {{item.excerpt | markdownify}}  
+    </div>
+    {% endunless %}
+{% endfor %}
+{% else %}
+<ul>
+{% for item in notes %}
+    {% unless item.path contains "index.html" %}
+        <li class="">{%if item.pinned %}📌{% endif %} <a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
+    {% endunless %}
+{% endfor %}
+</ul>
+{% endif %}
+
+<!--
+<h3>Snippets:</h3>
+{% for item in snippets %}
+        <div class="">
+            <a href="{{item.path}}" class="">
+              <iframe src="{{item.path}}" class=""> </iframe>
+              <dl class="">
+                <dt class="clip">{{item.path}}</dt>
+                <dd class="">{{item.path}}</dd>
+              </dl>
+            </a>
+          </div>
+{% endfor %}
+-->
+
+</div>
+
+{% comment %}
+{% include head.html %}
+
+
+{% include header.html %}
+
+{% include googleanalytics.html %}
+
+
+{% include wikiheader.html %}
+
+{% assign folderfilter = page.path | replace: "/index.html" , "" %}
+
+{% assign path = page.path | split:"/" %}
+
+{% include wikibreadcrumb.html %}
+
+<p>{{content}}</p>
+
+<div class="">
+{% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | sort:"pinned" | reverse %}
+
+{% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
+
+<h3>Notes:</h3>
+
+{% if page.expand %}
+{% for item in notes %}
+    {% unless item.path contains "index.html" %}
+    <div class="">
+        <hr>
+    <a class="" href="{{item.url}}"># {{item.path | replace: folderfilter , ""}}</a></li>
+    {{item.content | markdownify}}    
+    </div>
+    {% endunless %}
+{% endfor %}
+{% else %}
+<ul>
+{% for item in notes %}
+    {% unless item.path contains "index.html" %}
+        <li class="">{%if item.pinned %}📌{% endif %} <a href="{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></li>
+    {% endunless %}
+{% endfor %}
+</ul>
+{% endif %}
+
+<h3>Snippets:</h3>
+{% for item in snippets %}
+        <div class="">
+            <a href="{{item.path}}" class="">
+              <iframe src="{{item.path}}" class=""> </iframe>
+              <dl class="">
+                <dt class="clip">{{item.path}}</dt>
+                <dd class="">{{item.path}}</dd>
+              </dl>
+            </a>
+          </div>
+{% endfor %}
+
+</div>
+
+</div>
+
+{% include wikifooter.html %}
+{% endcomment %}

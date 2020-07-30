@@ -1,13 +1,25 @@
 main:
-  - title: "Blog"
-    url: /posts/
+
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
+  - title: "Blog"
+    url: /posts/
+  - title: "Wiki"
+    url: /wiki/
   - title: "About"
     url: /about/
   - title: "Portfolio & CV"
     url: /portfolio/
   - title: "Colophon"
     url: /colophon/
+
+
+wiki:
+  - title: Wonky Wiki
+    children:
+      - title: "Wiki"
+        url: /wiki/
+      - title: "Colophon"
+        url: /colophon/

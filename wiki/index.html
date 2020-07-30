@@ -1,0 +1,36 @@
+---
+layout: single
+---
+
+<h1>Welcome to my wonky wiki!</h1>
+<p>This is my personal digital garden. Think of it as a loosely tended succulent garden of thoughts. We'll have drafts, ideas, partials, fragments, ideas, and maybe even some surprises.</p>
+
+<h2>All folders</h2>
+
+{% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki'" %}
+{% assign wikifolders = "" | split:"" %}
+
+{% for folder in folders %}
+  {% assign tempvar = folder.path | split:"/" %}
+  {% assign wikifolders = wikifolders | push:tempvar[1] %}
+{% endfor %}
+
+{% assign wikifolders = wikifolders | uniq | sort %}
+
+<div class="wiki-folder-grid">
+{% for folder in wikifolders %}
+  {% unless folder contains 'md' or folder contains 'html' %}
+    <div class="wiki-folder-grid-thirds">
+      <a class="" href="/wiki/{{folder}}/"><div class="btn btn--primary btn--large">{{folder}}</div></a>
+    </div>
+  {% endunless %}
+{% endfor %}
+</div>
+
+<h2>All notes</h2>
+
+{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"path" %}
+{% for item in folder1 %}
+<a href="{{ item.url }}">{{item.path}}</a>
+<br>
+{% endfor %}

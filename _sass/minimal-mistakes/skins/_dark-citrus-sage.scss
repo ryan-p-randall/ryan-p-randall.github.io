@@ -26,3 +26,29 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
+
+.wiki-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wiki-flex-item {
+  flex: 1;
+  text-align: center;
+}
+
+.wiki-folder-grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wiki-folder-grid-thirds {
+  flex: none;
+  text-align: center;
+  width: 32%;
+  padding: .5em .5em .5em .5em;
+}

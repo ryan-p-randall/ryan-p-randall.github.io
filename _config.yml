@@ -29,7 +29,7 @@ teaser:
 logo:  
 masthead_title: 
 og_image: /assets/images/pocket-notebooks-square.jpg
-breadcrumbs: true  
+# breadcrumbs: true  
 words_per_minute: 160  
 comments:  
   provider: false # "utterances"
@@ -59,6 +59,8 @@ timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time
 include:
   - _pages
   - _sass
+  - wiki
+#  - _notes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -115,6 +117,11 @@ footer:
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
 
+collections:
+  wiki:
+    output: true
+    permalink: /wiki/:title
+
 defaults:
   # _posts
   - scope:
@@ -123,6 +130,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      breadcrumbs: true
       read_time: false
       comments: true
       share: false
@@ -134,6 +142,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+      breadcrumbs: true
+  # wiki
+  - scope:
+      path: "/wiki/*"
+    values:
+      layout: "wiki"
+      breadcrumbs: false
+#      content-type: notes
+  # wiki
+#  - scope:
+#      path: "/_notes/*"
+#    values:
+#      layout: mike
+#      breadcrumbs: false
 
 category_archive:
   type: liquid
