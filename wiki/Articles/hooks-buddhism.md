@@ -1,6 +1,6 @@
 ---
 date: 2020-07-16
-last_modified_at: 2020-07-18
+last_modified_at: 2020-07-29
 layout: wiki
 excerpt: bell hooks wrote about identities.
 sidebar:
@@ -8,6 +8,7 @@ sidebar:
     text: "Here's my collection of continually updated notes."
 status: ":herb:"
 ---
-Just a quick test of the new wiki setup!{: .notice}  
+Just a quick test of the new wiki setup!  
+{: .notice}  
 
 This is one of a number of articles bell hooks wrote about identities. Her approach is different from—but complements—Stuart Hall approach's in [hall-new-identities](/wiki/articles/hall-new-identities).  
