@@ -26,17 +26,8 @@ published: true
 
 He uses the example of how America has praised individual freedoms for so long that it's become incredibly difficult to champion equitable outcomes. As I'm typing this, I can't help but wonder what an ALA Office of Intellectual Responsibility would look like, or even an ALA Office of Intellectual Equity.  
 
-{% comment %}
-[Always Already Podcast: Episode 66 — Juliet Hooker, Race, and the Politics of Solidarity]()  
-{% endcomment %}
 ## Articles  
 
 ["Starting Points"](https://tricycle.org/trikedaily/recognize-racism/) by Andrew Cooper was written for the [Buddhist Peace Fellowship](http://www.buddhistpeacefellowship.org)'s _Turning Wheel_ magazine in 1993, on the second anniversary of the beating of Rodney King. Cooper explains, "The question is not whether or not a community is 'racist'—the question is how this racism operates." He also quotes a psychiatrist's explanation that "in the human realm, the law of survival is not kill or be killed; it is define or be defined."  
 
-I was living in Riverside and in high school for the King verdict and the uprisings, all of which were very much huge local news. Witnessing such a wanton failure of the legal system to produce justice profoundly influenced my understanding of our legal, social, economic, representational, and other systems. This article encapsulates a lot about those systems into a surprisingly few words. As we still seek to improve upon these current systems, it's an article well worth your time.  
-
-{% comment %}
-## Books  
-
-Angela Davis's _Are Prisons Obsolete?_ [Worldcat](http://www.worldcat.org/oclc/1156235325), [Publisher](https://www.sevenstories.com/books/2907-are-prisons-obsolete)  
-{% endcomment %}
+I was living in Riverside and in high school for the King verdict and the uprisings, all of which were very much huge local news. Witnessing such a wanton failure of the legal system to produce justice profoundly influenced my understanding of our legal, social, economic, representational, and other systems. This article encapsulates a lot about those systems into surprisingly few words. As we still seek to improve upon these current systems, it's an article well worth your time.  

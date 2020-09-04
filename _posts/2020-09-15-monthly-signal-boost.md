@@ -13,6 +13,11 @@ published: false
 ---
 
 {% comment %}
+## CLAPS2020  
+
+Sofia Leung's keynote!  
+
+
 ## Podcasts  
 
 [Always Already Podcast: Episode 66 — Juliet Hooker, Race, and the Politics of Solidarity]()  
