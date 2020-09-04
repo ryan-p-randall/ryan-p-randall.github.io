@@ -13,4 +13,4 @@ status: ":seedling:"
 
 Stuart Hall's article "New Identities" is great.  
 
-Root relative link test: [hooks-buddhism](/wiki/articles/hooks-buddhism).  
+Root relative link test: [hooks-buddhism](/wiki/Articles/hooks-buddhism).  
