@@ -14,12 +14,12 @@ I've been wanting to write about some ways that my smartwatch has helped me deal
 
 ## Timers  
 
-I use the timer function often—especially when I'm doing any kind of presentation, instruction, or other public speaking. Timers are actually one of the main reasons I initially saved up for my smartwatch. I'd previously used my phone as a timer, only to be occasionally told by students and instructors that they found my "checking my phone" during instruction sessions distracting.[^ptd]  
+I use the timer function often—especially when I'm doing any kind of presentation, instruction, or other public speaking. Timers are actually one of the main reasons I initially saved up for my smartwatch. I'd previously used my phone as a timer, only to be occasionally chided by instructors that they found my "checking my phone" during instruction sessions distracting.[^ptd]  
 
 [^ptd]: Yes, there are more levels to that than I care to go into here.  
 
 The two most obvious benefits of a smartwatch timer:
-1. it can silently inform you when your timer is up  
+1. it can silently and insistently inform you when your timer is up  
 2. it uses the cultural assumption that if you glance at an electronic device on your wrist, you're checking about time  
 
 ### Timer Apps
