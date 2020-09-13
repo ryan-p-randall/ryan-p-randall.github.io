@@ -17,8 +17,7 @@ published: true
 
 ## Podcasts  
 
-[Organizing Ideas Podcast: Episode 20 with Jessica Schomberg](https://organizingideaspod.wordpress.com/2020/02/28/ep-20-libraries-and-disabilities-with-jessica-schomberg/) Jessica Schomberg talks about her [book](https://litwinbooks.com/books/beyond-accommodation/), other readings she's learned from, how workplace improvements for disabled folks will lead to better workplaces for everyone, about relationships and solidarity in library work. It's a really engaging listen!  
-
+[Organizing Ideas Podcast: Episode 20 with Jessica Schomberg](https://organizingideaspod.wordpress.com/2020/02/28/ep-20-libraries-and-disabilities-with-jessica-schomberg/) Jessica Schomberg talks about their [book](https://litwinbooks.com/books/beyond-accommodation/), other readings they've learned from, how workplace improvements for disabled folks will lead to better workplaces for everyone, about relationships and solidarity in library work. It's a really engaging listen!  
 
 [The Latino Card: Episode — Mask-ulinity](https://soundcloud.com/thelatinocard/mask-culinity) Talking about different approaches people are taking to social distancing. Discusses ?Tommy Simmons? article at the Idaho Press, which talks about psychology of adhering to government guidelines. How wearing a mask is a signal to the world that COVID19 is a problem & we need to work together on addressing it. Masculinity and admitting vulnerability.  
 
