@@ -131,10 +131,11 @@ defaults:
       layout: single
       author_profile: true
       breadcrumbs: true
-      read_time: false
       comments: true
-      share: false
+      read_time: false
       related: true
+      share: false
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -149,6 +150,7 @@ defaults:
     values:
       layout: "wiki"
       breadcrumbs: false
+      show_date: true
 #      content-type: notes
   # wiki
 #  - scope:
