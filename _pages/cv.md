@@ -1,12 +1,12 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2019-03-18 16:49
+last_modified_at: 2020-12-30 16:49
 toc: true
 ---
 
 Download an older version of this [C.V. as a .pdf from 2015](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
-Last updated 2019-03-18.  
+Last updated 2021-04-18.  
 {: .notice}
 
 ## Education  
@@ -171,9 +171,20 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 
 ## Library Conference Panels and Presentations  
 
+- [Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction](https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP), Conference held online, 2021  
+Contributed Paper with Amanda Nida and Kim Reed  
+- Textbook Affordability & OER (Open Education Resources)  
+Panel with Jonathan Lashley, Kristin Witman, Marco Seiferle-Valencia, and Monica Brown  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online  
+- ["Will I Get Credit for my Badges?"](https://drive.google.com/file/d/1KH8FzjqsoTHAc44dTxqcyyK_24Jpq2tW/view)  
+Information Literacy Lightning Talk with Rebeca Peacock, Shelly Doty, and Lindsay Marsh  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online  
+- [SIFT Moves](https://flipgrid.com/05bb6128)  
+"Innovative Ideas" poster session / video lightning talk  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020  
 - "Changing Tides: Exploring Current Trends in Information Literacy Programs."  
 Panel with Zoe Fisher, Danielle Rowland, Megan Smithling, and Elizabeth Brown.  
-[*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA  
+[*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA, 2017  
 - ["ILA Social Justice Committee, Equity, and Libraries."](http://ryanpatrickrandall.com/talks/swila2017)  
 *SWILA (Southwestern Idaho Library Association) Conference*, Meridian, ID, 2017. __Keynote speaker__.  
 [Presentation slides.](http://ryanpatrickrandall.com/talks/swila2017)  
@@ -230,30 +241,30 @@ Co-presented with Katherine Ahnberg.
 
 American Libraries Association  
 
-- Member, 2014-present  
+- Member, 2014-2019  
 
 ASIS&T Student Chapter, Indiana University, Bloomington  
 
-- Social Chair, 2014–present  
-- Member, 2014–present  
+- Social Chair, 2014–2015  
+- Member, 2014–2015  
 - Co-organizer of Women in Information Science Symposium, 2014  
 
 Progressive Librarians Guild Student Chapter, Indiana University, Bloomington  
 
-- President, 2014-present  
-- Member, 2013-present  
+- President, 2014-2015  
+- Member, 2013-2015  
 - Partnered with other local organizations on two main projects: Books & Beyond (to set up a school library in Rwanda) and Midwest Pages to Prisoners (to reply to book requests from prisoners with book selections and personalized letters)  
 
 Inter-Club Council, Department of Information and Library Science, Indiana University, Bloomington  
 
-- President, 2014–present  
-- Member, 2013–present  
+- President, 2014–2015  
+- Member, 2013–2015  
 - Organized numerous workshops and presentations for the Peer Mentorship Program  
 - Led initiative to have ILS student groups coordinate their events calendars using a shared Google Calendar  
 
 Indiana University Digital Humanities Working Group, Indiana University, Bloomington  
 
-- Founding member, 2014–present  
+- Founding member, 2014–2015  
 - Led workshop on “Getting Started with Git and GitHub Pages,” 2014  
 
 Cultural Studies Association, National Association  
@@ -298,11 +309,11 @@ Transcription of Anthropological Interview
 
 Natural Languages: Reading proficiency in Spanish, French, and Latin. Basic speaking proficiency in Spanish and ASL.  
 Web/Markup Languages: HTML5, CSS, XML, XHTML, TEI  
-Web Content Management Systems: Omeka, WordPress, LibGuides, DSpace, wikis, Jekyll/Octopress, GitHub  
+Web Content Management Systems: Omeka, WordPress, LibGuides, Pressbooks, Jekyll, GitHub  
 Educational Content Management Systems: Angel, Blackboard, Canvas  
 Operating Systems: Mac OS X, Windows, UNIX  
 Document Design: Adobe Creative Suite, Microsoft Office suite, Google Docs, Markdown & related tools, familiarity with LaTeX  
-Citation Management Systems: Zotero, EndNote, RefWorks, Mendeley, Papers  
+Citation Management Systems: Zotero, BibLaTeX  
 Metadata Standards: Dublin Core  
 Social Media: Facebook, Twitter, Instagram, Tumblr  
 Audio Software: Ableton, Audacity, GarageBand, various plug-ins for each  

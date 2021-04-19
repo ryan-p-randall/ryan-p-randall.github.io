@@ -38,3 +38,9 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* My additions */
+
+.pagination li a.disabled {
+  color: rgba(241,241,241,0.8);
+}
