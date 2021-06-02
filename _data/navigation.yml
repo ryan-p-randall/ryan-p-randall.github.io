@@ -10,11 +10,10 @@ main:
     url: /wiki/
   - title: "About"
     url: /about/
-  - title: "Portfolio & CV"
-    url: /portfolio/
+  - title: "CV & Portfolio"
+    url: /cv/
   - title: "Colophon"
     url: /colophon/
-
 
 wiki:
   - title: Wonky Wiki
