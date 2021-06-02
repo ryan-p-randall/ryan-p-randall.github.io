@@ -1,12 +1,13 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2020-12-30 16:49
+last_modified_at: 2021-06-01 18:49
 toc: true
 ---
 
+This page last updated 2021-06-01.
 Download an older version of this [C.V. as a .pdf from 2015](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
-Last updated 2021-04-18.  
+You may also see some of this on my [portfolio page](https://www.ryanpatrickrandall.com/portfolio/), last updated 2015-10-10.  
 {: .notice}
 
 ## Education  
@@ -93,12 +94,26 @@ Rare Books and Special Collections, Rush Rhees Library, May–August 2010
 *Technical Assistant and Office Assistant*  
 Rush Rhees Library Digital Initiatives Unit, May 2007–November 2008  
 
-- Supported efforts associated with [“The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester,”](http://hdl.handle.net/1802/6053) co-authored with Katie Clark, Jane Smith, and Nancy Fried Foster, 2008  
-- Published on [UR Research](http://hdl.handle.net/1802/6053)  
-- Anthropological paper investigating how academics use technology in their work  
-- Participated in interviews, transcription, and analysis for the project, as well as writing the final report  
+- Supported efforts associated with the "Enhancing Repositories for the Next Generation of Academics" Study
+  - ["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester,"](http://hdl.handle.net/1802/6053) co-authored with Katie Clark, Jane Smith, and Nancy Fried Foster. Technical report, 2008.  
+  - Anthropological study investigating how academics use technology in their work  
+  - Participated in interviews, transcription, and analysis for the project, as well as writing the final report  
+- Supported efforts associated with the eXtensible Catalog project  
+  - ["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects,"](http://hdl.handle.net/1802/8409) co-authored with Nancy Fried Foster. Technical report, 2007.
+  - Assisted with literature and project review, as well as writing the report  
+
 
 ## English, Visual and Cultural Studies, and ESOL Teaching and Tutorial Experience  
+
+**Idaho State University** Pocatello, ID  
+*Ph.D. Student Intern*  
+Department of English, January-April 2021  
+
+- Co-taught an online, asynchronous section of ENGL 3311: Literary Criticism and Theory  
+- Co-taught and co-designed course with Dr. Matthew Levay, as one of two required internship/externship experiences in the Ph.D. Program in English and the Teaching of English  
+- Shared in preparing weekly video introduction to course modules  
+- Shared in designing and grading student assignments (weekly short responses, group "keyword" presentations, midterm and final exams, and paper)   
+
 
 **Niagara County Community College** Sanborn, NY  
 *Adjunct Instructor*  
@@ -159,29 +174,35 @@ Summer 2005
 
 ## Publications  
 
+["Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction."](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/StudentAchievementUnlocked.pdf) With Amanda Nida and Kim Reed. _ACRL 2021._ Contributed conference paper, April 2021.
+
 Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual History*, ed. Joan Rubin and Scott E. Casper. (2013).](https://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162)  
 
 - [John Cage](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
 - [Graffiti](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  
 - [Guerilla Theatre](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)  
 
-["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053) With Katie Clark, Jane Smith, and Nancy Fried Foster. September 2008. Technical report.  
+["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053) With Katie Clark, Jane Smith, and Nancy Fried Foster. Technical report, September 2008.  
 
-["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) With Nancy Friend Foster. September 2007. Technical report.  
+["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) With Nancy Friend Foster. Technical report, September 2007.  
 
-## Library Conference Panels and Presentations  
+## Library Conference Presentations and Panels  
 
-- [Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction](https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP), Conference held online, 2021  
-Contributed Paper with Amanda Nida and Kim Reed  
-- Textbook Affordability & OER (Open Education Resources)  
+- ["Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction"](https://cwidahocc-my.sharepoint.com/:v:/g/personal/amandanida_cwi_edu/EU6tbLoY4ypLnFVF_KqGicYB4n3dIulhj5NuX_dn7QIYgQ?e=oiLePW)  
+Co-presented with Amanda Nida and Kim Reed  
+[*ACRL (Association of College &amp; Research Libraries) 2021*](https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP), Conference held online, 2020  
+- "Textbook Affordability & OER (Open Education Resources)"  
 Panel with Jonathan Lashley, Kristin Witman, Marco Seiferle-Valencia, and Monica Brown  
-[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020  
 - ["Will I Get Credit for my Badges?"](https://drive.google.com/file/d/1KH8FzjqsoTHAc44dTxqcyyK_24Jpq2tW/view)  
 Information Literacy Lightning Talk with Rebeca Peacock, Shelly Doty, and Lindsay Marsh  
-[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online  
-- [SIFT Moves](https://flipgrid.com/05bb6128)  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020  
+- ["SIFT Moves"](https://flipgrid.com/05bb6128)  
 "Innovative Ideas" poster session / video lightning talk  
 [*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020  
+- "Informing the Crisis of Fake News"  
+Presentation  
+[*Library Instruction West 2020*](https://liw2020.sched.com/event/Zhqm/informing-the-crisis-of-fake-news), Conference [cancelled](https://liw2020.sched.com/event/Zhqm/informing-the-crisis-of-fake-news) due to COVID19 pandemic.  
 - "Changing Tides: Exploring Current Trends in Information Literacy Programs."  
 Panel with Zoe Fisher, Danielle Rowland, Megan Smithling, and Elizabeth Brown.  
 [*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA, 2017  
