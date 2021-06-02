@@ -31,9 +31,13 @@ Here are some of the more library-related things I've done. This is current as o
 	- ["John Cage"](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
 	- ["Graffiti"](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  
 	- ["Guerilla Theatre"](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)
-- ["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester"](http://hdl.handle.net/1802/6053) Co-authored with Katie Clark, Jane Smith, and Nancy Fried Foster. (2008.)  
 
-### Presentations  
+### Technical Reports
+
+- ["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053) Co-authored with Katie Clark, Jane Smith, and Nancy Fried Foster. (2008.)  
+- ["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) Co-authored with Nancy Fried Foster. (2007.)
+
+### Presentations
 
 - “Critical Information Literacy as Collaborative Praxis.” Co-presented with Jessica Critten, Karen Nicholson, and Eamon Tewell. [*Cultural Studies Association Conference*](http://www.culturalstudiesassociation.org/program15), Riverside, CA. 2015.  
 - [“LIS Education and New Conceptions of Democracy.”](https://lisedsymposium.wordpress.com/refereed-presentations/)
