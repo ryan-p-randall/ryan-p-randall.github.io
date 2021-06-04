@@ -16,7 +16,7 @@ var PLUGIN_SLIDES = [];
 
 new SlideAccessibility();
 
-new SkipLinks({ enabled:true });
+new SkipLinks({ enabled: true });
 
 function SlideAccessibility() {
 
@@ -26,13 +26,13 @@ function SlideAccessibility() {
 
   // get slides, wrap contents in 'accessibilityWrapper'
   // only wrap sections containing content
-  var slides = document.querySelectorAll( SLIDE_SELECTOR );
+  var slides = document.querySelectorAll(SLIDE_SELECTOR);
 
-  for (var i=0; i<slides.length; i++) {
+  for (var i = 0; i < slides.length; i++) {
     // if slide has child sections, loop through those instead
     var nestedSlides = slides[i].querySelectorAll('section');
     if (nestedSlides.length > 0) {
-      for (var k=0; k < nestedSlides.length; k++) {
+      for (var k = 0; k < nestedSlides.length; k++) {
         decorateSlide(nestedSlides, k, i);
       }
     }
@@ -43,13 +43,20 @@ function SlideAccessibility() {
       }
     }
   }
-  function decorateSlide (slideArray, index, outerIndex) {
+  function decorateSlide(slideArray, index, outerIndex) {
     // populate new array of actual slides
     PLUGIN_SLIDES.push(slideArray[index]);
 
-    // provide nested URL fragments
-    var urlFragment = outerIndex !== undefined ? (outerIndex + '/' + index) : index;
-    slideArray[index].setAttribute('data-id', urlFragment);
+    // provide nested URL fragments and section labels
+    function decorateIndices(incrementor, divider) {
+      if (outerIndex !== undefined) {
+        return ((outerIndex + incrementor) + divider + (index + incrementor));
+      }
+      return index + incrementor;
+    }
+    slideArray[index].setAttribute('data-id', decorateIndices(0, '/'));
+    // label each section with its human-readable slide number
+    slideArray[index].setAttribute('aria-label', 'Slide ' + decorateIndices(1, ', child '));
 
     var contents = slideArray[index].innerHTML;
     slideArray[index].innerHTML = '<div class="accessibilityWrapper">' + contents + '</div>';
@@ -84,18 +91,29 @@ function SkipLinks(options) {
     // Cached references to DOM elements
     dom = {};
 
-    // if controls are present, we'll insert table of contents after them
-    if( document.querySelector( CONTROLS_SELECTOR )){
-      dom.controls = document.querySelector( CONTROLS_SELECTOR );
-    }
+  // if controls are present, we'll insert table of contents after them
+  if (document.querySelector(CONTROLS_SELECTOR)) {
+    dom.controls = document.querySelector(CONTROLS_SELECTOR);
+  }
 
-    if ( DO_SKIP_LINKS ) { buildSkipLinks(); }
+  if (DO_SKIP_LINKS) { buildSkipLinks(); }
+
+  /**
+   * Sanitize text content inserted into skip links
+   */
+  function sanitizeText(text) {
+    var tempEl = document.createElement('div');
+    tempEl.textContent = text;
+    var sanitizedText = tempEl.innerHTML;
+    tempEl = null
+    return sanitizedText;
+  }
 
   /**
    * Build skip links.
    */
   function buildSkipLinks() {
-    dom.wrapper = document.querySelector( '.reveal' );
+    dom.wrapper = document.querySelector('.reveal');
 
     insertGlobalSkipLink();
 
@@ -112,34 +130,34 @@ function SkipLinks(options) {
       if (slideText === '') {
         slideText = wrappedSlide.textContent.substring(0, 40);
       }
-      skipLinkHTML += '<li><a href="#/' + SLIDES[i].getAttribute('data-id') + '">' + (i + 1) + '. ' + slideText + '</a></li>';
+      skipLinkHTML += '<li><a href="#/' + SLIDES[i].getAttribute('data-id') + '">' + (i + 1) + '. ' + sanitizeText(slideText) + '</a></li>';
     }
     skipLinkHTML += '</ul>';
 
-    dom.skipLinks = createNodeAfterSibling( dom.wrapper, 'ul', SLIDE_SKIP_LINKS_ID, skipLinkHTML, dom.controls, {'aria-hidden': true} );
+    dom.skipLinks = createNodeAfterSibling(dom.wrapper, 'ul', SLIDE_SKIP_LINKS_ID, skipLinkHTML, dom.controls, { 'aria-hidden': true });
 
     initSkipLinks();
-}
+  }
 
   /**
    * Insert link that jumps you to the list of slides.
    */
   function insertGlobalSkipLink() {
-    var globalSkipLink = document.createElement( 'a' );
-    globalSkipLink.setAttribute( 'id', GLOBAL_SKIP_LINK_ID );
-    globalSkipLink.setAttribute( 'href', '#'+SLIDE_SKIP_LINKS_ID );
+    var globalSkipLink = document.createElement('a');
+    globalSkipLink.setAttribute('id', GLOBAL_SKIP_LINK_ID);
+    globalSkipLink.setAttribute('href', '#' + SLIDE_SKIP_LINKS_ID);
     globalSkipLink.textContent = GLOBAL_SKIP_LINK_TEXT;
 
-    dom.wrapper.insertBefore( globalSkipLink, document.querySelector( '.slides' ));
+    dom.wrapper.insertBefore(globalSkipLink, document.querySelector('.slides'));
   }
   /**
    * Enable skip links.
    */
   function initSkipLinks() {
-    dom.skipToNavLink = document.querySelector( '#'+GLOBAL_SKIP_LINK_ID );
+    dom.skipToNavLink = document.querySelector('#' + GLOBAL_SKIP_LINK_ID);
 
-    var skipLinkListItems = document.querySelectorAll( SKIP_LINK_TARGET_SELECTOR );
-    for(var g=skipLinkListItems.length; g--;){
+    var skipLinkListItems = document.querySelectorAll(SKIP_LINK_TARGET_SELECTOR);
+    for (var g = skipLinkListItems.length; g--;) {
       skipLinkListItems[g].setAttribute('tabIndex', '-1');
     }
 
@@ -150,7 +168,7 @@ function SkipLinks(options) {
     dom.skipToNavLink.addEventListener('click', skipToNavLinkClick);
 
     var numSkipLinks = dom.slideSkipLinks.length;
-    for(var i=numSkipLinks; i--;){
+    for (var i = numSkipLinks; i--;) {
       dom.slideSkipLinks[i].addEventListener('focus', skipLinksFocus);
       dom.slideSkipLinks[i].addEventListener('blur', skipLinkBlur);
       dom.slideSkipLinks[i].addEventListener('click', skipLinkClick);
@@ -158,7 +176,7 @@ function SkipLinks(options) {
     document.addEventListener('keydown', blurSkipLink);
   }
   function blurSkipLink(event) {
-    if(event.which === 27){
+    if (event.which === 27) {
       event.preventDefault();
       event.target.blur();
     }
@@ -174,7 +192,7 @@ function SkipLinks(options) {
   function globalSkipLinkFocus(event) {
     event.currentTarget.style.left = '0px';
   }
-  function skipLinksFocus(event){
+  function skipLinksFocus(event) {
     globalSkipLinkFocus(event);
     dom.skipLinks.setAttribute('aria-hidden', false);
   }
@@ -192,10 +210,10 @@ function SkipLinks(options) {
   function skipLinkClick(event) {
     skipLinkBlur(event);
     var href = event.currentTarget.getAttribute('href');
-    var section = document.querySelector('[data-id="'+href.split('#/')[1]+'"]');
+    var section = document.querySelector('[data-id="' + href.split('#/')[1] + '"]');
 
-    window.setTimeout(function(){
-      section.querySelector( SKIP_LINK_TARGET_SELECTOR ).focus();
+    window.setTimeout(function () {
+      section.querySelector(SKIP_LINK_TARGET_SELECTOR).focus();
     });
   }
 
@@ -204,10 +222,10 @@ function SkipLinks(options) {
    * Extend object a with the properties of object b.
    * If there's a conflict, object b takes precedence.
    */
-  function extend( a, b ) {
+  function extend(a, b) {
 
-    for( var i in b ) {
-      a[ i ] = b[ i ];
+    for (var i in b) {
+      a[i] = b[i];
     }
 
   }
@@ -216,23 +234,23 @@ function SkipLinks(options) {
    * If a sibling element is passed through, element is
    * inserted after.
    */
-  function createNodeAfterSibling( container, tagname, id, innerHTML, sibling, options ) {
+  function createNodeAfterSibling(container, tagname, id, innerHTML, sibling, options) {
 
-    var node = document.createElement( tagname );
+    var node = document.createElement(tagname);
     node.setAttribute('id', id);
-    if( innerHTML !== null ) {
+    if (innerHTML !== null) {
       node.innerHTML = innerHTML;
     }
-    if(options){
-      for(var option in options){
+    if (options) {
+      for (var option in options) {
         node.setAttribute(option, options[option]);
       }
     }
-    if(sibling) {
-      container.insertBefore( node, sibling.nextSibling );
+    if (sibling) {
+      container.insertBefore(node, sibling.nextSibling);
     }
     else {
-      container.appendChild( node );
+      container.appendChild(node);
     }
     return node;
   }
