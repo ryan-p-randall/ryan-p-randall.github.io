@@ -60,7 +60,7 @@ include:
   - _pages
   - _sass
   - wiki
-#  - _notes
+  - _notes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -73,6 +73,8 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# exclude:       
+#  - _includes/notes_graph.json
 
 # Plugins (previously gems:)
 plugins:
@@ -121,6 +123,9 @@ collections:
   wiki:
     output: true
     permalink: /wiki/:title
+  notes:
+    output: true
+    permalink: /:slug
 
 defaults:
   # _posts
@@ -146,11 +151,16 @@ defaults:
       breadcrumbs: true
   # wiki
   - scope:
-      path: "/wiki/*"
+      path: "wiki/**/*.md"
     values:
-      layout: "wiki"
+      layout: wiki
       breadcrumbs: false
       show_date: true
+  # notes  
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note1"
 #      content-type: notes
   # wiki
 #  - scope:
