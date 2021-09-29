@@ -31,11 +31,11 @@ masthead_title:
 og_image: /assets/images/pocket-notebooks-square.jpg
 # breadcrumbs: true  
 words_per_minute: 160  
-comments:  
-  provider: false # "utterances"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+# comments:  
+#  provider: false # "utterances"
+#  utterances:
+#    theme                : # "github-light" (default), "github-dark"
+#    issue_term           : # "pathname" (default)
 twitter_username: foureyedsoul
 github_username: ryan-p-randall
 minimal_mistakes_skin: dark-citrus-sage
@@ -47,7 +47,7 @@ search_provider          : # lunr (default), algolia, google
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 kramdown:
   auto_ids: true
 # Outputting
@@ -78,6 +78,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - github-pages
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
