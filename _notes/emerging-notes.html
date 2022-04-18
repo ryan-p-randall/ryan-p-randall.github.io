@@ -1,0 +1,31 @@
+---
+layout: notesindex
+excerpts: true
+folder-title: "Notes"
+toc: true
+---
+
+<h1>Welcome to my notes!</h1>
+{% include wikidescription.html %}
+
+{% assign emerging_notes = site.notes | where:"status", ":seedling:" | sort: "path" %}
+{% assign established_notes = site.notes | where:"status", ":herb:" | sort: "path" %}
+{% assign evergreen_notes = site.notes | where:"status", ":evergreen_tree:" | sort: "path" %}
+
+<h2 id="emerging">:seedling: Emerging Notes</h2>
+{% for item in emerging_notes %}
+<li><a href="{{ item.url }}">{{item.path}}</a> :seedling:
+</li>
+{% endfor %}
+
+<h2 id="established">:herb: Established Notes</h2>
+{% for item in established_notes %}
+<li><a href="{{ item.url }}">{{item.path}}</a> :herb:
+</li>
+{% endfor %}
+
+<h2 id="evergreen">:evergreen_tree: Evergreen Notes</h2>
+{% for item in evergreen_notes %}
+<li><a href="{{ item.url }}">{{item.path}}</a> :evergreen_tree:
+</li>
+{% endfor %}

@@ -51,7 +51,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 kramdown:
   auto_ids: true
 # Outputting
-permalink: /:categories/:title/
+permalink: "/:categories/:title/"
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -60,7 +60,7 @@ include:
   - _pages
   - _sass
   - wiki
-  - _notes
+#  - _notes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -73,8 +73,8 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-# exclude:       
-#  - _includes/notes_graph.json
+exclude:
+  - _includes/notes_graph.json
 
 # Plugins (previously gems:)
 plugins:
@@ -86,14 +86,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Ryan P. Randall"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Instruction Coordinator & Faculty Outreach Librarian at the College of Western Idaho ∴ Literary, media, & cultural studies ∴ Web Editor at _In the Library with the Lead Pipe_. ∴ Another world is possible."
-  location: "Boise, Idaho"
-  uri: "https://ryanpatrickrandall.com" # "https://ryan-p-randall.github.io"
-  twitter: foureyedsoul
-  github: ryan-p-randall
+# author:
+#  name   : "Ryan P. Randall"
+#  avatar : "/assets/images/bio-photo.jpg"
+#  bio    : "Instruction Coordinator & Faculty Outreach Librarian at the College of Western Idaho ∴ Literary, media, & cultural studies ∴ Web Editor at _In the Library with the Lead Pipe_. ∴ Another world is possible."
+#  location: "Boise, Idaho"
+#  uri: "https://ryanpatrickrandall.com" # "https://ryan-p-randall.github.io"
+#  twitter: foureyedsoul
+#  github: ryan-p-randall
 # links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
@@ -123,10 +123,10 @@ footer:
 collections:
   wiki:
     output: true
-    permalink: /wiki/:title
+    permalink: /:collection/:path # /:slug # /wiki/:title
   notes:
     output: true
-    permalink: /:slug
+    permalink: /:collection/:path # /:slug
 
 defaults:
   # _posts
@@ -136,6 +136,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: ryan
       breadcrumbs: true
       comments: true
       read_time: false
@@ -148,21 +149,28 @@ defaults:
       type: pages
     values:
       layout: single
+      author: ryan
       author_profile: true
       breadcrumbs: true
   # wiki
   - scope:
       path: "wiki/**/*.md"
     values:
-      layout: wiki
+      layout: "wiki2"
       breadcrumbs: false
       show_date: true
   # notes  
   - scope:
-      path: "_notes/**/*.md"
+      path: "" # "_notes/**/*.md"
+      type: notes
     values:
-      layout: "note1"
-#      content-type: notes
+      layout: "note"
+      toc: true
+      sidebar:
+        nav: "notes"
+    #  author: wiki
+      # permalink: /:collection/:path # /:slug # /:categories/:title/
+      # breadcrumbs: true
   # wiki
 #  - scope:
 #      path: "/_notes/*"
@@ -178,3 +186,13 @@ tag_archive:
   path: /tags/
 
 # scripts
+
+# simply jekyll  
+
+# preferences:
+#  backlinks:
+#    enabled: true
+#  wiki_style_link: # This property handles wiki style links '[['
+#    enabled: true
+#  pagepreview:
+#    enabled: true

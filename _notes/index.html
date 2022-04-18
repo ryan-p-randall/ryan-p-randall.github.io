@@ -1,0 +1,68 @@
+---
+layout: notesindex
+excerpts: true
+folder-title: "Notes"
+toc: true
+---
+
+<h1>Welcome to my notes!</h1>
+{% include wikidescription.html %}
+
+<h2 id="all-folders">All folders</h2>
+
+{% assign folders = site.notes | where_exp:"item", "item.path contains '_notes'" %}
+{% assign wikifolders = "" | split:"" %}
+
+{% for folder in folders %}
+{% assign tempvar = folder.path | split:"/" %}
+{% assign wikifolders = wikifolders | push:tempvar[1] %}
+{% endfor %}
+
+{% assign wikifolders = wikifolders | uniq | sort %}
+
+<div class="wiki-folder-grid">
+    {% for folder in wikifolders %}
+    {% unless folder contains 'md' or folder contains 'html' %}
+    <div class="wiki-folder-grid-thirds">
+        <a class="" href="/notes/{{folder}}/">
+            <div class="btn btn--primary btn--large">{{folder}}</div>
+        </a>
+    </div>
+    {% endunless %}
+    {% endfor %}
+</div>
+
+<h2 id="all-items">All items</h2>
+
+{% assign folder1 = site.notes | where_exp: "item" , "item.path contains '_notes'" | sort:"path" %}
+<ul>
+    {% for item in folder1 %}
+    <li><a href="{{ item.url }}">{{item.path}}
+        {% if item.status == ":seedling:" %} :seedling:{% endif %}
+        {% if item.status == ":herb:" %} :herb:{% endif %}
+        {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+    </a></li>
+    {% endfor %}
+</ul>
+
+{% assign emerging_notes = site.notes | where:"status", ":seedling:" | sort: "path" %}
+{% assign established_notes = site.notes | where:"status", ":herb:" | sort: "path" %}
+{% assign evergreen_notes = site.notes | where:"status", ":evergreen_tree:" | sort: "path" %}
+
+<h2 id="emerging">:seedling: Emerging Notes</h2>
+{% for item in emerging_notes %}
+<li><a href="{{ item.url }}">{{item.path}}</a> :seedling:
+</li>
+{% endfor %}
+
+<h2 id="established">:herb: Established Notes</h2>
+{% for item in established_notes %}
+<li><a href="{{ item.url }}">{{item.path}}</a> :herb:
+</li>
+{% endfor %}
+
+<h2 id="evergreen">:evergreen_tree: Evergreen Notes</h2>
+{% for item in evergreen_notes %}
+<li><a href="{{ item.url }}">{{item.path}}</a> :evergreen_tree:
+</li>
+{% endfor %}

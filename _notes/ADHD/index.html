@@ -1,0 +1,41 @@
+---
+layout: notesindex
+excerpts: true
+folder-title: "ADHD"
+title: "ADHD"
+---
+
+{% assign adhd_notes_pinned = site.notes | where:"adhd","true" | where:"pinned","true" | sort: "path" %}
+{% unless adhd_notes_pinned == empty %}
+<h2 id="pinned">Pinned {{page.title}} notes</h2>
+<ul>
+    {% for item in adhd_notes_pinned %}
+    <li>{% if item.pinned %}📌 {% endif %}
+        <a href="{{ item.url }}">{{ item.title }}
+            {% if item.status == ":seedling:" %} :seedling:{% endif %}
+            {% if item.status == ":herb:" %} :herb:{% endif %}
+            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+{% endunless %}
+
+
+<h2 id="all">All {{page.title}} items</h2>
+{% assign adhd_notes_all = site.notes | where:"adhd","true" | sort: "path" %}
+{% if adhd_notes_all.size > 0 %}
+<ul>
+    {% for item in adhd_notes_all %}
+    <li>{% if item.pinned %}📌 {% endif %}
+        <a href="{{ item.url }}">{{ item.title }}
+            {% if item.status == ":seedling:" %} :seedling:{% endif %}
+            {% if item.status == ":herb:" %} :herb:{% endif %}
+            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+    {% else %}
+    <p>There's nothing here yet!</p>
+    {% endif %}
