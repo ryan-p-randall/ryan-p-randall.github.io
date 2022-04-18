@@ -22,3 +22,17 @@ wiki:
         url: /wiki/
       - title: "Colophon"
         url: /colophon/
+
+notes:
+  - title: "A digital garden"
+    children:
+      - title: ":seedling: = emerging note"
+        url: "/notes/#emerging"
+      - title: ":herb: = established note"
+        url: "/notes/#established"
+      - title: ":evergreen_tree: = evergreen note"
+        url: "/notes/#evergreen"
+      - title: "🎍 &nbsp;&nbsp; note folders"
+        url: "/notes/#all-folders"
+      - title: "👨🏻‍🌾 &nbsp;&nbsp; all notes"
+        url: "/notes/#all-items"
