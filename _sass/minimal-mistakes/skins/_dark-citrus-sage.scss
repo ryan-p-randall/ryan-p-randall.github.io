@@ -17,6 +17,8 @@ $link-color-visited: mix(#000, $link-color, 20%) !default;
 $masthead-link-color: #00b386 !default; /* sage */
 $masthead-link-color-hover: mix(#000, #00b386, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+/* My Additional Colors */
+$backlink-background-color: mix(#000, $background-color, 10%) !default;
 
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
@@ -51,4 +53,43 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
   flex-basis: calc(100%/3);
   text-align: center;
   padding: .5em .5em .5em .5em;
+}
+
+.backlink-box {
+    background: $backlink-background-color;
+    padding: 1em;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: $border-color;
+    position: relative;
+}
+
+.backlink-box:hover {
+    box-shadow: 0 0 0 0.25rem $link-color;
+}
+
+.backlink-box a::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.backlink-box a {
+    text-decoration: underline;
+}
+
+.backlink-box a:focus {
+    text-decoration: underline;
+}
+
+.backlink-box:focus-within {
+    box-shadow: 0 0 0 0.25rem $link-color;
+}
+
+.backlink-box:focus-within a:focus {
+    text-decoration: underline;
 }
