@@ -28,7 +28,6 @@ jobs:
     - uses: helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        jekyll_src: 'sample_site'
 
     # Specify the target branch (optional)
     - uses: helaili/jekyll-action@v2
