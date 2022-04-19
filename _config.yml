@@ -75,6 +75,10 @@ include:
 #   - vendor/ruby/
 exclude:
   - _includes/notes_graph.json
+  - package.json
+  - src
+  - node_modules
+  - vendor/bundle
 
 # Plugins (previously gems:)
 plugins:
