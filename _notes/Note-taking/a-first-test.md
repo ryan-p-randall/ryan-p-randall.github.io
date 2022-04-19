@@ -3,6 +3,7 @@ title: a first test
 last_modified_at: 2021-01-02
 note-taking: true
 status: ":evergreen_tree:"
+published: false
 sidebar:
   nav: "notes"
 #    - text: "My digital garden, perpetually in process"

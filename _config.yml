@@ -51,7 +51,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 kramdown:
   auto_ids: true
 # Outputting
-permalink: "/:categories/:title/"
+permalink: "/:categories/:title"
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones

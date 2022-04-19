@@ -1,5 +1,5 @@
 ---
-title: "VS Code"
+title: "VS Code note"
 date: 2020-09-04 
 last_modified_at: 2020-09-20  
 # excerpt: ""  

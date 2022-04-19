@@ -6,9 +6,11 @@ adhd-tech: true
 excerpt: "A few ways that my smartwatch (which happens to be an apple watch) helps me out with ADHD-related struggles."
 status: ":evergreen_tree:"
 toc: true
-published: true
+published: false
 ---
 I've been wanting to write about some ways that my smartwatch has helped me deal with the fact that I perceive time differently than most neurotypical people.  
+
+[[apple-watch-ADHD]]
 
 ## Timers  
 

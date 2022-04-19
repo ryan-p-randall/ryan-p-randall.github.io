@@ -11,7 +11,4 @@ title: "Hall new identities"
 
 Stuart Hall's article "New Identities" is great.  
 
-Root relative link test: [hooks-buddhism](/wiki/Articles/hooks-buddhism).  
-
 [[hooks-buddhism]]  
-[[external link test::https://www.wikipedia.org/]]  

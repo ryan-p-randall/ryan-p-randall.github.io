@@ -6,10 +6,12 @@ adhd-tech: true
 excerpt: "A few ways that my smartwatch (which happens to be an apple watch) helps me out with ADHD-related struggles."
 status: ":evergreen_tree:"
 toc: true
-published: true
+published: false
 pinned: true
 ---
 I've been wanting to write about some ways that my smartwatch has helped me deal with the fact that I perceive time differently than most neurotypical people.  
+
+[[apple watch ADHD]]
 
 ## Timers  
 
@@ -51,6 +53,6 @@ Here are some things I've found about setting up the basic look of the watch, ou
 
 - [ ] add images<br>  
 &nbsp;&nbsp;  - [ ] Watchsmith's week number<br>  
-&nbsp;&nbsp;   - [ ] Watchsmith's geometric calendar<br>  
+&nbsp;&nbsp;  - [ ] Watchsmith's geometric calendar<br>  
 - [ ] decide if I want to split this into smaller notes<br>  
 </div>
