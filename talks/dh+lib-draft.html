@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="creator" content="Marked.app"/>
+	<title>dh+lib draft</title>
+	<meta name="created" content="2015-06-08"/>
+	<meta name="targetwordcount" content="1,000-ish?"/>
+	<meta name="link" content="https://voyant-tools.org/?corpus=1433866805296.5680&amp;stopList=stop.en.taporware.txt"/>
+	<meta name="semifinished" content="2015-06-20"/>
+	
+</head>
+
+<body>
+
+<h1 id="dhatthedesk">DH at the Desk</h1>
+
+<h2 id="it’sstillreference—we’rejustaddingmoretools">It’s still reference—We’re just adding more tools</h2>
+
+<p>Most librarians likely view reference on a spectrum between providing transparent service and point-of-need instruction. You might regard the goal of reference as efficient delivery of information to patrons. On the other end, you might consider our roles more as guides who tacitly instruct or outright collaborate with patrons to improve their searching skills and sophistication with knowledge structures and research processes. Wherever you reside on this continuum, digital humanities tools can help accomplish your goals. This post will show you what two different text mining tools can do for you and your patrons at the reference desk.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a> </p>
+
+<p>Text mining tools often are the best candidates for use at the reference desk, considering the constraints of time and attention that frequently accompany these interactions. Two of the handiest are <a href="https://books.google.com/ngrams/info">Google Ngram Viewer</a>, which counts frequencies of words in various corpora from their Google Books collection, and <a href="voyant-tools.org">Voyant-Tools</a>, which can do similar analyses for user-supplied texts. As web-based tools that do not charge for access, they’re close to ubiquitously available, and they require little specialized knowledge other than gaining familiarity with their interfaces. </p>
+
+<h3 id="additup">Add It Up</h3>
+
+<p>What can counting terms help show at the reference desk? If a patron wants help deciding on words or phrases to use for their search, turning to Ngrams can help show the likely frequency and age of results for each term. A patron wanting to research non-heterosexual identities might benefit from seeing how some related terms have been used over time: </p>
+
+<p><iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=lesbian%2Cgay%2Cbisexual%2Ctransgender%2Cqueer&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Clesbian%3B%2Cc0%3B.t1%3B%2Cgay%3B%2Cc0%3B.t1%3B%2Cbisexual%3B%2Cc0%3B.t1%3B%2Ctransgender%3B%2Cc0%3B.t1%3B%2Cqueer%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></p>
+
+<p>While few college-age patrons would likely be surprised that terms like “queer” and “gay” have shifted meaning over time, it can be useful to demonstrate just how commonly they were once used compared to now. Word counts are, of course, neither “conclusions” or “solutions” to research, but rather can lead to a more advanced understanding of terminology and why one might need to search for multiple terms to perform an adequate inquiry for their purposes. An excellent feature of Google’s Ngrams Viewer is that individual results can be clicked on and read within their context in the original document. The graph also provides a useful layer of abstraction that can help give novice or impatient researchers time to see why they might want to consider searching with multiple terms. The interface can also help more visual learners actually see the dramatic shift in usage, perhaps assisting them to understand it more fully. </p>
+
+<h3 id="introspection">Introspection</h3>
+
+<p>In addition to looking for broad trends across many texts, patrons can also benefit from tools that help examine a single work. Counting the frequency of terms might help a patron consider aspects of a work to research further, or what keywords to use for secondary literature. Although this use isn’t exclusive to academic libraries, it might be most easily explained with a student example. </p>
+
+<p>A student who appears taken aback by how dramatically Mary Shelley’s <em>Frankenstein</em> differs from the Hollywood/Halloween folk imaginary could benefit from being shown Voyant, for this tool could help the student think through what the novel’s word choice emphasizes. </p>
+
+<p><iframe name="Voyant" src="https://voyant-tools.org/?corpus=1433866805296.5680&stopList=stop.en.taporware.txt" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></p>
+
+<p>Above is an embedded view of <a href="https://voyant-tools.org/">Voyant</a> already loaded with a copy of Shelley’s <em>Frankenstein</em> from <a href="https://gitenberg.github.io/">GITenburg</a>, a repository of texts from <a href="https://www.gutenberg.org/">Project Gutenberg</a> that seeks to make the files even more user-friendly.<a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a> As we can see in the “Summary” tool in the lower left, the five most frequent words in this text are man, life, father, shall, and eyes. If I were trying to help a student develop a search strategy based on terms, I’d likely ask them to describe the type of horror these words provoke. Do these terms sound more akin to existential horror or a creature feature? What other words might the student want to consider exploring as possible themes or ideas that run through the work? </p>
+
+<p>Using text analysis tools at the reference desk additionally helps scaffold more sophisticated understandings of data and searching. Once they start looking at the words that are most frequently used in a text and begin trying to link them to their own reading or experience of that work, a student might rightfully protest that not all the concepts in the work show up with the same term throughout: “Sometimes Shelley might be using synonyms! She might be varying her word choice for effect or nuance! Counting the terms doesn’t account for this!”<br/>
+Isn’t this the sort of critical engagement with research that we long to help develop through our reference encounters? By giving patrons an environment to do text analysis within a work-slash-data-set that they already have encountered in its entirety, a tool like Voyant positions them in a place more conducive to active, thoughtful criticism than relying on intermediaries like the reference desk librarian’s toolbox of Library of Congress Search Headings and related strategies. </p>
+
+<p>Whether you lean more toward seeing reference as a service or, with James K. Elmborg, allow space for <a href="https://www.worldcat.org/title/teaching-at-the-desk-toward-a-reference-pedagogy/oclc/425030815">“Teaching at the Desk”</a>, consider adding text analysis tools like Google Ngrams and Voyant to your repertoire. </p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:1">
+<p>Indeed, a number of librarians and DH practitioners have discussed how well they complement each other. A great starting point for this is Andrea Baer’s <a href="https://hdl.handle.net/2022/17236">“Critical Information Literacy in the College Classroom: Exploring Scholarly Knowledge Production through the Digital Humanities”</a>.  <a href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li id="fn:2">
+<p>Specifically, I’ve also told the various tools—each of which has its own settings in its smaller frame inside the window—to ignore the most common words in English. You can do this yourself by clicking on the gear icon (“Options”), then selecting and applying one of the “stop words” lists. There is a check box that allows you to use the stop word list for just that single tool or for all of the tools in the Voyant window. GITenburg seeks to build on Project Gutenberg by making the various texts even more accessible to other tools and to make submitting revisions easier by using the <a href="https://git-scm.com/">GIT</a> version control software on <a href="https://github.com/about">GitHub</a>.  <a href="#fnref:2" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+</body>
+</html>
