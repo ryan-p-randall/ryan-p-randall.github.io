@@ -22,7 +22,7 @@ title: "Jekyll"
 
 
 <h2 id="all">All {{page.title}} items</h2>
-{% assign technology-jekyll_notes_all = site.notes | where:"technology","true" | sort: "path" %}
+{% assign technology-jekyll_notes_all = site.notes | where:"technology-jekyll","true" | sort: "path" %}
 {% if technology-jekyll_notes_all.size > 0 %}
 <ul>
     {% for item in technology-jekyll_notes_all %}

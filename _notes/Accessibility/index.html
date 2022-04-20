@@ -23,7 +23,7 @@ title: "Accessibility"
 
 
 <h2 id="all">All {{page.title}} items</h2>
-{% assign accessibility_notes_all = site.notes | where:"technology","true" | sort: "path" %}
+{% assign accessibility_notes_all = site.notes | where:"accessibility","true" | sort: "path" %}
 {% if accessibility_notes_all.size > 0 %}
 <ul>
     {% for item in accessibility_notes_all %}

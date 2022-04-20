@@ -32,15 +32,15 @@ toc: true
     {% endfor %}
 </div>
 
-<h2 id="all-items">All items</h2>
+<h2 id="all-notes">All notes</h2>
 
-{% assign folder1 = site.notes | where_exp: "item" , "item.path contains '_notes'" | sort:"path" %}
+{% assign folder1 = site.notes | where_exp: "item" , "item.path contains '_notes'" | where:"published","true" | sort:"path" %}
 <ul>
-    {% for item in folder1 %}
-    <li><a href="{{ item.url }}">{{item.path}}
-        {% if item.status == ":seedling:" %} :seedling:{% endif %}
-        {% if item.status == ":herb:" %} :herb:{% endif %}
-        {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+    {% for note in folder1 %}
+    <li><a href="{{ item.url }}">{{note.path}}
+        {% if note.status == ":seedling:" %} :seedling:{% endif %}
+        {% if note.status == ":herb:" %} :herb:{% endif %}
+        {% if note.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
     </a></li>
     {% endfor %}
 </ul>
@@ -50,19 +50,37 @@ toc: true
 {% assign evergreen_notes = site.notes | where:"status", ":evergreen_tree:" | sort: "path" %}
 
 <h2 id="emerging">:seedling: Emerging Notes</h2>
-{% for item in emerging_notes %}
-<li><a href="{{ item.url }}">{{item.path}}</a> :seedling:
-</li>
-{% endfor %}
+{% if emerging_notes.size > 0 %}
+    <ul>
+    {% for item in emerging_notes %}
+    <li><a href="{{ item.url }}">{{item.path}}</a> :seedling:
+    </li>
+    {% endfor %}
+    </ul>
+    {% else %}
+    <p>There are no emerging notes yet!</p>
+{% endif %}
 
 <h2 id="established">:herb: Established Notes</h2>
-{% for item in established_notes %}
-<li><a href="{{ item.url }}">{{item.path}}</a> :herb:
-</li>
-{% endfor %}
+{% if established_notes.size > 0 %}
+    <ul>
+    {% for item in established_notes %}
+    <li><a href="{{ item.url }}">{{item.path}}</a> :herb:
+    </li>
+    {% endfor %}
+    </ul>
+    {% else %}
+    <p>There are no established notes yet!</p>
+{% endif %}
 
 <h2 id="evergreen">:evergreen_tree: Evergreen Notes</h2>
-{% for item in evergreen_notes %}
-<li><a href="{{ item.url }}">{{item.path}}</a> :evergreen_tree:
-</li>
-{% endfor %}
+{% if evergreen_notes.size > 0 %}
+    <ul>
+    {% for item in evergreen_notes %}
+    <li><a href="{{ item.url }}">{{item.path}}</a> :evergreen_tree:
+    </li>
+    {% endfor %}
+    </ul>
+    {% else %}
+    <p>There are no evergreen notes yet!</p>
+{% endif %}

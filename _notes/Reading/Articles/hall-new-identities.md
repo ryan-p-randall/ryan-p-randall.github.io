@@ -6,6 +6,7 @@ reading-articles: true
 excerpt: "A classic Hall article"
 status: ":seedling:"
 title: "Hall new identities"
+published: false
 ---
 { Hey! This is just a quick test of the new wiki setup! }  
 

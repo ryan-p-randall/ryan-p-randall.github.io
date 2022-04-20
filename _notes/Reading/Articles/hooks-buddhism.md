@@ -6,6 +6,7 @@ reading-articles: true
 excerpt: "Here, bell hooks wrote about identities."
 status: ":herb:"
 title: "hooks buddhism"
+published: false
 ---
 { Hey! This is just a quick test of the new wiki setup! }  
 
