@@ -5,6 +5,32 @@ folder-title: "Note-taking"
 title: "Note taking"
 ---
 
+<h2>All {{page.title}} folders</h2>
+
+{% assign folders = site.notes | where_exp:"item", "item.path contains 'Reading'" %}
+{% assign wikifolders = "" | split:"" %}
+
+{% for folder in folders %}
+{% assign tempvar = folder.path | split:"/" %}
+{% assign wikifolders = wikifolders | push:tempvar[1] %}
+{% endfor %}
+
+{% assign wikifolders = wikifolders | uniq | sort %}
+
+<div class="wiki-folder-grid">
+    <div class="wiki-folder-grid-thirds">
+        <a class="" href="/notes/Note-taking/Dendron">
+            <div class="btn btn--primary btn--large">Dendron</div>
+        </a>
+    </div>
+<!--
+    <div class="wiki-folder-grid-thirds">
+        <a class="" href="/notes/Note-taking/Folder">
+            <div class="btn btn--primary btn--large">Folder</div>
+        </a>
+    </div> -->
+</div>
+
 {% assign note-taking_notes_pinned = site.notes | where:"note-taking","true" | where:"pinned","true" | sort: "path" %}
 {% unless note-taking_notes_pinned == empty %}
 <h2 id="pinned">Pinned {{page.title}} notes:</h2>

@@ -3,6 +3,7 @@ title: "Literature Notes in Dendron"
 date: 2021-06-21
 last_modified_at: 2021-06-21
 note-taking: true
+dendron: true
 excerpt: "My most current write-up of using Dendron for literature notes."
 status: ":seedling:"
 toc: true
@@ -10,7 +11,7 @@ published: true
 ---
 I've been refining a system for taking literature notes in [Dendron](https://www.dendron.so/), which complements keeping citations with [Zotero](https://www.zotero.org/). My systems remain perpetually in flux, but this is at least my most current *write-up*, if not my most current approach.  
 
-As of 2021-06-21, I haven't written notes about Dendron or Zotero, but I will before long. In brief:  
+As of 2021-06-21, I haven't written notes about Dendron or Zotero. In brief:  
 - Dendron is an extension for the text editor VS Code. If you prefer a "what you see is what you get" tool, you might prefer an note-taking alternative like Obsidian. But if you appreciate the extensibility and customization enabled through VS Code's vast set of extensions, Dendron's the best note-taking tool I've seen yet.  
 - Zotero is a free citation manager. Although I've used alternatives years ago, I can't imagine ever moving away from Zotero.  
 
@@ -25,5 +26,6 @@ Ahrens suggests making links between permanent notes, which is something Dendron
 
 ## Dendron's Structure  
 
-
+I plan to write more about structuing these literature notes in Dendron.  
+{: .notice--info}
 
