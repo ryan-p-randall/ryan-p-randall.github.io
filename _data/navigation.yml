@@ -4,10 +4,10 @@ main:
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
-  - title: "Blog"
-    url: /posts/
   - title: "Notes"
     url: /notes/
+  - title: "Blog"
+    url: /posts/
   - title: "About"
     url: /about/
   - title: "CV & Portfolio"

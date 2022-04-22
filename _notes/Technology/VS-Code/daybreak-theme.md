@@ -3,7 +3,7 @@ title: "Daybreak Theme"
 date: 2022-04-18  
 # last_modified_at: 2020-09-20  
 excerpt: "My fave color theme, plus some of my customizations."
-status: ":seedling:"  
+status: ":herb:"  
 published: true
 technology: true
 technology-vs-code: true
@@ -30,7 +30,7 @@ Unfortunately, the person who initially designed Horizon doesn't seem to be [act
 
 The one thing I'm not a fan of about Daybreak is that the activity bar icons are extremely low-contrast. Especially if you lower the brightness of your monitor, you almost need to remember the order of the icons in order to know where to put your cursor.  
 
-{% include gallery caption="Here are three versions" %}
+{% include gallery caption="Here are three versions for the sidebar colors" %}
 
 Here are the original colors:  
 
@@ -64,7 +64,7 @@ This is the code to achieve these colors:
         }
 ```
 
-The original value for the purple/grey is #6C6F93 — and in the above snippet, the last two digits in the code reduce the opacity from 100% to 58.5%. This is more than enough to help "situate" the color in the bar, at least to my eyes. It's a good balance of increasing the contrast while still visually prioritizing the active icons.  
+The original value for the purple/grey is `#6C6F93` — and in the above snippet, the last two digits in the code reduce the opacity from 100% to 58.5%. This is more than enough to help "situate" the color in the bar, at least to my eyes. It's a good balance of increasing the contrast while still visually prioritizing the active icons.  
 
 But wait—why does `95` equal `58.5%`? I'd forgotten that these [values are in hex notation](https://css-tricks.com/8-digit-hex-codes/)—and therefore, anything in the 90% range would need to start with `F`.  
 
