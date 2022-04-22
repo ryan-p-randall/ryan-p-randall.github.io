@@ -1,0 +1,618 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Bigfoot Spotting and Other Jekyll Adventures — Ryan P. Randall</title>
+<meta name="description" content="A post where I describe trying—and thus far, failing—to use Bigfoot.js to make footnotes more engaging in a Jekyll/GitHub Pages blog. I’ll revisit this soon to give it another try.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="Bigfoot Spotting and Other Jekyll Adventures">
+<meta property="og:url" content="https://ryanpatrickrandall.com/bigfoot-spotting">
+
+
+  <meta property="og:description" content="A post where I describe trying—and thus far, failing—to use Bigfoot.js to make footnotes more engaging in a Jekyll/GitHub Pages blog. I’ll revisit this soon to give it another try.">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2014-09-13T19:38:37-06:00">
+
+
+
+  <meta property="article:modified_time" content="2015-05-31T00:00:00-06:00">
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/bigfoot-spotting">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/cv/">CV & Portfolio</a>
+            </li><li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li>
+  <a href="http://www.inthelibrarywiththeleadpipe.org/about/editorial-board/ryan-randall/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="ai ai-open-access" aria-hidden="true" style="margin-right: .5em;"></i>In the Library with the Lead Pipe
+  </a>
+</li>
+<li>
+  <a href="https://scholar.social/@foureyedsoul" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon (on Scholar.Social)
+  </a>
+</li>
+<li>
+  <a href="https://hcommons.org/members/foureyedsoul/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-university" aria-hidden="true" style="margin-right: .5em;"></i>Humanities Commons
+  </a>
+</li>
+<li>
+  <a href="https://orcid.org/0000-0003-4499-7255" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="ai ai-orcid" aria-hidden="true" style="margin-right: .5em;"></i>Orcid
+  </a>
+</li>
+<li>
+  <a href="https://www.zotero.org/ryanprandall" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="ai ai-zotero" aria-hidden="true" style="margin-right: .5em;"></i>Zotero
+  </a>
+</li>
+<li>
+  <a href="http://goodreads.com/user/show/2077359-ryan" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-fw fa-book" aria-hidden="true" style="margin-right: .5em;"></i>Goodreads
+  </a>
+</li>
+<li>
+  <a href="/now" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
+  </a>
+</li>
+
+<!--
+<li>
+  <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-fw" aria-hidden="true"></i>Custom Social Profile Link
+  </a>
+</li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <meta itemprop="headline" content="Bigfoot Spotting and Other Jekyll Adventures">
+    
+    <meta itemprop="description" content="A post where I describe trying—and thus far, failing—to use Bigfoot.js to make footnotes more engaging in a Jekyll/GitHub Pages blog. I’ll revisit this soon to give it another try.">
+    
+    
+    <meta itemprop="datePublished" content="2014-09-13T19:38:37-06:00">
+    
+    <meta itemprop="dateModified" content="2015-05-31T00:00:00-06:00">
+
+    <div class="page__inner-wrap">
+      
+      <header>
+        <h1 id="page-title" class="page__title" itemprop="headline">Bigfoot Spotting and Other Jekyll Adventures
+</h1>
+        
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2014-09-13T19:38:37-06:00">September 13, 2014</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+      </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Here’s a test of <a href="http://www.bigfootjs.com/">Bigfoot.js</a>, a rather awesome addition to the web. <sup id="fnref:bgft" role="doc-noteref"><a href="#fn:bgft" class="footnote" rel="footnote">1</a></sup> (edit: It’ll remain elusive, see footnote #2.)<sup id="fnref:bgftfail" role="doc-noteref"><a href="#fn:bgftfail" class="footnote" rel="footnote">2</a></sup> (edit № 2: I’ve gotten it to work, as of 2015-05-31! It <em>wasn’t</em> an issue with Jekyll or GitHub Pages, but rather with my understanding of how Jekyll &amp; GitHub plugins work. Once I realized that, it just took some more tinkering to get the appropriate JavaScript calls and SCSS things working.)</p>
+
+<p>Sooner or later I’ll write about how I’ve made this site so far. I would still like to add two main things to it:</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><del>the Bigfoot.js inline footnote functionality</del> @done(2015-05-31)!</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />an alternate stylesheet in the vein of Brett Terpstra’s <a href="http://brettterpstra.com/">SuperReadable</a>.</li>
+</ul>
+
+<p>Terpstra’s alternate stylesheet hides under a gear in the top right corner of his site, and allows visitors to switch to a stylesheet that uses <a href="http://opendyslexic.org/">OpenDyslexic</a>, a free and open source font designed for dyslexic readers. (They might not speak up, but you’ve got students, users, or patrons who’d appreciate being told about OpenDyslexic in your syllabi or other handouts.)</p>
+
+<p>The process of making this site with <a href="http://jekyllrb.com/">Jekyll</a> has been a rewarding foray into using the command line interface, but it initially took quite a bit longer than I’d hoped. So I anticipate creating a brief series of “how-to” posts from my old process notes as I was putting this together. Jekyll’s a great blogging alternative to WordPress that uses fewer resources (i.e. doesn’t require a database) and can be hosted for free on GitHub pages, making it great for LibSchool students who want to create a site that will be a bit more of a learning opportunity.</p>
+
+<p>For now, here’s a list of links I’d recommend for learning about Jekyll:</p>
+
+<ol>
+  <li>Trevor Jones has written probably <a href="http://www.trevordjones.com/jekyll">the best guide I’ve seen so far to setting up a Jekyll/GitHub Pages blog</a>—I wish I’d have found this when I was putting my own site together.</li>
+  <li><a href="https://mademistakes.com/articles/going-static/">Michael Rose’s “Going Static”</a> helps explain why to use Jekyll.</li>
+  <li><a href="http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/">Mike Greiling’s “Jekyll From Scratch”</a> helped me get through starting my own.</li>
+  <li><a href="http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/">Barry Clark’s “Build a Blog with Jekyll and GitHub Pages”</a> also helps distinguish Jekyll from alternatives like WordPress.</li>
+</ol>
+
+<p>If you have questions about making a site of your own using Jekyll—or any of this, really—don’t be shy about contacting me on Twitter.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:bgft" role="doc-endnote">
+      <p>You can find this arcane, hirsute magick <a href="http://www.bigfootjs.com/">here</a> courtesy of Chris Sauvé, a Canadian otherwise <a href="https://github.com/lemonmade">known as lemonmade</a>. <a href="#fnref:bgft" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:bgftfail" role="doc-endnote">
+      <p>After an afternoon of tweaking, tinkering, asking questions, and reading specifications sheets, it seems that Bigfoot.js won’t work with Kramdown, the parser that Github pages uses to convert Markdown into html. It comes down to Bigfoot needing the footnote definitions list items to have a <code class="language-plaintext highlighter-rouge">class="footnote"</code> attribute, but there doesn’t seem to be a way to make this happen with Kramdown. As awesome as Bigfoot.js appears, it will remain elusive around here until this aspect of Kramdown syntax changes or I decide to do a fundamental overhaul of how I make my site. I’m adding this edit so that this can be useful to anyone else hoping to make Bigfoot.js work with Jekyll and to anyone heartened by seeing others tinker and fail. <a href="#fnref:bgftfail" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+        
+      <!-- just added below-->
+
+      
+      <!-- just added above-->
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#meta" class="page__taxonomy-item" rel="tag">meta</a><span class="sep">, </span>
+    
+      <a href="/tags/#tech-tools" class="page__taxonomy-item" rel="tag">tech tools</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2015-05-31">May 31, 2015</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/blog/new-directions-in-information-fluency" class="pagination--pager" title="New Directions in Information Fluency
+">Newer</a>
+    
+    
+      <a href="/review-of-online-archive-of-california" class="pagination--pager" title="Review of Online Archive of California
+">Older</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+  <div class="page__related">
+    <h4 class="page__related-title">You may also enjoy
+    </h4>
+    <div class="grid__wrapper">
+      
+      
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/monthly-signal-boost/august-2020-monthly-signal-boost" rel="permalink">August 2020 Monthly Signal Boost
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2020-08-31T13:34:53-06:00">August 31, 2020</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Mindfulness with the Waking Up and Plum Village apps; Most excellent tunes from Sonic D and Autodidact
+</p>
+  </article>
+</div>
+
+      
+      
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/sift-links" rel="permalink">SIFT Links
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2020-07-29T13:34:53-06:00">July 29, 2020</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Links related to a lightning talk for the 2020 MOSS Meetup about our switch from the CRAAP test to the SIFT moves.
+</p>
+  </article>
+</div>
+
+      
+      
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/monthly-signal-boost/july-2020-monthly-signal-boost" rel="permalink">July 2020 Monthly Signal Boost
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2020-07-05T13:34:53-06:00">July 5, 2020</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Organizing Ideas Podcast; The Latino Card; Tricycle Magazine; etc.
+</p>
+  </article>
+</div>
+
+      
+      
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/monthly-signal-boost/introducing-monthly-signal-boosts" rel="permalink">Introducing Monthly Signal Boosts
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2020-07-01T13:34:53-06:00">July 1, 2020</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Monthly signal boosts will be short reflections on what I’ve read, listened to, watch, etc.
+</p>
+  </article>
+</div>
+
+      
+    </div>
+  </div>
+  
+    
+</div>
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2014-2022 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>
