@@ -3,6 +3,7 @@ permalink: /cv/
 title: "CV"
 last_modified_at: 2021-06-01 18:49
 toc: true
+toc_sticky: true
 ---
 
 This page last updated 2021-06-01.  

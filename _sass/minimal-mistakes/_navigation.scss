@@ -514,9 +514,13 @@
   }
 
   // Scrollspy marks toc items as .active when they are in focus
+//  .active a {
+//    @include yiq-contrasted($active-color);
+  
   .active a {
-    @include yiq-contrasted($active-color);
+    box-shadow: 0 0 0 0.1rem mix($background-color, $link-color-hover, 25%);
   }
+
 }
 
 .toc__menu {
@@ -533,7 +537,7 @@
   a {
     display: block;
     padding: 0.25rem 0.75rem;
-    color: $muted-text-color;
+    color: $masthead-link-color; // $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;

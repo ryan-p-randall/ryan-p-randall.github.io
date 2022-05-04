@@ -170,6 +170,7 @@ defaults:
     values:
       layout: "note"
       toc: true
+      toc_sticky: true
       sidebar:
         nav: "notes"
     #  author: wiki
