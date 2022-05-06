@@ -19,6 +19,7 @@ $masthead-link-color-hover: mix(#000, #00b386, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 /* My Additional Colors */
 $backlink-background-color: mix(#000, $background-color, 10%) !default;
+$audience: mix($background-color, $masthead-link-color, 65%);
 
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
@@ -27,6 +28,12 @@ $backlink-background-color: mix(#000, $background-color, 10%) !default;
 
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
+}
+
+.audience {
+  color: $audience;
+  font-weight: bold;
+  display: block;
 }
 
 .wiki-flex {

@@ -7,6 +7,10 @@ status: ":seedling:"
 published: true
 accessibility: true
 ---
+
+<span class="audience">Assumed audience</span> People relatively—or almost entirely—new to web publishing
+{: .notice }
+
 I've lately done some work to improve the accessibility of math notation (equations, symbols, etc.) for users of screen readers online, particularly for the creation of open educational resources (<abbr>OER</abbr>). It's been an unexpectedly engrossing investigation, so I figured I'd share what I've learned so far—in particular, the workflow I'd recommend for others.  
 
 ## Our Problem: Math Online Ain't Easy  

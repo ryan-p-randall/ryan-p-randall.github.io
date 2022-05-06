@@ -33,14 +33,14 @@ folder-title: "Notes"
 
 <h2 id="all-notes">All notes</h2>
 
-{% assign folder1 = site.notes | where_exp: "item" , "item.path contains '_notes'" | where:"published","true" | sort:"path" %}
+{% assign all_notes = site.notes | where:"published", "true" | sort:"path" %}
 <ul>
-    {% for note in folder1 %}
-    <li><a href="{{ item.url }}">{{note.path}}
-        {% if note.status == ":seedling:" %} :seedling:{% endif %}
-        {% if note.status == ":herb:" %} :herb:{% endif %}
-        {% if note.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-    </a></li>
+    {% for item in all_notes %}
+    <li><a href="{{ item.url }}">{{item.path}}</a>
+        {% if item.status == ":seedling:" %} :seedling:{% endif %}
+        {% if item.status == ":herb:" %} :herb:{% endif %}
+        {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+    </li>
     {% endfor %}
 </ul>
 

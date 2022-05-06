@@ -666,7 +666,7 @@ $button-transition-properties:      background-color !default;
     // TEXT
     font-size: $button-height*0.6;
     font-weight: bold;
-    color: #ff6600;
+    color: mix(#fff, $link-color, 30%); // #ff6600;
 // originally:   color: rgba($button-color, 0.5);
 
     // TRANSITIONS
