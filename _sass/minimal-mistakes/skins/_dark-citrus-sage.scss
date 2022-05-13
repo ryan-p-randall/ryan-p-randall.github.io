@@ -100,3 +100,28 @@ $audience: mix($background-color, $masthead-link-color, 65%);
 .backlink-box:focus-within a:focus {
     text-decoration: underline;
 }
+
+details summary {
+//    background-color: $masthead-link-color-hover;
+    outline: 2px solid $border-color;
+    cursor: pointer;
+    padding: .5rem 1rem;
+}
+
+details summary > * {
+    display: inline;
+}
+
+details > div {
+    border: 2px solid $border-color;
+    margin-top: 0;
+    padding: 1rem;
+}
+
+details {
+    padding: .5rem;
+}
+
+details:hover {
+    box-shadow: 0 0 0 0.15rem $masthead-link-color-hover;
+}

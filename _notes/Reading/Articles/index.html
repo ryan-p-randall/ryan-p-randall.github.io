@@ -22,8 +22,8 @@ title: "Articles"
 {% endunless %}
 
 
-<h2 id="all">All {{page.title}} items</h2>
-{% assign reading-articles_notes_all = site.notes | where:"reading-articles","true" | sort: "path" %}
+<h2 id="all">All my notes on articles I've read</h2>
+{% assign reading-articles_notes_all = site.notes | where:"reading-articles","true" | sort: "date_read" %}
 {% if reading-articles_notes_all.size > 0 %}
 <ul>
     {% for item in reading-articles_notes_all %}
@@ -39,3 +39,46 @@ title: "Articles"
 {% else %}
 <p>There's nothing here yet!</p>
 {% endif %}
+
+<h2 id="all">All my reading notes on articles by year</h2>
+{% assign reading_notes_2022 = site.notes | where:"reading-articles","true" | where:"year_read","2022" | sort: "date_read" %}
+{% if reading_notes_2022.size > 0 %}
+<details open><summary><h3 id="2022">2022</h3></summary>
+    <div>
+    <ul>
+        {% for item in reading_notes_2022 %}
+        <li>{% if item.pinned %}📌 {% endif %}
+            <a href="{{ item.url }}">{{ item.title }}
+                {% if item.status == ":seedling:" %} :seedling:{% endif %}
+                {% if item.status == ":herb:" %} :herb:{% endif %}
+                {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>There's nothing here yet!</p>
+    {% endif %}
+    </div>
+</details>
+
+{% assign reading_notes_2021 = site.notes | where:"reading-articles","true" | where:"year_read","2021" | sort: "date_read" %}
+{% if reading_notes_2021.size > 0 %}
+<details open><summary><h3 id="2021">2021</h3></summary>
+    <div>
+    <ul>
+        {% for item in reading_notes_2021 %}
+        <li>{% if item.pinned %}📌 {% endif %}
+            <a href="{{ item.url }}">{{ item.title }}
+                {% if item.status == ":seedling:" %} :seedling:{% endif %}
+                {% if item.status == ":herb:" %} :herb:{% endif %}
+                {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>There's nothing here yet!</p>
+    {% endif %}
+    </div>
+</details>

@@ -2,11 +2,11 @@
 date: 2020-07-16
 last_modified_at: 2020-07-29
 reading: true
-reading-articles: true
+reading-books: true
 excerpt: "Here, bell hooks wrote about identities."
 status: ":herb:"
 title: "hooks buddhism"
-published: true
+published: false
 year_read: 2021
 date_read: 2021-02-02
 ---

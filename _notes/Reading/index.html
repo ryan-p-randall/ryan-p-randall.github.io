@@ -4,8 +4,6 @@ excerpts: true
 folder-title: "Reading"
 title: "Reading"
 ---
-<h1>Welcome to my {{page.title}} notes!</h1>
-
 <h2>All {{page.title}} folders</h2>
 
 {% assign folders = site.notes | where_exp:"item", "item.path contains 'Reading'" %}
@@ -31,13 +29,13 @@ title: "Reading"
     </div>
 </div>
 
-<h2 id="all">All {{page.title}} items</h2>
-{% assign reading_notes_all = site.notes | where:"reading","true" | sort: "path" %}
+<h2 id="all">All notes on what I've read</h2>
+{% assign reading_notes_all = site.notes | where:"reading","true" | sort: "date_read" %}
 {% if reading_notes_all.size > 0 %}
 <ul>
     {% for item in reading_notes_all %}
     <li>{% if item.pinned %}📌 {% endif %}
-        <a href="{{ item.url }}">{{ item.path }}
+        <a href="{{ item.url }}">{{ item.title }}
             {% if item.status == ":seedling:" %} :seedling:{% endif %}
             {% if item.status == ":herb:" %} :herb:{% endif %}
             {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
@@ -48,3 +46,46 @@ title: "Reading"
 {% else %}
 <p>There's nothing here yet!</p>
 {% endif %}
+
+<h2 id="all">All my reading notes by year</h2>
+{% assign reading_notes_2022 = site.notes | where:"year_read","2022" | sort: "date_read" %}
+{% if reading_notes_2022.size > 0 %}
+<details open><summary><h3 id="2022">2022</h3></summary>
+<div>
+<ul>
+    {% for item in reading_notes_2022 %}
+    <li>{% if item.pinned %}📌 {% endif %}
+        <a href="{{ item.url }}">{{ item.title }}
+            {% if item.status == ":seedling:" %} :seedling:{% endif %}
+            {% if item.status == ":herb:" %} :herb:{% endif %}
+            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>There's nothing here yet!</p>
+{% endif %}
+</div>
+</details>
+
+{% assign reading_notes_2021 = site.notes | where:"year_read","2021" | sort: "date_read" %}
+{% if reading_notes_2021.size > 0 %}
+<details open><summary><h3 id="2021">2021</h3></summary>
+<div>
+<ul>
+    {% for item in reading_notes_2021 %}
+    <li>{% if item.pinned %}📌 {% endif %}
+        <a href="{{ item.url }}">{{ item.title }}
+            {% if item.status == ":seedling:" %} :seedling:{% endif %}
+            {% if item.status == ":herb:" %} :herb:{% endif %}
+            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>There's nothing here yet!</p>
+{% endif %}
+</div>
+</details>

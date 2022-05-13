@@ -31,55 +31,65 @@ folder-title: "Notes"
     {% endfor %}
 </div>
 
-<h2 id="all-notes">All notes</h2>
-
 {% assign all_notes = site.notes | where:"published", "true" | sort:"path" %}
-<ul>
-    {% for item in all_notes %}
-    <li><a href="{{ item.url }}">{{item.path}}</a>
-        {% if item.status == ":seedling:" %} :seedling:{% endif %}
-        {% if item.status == ":herb:" %} :herb:{% endif %}
-        {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-    </li>
-    {% endfor %}
-</ul>
+<details open><summary><h2 id="all-notes">:house_with_garden: All my notes</h2></summary>
+    <div>
+    <ul>
+        {% for item in all_notes %}
+        <li><a href="{{ item.url }}">{{item.path}}</a>
+            {% if item.status == ":seedling:" %} :seedling:{% endif %}
+            {% if item.status == ":herb:" %} :herb:{% endif %}
+            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    </div>
+</details>
 
 {% assign emerging_notes = site.notes | where:"status", ":seedling:" | sort: "path" %}
 {% assign established_notes = site.notes | where:"status", ":herb:" | sort: "path" %}
 {% assign evergreen_notes = site.notes | where:"status", ":evergreen_tree:" | sort: "path" %}
 
-<h2 id="emerging">:seedling: Emerging Notes</h2>
-{% if emerging_notes.size > 0 %}
+<details open><summary><h2 id="emerging">:seedling: Emerging Notes</h2></summary>
+<div>
+    {% if emerging_notes.size > 0 %}
     <ul>
-    {% for item in emerging_notes %}
-    <li><a href="{{ item.url }}">{{item.path}}</a> :seedling:
-    </li>
-    {% endfor %}
+        {% for item in emerging_notes %}
+        <li><a href="{{ item.url }}">{{item.path}}</a> :seedling:
+        </li>
+        {% endfor %}
     </ul>
     {% else %}
     <p>There are no emerging notes yet!</p>
-{% endif %}
+    {% endif %}
+</div></details>
 
-<h2 id="established">:herb: Established Notes</h2>
-{% if established_notes.size > 0 %}
+<details open><summary><h2 id="established">:herb: Established Notes</h2></summary>
+<div>
+    {% if established_notes.size > 0 %}
     <ul>
-    {% for item in established_notes %}
-    <li><a href="{{ item.url }}">{{item.path}}</a> :herb:
-    </li>
-    {% endfor %}
+        {% for item in established_notes %}
+        <li><a href="{{ item.url }}">{{item.path}}</a> :herb:
+        </li>
+        {% endfor %}
     </ul>
     {% else %}
     <p>There are no established notes yet!</p>
-{% endif %}
+    {% endif %}
+</div>
+</details>
 
-<h2 id="evergreen">:evergreen_tree: Evergreen Notes</h2>
-{% if evergreen_notes.size > 0 %}
+<details open><summary><h2 id="evergreen">:evergreen_tree: Evergreen Notes</h2></summary>
+<div>
+    {% if evergreen_notes.size > 0 %}
     <ul>
-    {% for item in evergreen_notes %}
-    <li><a href="{{ item.url }}">{{item.path}}</a> :evergreen_tree:
-    </li>
-    {% endfor %}
+        {% for item in evergreen_notes %}
+        <li><a href="{{ item.url }}">{{item.path}}</a> :evergreen_tree:
+        </li>
+        {% endfor %}
     </ul>
     {% else %}
     <p>There are no evergreen notes yet!</p>
-{% endif %}
+    {% endif %}
+</div>
+</details>
