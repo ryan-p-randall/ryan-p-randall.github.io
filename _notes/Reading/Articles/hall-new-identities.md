@@ -6,7 +6,7 @@ reading-articles: true
 excerpt: "A classic Hall article"
 status: ":seedling:"
 title: "Hall new identities"
-published: true
+published: false
 year_read: 2022
 date_read: 2022-01-01
 ---

@@ -6,7 +6,7 @@ reading-articles: true
 excerpt: "Here, bell hooks wrote about identities."
 status: ":herb:"
 title: "hooks buddhism"
-published: true
+published: false
 year_read: 2021
 date_read: 2021-02-02
 ---
