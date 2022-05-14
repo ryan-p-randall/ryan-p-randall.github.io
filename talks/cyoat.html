@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i|Lato:400,700&subset=latin-ext"
+    rel="stylesheet">
+  <meta charset="utf-8">
+
+  <title>Choose Your Own Adventure Time</title>
+
+  <meta name="description" content="A test of Reveal for CYOA instruction">
+  <meta name="author" content="Ryan P. Randall">
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="/assets/css/academicons.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- reveal.js stylesheets, plus Marcy Sutton's reveal-a11y css helper -->
+  <link rel="stylesheet" href="css/reveal.css">
+  <link rel="stylesheet" href="css/theme/cwi-river.css" id="theme">
+  <link rel="stylesheet" href="plugin/accessibility/helper.css">
+  <!-- Code syntax highlighting -->
+  <link rel="stylesheet" href="lib/css/zenburn.css">
+
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
+
+  <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+</head>
+
+<body>
+
+  <div class="reveal">
+
+    <!-- Any section element inside of this container is displayed as a slide -->
+    <div class="slides">
+      <section id="first-page">
+        <h2>Choose Your Own Adventure Time</h2>
+        <div class="row row-flex">
+          <div class="col-50 vert-align">
+            <p><strong>Ryan Randall</strong></p>
+            <br>
+            <p><small>2021-10-15</small></p>
+          </div>
+          <div class="col-50 vert-align"><img data-src="./images/adventure-time-jake-headphones.gif" width="65%"
+              alt="Jake listening to headphones and nodding"></div>
+        </div>
+        <p><small>If you'd like to follow along, browse to: <a
+              href="https://www.ryanpatrickrandall.com/talks/cyoat.html">https://www.ryanpatrickrandall.com/talks/cyoat.html</a></small>
+        </p>
+        <aside class="notes" data-markdown></aside>
+      </section>
+      <section id="goals">
+        <h2>My Goals for This CYOA Test</h2>
+        <ul>
+          <li class="fragment">Try out <a href="https://revealjs.com/">Reveal</a></li>
+          <li class="fragment">…and its abilities for instruction</li>
+          <li class="fragment">Have some nerdy fun</li>
+        </ul>
+        <aside class="notes" data-markdown></aside>
+      </section>
+      <section>
+          <h2>A Choice!</h2>
+          <p>Do you want to:</p>
+          <ul>
+            <li>Choose <a href="#/optionA">Option A</a></li>
+            <li>Choose <a href="#/optionB">Option B</a></li>
+          </ul>
+      </section>
+      <section id="no-spoilers">
+          <h2>No Spoilers!</h2>
+        <img data-src="./images/doctor-who-spoilers.gif" width="60%" alt="River Song saying spoilers to the Doctor">
+          <p>I'm pretty sure you didn't want to ruin the surprise. How about you go back and click on a choice?</p>
+      </section>
+      <section id="optionA">
+          <section>
+            <h2>Option A</h2>
+            <p>Here's some text.</p>
+            <p>Scroll down for another choice.</p>
+          </section>
+          <section>
+            <h2>Option A1</h2>
+            <p>Do you choose to:</p>
+            <ul>
+                <li><a href="#/end">Jump to the end</a></li>
+                <li><a href="#/first-page">Jump back to the beginning</a></li>
+            </ul>
+          </section>
+      </section>
+      <section id="optionB">
+          <h2>Option B</h2>
+          <p>Here's some other text.</p>
+          <p>Swipe right to see what happens!</p>
+      </section>
+      <section id="evaluation">
+          <h2>Evaluation</h2>
+            <div class="row row-flex">
+                <div class="col-50 vert-align">
+                    <p>Upsides</p>
+                    <ul>
+                        <li>It's all open source</li>
+                        <li>Can control layout &amp; visuals</li>
+                        <li>Screen reader accessible (if using <a href="https://github.com/marcysutton/reveal-a11y">reveal-a11y</a> plugin)</li>
+                    </ul>
+                </div>
+                <div class="col-50 vert-align">
+                    <p>Downsides</p>
+                    <ul>
+                        <li>Author in html, optionally also <a href="https://revealjs.com/markdown/">markdown</a></li>
+                        <li>Adding layouts isn't simple</li>
+                        <li>Choices &amp; progress are on "the honor system"</li>
+                    </ul>
+                </div>
+            </div>
+      </section>
+      <section id="end">
+        <h2>We All Win!</h2>
+              <p><img data-src="./images/adventure-time-jake-super-rainbow-bg.gif" width="80%" alt="jake from Adventure Time with the word SUPER"><br>Choose Yr Own Adventure <del>Test</del> Time
+              </p>
+      </section>
+
+    </div>
+    <footer>
+      <div class="copyright">
+        <a href="https://www.ryanpatrickrandall.com/talks/cyoat.html">https://www.ryanpatrickrandall.com/talks/cyoat.html
+        </a>
+        <p>Choose Yr Own Adventure Time</p>
+      </div>
+    </footer>
+  </div>
+
+  <!--		<script src="lib/js/head.min.js"></script>  -->
+  <script src="js/reveal.js"></script>
+
+  <script>
+
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+      controls: true,
+      progress: true,
+      history: true,
+      center: true,
+      margin: 0.05,
+      transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+      // Optional reveal.js plugins
+      dependencies: [
+        { src: 'lib/js/classList.js', condition: function () { return !document.body.classList; } },
+        { src: 'plugin/markdown/marked.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+        { src: 'plugin/markdown/markdown.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+        { src: 'plugin/highlight/highlight.js', async: true, condition: function () { return !!document.querySelector('pre code'); }, callback: function () { hljs.initHighlightingOnLoad(); } },
+        { src: 'plugin/zoom-js/zoom.js', async: true },
+        { src: 'plugin/notes/notes.js', async: true },
+        {
+          src: 'plugin/accessibility/helper.js', async: true, condition: function () {
+            return !!document.body.classList;
+          }
+        }
+      ]
+    });
+
+  </script>
+
+</body>
+
+</html>
