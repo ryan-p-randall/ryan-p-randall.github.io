@@ -7,8 +7,8 @@ excerpt: "Here, bell hooks wrote about identities."
 status: ":herb:"
 title: "hooks buddhism"
 published: false
-year_read: 2021
-date_read: 2021-02-02
+year_read: 2023
+date_read: 2023-02-02
 ---
 { Hey! This is just a quick test of the new wiki setup! }  
 

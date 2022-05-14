@@ -51,8 +51,8 @@ folder-title: "Notes"
 {% assign evergreen_notes = site.notes | where:"status", ":evergreen_tree:" | sort: "path" %}
 
 <details open><summary><h2 id="emerging">:seedling: Emerging Notes</h2></summary>
-<div>
     {% if emerging_notes.size > 0 %}
+    <div>
     <ul>
         {% for item in emerging_notes %}
         <li><a href="{{ item.url }}">{{item.path}}</a> :seedling:
@@ -62,11 +62,12 @@ folder-title: "Notes"
     {% else %}
     <p>There are no emerging notes yet!</p>
     {% endif %}
-</div></details>
+    </div>
+</details>
 
 <details open><summary><h2 id="established">:herb: Established Notes</h2></summary>
-<div>
     {% if established_notes.size > 0 %}
+    <div>
     <ul>
         {% for item in established_notes %}
         <li><a href="{{ item.url }}">{{item.path}}</a> :herb:
@@ -76,11 +77,11 @@ folder-title: "Notes"
     {% else %}
     <p>There are no established notes yet!</p>
     {% endif %}
-</div>
+    </div>
 </details>
 
 <details open><summary><h2 id="evergreen">:evergreen_tree: Evergreen Notes</h2></summary>
-<div>
+    <div>
     {% if evergreen_notes.size > 0 %}
     <ul>
         {% for item in evergreen_notes %}
@@ -91,5 +92,5 @@ folder-title: "Notes"
     {% else %}
     <p>There are no evergreen notes yet!</p>
     {% endif %}
-</div>
+    </div>
 </details>

@@ -48,28 +48,7 @@ title: "Books"
 <details open><summary><h3 id="2022">2022</h3></summary>
     <div>
         <ul>
-            {% for item in reading_notes_2022 %}
-            <li>{% if item.pinned %}📌 {% endif %}
-                <a href="{{ item.url }}">{{ item.title }}
-                    {% if item.status == ":seedling:" %} :seedling:{% endif %}
-                    {% if item.status == ":herb:" %} :herb:{% endif %}
-                    {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-        {% else %}
-        <p>There's nothing here yet!</p>
-        {% endif %}
-    </div>
-</details>
-
-{% assign reading_notes_2021 = site.notes | where:"reading-books","true" | where:"year_read","2021" | sort: "date_read" %}
-{% if reading_notes_2021.size > 0 %}
-<details open><summary><h3 id="2021">2021</h3></summary>
-    <div>
-    <ul>
-        {% for item in reading_notes_2021 %}
+        {% for item in reading_notes_2022 %}
         <li>{% if item.pinned %}📌 {% endif %}
             <a href="{{ item.url }}">{{ item.title }}
                 {% if item.status == ":seedling:" %} :seedling:{% endif %}
@@ -78,9 +57,9 @@ title: "Books"
             </a>
         </li>
         {% endfor %}
-    </ul>
-    {% else %}
-    <p>There's nothing here yet!</p>
-    {% endif %}
+        </ul>
+        {% else %}
+        <p>There's nothing here yet!</p>
+        {% endif %}
     </div>
 </details>
