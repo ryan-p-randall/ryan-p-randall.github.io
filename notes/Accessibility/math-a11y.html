@@ -1,0 +1,496 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Math Accessibility — Ryan P. Randall</title>
+<meta name="description" content="Notes on making equations and other math notation accessible online.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="Math Accessibility">
+<meta property="og:url" content="https://ryanpatrickrandall.com/notes/Accessibility/math-a11y">
+
+
+  <meta property="og:description" content="Notes on making equations and other math notation accessible online.">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2022-05-04T00:00:00-06:00">
+
+
+
+  <meta property="article:modified_time" content="2022-05-04T00:00:00-06:00">
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/notes/Accessibility/math-a11y">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+  </head>
+
+  <body class="layout--note">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/cv/">CV &amp; Portfolio</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li>
+</ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">A digital garden</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/notes/#emerging"><img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</a></li>
+          
+            <li><a href="/notes/#established"><img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</a></li>
+          
+            <li><a href="/notes/#evergreen"><img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</a></li>
+          
+            <li><a href="/notes/#all-folders">🎍    note folders</a></li>
+          
+            <li><a href="/notes/#all-items">👨🏻‍🌾    all notes</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <meta itemprop="headline" content="Math Accessibility">
+    
+    <meta itemprop="description" content="Notes on making equations and other math notation accessible online.">
+    
+    
+    <meta itemprop="datePublished" content="2022-05-04T00:00:00-06:00">
+    
+    <meta itemprop="dateModified" content="2022-05-04T00:00:00-06:00">
+
+    <div class="page__inner-wrap">
+      
+      <header>
+        <h1 id="page-title" class="page__title" itemprop="headline">Math Accessibility
+</h1>
+        
+
+
+      </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <aside class="sidebar__right sticky">
+          <nav class="toc">
+            <header>
+              <h4 class="nav__title">
+<i class="fas fa-file-alt"></i> On this page</h4>
+            </header>
+            <ul class="toc__menu">
+<li><a href="#our-problem-math-online-aint-easy">Our Problem: Math Online Ain’t Easy</a></li>
+<li><a href="#an-online-first-approach">An Online-First Approach</a></li>
+<li><a href="#a-workflow-for-online-math">A Workflow for Online Math</a></li>
+<li><a href="#for-authors-who-already-know-latex">For Authors Who Already Know LaTeX</a></li>
+<li><a href="#backlinks">Notes mentioning this note</a></li>
+<li><a href="#note-info">Note Info</a></li>
+</ul>
+
+          </nav>
+        </aside>
+        
+        <article>
+    <div>
+    <!--    <h1>Math Accessibility</h1> -->
+        <time datetime="2022-05-04T00:00:00-06:00">
+            Last updated on May 4, 2022
+            
+        </time>
+    </div>
+
+<div id="">
+ 
+        <a href="/">home</a> / 
+        
+          
+            <a href="/notes/">notes</a> /
+          
+        
+          
+            <a href="/notes/Accessibility/">Accessibility</a> /
+          
+        
+          
+            math a11y
+          
+        
+</div>
+
+<p>Note status: <img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"></p>
+
+
+    <div id="notes-entry-container">
+        <content>
+            <p class="notice"><span class="audience">Assumed audience</span> People relatively—or almost entirely—new to web publishing</p>
+
+<p>I’ve lately done some work to improve the accessibility of math notation (equations, symbols, etc.) for users of screen readers online, particularly for the creation of open educational resources (<abbr>OER</abbr>). It’s been an unexpectedly engrossing investigation, so I figured I’d share what I’ve learned so far—in particular, the workflow I’d recommend for others.</p>
+
+<h2 id="our-problem-math-online-aint-easy">Our Problem: Math Online Ain’t Easy</h2>
+
+<p>In the recent past, at least at the places I know best, math educators have heavily relied on images or handouts instead of considering “online first” or <a href="http://diagramcenter.org/born-accessible-publishing.html">born accessible</a> publishing and formatting. I’m not sure how faculty and staff handled the creation of accessible equivalents, although I imagine they mostly relied on the expertise of Disability Services to make things accessible for the students who had accommodations. That’s an understandable approach, coming from a perspective where typesetting and other formatting intricacies are handled by a publisher or dedicated student support staff.</p>
+
+<p>My perspective is slightly different. My critical media studies background tells me that <a href="https://soundstudiesblog.com/2012/11/05/review-jonathan-sterne-mp3-the-meaning-of-a-format/">formats imply politics</a>, and my interest in accessibility similarly asks questions like “who is included by default?”, “what interactions does this enable?”, and “which people does this disable?”</p>
+
+<p>Thankfully, the math educators I know who are interested in OER share similar concerns. They also feel that OER has the potential to liberate their pedagogy—which will include learning aspects of formatting and accessibility, to create materials that anticipate a larger and more inclusive set of learners.</p>
+
+<p>One common way of writing math is in LaTeX. (If you’re unfamiliar, <a href="https://pressbooks.bccampus.ca/pressbookslatex/part/when-to-use-latex/">Using LaTeX in Pressbooks</a> provides a nice, very “non-specialist” overview.) Unfortunately, while LaTeX has become a standard way of writing and typesetting math, it was created with typesetting in mind, and largely prioritizes PDF creation. It doesn’t inherently provide much for screenreader technologies.</p>
+
+<p>Although work is being done to make LaTeX output more accessible, even the most recent things I’ve found centers on <a href="https://www.latex-project.org/publications/2020-FMi-TUB-tb129mitt-tagpdf.pdf">making well-tagged PDFs</a>. That’s laudable work! PDFs aren’t an ideal format for OER, however. By design, the content of PDFs are not open and editable. As an open, editable standard, HTML makes <strong>much more sense</strong> for OER creation and dissemination, even before factoring in accessibility concerns.</p>
+
+<h2 id="an-online-first-approach">An Online-First Approach</h2>
+
+<p>Now that we’ve thanked LaTeX for its contributions to typesetting and realized we need something better-equipped for web pages, let’s get acquainted with two new friends: MathML and MathJax.</p>
+
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/MathML">MathML</a> is a project of the <a href="https://www.w3.org/Math/">W3C’s Math Working Group</a>, who’ve been working to make math accessible online since 1996! Without getting too far into the weeds, MathML and HTML use a similar approach to authoring. Each surrounds content with tags that add information, with that information interpreted by web browsers: <code class="language-plaintext highlighter-rouge">&lt;tags&gt;</code>content<code class="language-plaintext highlighter-rouge">&lt;/tags&gt;</code>.<sup id="fnref:weeds" role="doc-noteref"><a href="#fn:weeds" class="footnote" rel="footnote">1</a></sup></p>
+
+<p>This tag-based approach makes MathML somewhat verbose.<sup id="fnref:proof" role="doc-noteref"><a href="#fn:proof" class="footnote" rel="footnote">2</a></sup> It also introduces an astronomical capacity for user error and makes authoring MathML without a dedicated editor cumbersome at best. Thankfully, the <a href="https://www.w3.org/wiki/Math_Tools#Authoring_tools">W3C’s list of equation editors</a> annotates the tools that recognize handwriting. Without needing to learn the actual underlying syntax, you can use your touchpad or mouse to “draw” the equation, which one of these tools will convert into valid MathML code.</p>
+
+<p>Firefox and Safari currently have the best built-in support for MathML, but Chrome and Edge don’t display it automatically.<sup id="fnref:updates" role="doc-noteref"><a href="#fn:updates" class="footnote" rel="footnote">3</a></sup> To solve this problem, we can use our new friend MathJax.</p>
+
+<p><a href="https://www.mathjax.org/">MathJax</a> uses JavaScript to display math in any browser, allowing even holdouts like Chrome or Edge to join in the fun. The project website will let you know far more about it than I could, both in terms of its accessibility features and its customizations for input and output. For our purposes, the essential takeaway is that by copying and pasting another HTML <code class="language-plaintext highlighter-rouge">&lt;tag&gt;</code> into a webpage, you can instruct any web browser to load MathJax, then display math content correctly both for sighted learners and learners who use screenreader technologies.</p>
+
+<p>If you want to learn more, the <a href="https://accessibility.psu.edu/math/mathml/">best single-page explanation of MathML and MathJax</a> I’d found was written by the Accessibility and Usability folks at Penn State.</p>
+
+<h2 id="a-workflow-for-online-math">A Workflow for Online Math</h2>
+
+<p>Okay! Now that we understand the role of MathML and MathJax, what’s the fastest way to make math accessible online?</p>
+
+<p>Having tested different options in Pressbooks and LibGuides, here’s what I suggest:</p>
+
+<ol>
+  <li>Use one of the authoring tools in the <a href="https://www.w3.org/wiki/Math_Tools#Authoring_tools">W3C’s list of equation editors</a> that recognizes handwriting to create the <a href="ttps://developer.mozilla.org/en-US/docs/Web/MathML">MathML</a> code from what you write using a trackpad or mouse. You might try <a href="https://webdemo.myscript.com/views/math/index.html">MyScript Math</a> or <a href="https://www.wiris.com/en/mathtype/">MathType</a>.</li>
+  <li>Copy that MathML code into the “text” or “code” or “source” view of your web-authoring platform (like Pressbooks or LibGuides).</li>
+  <li>Add the MathJax script code, also in the “text” or “code” or “source” view.
+    <ul>
+      <li>You might use the code under the “Using MathJax version 3” heading on <a href="https://www.mathjax.org/#gettingstarted">MathJax’s own “Getting Started” page</a> or the code under the <a href="https://accessibility.psu.edu/math/mathml/">“Add MathJax in an HTML Document”</a> section of the PennState page. The version I recently tested in Pressbooks and LibGuides was from the PennState page.</li>
+      <li>You’ll only need to add this <code class="language-plaintext highlighter-rouge">&lt;script&gt;</code> code once per page, not once per section of <code class="language-plaintext highlighter-rouge">&lt;math&gt;</code> code.</li>
+      <li>If you’re displaying math on many pages, you might want to have that <code class="language-plaintext highlighter-rouge">script</code> tag automatically included in whatever platform you’re using. Usually things like this are included in <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">the <code class="language-plaintext highlighter-rouge">&lt;head&gt;</code> section</a> of a web page.
+        <ul>
+          <li>LibGuides has an interface for this, at least for administrators.</li>
+          <li>Static site generators like Jekyll often do this using <a href="https://jekyllrb.com/docs/includes/">includes</a>.</li>
+          <li>It doesn’t seem possible in Pressbooks, from a quick skim of their <a href="https://networkmanagerguide.pressbooks.com/">Network Manager Guide</a> and <a href="https://guide.pressbooks.com/">User Guide</a>, but their support certainly should be able to give you a more definitive answer than my 3 minute search.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Test in Chrome and Edge (the browsers most likely to not support MathML directly), as well as Firefox and Safari.</li>
+  <li>
+<strong>Optional but Highly Recommended</strong>: Grumble about Chrome and Edge developers not building accessibility support directly into their browser.</li>
+</ol>
+
+<h2 id="for-authors-who-already-know-latex">For Authors Who Already Know LaTeX</h2>
+
+<p>If you’re working with an author who already knows LaTeX—or if you know it yourself—there’s still good news! The W3C lists many <a href="https://www.w3.org/wiki/Math_Tools#LaTeX_converters">LaTeX to MathML converter</a> tools, as well as converters for other systems like ASCIIMath or different types of scientific computation.</p>
+
+<p>For you, “Step 1” of the above workflow would instead be “use a converter to generate the MathML code”. You’ll still want to add MathJax to your page, then test it in (and perhaps grumble about) various browsers.</p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:weeds" role="doc-endnote">
+      <p>We’ve arrived at a point in the conversation where someone might push up their glasses, smile, and launch into a well-meaning tangent about how MathML is a type of <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction">XML</a>. But let’s choose to just point out that impressive, inviting, and/or intimidating patch of weeds, then move right along. <a href="#fnref:weeds" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:proof" role="doc-endnote">
+      <p>The code for this three-line proof of the <a href="https://developer.mozilla.org/en-US/docs/Web/MathML/Examples/MathML_Pythagorean_Theorem">Pythagorean theorem</a> starts at line 27 of the <a href="https://github.com/mdn/content/blob/main/files/en-us/web/mathml/examples/mathml_pythagorean_theorem/index.md?plain=1">page’s source code</a>. <a href="#fnref:proof" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:updates" role="doc-endnote">
+      <p>Two excellent places to find up-to-date info on browser support are Mozilla’s <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction">MDN</a>, where browser support is usually listed at the bottom of each page, and <a href="https://caniuse.com/?search=mathml">Can I Use</a>. <a href="#fnref:updates" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+        </content>
+
+        <aside style="font-size: 0.9em;">
+            <h2 id="backlinks" style="margin-bottom: 1em">Notes mentioning this note</h2>
+            
+
+            <div style="font-size: 0.9em">
+                <p>
+                    There are no notes linking to this note.
+                </p>
+            </div>
+            
+            <h2 id="note-info">Note Info</h2>
+            <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+            <div class="backlink-box">
+                <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/_notes/Accessibility/math-a11y.md">View note revision history</a>
+</div>
+            <div class="backlink-box">
+                <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_notes/Accessibility/math-a11y.md">View note source</a>
+</div>
+            </div>
+        </aside>
+    </div>
+</article>
+
+<hr>
+<!-- 
+
+
+-->
+
+<div class="">
+  <div class="wiki-flex notice">
+    <div class="wiki-flex-item">
+<img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</div>
+    <div class="wiki-flex-item">
+<img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</div> 
+    <div class="wiki-flex-item"> <img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</div>
+  </div>
+</div>
+
+        
+      <!-- just added below-->
+
+      
+      <!-- just added above-->
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-05-04">May 4, 2022</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/notes/Accessibility/index" class="pagination--pager" title="Accessibility
+">Newer</a>
+    
+    
+      <a href="/notes/Listening/index" class="pagination--pager" title="Listening
+">Older</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+    
+</div>
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap">
+<form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term...">
+  </form>
+  <div id="results" class="results"></div>
+</div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">© 2014-2022 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>
