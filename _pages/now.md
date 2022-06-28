@@ -1,8 +1,8 @@
 ---
 permalink: /now/
 title: "Now"
-date: 2020-07-18
-last_modified_at: 2020-07-18
+date: 2022-06-28
+last_modified_at: 2022-06-28
 header: 
   image: /assets/images/pocket-notebooks.jpg
   image_description: "ryan's pocket notebooks"
@@ -10,16 +10,25 @@ toc: true
 ---
 ## What I'm Doing Currently  
 
-Here are some of the things I'm currently doing, as of Summer 2020:  
+Here are some of the things I'm currently doing, as of Summer 2022. Not a ton has changed since Summer 2020, both for better and for worse.  
 
-- Staying home as much as I can & wearing a mask whenever I can't. In entirely related news, I'm also re-learning how to cut my own hair. 💈✂️  
-- Developing [InfoLit for Everyone](https://infolit-idaho.github.io/infolit-for-everyone/about/) with a [wonderful crew](https://www1.rebus.community/#/project/379f6355-8f50-4b7f-9408-ab88cb3eafd5) of other Idaho library & education workers. I'm grateful to also be learning from the fantastic people behind the [Rebus Textbook Success Program](https://www.rebus.community/c/textbook-success-program/120) as part of doing this!  
-- Putting together my qualifying exam lists for my Ph.D. I'm stoked about getting to work with my committee members & excited about my topic, so I'll probably be sharing lots more about that on here soon.  
-- Related to the above, I'm revamping some bits of this site.  
-  - First, I'm starting to do some monthly posts I'm calling ["signal boosts"]({% post_url 2020-07-01-introducing-monthly-signal-boosts %}), largely inspired by [Jessica Schomberg's Monthly Reading Lists](https://schomj.weebly.com).  
-  - Second, I'm considering how to add some sort of [digital garden](https://maggieappleton.com/garden-history) or wonky wiki for my research, since my previous attempt at maintaining a separate [Research Notebook](http://www.ryanpatrickrandall.com/research-notebook/) always felt too formal (and technically duplicative / clumsy), when what I was hoping for was trying to [work with the garage door up](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu). I'm trying to decide between adapting [Tom Critchlow's folder-based model](https://tomcritchlow.com/2019/02/17/building-digital-garden/) or [Mike Tannenbaum's liquid-based version](https://mind.miketannenbaum.com) of [Maxime Vaillancourt's theme](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).  
-- And absolutely saving the best for last: getting married! 🎉‼️ Instead of postponing until our family & friends could be here in person, we got married in our backyard. Two of our best friends were there, one to officiate & the other to juggle some of the tech aspects of streaming it to our attendees.  
+- The biggest thing is switching from working as a librarian to working as an instructional designer for online courses. While this seems to be a big change to other people, I mostly feel continued concerns:  
+    - how is information shared?  
+    - how can these documents or interfaces be improved?  
+    - how can we save the time of the learner?  
+    - what does research (and affected communities) say about making this more accessibile to the widest possible set of learners?  
+    - which needs and communities are being left out, and how can we remedy that?  
+- I'm quite happy to be growing far more familiar with the [Quality Matters rubric](https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric) and the [Universal Design for Learning](https://www.cast.org/impact/universal-design-for-learning-udl) framework.  
+- Just as I was in Summer 2022, I'm staying home as much as I can—and I'm getting things curbside and wearing a mask whenever I can't. In entirely related news, I'm slowly getting better at cutting my own hair. 💈✂️  
+- I'm also still putting together my qualifying exam lists for my Ph.D.  
+- After lots of experimentation, I've worked out how I'll do a [digital garden](https://www.ryanpatrickrandall.com/notes/) using Jekyll for now.  
+- I'm enjoying the free, open-source notetaking tool [Dendron](https://www.dendron.so/) so much that I donate to its ongoing development each month, as well as volunteering as part of its supportive user community. I'm also writing [notes about how I use it](https://www.ryanpatrickrandall.com/notes/Note-taking/Dendron/beginning-to-use-dendron)!  
+- Watching _Deep Space Nine_ for the first time, occasionally wondering how I went without watching the series for so long, and realizing that line of thought isn't a very "now" approach, now is it?  
 
-## About /Now  
+## Right About `/Now`  
 
 This page is inspired by Derek Sivers's [/now](https://sivers.org/nowff) page.  
+
+## The Long `/Now`  
+
+You can [view this page's source history](https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/_pages/now.md).  
