@@ -44,12 +44,20 @@ You may also see some of this on my [portfolio page](https://www.ryanpatrickrand
 
 - “Voice, Representation, Ideology” seminar with Dr. Michael Steinberg and Dr. Suzanne Stewart-Steinberg of Brown University  
 
-## Library Experience  
+## Instructional Designer and Librarian Experience  
+
+**Idaho State University** Pocatello and Meridian, ID  
+
+*Instructional Designer*  
+Instructional Technology Resource Center, May 2022—present  
+
+- support faculty with course design  
+- use Quality Matter Rubric and related principles for course design  
 
 **College of Western Idaho** Nampa, ID  
 
 *Instruction Coordinator and Faculty Outreach Librarian*  
-Library, October 2015–present  
+Library, October 2015–May 2022  
 
 - Coordinate library instruction program, including assessment of student learning and of library instruction sessions  
 - Create instruction materials to support online and in-person library instruction and critical information literacy  
