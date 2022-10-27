@@ -1,12 +1,12 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2021-06-01 18:49
+last_modified_at: 2022-10-26 18:49
 toc: true
 toc_sticky: true
 ---
 
-This page last updated 2021-06-01.  
+This page last updated 2022-10-26.  
 Download an older version of this [C.V. as a .pdf from 2015](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
 You may also see some of this on my [portfolio page](https://www.ryanpatrickrandall.com/portfolio/), last updated 2015-10-10.  
 {: .notice}
@@ -51,8 +51,8 @@ You may also see some of this on my [portfolio page](https://www.ryanpatrickrand
 *Instructional Designer*  
 Instructional Technology Resource Center, May 2022—present  
 
-- support faculty with course design  
-- use Quality Matter Rubric and related principles for course design  
+- Support faculty with course design  
+- Apply Quality Matters Rubric and related principles for course design  
 
 **College of Western Idaho** Nampa, ID  
 
@@ -62,7 +62,7 @@ Library, October 2015–May 2022
 - Coordinate library instruction program, including assessment of student learning and of library instruction sessions  
 - Create instruction materials to support online and in-person library instruction and critical information literacy  
 - Conduct outreach campaigns, programs, and events  
-- Represent the Library at faculty committee meetings  
+- Represent the library at faculty committee meetings  
 
 **Indiana University** Bloomington, IN  
 
@@ -195,8 +195,11 @@ Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual Histo
 
 ["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) With Nancy Friend Foster. Technical report, September 2007.  
 
-## Library Conference Presentations and Panels  
+## Instructional Design & Library Conference Presentations and Panels  
 
+- "Student Scholars in Action: Collaborations with Librarians, Students, and Instructors for Student-Driven OER" [slides](https://docs.google.com/presentation/d/1ivuInqMSBssEpQhRr0frs9SdoCcwrAjR_7doz4w_E_8/edit?usp=sharing); [links and related resources](https://docs.google.com/document/d/1klIFV3vrRj4Rre-TDRrXFPNqmmZBfmQce1fENP5oGcU/edit?usp=sharing)  
+Co-presented with Liza Long and Carrie Bailey  
+[*Open Education Conference 2022*](https://opened22.sched.com/event/1AmUs/student-scholars-in-action-student-driven-oer-creation-with-librarians-students-and-instructors), Conference held online, 2022  
 - ["Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction"](https://cwidahocc-my.sharepoint.com/:v:/g/personal/amandanida_cwi_edu/EU6tbLoY4ypLnFVF_KqGicYB4n3dIulhj5NuX_dn7QIYgQ?e=oiLePW)  
 Co-presented with Amanda Nida and Kim Reed  
 [*ACRL (Association of College &amp; Research Libraries) 2021*](https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP), Conference held online, 2020  
@@ -339,12 +342,12 @@ Transcription of Anthropological Interview
 
 Natural Languages: Reading proficiency in Spanish, French, and Latin. Basic speaking proficiency in Spanish and ASL.  
 Web/Markup Languages: HTML5, CSS, XML, XHTML, TEI  
-Web Content Management Systems: Omeka, WordPress, LibGuides, Pressbooks, Jekyll, GitHub  
-Educational Content Management Systems: Angel, Blackboard, Canvas  
+Web Content Management Systems: Pressbooks, WordPress, LibGuides, Jekyll, GitHub, Omeka  
+Educational Content Management Systems: Moodle, Blackboard, Canvas  
 Operating Systems: Mac OS X, Windows, UNIX  
 Document Design: Adobe Creative Suite, Microsoft Office suite, Google Docs, Markdown & related tools, familiarity with LaTeX  
 Citation Management Systems: Zotero, BibLaTeX  
 Metadata Standards: Dublin Core  
-Social Media: Facebook, Twitter, Instagram, Tumblr  
+Social Media: Twitter, Mastodon, Instagram, Facebook,  Tumblr  
 Audio Software: Ableton, Audacity, GarageBand, various plug-ins for each  
 Others: Git (version control), Neatline (map and timeline suite for Omeka), MALLET (topic modeling)  
