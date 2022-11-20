@@ -1,7 +1,7 @@
 ---
 title: "Daybreak Theme"
 date: 2022-04-18  
-# last_modified_at: 2020-09-20  
+last_modified_at: 2022-11-19  
 excerpt: "My fave color theme, plus some of my customizations."
 status: ":herb:"  
 published: true
@@ -30,7 +30,7 @@ Unfortunately, the person who initially designed Horizon doesn't seem to be [act
 
 The one thing I'm not a fan of about Daybreak is that the activity bar icons are extremely low-contrast. Especially if you lower the brightness of your monitor, you almost need to remember the order of the icons in order to know where to put your cursor.  
 
-{% include gallery caption="Here are three versions for the sidebar colors" %}
+{% include gallery caption="Here are three versions for the sidebar colors. My current preference is the middle one, with the highest contrast." %}
 
 Here are the original colors:  
 
