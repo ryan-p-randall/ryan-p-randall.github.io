@@ -122,6 +122,6 @@ details {
     padding: .5rem;
 }
 
-details:hover {
-    box-shadow: 0 0 0 0.15rem $masthead-link-color-hover;
+summary:hover, summary:focus {
+   box-shadow: 0 0 0 0.35rem $masthead-link-color-hover;
 }
