@@ -3,7 +3,7 @@ title: "Mastodon Apps"
 date: 2022-11-19  
 last_modified_at: 2022-11-19  
 excerpt: "My current favorite iOS apps for Mastodon."
-status: ":herb:"  
+status: ":seedling:"  
 published: true
 technology: true
 technology-social-media: true
@@ -23,3 +23,7 @@ Here are the things I really like about it:
 - It handles multiple accounts well. (Although the interface could be clearer; one has to click on your own profile image in order to bring up the menu where you can click on "Accounts" to switch between your accounts.)  
 - It has a dark theme, which is important for insomniac scrolling.  
 - It easily displays alt text for images. (Press on an image and it will focus in a sort of "lightbox" modal that hides the rest of the post, exposing the alt text at the bottom of the screen somewhat like a caption.)  
+
+## Other Mastodonkulous Notes  
+
+[[Mastodon settings]]  
