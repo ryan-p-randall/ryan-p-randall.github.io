@@ -20,7 +20,7 @@ subtitle:
 name: "Ryan P. Randall"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  "Ryan P. Randall's website, with his Ph.D. student and community college librarian blog"
+  "Ryan P. Randall's website"
 url: "https://ryanpatrickrandall.com" # "https://ryan-p-randall.github.io" # 
 baseurl: ""
 repository: "ryan-p-randall/ryan-p-randall.github.io"
@@ -39,7 +39,8 @@ words_per_minute: 160
 twitter_username: foureyedsoul
 github_username: ryan-p-randall
 minimal_mistakes_skin: dark-citrus-sage
-atom_feed:
+# atom_feed:
+feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
@@ -90,14 +91,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#  name   : "Ryan P. Randall"
-#  avatar : "/assets/images/bio-photo.jpg"
-#  bio    : "Instruction Coordinator & Faculty Outreach Librarian at the College of Western Idaho ∴ Literary, media, & cultural studies ∴ Web Editor at _In the Library with the Lead Pipe_. ∴ Another world is possible."
-#  location: "Boise, Idaho"
+author:
+  name   : "Ryan P. Randall"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Instructional designer, tinkerer ∴ Cultural, information, literary, and media studies ∴ Another world is possible."
+  location: "Boise, Idaho"
 #  uri: "https://ryanpatrickrandall.com" # "https://ryan-p-randall.github.io"
 #  twitter: foureyedsoul
-#  github: ryan-p-randall
+  github: ryan-p-randall
 # links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
@@ -125,9 +126,9 @@ footer:
   #    url: "https://instagram.com/"
 
 collections:
-  wiki:
-    output: true
-    permalink: /:collection/:path # /:slug # /wiki/:title
+#  wiki:
+#    output: true
+#    permalink: /:collection/:path # /:slug # /wiki/:title
   notes:
     output: true
     permalink: /:collection/:path # /:slug
@@ -140,7 +141,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      author: ryan
       breadcrumbs: true
       comments: true
       read_time: false
@@ -153,16 +153,15 @@ defaults:
       type: pages
     values:
       layout: single
-      author: ryan
       author_profile: true
       breadcrumbs: true
   # wiki
-  - scope:
-      path: "wiki/**/*.md"
-    values:
-      layout: "wiki2"
-      breadcrumbs: false
-      show_date: true
+  # - scope:
+  #    path: "wiki/**/*.md"
+  #  values:
+  #    layout: "wiki2"
+  #    breadcrumbs: false
+  #    show_date: true
   # notes  
   - scope:
       path: "" # "_notes/**/*.md"
@@ -171,6 +170,7 @@ defaults:
       layout: "note"
       toc: true
       toc_sticky: true
+      author_profile: true
       sidebar:
         nav: "notes"
     #  author: wiki
