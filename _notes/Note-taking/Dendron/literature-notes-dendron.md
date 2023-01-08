@@ -8,6 +8,7 @@ excerpt: "My most current write-up of using Dendron for literature notes."
 status: ":seedling:"
 toc: true
 published: true
+blogged: true
 ---
 I've been refining a system for taking literature notes in [Dendron](https://www.dendron.so/), which complements keeping citations with [Zotero](https://www.zotero.org/). My systems remain perpetually in flux, but this is at least my most current *write-up*, if not my most current approach.  
 

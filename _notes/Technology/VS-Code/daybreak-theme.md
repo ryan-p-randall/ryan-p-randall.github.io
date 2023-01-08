@@ -5,6 +5,7 @@ last_modified_at: 2022-11-19
 excerpt: "My fave color theme, plus some of my customizations."
 status: ":herb:"  
 published: true
+blogged: true
 technology: true
 technology-vs-code: true
 gallery:

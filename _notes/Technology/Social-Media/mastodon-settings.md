@@ -5,6 +5,7 @@ last_modified_at: 2022-11-20
 excerpt: "Some suggested settings for Mastodon."
 status: ":seedling:"  
 published: true
+blogged: true
 technology: true
 technology-social-media: true
 ---

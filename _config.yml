@@ -31,6 +31,7 @@ masthead_title:
 og_image: /assets/images/pocket-notebooks-square.jpg
 # breadcrumbs: true  
 words_per_minute: 160  
+date_format: "%Y-%m-%d"
 # comments:  
 #  provider: false # "utterances"
 #  utterances:

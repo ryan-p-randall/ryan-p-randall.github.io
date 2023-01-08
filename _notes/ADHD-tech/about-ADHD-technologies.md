@@ -7,6 +7,7 @@ excerpt: "What are ADHD technologies?"
 status: ":seedling:"  
 toc: true  
 published: true  
+blogged: true
 pinned: true
 ---
 

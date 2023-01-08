@@ -7,6 +7,7 @@ excerpt: "A few ways that my smartwatch (which happens to be an apple watch) hel
 status: ":herb:"
 toc: true
 published: true
+blogged: true
 ---
 I've been wanting to write about some ways that my smartwatch has helped me deal with the fact that I perceive time differently than most neurotypical people. It's an example of what Aimi Hamraie has called "ADHD technologies."[^adhd-tech]  
 

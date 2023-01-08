@@ -5,6 +5,7 @@ date: 2023-01-07
 excerpt: "Helpful guides for using Jekyll."
 status: ":seedling:"  
 published: true
+blogged: true
 technology: true
 technology-social-media: true
 ---

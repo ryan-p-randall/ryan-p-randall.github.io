@@ -5,6 +5,7 @@ last_modified_at: 2020-09-20
 # excerpt: ""  
 status: ":seedling:"  
 published: true
+blogged: true
 technology: true
 technology-vs-code: true
 ---

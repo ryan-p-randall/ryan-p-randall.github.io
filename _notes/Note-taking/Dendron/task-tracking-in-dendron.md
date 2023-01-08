@@ -8,6 +8,7 @@ excerpt: "Ways I keep track of tasks and todos in Dendron."
 status: ":seedling:"
 toc: true
 published: true
+blogged: true
 ---
 
 My notes in Dendron are an unruly, monstrous hybrid of a bullet journal, a log, a set of resources, and other information. And I like it like that! They're a continuation of the [monthly planning files](https://github.com/ryan-p-randall/monthly-planning-files) I used before Dendron came along.  

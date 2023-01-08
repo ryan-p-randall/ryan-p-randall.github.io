@@ -1,7 +1,7 @@
 ---
 title: "SIFT Links"
 date: 2020-07-29T12:34:53-07:00
-last_modified_at: 2020-07-29
+last_modified_at:
 excerpt: Links related to a lightning talk for the 2020 MOSS Meetup about our switch from the CRAAP test to the SIFT moves.  
 categories: 
 tags: 

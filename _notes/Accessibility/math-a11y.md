@@ -5,6 +5,7 @@ last_modified_at: 2022-05-04
 excerpt: "Notes on making equations and other math notation accessible online."
 status: ":seedling:"  
 published: true
+blogged: true
 accessibility: true
 ---
 

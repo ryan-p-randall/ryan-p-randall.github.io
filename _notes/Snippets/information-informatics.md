@@ -7,6 +7,7 @@ excerpt: "Snippets related to the cultural concepts of information and informati
 status: ":seedling:"  
 toc: true  
 published: true
+blogged: true
 ---
 Here are some insightful snippets about "information" & "informatics" that I've found.  
 2020
