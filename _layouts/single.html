@@ -47,7 +47,7 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
-        {% if page.category.notes %}
+        {% if page.categories contains "notes" %}
           {% include notes-index-mention.html %}
           {% else %}
         {% endif %}
