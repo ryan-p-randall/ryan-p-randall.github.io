@@ -1,7 +1,7 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-<div itemscope itemtype="https://schema.org/Person" class="h-card">
+<div itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author">
 
   {% if author.avatar %}
     <div class="author__avatar">
@@ -123,7 +123,7 @@
       {% if author.github %}
         <li>
           <a href="https://github.com/{{ author.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+            <i class="fab fa-fw fa-github" aria-hidden="true" style="color: #eaeaea;"></i><span class="label">GitHub</span>
           </a>
         </li>
       {% endif %}
