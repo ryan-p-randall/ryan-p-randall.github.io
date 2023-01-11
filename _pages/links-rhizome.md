@@ -18,6 +18,11 @@ Here are some of the places I've popped up online.
     <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
     </a>
 </li>
+<li role="listitem">
+    <a href="{{ '/reading' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--large">
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>/Reading
+    </a>
+</li>
 </ul>
 
 ## Social Media  

@@ -130,3 +130,15 @@ summary:hover, summary:focus {
     list-style: none;
     padding: 0;
 }
+
+progress {
+    -webkit-appearance: none;
+}
+
+::-webkit-progress-value {
+    background-color: #ff6600;
+}
+
+::-moz-progress-bar {
+    background-color: #ff6600;
+}
