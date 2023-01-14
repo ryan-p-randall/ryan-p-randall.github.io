@@ -21,7 +21,7 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
 
 by McKenzie Wark  
 
-<label>Amount read:</label> <progress value="40" max="100">40%</progress>
+<label>Amount read:</label> <progress value="149" max="317">149 pages</progress>
 
 ### :book: [_Modernist Informatics: Literature, Information, and the State_](https://www.worldcat.org/title/910664411) 
 
