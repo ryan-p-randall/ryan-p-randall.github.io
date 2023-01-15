@@ -11,7 +11,7 @@ toc: true
 
 I've occasionally kept track of what I'm reading on BookWyrm, Goodreads, or similar sites.  
 
-As an ongoing experiment with centralizing things to this site, I'm going to try doing so here as well / instead. I often read multiple books in parallel, so I plan to annotate my progress here.  
+As an ongoing experiment with centralizing things to this site, I'm going to try doing so here as well/instead. I often read multiple books in parallel, so I plan to annotate my progress here.  
 
 I plan to add links to reading notes in my digital garden once I'm done, as a type of review.  
 
@@ -25,7 +25,7 @@ by McKenzie Wark
 
 ### :book: [_Modernist Informatics: Literature, Information, and the State_](https://www.worldcat.org/title/910664411) 
 
-:book: by James Purdon  
+by James Purdon  
 
 <label>Amount read:</label> <progress value="93" max="224">93 pages</progress>
 
