@@ -2,7 +2,7 @@
 permalink: /reading/
 title: "Reading"
 date: 2023-01-10
-last_modified_at: 2023-01-15
+last_modified_at: 2023-01-19
 header: 
   image: /assets/images/pocket-notebooks.jpg
   image_description: "ryan's pocket notebooks"
@@ -21,7 +21,7 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
 
 by McKenzie Wark  
 
-<label>Amount read:</label> <progress value="162" max="317">162 pages</progress>
+<label>Amount read:</label> <progress value="195" max="317">195 pages</progress>
 
 ### :book: [_Modernist Informatics: Literature, Information, and the State_](https://www.worldcat.org/title/910664411) 
 
