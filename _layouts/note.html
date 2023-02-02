@@ -29,6 +29,17 @@ sidebar:
         <content>
             {{ content }}
         </content>
+        
+        {% if page.reading %}
+          <h2 id="reading-details">Details</h2>
+          <p>{% if page.reading-articles %} :page_facing_up: "{{ page.title }}" {% endif %}
+          {% if page.reading-books %} :book: <strong>{{ page.title }}</strong>{% endif %}<br />
+          {% if page.work_link %}Link: <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><br />{% endif %}
+          By: {{ page.work_author }}<br />
+            Started: {{ page.date_started }}
+            {% if page.date_read %}<br />Finished: {{ page.date_read }}{% endif %}</p>
+            <label style="margin-top: -1.4em; margin-bottom: 0em;">Amount read:</label> <progress value="{{ page.progress_current }}" max="{{ page.progress_max }}">{{ page.progress_current }} pages</progress>
+        {% endif %}
 
         <aside style="font-size: 0.9em;">
             <h2 id="backlinks" style="margin-bottom: 1em">Notes mentioning this note</h2>
