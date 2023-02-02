@@ -17,9 +17,9 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
 
 ## Currently Reading  
 
-{% assign reading_current = site.notes | where:"current","true" %}
+{% assign reading_current = site.notes | where:"current","true" | sort: "date_started" %}
 {% if reading_current.size > 0 %}
-    {% for item in reading_current %}
+    {% for item in reading_current reversed %}
 <article>
     <h3>
         {% if item.reading-articles %} :page_facing_up:{% endif %}
