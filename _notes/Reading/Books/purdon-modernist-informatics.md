@@ -1,6 +1,6 @@
 ---
 date: 2023-01-31
-last_modified_at: 2023-01-31
+last_modified_at: 2023-02-02
 reading: true
 reading-books: true
 excerpt: "Purdon examines modernist fiction to trace how writers experienced information culture as a disturbing interruption and governmental intrusion."
@@ -14,7 +14,7 @@ year_read:
 date_read:
 date_started: 2022-11-02
 current: true
-progress_current: 107
+progress_current: 112
 progress_max: 224
 ---
 

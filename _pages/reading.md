@@ -27,8 +27,9 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
         <a href="{{ item.url }}">{{ item.title }}
         </a></h3>
         <p>By: {{ item.work_author }}<br />
-        Started: {{ item.date_started }}</p>
-        <label style="margin-top: -1.4em; margin-bottom: 0em;">Amount read:</label> <progress value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
+        Started: {{ item.date_started }}<br />
+        Amount read: {{ item.progress_current }} of {{ item.progress_max }} pages</p>
+        <label style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
 </article>
     {% endfor %}
 {% else %}
