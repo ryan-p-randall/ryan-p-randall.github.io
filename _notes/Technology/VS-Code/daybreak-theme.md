@@ -1,7 +1,7 @@
 ---
 title: "Daybreak Theme"
 date: 2022-04-18  
-last_modified_at: 2022-11-19  
+last_modified_at: 2023-03-01  
 excerpt: "My fave color theme, plus some of my customizations."
 status: ":herb:"  
 published: true
@@ -27,7 +27,9 @@ I'm a big fan of dark themes. I've been using variants of [Horizon](https://hori
 
 Unfortunately, the person who initially designed Horizon doesn't seem to be [actively maintaining it](https://github.com/jolaleye/horizon-theme-vscode). Their original version is no longer findable in the VS Code extensions respository. Thankfully, the [Daybreak](https://daybreaktheme.com/) variant fills this void nicely!  
 
-## Activity Bar Contrast  
+## Color Contrast  
+
+### Activity Bar Contrast  
 
 The one thing I'm not a fan of about Daybreak is that the activity bar icons are extremely low-contrast. Especially if you lower the brightness of your monitor, you almost need to remember the order of the icons in order to know where to put your cursor.  
 
@@ -51,7 +53,7 @@ This is what I've added to my `settings.json` file to achieve this:
         }
 ```
 
-The snippet above applies the dark purple/gray (which <span style="color: #6C6F93;">looks like this</span>) from the original Horizon theme's [Dark UI palette](https://horizontheme.netlify.app/) just to the inactive icons. This makes the colors much easier to see on a dimmed monitor.  
+The snippet above applies the dark purple/gray (which—apologies for the low contrast on this page—<span style="color: #6C6F93;">looks like this</span>) from the original Horizon theme's [Dark UI palette](https://horizontheme.netlify.app/) just to the inactive icons. This makes the colors much easier to see on a dimmed monitor.  
 
 Here's a version that lands somewhere in between, which you might prefer if your monitor is often at full brightness.  
 
@@ -69,4 +71,23 @@ The original value for the purple/grey is `#6C6F93` — and in the above snippe
 
 But wait—why does `95` equal `58.5%`? I'd forgotten that these [values are in hex notation](https://css-tricks.com/8-digit-hex-codes/)—and therefore, anything in the 90% range would need to start with `F`.  
 
-Even if you don't particularly love this theme, hopefully this note helps you trick out VS Code however suits you!  
+### Scrollbar Contrast  
+
+Update on 2023-03-01:  
+
+I noticed earlier today that in a very long file, I could barely make out the scrollbar.  
+
+So I've added the below lines, to quickly make the scrollbar the same color as the inactive icons in the Activity Bar, and to make it slightly darker when I've hovered over it.  
+
+```json
+    "workbench.colorCustomizations": {
+        "scrollbarSlider.background": "#6C6F93",
+        "scrollbarSlider.hoverBackground": "#6C6F9395"
+        }
+```
+
+If I were really making a "proper" theme, I'd probably take the time to make the scrollbar a little lower contrast, as it's much more more obvious in this shorter file. But the overall point of this note is precisely this opportunity for customization!  
+
+## Other Themes  
+
+Even if you don't love this particular theme, hopefully this note helps you trick out VS Code however suits you!  

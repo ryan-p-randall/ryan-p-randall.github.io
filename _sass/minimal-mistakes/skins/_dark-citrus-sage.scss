@@ -21,6 +21,8 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 $backlink-background-color: mix(#000, $background-color, 10%) !default;
 $audience: mix($background-color, $masthead-link-color, 65%);
 
+$caption-font-family: sans-serif !default;
+
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
