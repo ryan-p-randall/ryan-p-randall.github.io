@@ -23,6 +23,8 @@ gallery:
     title: "an in-between alternative"
 ---
 
+## Horizon, then Daybreak  
+
 I'm a big fan of dark themes. I've been using variants of [Horizon](https://horizontheme.netlify.app/) for quite a while now in VS Code (as you can read about in [[vs code note]]), since I like the overall warmth of the theme's color palette.  
 
 Unfortunately, the person who initially designed Horizon doesn't seem to be [actively maintaining it](https://github.com/jolaleye/horizon-theme-vscode). Their original version is no longer findable in the VS Code extensions respository. Thankfully, the [Daybreak](https://daybreaktheme.com/) variant fills this void nicely!  
