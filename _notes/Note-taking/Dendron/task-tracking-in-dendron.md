@@ -42,3 +42,4 @@ As of 2022-10, I've been using two naming patterns to extend these features of D
 ## Other Relevant Notes  
 
 [all my notes on Dendron](https://www.ryanpatrickrandall.com/notes/Note-taking/Dendron/)  
+[[vs-code-snippets]]  
