@@ -1,9 +1,9 @@
 ---
 title: "VS Code Snippets"
 date: 2023-03-26
-last_modified_at: 2023-03-26
+last_modified_at: 2023-04-01
 excerpt: "Handy snippets for digital bullet journalling or HTML and CSS coding."  
-status: ":seedling:"
+status: ":herb:"
 published: true
 blogged: true
 technology: true
@@ -81,6 +81,70 @@ When I have a note that has multiple tasks for a longer project, it's often usef
     "description": "Add #;done + today's date in YYYY-MM-DD format; altered from Taskpaper format for Dendron tags",
     "body": [
         "#;done;($CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE)",
+    ],
+},
+```
+
+### Today's Date  
+
+VS Code's snippets include [many standard variables](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables), making it easy to use a snippet that remembers the date better than you might. Here' a snippet that will expand to the [ISO 8601 date format](https://en.wikipedia.org/wiki/ISO_8601)—more on that below the snippet itself.  
+
+```json
+"today's date": {
+    "prefix": ["@td", ";td"],
+//    "scope": "markdown,yaml,json,dendron",
+    "description": "Add today's date in YYYY-MM-DD format",
+    "body": [
+        "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+    ],
+},
+```
+
+ISO 8601, by the way, remains the date format for [discerning nerds](https://xkcd.com/1179/) largely because it lists values in largest to smallest time unit and therefore has the benefit of sorting files reliably.  
+
+It's used, for instance, for [sorting posts in Jekyll](https://jekyllrb.com/docs/posts/), the generator I use for this very site. I **just now** typed `;td` to invoke the snippet below into the `last_modified_at` value for this page. That means that once I run Jekyll again, today's date (2023-04-01) will show up in various places on this page (which should be the top and bottom visible metadata sections of this note, unless I've changed the template for these pages since writing this).  
+
+The scope line is commented out in this snippet, because I personally want this snippet available everywhere in VS Code. If you want to use it but prefer to narrow the places where it will work, you'd want to delete the `//` comment indicators at the beginning of that line, then list only the file formats where you want this snippet to work.  
+
+For instance, if you only wanted it to work in markdown and html files, you'd want the whole snippet to instead read:  
+
+```json
+"today's date": {
+    "prefix": ["@td", ";td"],
+    "scope": "markdown,html",
+    "description": "Add today's date in YYYY-MM-DD format",
+    "body": [
+        "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+    ],
+},
+```
+
+### This Hour & Minute  
+
+This snippet will add this hour and minute in 24 hour clock format. I use it often when tracking times or writing in [Dendron daily notes](https://wiki.dendron.so/notes/ogIUqY5VDCJP28G3cAJhd/).  
+
+```json
+"this hour and minute": {
+    "prefix": ["@thm", ";thm"],
+    "scope": "markdown,yaml,json",
+    "description": "Add this hour and minute in 24 hour clock format",
+    "body": [
+        "$CURRENT_HOUR:$CURRENT_MINUTE",
+    ],
+},
+```
+
+### Times Started and Ended  
+
+Building on the above, this snippet is useful for tracking time. When used, it will look something like `{started(17:10), ended(17:35)}`, useful for pomodoros or other ways of time tracking.  
+
+```json
+"times started and ended": {
+    "prefix": ["@tsae", ";tsae"],
+    "scope": "markdown,yaml,dendron",
+    "description": "Add section to track start and end times",
+    "body": [
+        "{started($1$CURRENT_HOUR:$CURRENT_MINUTE), ended($2)}",
     ],
 },
 ```
@@ -175,3 +239,34 @@ Once you've got the structure in place for a table, you'll almost certainly want
     ],
 },
 ```
+
+## Jekyll Snippets  
+
+### Date, Time, and Offset  
+
+If you're publishing more than one post a day in Jekyll, it's handy to indicate the specific time in the `date` value of each [post's front matter](https://jekyllrb.com/docs/front-matter/#predefined-variables-for-posts) metadata section. The time format Jekyll uses isn't difficult to remember, but it's also exactly the sort of thing I'd prefer to have robots do for me. Another perfect candidate for a snippet!  
+
+The output looks like this: `2023-04-01T19:14:39-6:00`
+
+```json
+"date and time for jekyll": {
+    "prefix": [";dtj"],
+    "scope": "markdown,yaml,json",
+    "description": "Add today's date, and this hour, minute, and second in 24 hour clock format, with 6 hour Boise timezone offset",
+    "body": [
+        "$CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}T$CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND-6:00",
+    ],
+},
+```
+
+If you're paying close attention, you'll notice that one of those variable names is enclosed by curly brackets.  
+
+Here's that variable, and the relevant section: `${CURRENT_DATE}T$CURRENT_HOUR`.  
+
+Without the curly brackets, that part of the snippet would look like `$CURRENT_DATET$CURRENT_HOUR`. Written this way, VS Code would think you're asking for `$CURRENT_DATET`, a variable that doesn't exist.  
+
+In that unhappy version, the output you'll get is: `2023-04-CURRENT_DATET19:24:52-6:00`. Bummer.  
+
+Using the curly brackets tells VS Code that the letter T isn't part of the variable name. In this scenario, it also lets it be output without a preceding space.  
+
+You don't have to enclose every variable's name in this way, but this works as a nice example of when you'd want to do so.  
