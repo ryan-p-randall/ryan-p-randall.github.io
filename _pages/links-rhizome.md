@@ -1,8 +1,8 @@
 ---
 permalink: /links-rhizome/
-title: "Rhizome-Me"
+title: "Links Rhizome"
 date: 2022-12-31
-last_modified_at: 2022-12-31
+last_modified_at: 2023-04-14
 header: 
   image: /assets/images/pocket-notebooks.jpg
   image_description: "ryan's pocket notebooks"
@@ -14,13 +14,23 @@ Here are some of the places I've popped up online.
 
 <ul class="list-unstyled" role="list">
 <li role="listitem">
+    <a href="{{ '/posts' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--large">
+    <i class="fas fa-comment-dots" aria-hidden="true" style="margin-right: .5em;"></i>My Blog Posts
+    </a>
+</li>
+<li role="listitem">
+    <a href="{{ '/notes' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--large">
+    <i class="fas fa-seedling" aria-hidden="true" style="margin-right: .5em;"></i>My Notes / Digital Garden
+    </a>
+</li>
+<li role="listitem">
     <a href="{{ '/now' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--large">
-    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
+    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>My `/Now` Page
     </a>
 </li>
 <li role="listitem">
     <a href="{{ '/reading' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--large">
-    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>/Reading
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>My `/Reading` Page
     </a>
 </li>
 </ul>
@@ -56,6 +66,11 @@ Here are some of the places I've popped up online.
 <li role="listitem">
     <a href="http://www.inthelibrarywiththeleadpipe.org/about/editorial-board/ryan-randall/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--large">
     <i class="ai ai-open-access" aria-hidden="true" style="margin-right: .5em;"></i>In the Library with the Lead Pipe
+  </a>
+</li>
+<li role="listitem">
+    <a href="https://www.credly.com/users/ryan-randall.95ecfee0" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--large">
+    <i class="fas fa-certificate" aria-hidden="true" style="margin-right: .5em;"></i>Quality Matters Certificates
   </a>
 </li>
 </ul>

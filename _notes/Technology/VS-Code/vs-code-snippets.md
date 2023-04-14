@@ -1,7 +1,7 @@
 ---
 title: "VS Code Snippets"
 date: 2023-03-26
-last_modified_at: 2023-04-01
+last_modified_at: 2023-04-02T14:15:57-6:00
 excerpt: "Handy snippets for digital bullet journalling or HTML and CSS coding."  
 status: ":herb:"
 published: true
@@ -9,6 +9,9 @@ blogged: true
 technology: true
 technology-vs-code: true
 ---
+
+This is one of my longest notes. Please don't forget that the Table of Contents can help you jump to a particular section!
+{: .notice }
 
 I'm a fan of keeping a Bullet Journal in a text editor, as I've written about in [[task-tracking-in-dendron]].  
 
@@ -241,6 +244,8 @@ Once you've got the structure in place for a table, you'll almost certainly want
 ```
 
 ## Jekyll Snippets  
+
+Here's a link to more [notes on Jekyll]({% link _notes/Technology/Jekyll/index.html %}).  
 
 ### Date, Time, and Offset  
 

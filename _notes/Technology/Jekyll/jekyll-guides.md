@@ -7,7 +7,7 @@ status: ":seedling:"
 published: true
 blogged: true
 technology: true
-technology-social-media: true
+technology-jekyll: true
 ---
 
 I really enjoy using Jekyll, enough that I'd recommend it to anyone who is both looking to make their own site and has the time or inclination to do more "behind the scenes" than necessary for site made with WordPress or Squarespace.  
