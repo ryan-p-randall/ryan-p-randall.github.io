@@ -6,4 +6,4 @@ You might also encounter [Bigfoot.js](http://www.bigfootjs.com/) and [Reveal.js]
 
 Take [a look here](http://ryan-p-randall.github.io/).  
 
-If you're looking to make a similar website for yourself, here's a great [set of introductions & instructions to Jekyll & GitHub Pages](http://www.trevordjones.com/jekyll).  
+If you're looking to make a similar website for yourself, here's a great [set of introductions & instructions to Jekyll & GitHub Pages](https://web.archive.org/web/20170415073331/http://www.trevordjones.com/jekyll).  
