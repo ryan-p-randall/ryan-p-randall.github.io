@@ -4,9 +4,9 @@ title: "Recommended Readings for Critical Librarianship"
 date: 2016-03-26T23:20:29-06:00
 last_modified_at: 2016-03-26T23:20:29-06:00
 excerpt:
-header: 
-  image: /assets/images/pocket-notebooks.jpg
-  image_description: "ryan's pocket notebooks"
+# header: 
+#  image: /assets/images/pocket-notebooks.jpg
+#  image_description: "ryan's pocket notebooks"
 toc: true
 ---
 

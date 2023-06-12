@@ -242,7 +242,7 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    color: inherit; // $github-color;
   }
 
   .fa-gitlab {

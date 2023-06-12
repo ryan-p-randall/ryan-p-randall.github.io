@@ -3,9 +3,9 @@ permalink: /links-rhizome/
 title: "Links Rhizome"
 date: 2022-12-31
 last_modified_at: 2023-04-14
-header: 
-  image: /assets/images/pocket-notebooks.jpg
-  image_description: "ryan's pocket notebooks"
+# header: 
+#  image: /assets/images/pocket-notebooks.jpg
+#  image_description: "ryan's pocket notebooks"
 toc: true
 ---
 Here are some of the places I've popped up online.  

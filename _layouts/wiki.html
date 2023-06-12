@@ -17,7 +17,7 @@ sidebar:
 {% if page.status %}
   <p>Status: {{page.status}}</p>
 {% endif %}
-
+{% include light-mode-only-notice.html %}
 {{content}}
 
 {% include wikiheader.html %}

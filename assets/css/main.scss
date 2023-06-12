@@ -15,25 +15,25 @@
 a:focus, button:focus, .bigfoot-footnote__button:focus {
   outline: solid 3px;
   outline-offset: 0px;
-  outline-color: #00b386;
+  outline-color: $masthead-link-color;
 }
 
 .greedy-nav a:focus, div:focus, .search__toggle a:focus, button:focus, .taxonomy__index a:focus, a.back-to-top:focus {
   outline: solid 3px;
   outline-offset: -1px;
-  outline-color: #00b386;
+  outline-color: $masthead-link-color;
 }
 
 .author__urls a:focus, .page__taxonomy-item:focus, .pagination li a:focus, .pagination--pager:focus, .archive__item a:focus, .toc__menu a:focus, a.btn:focus {
   outline: solid 3px;
   outline-offset: -3px;
-  outline-color: #00b386;
+  outline-color: $masthead-link-color;
 }
 
 h1:focus, h2:focus, h3:focus, h4:focus, h5:focus, h6:focus {
   outline: solid 3px;
   outline-offset: -3px;
-  outline-color: #00b386;
+  outline-color: $masthead-link-color;
 }
 
 .archive__item a[rel="permalink"] { position: relative; }

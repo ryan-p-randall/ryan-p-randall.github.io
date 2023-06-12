@@ -2,9 +2,9 @@
 permalink: /about/
 title: "About"
 layout: single
-header: 
-  image: /assets/images/pocket-notebooks.jpg
-  image_description: "ryan's pocket notebooks"
+#header: 
+#  image: /assets/images/pocket-notebooks.jpg
+#  image_description: "ryan's pocket notebooks"
 toc: true
 last_modified_at: 2020-07-19
 ---

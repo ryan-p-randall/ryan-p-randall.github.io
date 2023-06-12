@@ -2,9 +2,9 @@
 permalink: /recommended-reading/
 title: "Recommended Reading"
 last_modified_at: 2016-03-06
-header: 
-  image: /assets/images/pocket-notebooks.jpg
-  image_description: "ryan's pocket notebooks"
+# header: 
+#  image: /assets/images/pocket-notebooks.jpg
+#  image_description: "ryan's pocket notebooks"
 toc: true
 ---
 :construction: :construction: :construction:  

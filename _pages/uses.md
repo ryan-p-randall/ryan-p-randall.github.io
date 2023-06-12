@@ -2,9 +2,9 @@
 permalink: /uses/
 title: "Uses"
 last_modified_at: 2023-02-01
-header: 
-  image: /assets/images/pocket-notebooks.jpg
-  image_description: "ryan's pocket notebooks"
+# header: 
+#  image: /assets/images/pocket-notebooks.jpg
+#  image_description: "ryan's pocket notebooks"
 toc: true
 ---
 

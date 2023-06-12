@@ -3,9 +3,9 @@ permalink: /links/
 title: "Several Links Galore"
 last_modified_at: 2014-04-04 04:13
 tags:
-header: 
-  image: /assets/images/pocket-notebooks.jpg
-  image_description: "ryan's pocket notebooks"
+# header: 
+#  image: /assets/images/pocket-notebooks.jpg
+#  image_description: "ryan's pocket notebooks"
 toc: true
 ---
 

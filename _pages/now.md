@@ -3,9 +3,9 @@ permalink: /now/
 title: "Now"
 date: 2022-06-28
 last_modified_at: 2023-05-18
-header: 
-  image: /assets/images/pocket-notebooks.jpg
-  image_description: "ryan's pocket notebooks"
+# header: 
+#  image: /assets/images/pocket-notebooks.jpg
+#  image_description: "ryan's pocket notebooks"
 toc: true
 ---
 ## What I'm Doing Currently  
