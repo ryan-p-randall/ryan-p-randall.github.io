@@ -1,7 +1,7 @@
 ---
 title: "Light Mode in Progress"
 date: 2023-06-11T21:59:37-6:00
-# last_modified_at: 2023-06-12T21:29:42-6:00   
+last_modified_at: 2023-06-12T21:29:42-6:00  
 excerpt: "Today's work on putting together a light mode."  
 categories: 
 tags: 

@@ -351,12 +351,14 @@ body {
 }
 
 .taxonomy__title {
-  margin-bottom: 0.5em;
-  color: lighten($text-color, 60%);
+    margin-bottom: 0.5em;
+    //   color: lighten($text-color, 60%);
+    color: lighten($text-color, 10%);
 }
 
 .taxonomy__count {
-  color: lighten($text-color, 50%);
+    // color: lighten($text-color, 50%);
+    color: lighten($text-color, 10%);
 }
 
 .taxonomy__index {
