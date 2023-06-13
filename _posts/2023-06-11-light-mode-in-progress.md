@@ -11,7 +11,7 @@ published: true
 
 Today—the day after I finished up a "16 weeks condensed into 4" Spanish class—I happened to read some folks on Mastodon talking about [light themes](https://social.pixie.town/@joepie91/110526984317454201) on websites.  
 
-I've been wanting to add one to my site for years, my brain apparently wanted a project I could reasonably <del>accomplish</> make noticeable progress toward within a day, and I vaguely remebered having seen other [Minimal Mistakes theme users discussing how to implement this](https://github.com/mmistakes/minimal-mistakes/discussions/2033#discussioncomment-257421).  
+I've been wanting to add one to my site for years, my brain apparently wanted a project I could reasonably <del>accomplish</del> make noticeable progress toward within a day, **and** I vaguely remembered having seen other [Minimal Mistakes theme users discussing how to implement this](https://github.com/mmistakes/minimal-mistakes/discussions/2033#discussioncomment-257421).  
 
 Thus far today I've managed to have my Jekyll-based site correctly generate two different themes: the dark one I've been using for years and another light one that's basically the default theme with a couple of colors switched out. That's a success!  
 
