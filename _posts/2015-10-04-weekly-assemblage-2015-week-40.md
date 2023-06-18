@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: Starting at the College of Western Idaho & going to the Idaho Library Association 2015 Annual Conference!
 tags: [conferences]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-10-10T22:19:26-06:00

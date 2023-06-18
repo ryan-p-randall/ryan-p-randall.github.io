@@ -2,9 +2,9 @@
 permalink: /colophon/
 title: "Colophon"
 last_modified_at: 2022-08-14
-# header: 
-#  image: /assets/images/pocket-notebooks.jpg
-#  image_description: "ryan's pocket notebooks"
+header: 
+  image: /assets/images/pocket-notebooks.jpg
+  image_description: "ryan's pocket notebooks with cute stickers on their covers"
 toc: true
 ---
 

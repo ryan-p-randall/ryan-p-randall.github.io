@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: Live! Real! Humans! (in the Classroom); Code Camps, the "Californian Ideology," & Higher Ed's Purpose; Open Access & "The Library of Forking Paths."  
 tags: [critical information literacy, pedagogy]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-10-18T21:08:13-06:00

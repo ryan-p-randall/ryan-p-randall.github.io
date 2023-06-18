@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: Why weekly? Why assemblage? Why Fluxus? And what's that "sous les pavés, la plage" thing about?
 tags: [meta]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2016-01-09T22:50:33-07:00

@@ -5,8 +5,8 @@ categories: [weekly-assemblage]
 excerpt: Reflections on the second  &#035;radlibchat and a Library Freedom Presentation by Alison Macrina.
 tags: [critical theory, privacy]
 
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true  
 date: 2015-09-05T15:45:03-04:00

@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: Enthusiasm about Massumi putting Deleuze in a nutshell! Analogies between the pedagogy & structural place of Writing Centers & libraries! Jekyll on the Run!
 tags: [critical theory, infrastucture, critical information literacy]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-11-15T20:42:51-07:00

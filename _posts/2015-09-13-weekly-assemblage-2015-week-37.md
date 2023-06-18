@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: A &#035;critlib chat on information &amp; migrant populations; threats to the Tor exit node in Kilton Public Library; CFP for papers on whiteness in LIS; study on lowering white defensiveness around racial privilege.
 tags: [critlib chats, privacy, cfp, critical race studies]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-09-13T19:48:43-04:00

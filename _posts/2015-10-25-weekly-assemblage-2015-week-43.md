@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: A &#035;critlib chat on gender & leadership in LIS, plus some history links.
 tags: [critlib chats, gender, librar* history]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-10-25T11:31:37-06:00

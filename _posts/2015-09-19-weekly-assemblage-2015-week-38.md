@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: Driving from Bloomington, Indiana to Boise, Idaho; Luciano Floridi's _Information&#58; A Very Short Introduction_.
 tags: [critical theory]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-09-25T00:09:30-04:00

@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: Three links &amp; lots of enthusiasm! Elmborg's "Literacies Large and Small," a Time Management mega post, &amp; how STEM relates to the liberal arts.  
 tags: [critical information literacy, meta]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-11-08T21:09:05-07:00

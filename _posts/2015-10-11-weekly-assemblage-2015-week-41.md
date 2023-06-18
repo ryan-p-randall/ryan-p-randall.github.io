@@ -4,8 +4,8 @@ modified:
 categories: [weekly-assemblage]
 excerpt: Talking about librarianship values&#58; objectivity as a value and valuing inclusivity enough to work toward it in earnest. And again—sorry, Eduardo.
 tags: [critlib chats, critical information literacy, critical race studies]
-header:
-  image: /assets/images/weekly-assemblage.png
+# header:
+#  image: /assets/images/weekly-assemblage.png
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 published: true
 date: 2015-10-11T23:39:58-06:00
