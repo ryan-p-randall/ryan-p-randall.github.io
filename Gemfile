@@ -15,7 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
-  gem "jekyll-include-cache"
+#  gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "github-pages-unscramble"
 end
