@@ -4,3 +4,24 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_light | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.footnote {
+    color: #252a34;
+    text-decoration: none;
+}
+
+.footnotes {
+    color: #252a34;
+}
+
+.notice a {
+    color: #a3470a;
+}
+
+.notice a:visited {
+    color: #863c0b;
+}
+
+.notice a:hover {
+    color: #b56c3b;
+}

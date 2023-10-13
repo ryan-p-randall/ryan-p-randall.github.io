@@ -38,7 +38,7 @@ layout: default
           </nav>
         </aside>
         {% endif %}
-        {% include light-mode-only-notice.html %}
+    {% comment %}{% include light-mode-only-notice.html %}{% endcomment %}
         {% include wikiheader.html %}
 
         {% include wikibreadcrumb.html %}

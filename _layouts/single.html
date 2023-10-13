@@ -45,7 +45,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        {% include light-mode-only-notice.html %}
+    {% comment %}{% include light-mode-only-notice.html %}{% endcomment %}
         {{ content }}
         {% if page.categories contains "notes" %}
           {% include notes-index-mention.html %}

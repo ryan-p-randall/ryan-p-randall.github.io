@@ -152,3 +152,36 @@ progress {
         $border-color: #007d5d !default; /* sage */
     }
 }
+
+// moved to main2.scss
+// .footnotes {
+//     color: #252a34;
+// }
+
+// .notice a {
+//     color: #a3470a;
+// }
+
+// .notice a:visited {
+//     color: #863c0b;
+// }
+
+.bigfoot-footnote {
+    background: #d5e5e1;
+}
+
+.bigfoot-footnote__wrapper {
+    background-color: #d5e5e1;
+}
+
+.bigfoot-footnote__content {
+    background: #d5e5e1;
+}
+
+.bigfoot-footnote__tooltip { 
+    background: #d5e5e1;
+}
+
+.bigfoot-footnote__button::after {
+    color: #C24E00;
+}
