@@ -38,12 +38,12 @@ Here I'll selectively highlight some of the things I use. **None** of these are 
 ### Utilities  
 
 - [Bartender](https://www.macbartender.com/Bartender5/) is a paid utility that keeps all your menu items nice and orderly.  
-- [Bunch](https://bunchapp.co/), a free utility, is one of Brett Terpstra's many amazing tools. It lets you quickly automate things for MacOS. What kind of things? When I had chat shifts multiple times a week, I set it to always do this, from one single click:  
-    - 1. Remember to check the shared Library email account and respond to any messages,
-    - 2. Open one app,
-    - 3. Open another app,
-    - 4. Log into a web-based chat client,
-    - 5. And keep my display from falling asleep if I had to go grab a glass of water in the other room.   
+- [Bunch](https://bunchapp.co/), a free utility, is one of Brett Terpstra's many amazing tools. It lets you quickly automate things for MacOS. What kind of things? When I had chat shifts multiple times a week, I automated this entire bunch of actions, all just from one single click:  
+    1. Remember to check the shared Library email account and respond to any messages,
+    2. Open one app,
+    3. Open another app,
+    4. Log into a web-based chat client,
+    5. And keep my display from falling asleep for the next couple hours, so I'd still hear the "new chat" alert if I'd gone to grab a glass of water in the next room.  
 - [Lungo](https://sindresorhus.com/lungo) is an inexpensive menu bar tool for MacOS that can keep your screen/computer awake. The same developer makes a ton of [other tools](https://sindresorhus.com/apps), many of them free. This one's definitely worth what little I paid for it, though.  
 - [PopClip](https://www.popclip.app/) is a great paid utility that provides a bunch of small tools for text. Want to quickly sort a list? Want to know word or character count, anywhere? Want to change something from all caps to sentence case? It does all that and more!  
 - [Rectangle](https://rectangleapp.com/) is a gratis utility that lets you move your windows in MacOS using just keyboard commands. I never realized how much I'd benefit from something like this until I started using it.  
