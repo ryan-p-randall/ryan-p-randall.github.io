@@ -35,7 +35,7 @@ Whenever possible, I link to [WorldCat](https://www.worldcat.org/) records for b
 
 ### Writing Formats  
 
-I'm a big fan of using [Markdown](https://www.markdownguide.org/) wherever possible. It's the primary source code for this site, for instance. I constantly use it with [Obsidian](obsidian.md/) and VS Code for all sorts of notetaking, as I explain a bit further below. I also use it with [Pandoc](https://pandoc.org/) for academic writing.  
+I'm a big fan of using [Markdown](https://www.markdownguide.org/) wherever possible. It's the primary source code for this site, for instance. I constantly use it with [Obsidian]({% link _notes/Note-taking/Obsidian/index.html %}) and VS Code for all sorts of notetaking, as I explain a bit further below. I also use it with [Pandoc](https://pandoc.org/) for academic writing.  
 
 If you're curious about using Markdown with Pandoc, I'd recommend [this Programming Historian guide](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).  
 
