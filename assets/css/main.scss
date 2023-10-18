@@ -135,3 +135,14 @@ h2 {
 .notice--danger {
   @include notice($danger-color);
 }
+
+/* make heading link icons visible when focused */
+
+.page__content h1 .header-link:focus-visible,
+.page__content h2 .header-link:focus-visible,
+.page__content h3 .header-link:focus-visible,
+.page__content h4 .header-link:focus-visible,
+.page__content h5 .header-link:focus-visible,
+.page__content h6 .header-link:focus-visible {
+    opacity: unset;
+}
