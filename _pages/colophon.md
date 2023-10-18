@@ -19,11 +19,13 @@ This page is built with [Jekyll](http://jekyllrb.com), currently hosted on [GitH
 
 [^mmjt]: Michael Rose has a page about his various [free, open source Jekyll themes](https://mademistakes.com/work/jekyll-themes/) in case you'd like to see others.  
 
-Jekyll and GitHub Pages make for a great alternative to [WordPress](https://wordpress.org/) if you're looking for more control, want to learn more about what is going on behind the magic, or just plain don't want to pay for hosting while you're a student or emerging scholar/professional. If those things resonate, I suggest you check out [Trevor Jones's series of posts on setting up a Jekyll/GitHub Pages blog](http://www.trevordjones.com/jekyll) and/or [Mike Greiling's post "Jekyll from Scratch"](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/).[^jkp]
+Jekyll and GitHub Pages make for a great alternative to [WordPress](https://wordpress.org/) if you're looking for more control, want to learn more about what is going on behind the magic, or just plain don't want to pay for hosting while you're a student or emerging scholar/professional. If those things resonate, I suggest you check out [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) and [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github), which are a great pair of introductions to how you might use it.[^jkp]
 
-[^jkp]: I'll eventually make a separate post about all this, but until I do, here's a bunch of other useful links for Jekyll things. [Michael Rose's "Going Static"](https://mademistakes.com/articles/going-static/), [Mike Greiling's "Jekyll From Scratch"](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/), & [Barry Clark's "Build a Blog with Jekyll and GitHub Pages"](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) all do the job of introducing Jekyll admirably. [Carl Boettinger's "Learning Jekyll"](http://www.carlboettiger.info/2012/12/30/learning-jekyll.html) and [W. Caleb McDaniel's "Open Notebook History"](http://wcm1.web.rice.edu/open-notebook-history.html) each show how Jekyll- or Git-based sites work well for scholarly notebooks.
+[^jkp]: I'll eventually make a separate post about all this, but until I do, here's a bunch of other useful links for Jekyll things. [Michael Rose's "Going Static"](https://mademistakes.com/articles/going-static/), [Mike Greiling's "Jekyll From Scratch"](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/), & [Barry Clark's "Build a Blog with Jekyll and GitHub Pages"](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) all do the job of introducing Jekyll admirably. [Carl Boettinger's "Learning Jekyll"](http://www.carlboettiger.info/2012/12/30/learning-jekyll.html) and [W. Caleb McDaniel's "Open Notebook History"](http://wcm1.web.rice.edu/open-notebook-history.html) each show how Jekyll- or Git-based sites work well for scholarly notebooks. I believe I initially taught myself from [Trevor Jones's series of posts on setting up a Jekyll/GitHub Pages blog](https://web.archive.org/web/20161211063913/https://www.trevordjones.com/jekyll) and [Mike Greiling's post "Jekyll from Scratch"](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/), but at this point, I can't really remember.
 
 To the Minimal Mistakes theme, I've added [Bigfoot.js](http://www.bigfootjs.com/) for the fancy pop-up footnotes, [Reveal.js](http://lab.hakim.se/reveal-js/#/) for a splendid presentation alternative to PowerPoint or Keynote, [FontAwesome](http://fontawesome.io) for most of the icons, and James Walsh's [Academicons](http://jpswalsh.github.io/academicons/) to supplement Font Awesome with the Open Access lock, Academia-dot-edu, Orcid, and Zotero icons.  
+
+I've also added (and minimally customized) Maxime Vaillancourt's [Bidirectional links generator](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb) to make bidirectional links work in my [Notes/Digital Garden]({% link _notes/index.html %}).  
 
 The favicon (the little ellipsis in a speech bubble) is ["Blog" by Scott Lewis](https://thenounproject.com/term/blog/4618/), available with a CC BY-3.0 license from the Noun Project. I <strike>chopped and screwed</strike> cropped and shrank it into the favicon format.  
 
@@ -33,7 +35,7 @@ Whenever possible, I link to [WorldCat](https://www.worldcat.org/) records for b
 
 ### Writing Formats  
 
-I'm a big fan of using [Markdown](https://www.markdownguide.org/) wherever possible. It's the primary source code for this site, for instance. I constantly use it with [Dendron](https://www.dendron.so/) for all sorts of notetaking, as I explain a bit further below. I also use it with [Pandoc](https://pandoc.org/) for academic writing.  
+I'm a big fan of using [Markdown](https://www.markdownguide.org/) wherever possible. It's the primary source code for this site, for instance. I constantly use it with [Obsidian](obsidian.md/) and VS Code for all sorts of notetaking, as I explain a bit further below. I also use it with [Pandoc](https://pandoc.org/) for academic writing.  
 
 If you're curious about using Markdown with Pandoc, I'd recommend [this Programming Historian guide](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).  
 
@@ -48,19 +50,23 @@ Amanda Visconti's [guide to Markdown and Jekyll](https://programminghistorian.or
 
 For keeping my mental lines of flight somewhat directed, I use text files that blend blend Ryder Carroll's "Rapid Logging" [Bullet Journal](http://www.bulletjournal.com/) system with aspects of Francesco Cirillo's [Pomodoro Technique](https://web.archive.org/web/20090306080717/http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf).  
 
-I used to create monthly files for this when I did this in the Atom text editor. Now I make weekly notes using VS Code, Dendron, and the BuJo extensions mentioned below.  
+I used to create monthly files for this when I did this in the Atom text editor. Now I make daily notes in Obsidian. I'll be detailing how in this [series of notes]({% link _notes/Note-taking/Obsidian/index.html %}). <!-- Now I make weekly notes using VS Code, Dendron, and the BuJo extensions mentioned below. -->  
 
-I explain the monthly version of this system further in my GitHub repo for [the monthly planning files](https://github.com/ryan-p-randall/monthly-planning-files), which you're very welcome to download and adapt for your own brain. I'll eventually update this guide to match what I do with Dendron.  
+I explain the monthly version of this system further in my GitHub repo for [my monthly planning files](https://github.com/ryan-p-randall/monthly-planning-files), which you're very welcome to download and adapt for your own brain. I'll eventually update this guide to match what I do with Dendron.  
 
 It's not a fully-featured project management system with active reminders, of course. For that I've used [OmniFocus](https://www.omnigroup.com/omnifocus) in the past, but currently do this mostly through a combination of text notes, calendar reminders, and regular reviews of my notes.  
 
 ### Notekeeping & Text Editor Programs  
 
+[Obsidian](https://obsidian.md/) has largely replaced [Dendron]({% link _notes/Note-taking/Dendron/index.html %}) as my notes app, due almost exclusively to the amazing [Tasks plugin](https://publish.obsidian.md/tasks/Introduction).  
+
 [VS Code](https://code.visualstudio.com/) has been my text and code editor of choice since about 2020, when I switched over from [Atom](https://atom.io). VS Code doesn't cost any money, and you can customize it with themes and extensions galore, in addition to customizing your settings.  
 
+<!-- 
 [Dendron](https://www.dendron.so/), a VS Code extension for taking structured notes, was the reason I switched to VS Code. It stores your notes wherever you want, understands Markdown formatting, and is both free of cost and open source. Furthermore, it's built for scale, with features like hierarchical note structure, templates, and renaming or restructuring batches of notes at a time.  
 
 [BuJo](https://bujo.mihaiconstantin.com/), another VS Code extension, offers a convenient way of using the [Bullet Journal](http://www.bulletjournal.com/) conventions for tasks. You can customize these as well.  
+-->
 
 [Daybreak](https://daybreaktheme.com/) has become the theme I like using wherever I can. It's dark and warm, and it provides syntax-based color changes for relevant parts of Markdown, HTML, CSS, and the few other languages I dabble in. (More specifically, I use either the Daybreak Italic or Daybreak Bold variants most of the time.) Daybreak is a variant of [Horizon](https://horizontheme.netlify.app/), which unfortunately doesn't have an official theme extension for VS Code anymore as of mid-2022.  
 

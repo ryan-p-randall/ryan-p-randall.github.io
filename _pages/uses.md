@@ -1,14 +1,14 @@
 ---
 permalink: /uses/
 title: "Uses"
-last_modified_at: 2023-02-01
+last_modified_at: 2023-10-17
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
 toc: true
 ---
 
-Much like a colophon, it's intriguing—and sometimes even useful—to see what other people use as they work. Hence, the [/uses](https://uses.tech/) page convention.  
+Much like a [colophon]({% link _pages/colophon.md %}), it's intriguing—and sometimes even useful—to see what other people use as they work. Hence, the [/uses](https://uses.tech/) page convention.  
 
 Here I'll selectively highlight some of the things I use. **None** of these are affiliate links.[^sc]  
 
