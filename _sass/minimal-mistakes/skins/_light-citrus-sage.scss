@@ -7,7 +7,8 @@ $background-color: #FAFAFA !default;
 $text-color: #252a34 !default;
 $primary-color: #C24E00 !default; /* orange */
 $masthead-link-color: #007053 !default; /* sage */
-$masthead-link-color-hover: mix(#000, $masthead-link-color, 20%) !default;
+$masthead-link-color-hover: mix(#000, #007053, 20%) !default;
+$navicon-link-color-hover: mix(#111, $background-color, 30%) !default;
 $border-color: mix(#111, $background-color, 20%) !default;
 $code-background-color: mix(#eee, $background-color, 15%) !default;
 $code-background-color-dark: mix(#111, $background-color, 20%) !default;
@@ -16,7 +17,6 @@ $footer-background-color: mix($masthead-link-color, $background-color, 15%) !def
 $link-color: mix($primary-color, $text-color, 80%) !default;
 $link-color-hover: mix(#fff, $link-color, 20%) !default;
 $link-color-visited: mix(#111, $link-color, 20%) !default;
-$navicon-link-color-hover: mix(#111, $background-color, 30%) !default;
 /* My Additional Colors */
 $backlink-background-color: mix(#111, $background-color, 10%) !default;
 $audience: mix($background-color, $masthead-link-color, 65%);
@@ -125,7 +125,7 @@ details {
     padding: .5rem;
 }
 
-summary:hover, summary:focus {
+summary:hover, /* summary:focus */ {
    box-shadow: 0 0 0 0.35rem $masthead-link-color-hover;
 }
 
@@ -185,3 +185,10 @@ progress {
 .bigfoot-footnote__button::after {
     color: #C24E00;
 }
+
+.greedy-nav a:focus, div:focus, .search__toggle a:focus, button:focus, .taxonomy__index a:focus, a.back-to-top:focus {
+    outline: .2rem solid; /* 3px; */
+    outline-offset: .2rem; /* -1px; */
+    outline-color: $masthead-link-color;
+    box-shadow: 0 0 0 .3rem #f0f0f0;
+  }

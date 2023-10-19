@@ -3,6 +3,7 @@ layout: notesindex
 excerpts: true
 folder-title: "Note-taking"
 title: "Note taking"
+notes-folder-path: "/notes/Note-taking/"
 ---
 
 <h2>All {{page.title}} folders</h2>
@@ -17,21 +18,39 @@ title: "Note taking"
 
 {% assign wikifolders = wikifolders | uniq | sort %}
 
+{% comment %}
+
 <div class="wiki-folder-grid">
     <div class="wiki-folder-grid-thirds">
-        <a class="" href="/notes/Note-taking/Approaches">
-            <div class="btn btn--primary btn--large">Approaches</div>
-        </a>
+        <a class="btn btn--primary btn--large" href="/notes/Note-taking/Approaches">Approaches</a>
     </div>
     <div class="wiki-folder-grid-thirds">
-        <a class="" href="/notes/Note-taking/Dendron">
-            <div class="btn btn--primary btn--large">Dendron</div>
-        </a>
+        <a class="btn btn--primary btn--large" href="/notes/Note-taking/Dendron">Dendron</a>
     </div>
     <div class="wiki-folder-grid-thirds">
-        <a class="" href="/notes/Note-taking/Obsidian">
-            <div class="btn btn--primary btn--large">Obsidian</div>
+        <a class="btn btn--primary btn--large" href="/notes/Note-taking/Obsidian">Obsidian</a>
+    </div>
+<!--
+    <div class="wiki-folder-grid-thirds">
+        <a class="" href="/notes/Note-taking/Folder">
+            <div class="btn btn--primary btn--large">Folder</div>
         </a>
+    </div> -->
+</div>
+
+<h2>TESTING</h2>
+
+{% endcomment %}
+
+<div class="wiki-folder-grid">
+    <div class="wiki-folder-grid-thirds">
+        <a class="btn btn--primary btn--large" href="{{page.folder-notes-path}}Approaches">Approaches</a>
+    </div>
+    <div class="wiki-folder-grid-thirds">
+        <a class="btn btn--primary btn--large" href="{{page.folder-notes-path}}Dendron">Dendron</a>
+    </div>
+    <div class="wiki-folder-grid-thirds">
+        <a class="btn btn--primary btn--large" href="{{page.folder-notes-path}}Obsidian">Obsidian</a>
     </div>
 <!--
     <div class="wiki-folder-grid-thirds">

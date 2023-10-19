@@ -24,8 +24,7 @@ title: "Notes Index"
     {% for folder in wikifolders %}
     {% unless folder contains 'md' or folder contains 'html' %}
     <div class="wiki-folder-grid-thirds">
-        <a class="" href="/notes/{{folder}}/">
-            <div class="btn btn--primary btn--large">{{folder}}</div>
+        <a class="btn btn--primary btn--large" href="/notes/{{folder}}/">{{folder}}
         </a>
     </div>
     {% endunless %}

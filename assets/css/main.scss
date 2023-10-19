@@ -12,16 +12,19 @@
 @import "vendor/bigfoot/bigfoot-mixins.scss";
 @import "vendor/bigfoot/bigfoot-popover.scss";
 
+/* see if focus-visible is better here
 a:focus, button:focus, .bigfoot-footnote__button:focus {
   outline: solid 3px;
   outline-offset: 0px;
   outline-color: $masthead-link-color;
 }
+*/
 
 .greedy-nav a:focus, div:focus, .search__toggle a:focus, button:focus, .taxonomy__index a:focus, a.back-to-top:focus {
-  outline: solid 3px;
-  outline-offset: -1px;
+  outline: .2rem solid; /* 3px; */
+  outline-offset: .2rem; /* -1px; */
   outline-color: $masthead-link-color;
+  box-shadow: 0 0 0 .3rem #f0f0f0;
 }
 
 .author__urls a:focus, .page__taxonomy-item:focus, .pagination li a:focus, .pagination--pager:focus, .archive__item a:focus, .toc__menu a:focus, a.btn:focus {
@@ -138,11 +141,22 @@ h2 {
 
 /* make heading link icons visible when focused */
 
-.page__content h1 .header-link:focus-visible,
-.page__content h2 .header-link:focus-visible,
-.page__content h3 .header-link:focus-visible,
-.page__content h4 .header-link:focus-visible,
-.page__content h5 .header-link:focus-visible,
-.page__content h6 .header-link:focus-visible {
+.page__content h1 .header-link:focus,
+.page__content h2 .header-link:focus,
+.page__content h3 .header-link:focus,
+.page__content h4 .header-link:focus,
+.page__content h5 .header-link:focus,
+.page__content h6 .header-link:focus {
     opacity: unset;
+}
+
+/* custom color for focus outline */
+a:focus,
+button:focus,
+.bigfoot-footnote__button:focus,
+summary:focus {
+  outline: .2rem solid #007053;
+/*  outline-offset: .2rem; */
+/*  outline-color:#007053; */
+  box-shadow: 0 0 0 .3rem #f0f0f0;
 }

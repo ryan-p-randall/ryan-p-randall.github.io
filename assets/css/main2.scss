@@ -28,11 +28,22 @@
 
 /* make heading link icons visible when focused */
 
-.page__content h1 .header-link:focus-visible,
-.page__content h2 .header-link:focus-visible,
-.page__content h3 .header-link:focus-visible,
-.page__content h4 .header-link:focus-visible,
-.page__content h5 .header-link:focus-visible,
-.page__content h6 .header-link:focus-visible {
+.page__content h1 .header-link:focus,
+.page__content h2 .header-link:focus,
+.page__content h3 .header-link:focus,
+.page__content h4 .header-link:focus,
+.page__content h5 .header-link:focus,
+.page__content h6 .header-link:focus {
     opacity: unset;
+}
+
+/* custom color for focus outline */
+a:focus,
+button:focus,
+.bigfoot-footnote__button:focus,
+summary:focus {
+  outline: .2rem solid #f0f0f0;
+/*  outline-offset: .2rem; */
+/*  outline-color:#007053; */
+  box-shadow: 0 0 0 .3rem #007053;
 }

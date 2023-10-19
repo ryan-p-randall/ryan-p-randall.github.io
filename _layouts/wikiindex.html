@@ -31,7 +31,7 @@ sidebar:
     {% unless item.path contains "index.html" %}
     <div class="">
         <hr>
-    <a class="" href="{{item.url}}"># {{item.path | replace: folderfilter , ""}}</a></li>
+    <a class="btn" href="{{item.url}}"># {{item.path | replace: folderfilter , ""}}</a></li>
     (last updated {{item.last_modified_at}})
     {{item.content | markdownify}}  
     </div>
@@ -52,7 +52,7 @@ sidebar:
     {% unless item.path contains "index.html" %}
     <div class="">
         <hr>
-    <a class="" href="{{item.url}}"># {{item.path | replace: folderfilter , ""}}</a></li>
+    <a class="btn" href="{{item.url}}"># {{item.path | replace: folderfilter , ""}}</a></li>
     (last updated {{item.last_modified_at}})
     {{item.excerpt | markdownify}}  
     </div>

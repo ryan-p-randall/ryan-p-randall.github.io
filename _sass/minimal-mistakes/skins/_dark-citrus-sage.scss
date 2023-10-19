@@ -24,6 +24,7 @@ $audience: mix($background-color, $masthead-link-color, 65%);
 $caption-font-family: sans-serif !default;
 
 .author__urls.social-icons .svg-inline--fa,
+.author__urls.social-icons .svg-inline--fab,
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
@@ -124,7 +125,7 @@ details {
     padding: .5rem;
 }
 
-summary:hover, summary:focus {
+summary:hover, /* summary:focus */ {
    box-shadow: 0 0 0 0.35rem $masthead-link-color-hover;
 }
 
