@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Plugins"
 date: 2023-10-21
-last_modified_at: 2023-10-21
+last_modified_at: 2023-10-22
 note-taking: true
 obsidian: true
 excerpt: "Some of the Obsidian plugins I use most."
@@ -18,7 +18,24 @@ blogged: false
 
 One of the best—and most anxiety-producing, from the viewpoint of long-term stability—aspects of Obsidian is how the developers have opened up the app to community plugins. These plugins extend the core behaviors in various ways.  
 
-While your notes are ultimately just a bunch of Markdown files, the plugins can produce dynamic queries. This means your notes can take on the behavior of databases or task-management systems.  
+While your notes are ultimately just a bunch of Markdown files, the plugins can produce dynamic queries, allow the "source code" of the note to contain instructions on how that are rendered differently in the "reading view" or "live preview" of the note. Here's an example:  
+
+If the "source code" of a note contains the following instructions:  
+`````
+```tasks 
+not done 
+starts before tomorrow
+(tags do not include #waiting)
+group by happens
+```
+`````
+
+Then the "reading view" of the note can display a list of tasks from any of your Obsidian notes, nicely grouped together by day, and with optional links back to the original note that contains the task. 
+
+Here is an example with five different tasks, grouped into headings under three different days:  
+![five example tasks, each about writing a set of clever task examples](./../../../assets/images/obsidian-tasks-clever-example.png)
+
+This means your notes can take on the behavior of databases or task-management systems—yet still retain all the cross-app portability and longevity of text files!  
 
 When I first looked at Obsidian years ago, I was frustrated by the lack of obvious ways to customize the look, feel, and behavior. Both for better and for worse, the app's core developers have allowed community members to create plugins. This is great in terms of allowing for a wider variety of customizations than a small handful of official developers can support. But it's simultaneously worrisome to have some of the most crucial elements of my everyday experience be outsourced to volunteers in the community.  
 
@@ -34,7 +51,7 @@ Here's an alphabetical list of the Obsidian plugins I rely on most frequently.
 - Tasks  
 - Templater  
 
-## Linter  
+### Linter  
 
 You might be familiar with the concept of a [linter](https://en.wikipedia.org/wiki/Lint_(software)) if you've used code editors. They're handy for enforcing stylistic preferences, such as whether to automatically delete all whitespace at the end of a line of text or to use tabs or spaces when indenting.  
 
@@ -46,7 +63,7 @@ It's even possible to apply "lint on save" even on mobile! "Mobile" is the first
 
 Here's the plugin's [website](https://platers.github.io/obsidian-linter/) and its [GitHub repository](https://github.com/platers/obsidian-linter).  
 
-## Style Settings  
+### Style Settings  
 
 This one is made by [Matthew Meyers](https://matthewmeye.rs/), who has made a number of other Obsidian plugins.  
 
@@ -54,13 +71,13 @@ It's known on GitHub as [Obsidian Style Settings](https://github.com/mgmeyers/ob
 
 Other themes, such as Chris Geiser's [Shimmering Focus](https://github.com/chrisgrieser/shimmering-focus/), rely on it as a common interface for their own theme settings.  
 
-## Periodic Notes  
+### Periodic Notes  
 
 Obsidian has a built-in [Daily notes plugin](https://help.obsidian.md/Plugins/Daily+notes), which might be sufficient for many people.  
 
 Liam Cain's [Periodic Notes plugin](https://github.com/liamcain/obsidian-periodic-notes) add the ability to create weekly, monthly, quarterly, or yearly notes, each with different templates.  
 
-## Tasks  
+### Tasks  
 
 Originally written by Martin Schenck and now expertly maintained by Clare Macrae, the [Tasks plugin](https://github.com/obsidian-tasks-group/obsidian-tasks) is honestly what made me ultimately switch from Dendron to Obsidian for the bulk of my notes.  
 
@@ -68,7 +85,7 @@ It lets you track and display tasks in various ways. I'll eventually write a who
 
 For now, I'll just link to its [documentation site](https://publish.obsidian.md/tasks/Introduction), which might be the best I've ever seen or used.  
 
-## Templater  
+### Templater  
 
 Originally written by SilentVoid13, the [Templater plugin](https://github.com/SilentVoid13/Templater) allows for things beyond what Obsidian's built-in [Templates plugin](https://help.obsidian.md/Plugins/Templates) provide. I think maintenance of it has been taken over by [Zach Young](https://zachyoung.dev/), aka [Zachatoo](https://github.com/Zachatoo), who provides excellent guidance to it in the Obsidian Discord.  
 
