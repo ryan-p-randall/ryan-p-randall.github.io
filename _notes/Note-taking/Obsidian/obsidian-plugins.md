@@ -11,7 +11,7 @@ published: true
 blogged: false
 ---
 
-<span class="audience">Assumed audience</span> People at least passably familiar with Dendron. See my other notes on Dendron for more context.
+<span class="audience">Assumed audience</span> People at least passably familiar with Obsidian. See [my other notes on Obsidian]({% link _notes/Note-taking/Obsidian/index.html %}) for more context.
 {: .notice }
 
 ## What's the Big Deal about Obsidian Plugins?  

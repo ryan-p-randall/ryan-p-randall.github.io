@@ -19,7 +19,7 @@ $link-color-hover: mix(#fff, $link-color, 20%) !default;
 $link-color-visited: mix(#111, $link-color, 20%) !default;
 /* My Additional Colors */
 $backlink-background-color: mix(#111, $background-color, 10%) !default;
-$audience: mix($background-color, $masthead-link-color, 65%);
+$audience: $masthead-link-color-hover;
 
 $caption-font-family: sans-serif !default;
 
