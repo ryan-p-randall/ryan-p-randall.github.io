@@ -1,14 +1,14 @@
 ---
 title: "Obsidian Plugins"
 date: 2023-10-21
-last_modified_at: 2023-10-22
+last_modified_at: 2023-10-23
 note-taking: true
 obsidian: true
 excerpt: "Some of the Obsidian plugins I use most."
-status: ":seedling:"
+status: ":herb:"
 toc: true
 published: true
-blogged: false
+blogged: true
 ---
 
 <span class="audience">Assumed audience</span> People at least passably familiar with Obsidian. See [my other notes on Obsidian]({% link _notes/Note-taking/Obsidian/index.html %}) for more context.
@@ -41,7 +41,7 @@ This means your notes can take on the behavior of databases or task-management s
 
 When I first looked at Obsidian years ago, I was frustrated by the lack of obvious ways to customize the look, feel, and behavior. Both for better and for worse, the app's core developers have allowed community members to create plugins. This is great in terms of allowing for a wider variety of customizations than a small handful of official developers can support. But it's simultaneously worrisome to have some of the most crucial elements of my everyday experience be outsourced to volunteers in the community.  
 
-In any event, I figured I'd write a list of some of the plugins I find most essential for my own experience, in case it helps save other people frustration in setting up Obsidian to work for them.  
+In any event, I figured I'd write a list of some of the plugins I find most essential for my own experience as I'm [[beginning to use Obsidian]], in case it helps save other people frustration in setting up Obsidian to work for them.  
 
 Here's an alphabetical list of the Obsidian plugins I rely on most frequently.  
 
@@ -53,11 +53,14 @@ Here's an alphabetical list of the Obsidian plugins I rely on most frequently.
 
 ### Linter  
 
-You might be familiar with the concept of a [linter](https://en.wikipedia.org/wiki/Lint_(software)) if you've used code editors. They're handy for enforcing stylistic preferences, such as whether to automatically delete all whitespace at the end of a line of text or to use tabs or spaces when indenting.  
+You might be familiar with the concept of a [linter](https://en.wikipedia.org/wiki/Lint_(software)) if you've used code editors. Linters are handy for keeping things tidy & presentable by enforcing stylistic preferences, such as whether to automatically delete all whitespace at the end of a line of text or to use tabs or spaces when indenting.  
 
-Victor Tao's Linter plugin applies the same automatic formatting and stylization to your notes in Obsidian. I have it set to lint on save, to make sure that heading levels only increase by a single level at a time, and do similar things.  
+Victor Tao's Linter plugin applies this type of automatic formatting and stylization to your notes in Obsidian. I have it set to lint on save, to make sure that heading levels in a note only increase by a single level at a time, and do similar types of chores that automatic processes will almost always be better at than humans.  
 
-**Timestamps** are by far the most important of these actions for me. I want my notes to be as self-contained as possible, so I want to be able to easily see when a note was last updated from within the note itself. The plugin's [YAML Timestamp rule](https://platers.github.io/obsidian-linter/settings/yaml-rules/#yaml-timestamp) handles this wonderfully. I use both a `created` and a `modified` key for this. And since ISO 8601 is the [XKCD-approved format](https://xkcd.com/1179/) for all things time-y, the format I use is `YYYY-MM-DD[T]HH:mm:ss[-06:00]`. (If you're not also in Mountain Time, you'd probably want to change the `[-06:00]` offset there. But hey, you do do!)  
+**Timestamps** are by far the most important of these actions for me. I want my notes to be as self-contained and usable within and outside of Obsidian as possible, so I want to be able to easily see when a note was last updated from within the note itself, rather than relying on tools like operating system file info panels.  
+
+The plugin's [YAML Timestamp rule](https://platers.github.io/obsidian-linter/settings/yaml-rules/#yaml-timestamp) handles this wonderfully. I use both a `created` and a `modified` key for this. And since ISO 8601 is the correct (and [XKCD-approved](https://xkcd.com/1179/)!) format for all things time-y, the specific formatting string I use is: <br>
+`YYYY-MM-DD[T]HH:mm:ss[-06:00]`. <br> (If you're not also in Mountain Time, you'd probably want to change the `[-06:00]` offset there. But hey, you do you!)  
 
 It's even possible to apply "lint on save" even on mobile! "Mobile" is the first item in the settings menu of the Mobile app, and it lets you manage the toolbar options available in the mobile app. I've made the first one be "Save current file." I don't know if it's possible to apply an icon there, but having it first is easy to enough to remember.  
 
@@ -69,13 +72,15 @@ This one is made by [Matthew Meyers](https://matthewmeye.rs/), who has made a nu
 
 Other themes, such as Chris Geiser's [Shimmering Focus](https://github.com/chrisgrieser/shimmering-focus/), rely on it as a common interface for their own theme settings.  
 
-Depending on the theme, this plugin will allow you to specify things like various colors, fonts, font sizes, how backlinks are displayed, and whether to hide or display entire sections of the app interface.  
+Depending on the theme, this plugin will allow you to specify things like various colors, fonts, font sizes, how backlinks are displayed, and whether to hide or display entire sections of the app interface. For instance, I mostly use the Shimmer Focus theme, but as seen in the screenshot at the first section of this note, I've changed the font and colors to be closer to [[Daybreak theme|Daybreak]], my preferred theme.   
 
 ### Periodic Notes  
 
 Obsidian has a built-in [Daily notes plugin](https://help.obsidian.md/Plugins/Daily+notes), which might be sufficient for many people.  
 
 Liam Cain's [Periodic Notes plugin](https://github.com/liamcain/obsidian-periodic-notes) adds the ability to create weekly, monthly, quarterly, or yearly notes, each with different templates. You can see and navigate these in the Calendar pane, and even create new ones directly by clicking on that day or week.  
+
+You can customize the format for note titles at each level, as well as other settings. I'll likely make a separate note detailing how I have this plugin set up eventually.   
 
 ### Tasks  
 
@@ -89,4 +94,6 @@ Beyond that, for now I'll just link to its [documentation site](https://publish.
 
 Originally written by SilentVoid13, the [Templater plugin](https://github.com/SilentVoid13/Templater) allows for things beyond what Obsidian's built-in [Templates plugin](https://help.obsidian.md/Plugins/Templates) provide. I think maintenance of it has been taken over by [Zach Young](https://zachyoung.dev/), aka [Zachatoo](https://github.com/Zachatoo), who provides excellent guidance to it in the Obsidian Discord.  
 
-This is another plugin that I might eventually write a whole separate note on how I use it, since its features and behaviors are far from self-explanatory to non-coders.  
+Two of the most powerful things I've used it for are **moving notes** to specific folders as you create the notes (very useful for keeping project notes organized!) and **creating "partials" or "includes."** By this I mean that I have a general daily note template in my digital bullet journal, and then use a set of if/then statements to include a different set of default tasks/schedule based on which day of the week it happens to be.  
+
+This is another plugin about which I might eventually write a whole separate note, since its features and behaviors are far from self-explanatory to non-coders like me.  
