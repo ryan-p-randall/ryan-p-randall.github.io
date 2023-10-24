@@ -1,7 +1,7 @@
 ---
 permalink: /uses/
 title: "Uses"
-last_modified_at: 2023-10-17
+last_modified_at: 2023-10-23
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
@@ -27,6 +27,7 @@ Here I'll selectively highlight some of the things I use. **None** of these are 
 - [Visual Studio Code](https://code.visualstudio.com/) is a gratis text editor with many, many themes and extensions. Here's an example of each of those:  
     - [Daybreak](https://daybreaktheme.com/) is a lovely warm dark theme.  
     - [Dendron](https://wiki.dendron.so/) is a great extension for organizing & retrieving notes.  
+- [Working Copy](https://workingcopyapp.com) lets you do Git-related things on your phone. So if you use Jekyll and want to be able to update things away from your computer, it's an excellent choice!   
 
 ### Reading  
 
