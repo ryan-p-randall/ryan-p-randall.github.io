@@ -1,7 +1,7 @@
 ---
 permalink: /uses/
 title: "Uses"
-last_modified_at: 2023-10-23
+last_modified_at: 2023-10-28
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
@@ -27,7 +27,12 @@ Here I'll selectively highlight some of the things I use. **None** of these are 
 - [Visual Studio Code](https://code.visualstudio.com/) is a gratis text editor with many, many themes and extensions. Here's an example of each of those:  
     - [Daybreak](https://daybreaktheme.com/) is a lovely warm dark theme.  
     - [Dendron](https://wiki.dendron.so/) is a great extension for organizing & retrieving notes.  
+
+### Mobile  
+
+- [Toot! for Mastodon](https://apps.apple.com/us/app/toot-for-mastodon/id1229021451?ls=1) is my favorite Mastodon app by far. You can easily switch between multiple accounts, and there are options for things like displaying a neat "subway map" view of lines connecting replies to posts. The [developer](https://mastodon.social/@tootapp) also has been on Mastodon for years, and seems to have a good handle on both the best, most whimsical parts of it **and** why it's important to be stridently antifascist there.  
 - [Working Copy](https://workingcopyapp.com) lets you do Git-related things on your phone. So if you use Jekyll and want to be able to update things away from your computer, it's an excellent choice!   
+- [Zotero (iOS)](https://apps.apple.com/us/app/zotero/id1513554812) is a very nice companion to the desktop app, especially if you happen to have an iPad.  
 
 ### Reading  
 
