@@ -123,7 +123,6 @@ Department of English, January-April 2021
 - Shared in preparing weekly video introduction to course modules  
 - Shared in designing and grading student assignments (weekly short responses, group "keyword" presentations, midterm and final exams, and paper)   
 
-
 **Niagara County Community College** Sanborn, NY  
 *Adjunct Instructor*  
 Department of English, August 2012–May 2013  
@@ -183,41 +182,40 @@ Summer 2005
 
 ## Publications  
 
-["Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction."](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/StudentAchievementUnlocked.pdf) With Amanda Nida and Kim Reed. _ACRL 2021._ Contributed conference paper, April 2021.
-
-Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual History*, ed. Joan Rubin and Scott E. Casper. (2013).](https://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162)  
-
-- [John Cage](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
-- [Graffiti](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  
-- [Guerilla Theatre](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)  
-
-["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053) With Katie Clark, Jane Smith, and Nancy Fried Foster. Technical report, September 2008.  
-
-["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) With Nancy Friend Foster. Technical report, September 2007.  
+- ["Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction."](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/StudentAchievementUnlocked.pdf) With Amanda Nida and Kim Reed. _ACRL 2021._ Contributed conference paper, April 2021.  
+- Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual History*](https://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162), ed. Joan Rubin and Scott E. Casper, 2013.  
+    - [John Cage](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
+    - [Graffiti](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA478#v=onepage&q&f=false)  
+    - [Guerilla Theatre](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)  
+- ["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053) With Katie Clark, Jane Smith, and Nancy Fried Foster. Technical report, September 2008.  
+- ["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) With Nancy Friend Foster. Technical report, September 2007.  
 
 ## Instructional Design & Library Conference Presentations and Panels  
 
+- "Student Scholars Creating OER through Renewable Assignments" [slides](https://docs.google.com/presentation/d/1JqVIjDQhL2G_94xW4m85IdaJFTDRhj2m3NKQ6uM26AI/edit?usp=sharing)   
+Invited talk, Co-presented with Liza Long  
+[*Louisiana State University's HEROE-S Forum*](https://lsu.edu/hss/wllc/forlanglab/heroes.php), Conference held online, 2023.  
 - "Student Scholars in Action: Collaborations with Librarians, Students, and Instructors for Student-Driven OER" [slides](https://docs.google.com/presentation/d/1ivuInqMSBssEpQhRr0frs9SdoCcwrAjR_7doz4w_E_8/edit?usp=sharing); [links and related resources](https://docs.google.com/document/d/1klIFV3vrRj4Rre-TDRrXFPNqmmZBfmQce1fENP5oGcU/edit?usp=sharing)  
 Co-presented with Liza Long and Carrie Bailey  
-[*Open Education Conference 2022*](https://opened22.sched.com/event/1AmUs/student-scholars-in-action-student-driven-oer-creation-with-librarians-students-and-instructors), Conference held online, 2022  
+[*Open Education Conference 2022*](https://opened22.sched.com/event/1AmUs/student-scholars-in-action-student-driven-oer-creation-with-librarians-students-and-instructors), Conference held online, 2022.  
 - ["Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction"](https://cwidahocc-my.sharepoint.com/:v:/g/personal/amandanida_cwi_edu/EU6tbLoY4ypLnFVF_KqGicYB4n3dIulhj5NuX_dn7QIYgQ?e=oiLePW)  
 Co-presented with Amanda Nida and Kim Reed  
-[*ACRL (Association of College &amp; Research Libraries) 2021*](https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP), Conference held online, 2020  
+[*ACRL (Association of College &amp; Research Libraries) 2021*](https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP), Conference held online, 2020.  
 - "Textbook Affordability & OER (Open Education Resources)"  
 Panel with Jonathan Lashley, Kristin Witman, Marco Seiferle-Valencia, and Monica Brown  
-[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020.  
 - ["Will I Get Credit for my Badges?"](https://drive.google.com/file/d/1KH8FzjqsoTHAc44dTxqcyyK_24Jpq2tW/view)  
 Information Literacy Lightning Talk with Rebeca Peacock, Shelly Doty, and Lindsay Marsh  
-[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020.  
 - ["SIFT Moves"](https://flipgrid.com/05bb6128)  
 "Innovative Ideas" poster session / video lightning talk  
-[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020.  
 - "Informing the Crisis of Fake News"  
 Presentation  
 [*Library Instruction West 2020*](https://liw2020.sched.com/event/Zhqm/informing-the-crisis-of-fake-news), Conference [cancelled](https://liw2020.sched.com/event/Zhqm/informing-the-crisis-of-fake-news) due to COVID19 pandemic.  
 - "Changing Tides: Exploring Current Trends in Information Literacy Programs."  
 Panel with Zoe Fisher, Danielle Rowland, Megan Smithling, and Elizabeth Brown.  
-[*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA, 2017  
+[*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA, 2017.  
 - ["ILA Social Justice Committee, Equity, and Libraries."](http://ryanpatrickrandall.com/talks/swila2017)  
 *SWILA (Southwestern Idaho Library Association) Conference*, Meridian, ID, 2017. __Keynote speaker__.  
 [Presentation slides.](http://ryanpatrickrandall.com/talks/swila2017)  
@@ -249,26 +247,28 @@ Co-presented with Katherine Ahnberg.
 
 - "Is a Plant a Document? The Knowledge Practices of Renaissance Natural History, Francis Bacon, and Contemporary Library Science."  
 *Intermountain Graduate Conference*, Pocatello, ID, 2019.  
+- "Intersectionality and Juxtaposition in Mourning Dove's _Cogewea_."  
+*Western Literature Association Conference*, Estes Park, CO, 2019.  
 - “'This is a musical instrument. This is another. Combine them. Now perform historical materialism through your band.': Bricolage and Historical Materialism as Audible in the Altered Instruments of Sonic Youth and Laurie Anderson"  
-*Popular Culture Association/American Culture Association Conference*, Boston, MA, 2012  
+*Popular Culture Association/American Culture Association Conference*, Boston, MA, 2012.  
 - “Musical Mutations, Alternative Institutions: A Materialist Cultural Studies Approach to the Early Works of Laurie Anderson and Sonic Youth”  
-*Cultural Studies Association Conference*, San Diego, CA, 2012  
+*Cultural Studies Association Conference*, San Diego, CA, 2012.  
 - “Marclay, Music, Materiality: Uncovering Discourses of the Body as Palimpsest and Presence”  
-*Making Sense of Visual Culture*, University of Rochester, 2011  
+*Making Sense of Visual Culture*, University of Rochester, 2011.  
 - “‘E Pluribus Unum’: Jacques Rancière, Sandy Bull, and the Peculiar Familiarity of Political Frustration in ‘New Weird America’ Folk Music”  
-*International Association for the Study of Popular Music-US Conference*, Cincinnati, Ohio, 2011  
+*International Association for the Study of Popular Music-US Conference*, Cincinnati, Ohio, 2011.  
 - “Looking via Listening: Drexciya, the Acousmêtre, and Political Metaphors”  
-*PCA/ACA Conference*, St. Louis, Missouri, 2010  
+*PCA/ACA Conference*, St. Louis, Missouri, 2010.  
 - “(Freedom Forever) Elvis Lives!: Reanimation, Hauntology, and Symbolic Slavery”  
-*Visible Memories Conference*, Syracuse University, 2008  
+*Visible Memories Conference*, Syracuse University, 2008.  
 - “Who? Me? Walking the Margins of Queer Visibility”  
-*(dis)junctions Conference*, University of California, Riverside, 2006  
+*(dis)junctions Conference*, University of California, Riverside, 2006.  
 - “David Wojnarowicz’s Use of Realist Representation in ‘Arthur Rimbaud in New York’”  
-*Theorising Queer Visualities: Postgraduate Symposium*, University of Manchester (England), 2005  
+*Theorising Queer Visualities: Postgraduate Symposium*, University of Manchester (England), 2005.  
 - “Her Majesty’s Secret Service: Containing the Corrupting Effects of Cultural Competency in Rudyard Kipling’s Kim”  
-*Contact, Contagion, and Containment Conference*, Cornell University, 2005  
+*Contact, Contagion, and Containment Conference*, Cornell University, 2005.  
 - “‘Heliocentric Worlds’ and Creatures from a Black Platoon: Afrofuturist Redefinitions of the Nation in the Works of Sun Ra and Drexciya”  
-*(dis)junctions Conference*, University of California, Riverside, 2004  
+*(dis)junctions Conference*, University of California, Riverside, 2004.  
 
 ## Memberships and Service  
 
