@@ -1,8 +1,8 @@
 ---
 permalink: /reading/
 title: "Reading"
-date: 2023-01-10
-last_modified_at: 2023-02-01
+# date: 2023-01-10
+# last_modified_at: 2023-02-01
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
@@ -45,11 +45,11 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
     <li>{% if item.pinned %}📌 {% endif %}
         {% if item.reading-articles %} :page_facing_up:{% endif %}
         {% if item.reading-books %} :book:{% endif %}
-        <a href="{{ item.url }}">{{ item.title }}
+        <a href="{{ item.url }}">{{ item.title }}</a>
             {% if item.status == ":seedling:" %} :seedling:{% endif %}
             {% if item.status == ":herb:" %} :herb:{% endif %}
             {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-        </a><br />
+            <br />
         {{ item.excerpt }}
         <!-- <meta class="p-summary" itemprop="description" content="{{ item.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"> -->
     </li>

@@ -139,11 +139,11 @@ progress {
 }
 
 ::-webkit-progress-value {
-    background-color: $primary-color;
+    background-color: $masthead-link-color;
 }
 
 ::-moz-progress-bar {
-    background-color: $primary-color;
+    background-color: $masthead-link-color;
 }
 
 @media (prefers-color-scheme: light) {
