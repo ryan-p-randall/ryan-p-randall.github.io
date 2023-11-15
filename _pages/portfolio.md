@@ -14,7 +14,7 @@ Here are some of the more library-related things I've done. This is current as o
 
 [![intro slide]({{ site.baseurl }}/talks/images/Capal2016-01.png)]({{ site.baseurl }}/talks/capal16/)  
 
-- [Speaking notes with slides]({{ site.baseurl }}/talks/capal16/)  
+- [Speaking notes with slides]({{ site.baseurl }}/talks/capal16.html)  
 
 ### LIS Education and New Conceptions of Democracy, 2015 Symposium on LIS Education  
 
