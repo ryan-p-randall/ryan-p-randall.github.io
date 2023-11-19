@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2023-11-14T20:30:28-6:00
+last_modified_at: 2023-11-19T13:16:46-6:00
 toc: true
 toc_sticky: true
 ---
@@ -182,6 +182,8 @@ Summer 2005
 
 ## Publications  
 
+### Research Publications  
+
 - ["Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction."](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/StudentAchievementUnlocked.pdf) With Amanda Nida and Kim Reed. _ACRL 2021._ Contributed conference paper, April 2021.  
 - Entries in [*The Oxford Encyclopedia of American Cultural and Intellectual History*](https://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162), ed. Joan Rubin and Scott E. Casper, 2013.  
     - [John Cage](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA165#v=onepage&q&f=false)  
@@ -189,6 +191,13 @@ Summer 2005
     - [Guerilla Theatre](http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford%20encyclopedia%20ryan%20p.%20randall&pg=PA488#v=onepage&q&f=false)  
 - ["The Next Generation of Academics: A Report on a Study Conducted at the University of Rochester."](http://hdl.handle.net/1802/6053) With Katie Clark, Jane Smith, and Nancy Fried Foster. Technical report, September 2008.  
 - ["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects."](http://hdl.handle.net/1802/8409) With Nancy Friend Foster. Technical report, September 2007.  
+
+### OER Works  
+
+- [_Booky McBookface: A Pressbooks Tutorial and Sandbox_](https://isu.pressbooks.pub/booky/). 2022.  
+Designed to provide a quick and playful introduction to Pressbook's editing interface—with a title intended to reinforce its low-anxiety approach.  
+- [InfoLit For Everyone](https://infolit-idaho.github.io/infolit-for-everyone/) 2020. Co-authored with InfoLit Idaho members.
+I wrote the [SIFT Moves](https://infolit-idaho.github.io/infolit-for-everyone/sift/) section, along with [other things](https://infolit-idaho.github.io/infolit-for-everyone/about/#contributors).  
 
 ## Instructional Design & Library Conference Presentations and Panels  
 
