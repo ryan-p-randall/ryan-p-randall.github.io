@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Tasks Plugin"
 date: 2023-11-18
-last_modified_at: 2023-11-18
+last_modified_at: 2023-11-19
 note-taking: true
 obsidian: true
 excerpt: "Some of the ways I use Tasks, my favorite Obsidian plugin."
@@ -60,7 +60,7 @@ A basic query looks something like this:
 ````
 ```tasks
 not done 
-filename includes {{query.file.filename}}
+filename includes {% raw%}{{query.file.filename}}{% endraw %}
 group by happens
 ```
 ````
@@ -68,11 +68,11 @@ group by happens
 Line-by-line, this will:  
 1. start the Tasks query (with the ```` ```tasks ```` command).  
 2. return only tasks that aren't already done (with the ```not done``` filter).  
-3. return only tasks written are **on this same file** (with the ```filename includes {{query.file.filename}}``` filter).  
+3. return only tasks written are **on this same file** (with the ```filename includes {% raw%}{{query.file.filename}}{% endraw %}``` filter).  
 4. sort these according to the earliest of start date, scheduled date, or due date (with the ```group by happens``` filter).  
 5. ends the Tasks query (with the ```` ``` ```` three backticks).  
 
-That ```{{query.file.filename}}``` query was recently added and has already proven extremely handy. I include the above query in a template for all my project files, and I used to have to remember to make sure that the file name was listed verbatim in the query. Now, however, this line of code always knows to just look on the same page where it's included. A definitely time-saver!  
+That ```{% raw%}{{query.file.filename}}{% endraw %}``` query was recently added and has already proven extremely handy. I include the above query in a template for all my project files, and I used to have to remember to make sure that the file name was listed verbatim in the query. Now, however, this line of code always knows to just look on the same page where it's included. A definitely time-saver!  
 
 ### Basic Query Across Files  
 
