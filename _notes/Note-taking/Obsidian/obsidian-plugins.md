@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Plugins"
 date: 2023-10-21
-last_modified_at: 2023-10-23
+last_modified_at: 2023-11-18
 note-taking: true
 obsidian: true
 excerpt: "Some of the Obsidian plugins I use most."
@@ -86,7 +86,7 @@ You can customize the format for note titles at each level, as well as other set
 
 Originally written by Martin Schenck and now expertly maintained by Clare Macrae, the [Tasks plugin](https://github.com/obsidian-tasks-group/obsidian-tasks) is honestly what made me ultimately switch from Dendron to Obsidian for the bulk of my notes.  
 
-It lets you track and display tasks in various ways. I'll eventually write a whole separate note on how I use it. For now, you can see the [example above](#tasks-example) for a quick overview of what it can do.  
+It lets you track and display tasks in various ways. The [example above](#tasks-example) provides a quick overview of what it can do. For more of how I use it, check out my [[obsidian-tasks-plugin-patterns]] note.  
 
 Beyond that, for now I'll just link to its [documentation site](https://publish.obsidian.md/tasks/Introduction), which might be the best I've ever seen or used.  
 
