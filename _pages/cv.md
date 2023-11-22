@@ -1,12 +1,12 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2023-11-19T13:16:46-6:00
+last_modified_at: 2023-11-19T14:36:20-6:00
 toc: true
 toc_sticky: true
 ---
 
-This page last updated 2023-11-14.  
+This page last updated 2023-11-19.  
 Download an older version of this [C.V. as a .pdf from 2015](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
 You may also see some of this on my [portfolio page](https://www.ryanpatrickrandall.com/portfolio/), last updated 2015-10-10.  
 {: .notice}

@@ -1,7 +1,7 @@
 ---
 permalink: /uses/
 title: "Uses"
-last_modified_at: 2023-10-28
+last_modified_at: 2023-11-21
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
@@ -19,6 +19,12 @@ Here I'll selectively highlight some of the things I use. **None** of these are 
 - LogicTech's [MX Mechanical](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html) keyboard easily switches between a few different devices, and is compatible with Mac, Linux, and Windows.  
 
 ## Software  
+
+### Browsing  
+
+- [Copy as Markdown](https://github.com/yorkxin/copy-as-markdown) is a browser extension that lets you quickly, easily make a list of all the tabs you have open and then paste that list somewhere. Copying and pasting like this makes it way easier for me to context switch, since I don't have to worry about dredging particular pages out of my browser history. I can't tell you how much this stress this saves me on a daily basis, as well as how much time it saves to be able to search in my files based on filepaths, urls, domains, etc.  
+- [Firefox](https://www.mozilla.org/en-US/firefox/) has been my desktop choice for faster, better, privacy-respecting-er browsing for years.  
+- [Noir](https://getnoir.app/) is an excellent mobile Safari add-on if you prefer browsing in dark modes.  
 
 ### Coding  
 
