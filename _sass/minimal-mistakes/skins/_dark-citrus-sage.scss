@@ -2,6 +2,38 @@
    Dark-citrus-sage skin
    ========================================================================== */
 
+/* new font tests */
+
+@font-face {
+    font-family: "Atkinson-Hyperlegible";
+    src: url('../fonts/atkinson-hyperlegible-regular-102a.woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Atkinson-Hyperlegible";
+    src: url('../fonts/atkinson-hyperlegible-bold-102a.woff2');
+    font-weight: 700; /* bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cartridge";
+    src: url('../fonts/Cartridge-Regular.woff2');
+    font-weight: 400; /* bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cartridge";
+    src: url('../fonts/Cartridge-Bold.woff2');
+    font-weight: 700; /* bold */
+    font-style: normal;
+}
+
+/* end of new font tests; also added $sans-serif-2 family in _variables.scss */
+
 /* Colors */
 $background-color: #252a34 !default;
 $text-color: #eaeaea !default;
@@ -14,8 +46,8 @@ $footer-background-color: mix(#000, $background-color, 30%) !default;
 $link-color: mix($primary-color, $text-color, 80%) !default;
 $link-color-hover: mix(#fff, $link-color, 20%) !default;
 $link-color-visited: mix(#000, $link-color, 20%) !default;
-$masthead-link-color: #00b386 !default; /* sage */
-$masthead-link-color-hover: mix(#000, #00b386, 20%) !default;
+$masthead-link-color: #00D19D; /* #00b386 !default;  sage */
+$masthead-link-color-hover: mix(/* #000, */ #fff, $masthead-link-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 /* My Additional Colors */
 $backlink-background-color: mix(#000, $background-color, 10%) !default;
@@ -144,4 +176,10 @@ progress {
 
 ::-moz-progress-bar {
     background-color: $masthead-link-color;
+}
+
+/* more heading style experimentation */
+
+h1,h2,h3,h4,h5,h6 {
+    color: $masthead-link-color;
 }

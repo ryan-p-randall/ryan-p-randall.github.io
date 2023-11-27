@@ -155,7 +155,7 @@ a:focus,
 button:focus,
 .bigfoot-footnote__button:focus,
 summary:focus {
-  outline: .2rem solid #007053;
+  outline: .2rem solid $masthead-link-color; /* #007053 */
 /*  outline-offset: .2rem; */
 /*  outline-color:#007053; */
   box-shadow: 0 0 0 .3rem #f0f0f0;

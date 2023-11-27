@@ -13,7 +13,7 @@ Colophon
 
 When you find yourself wondering, "how does one make something like this?," it's a good time to look for a colophon. If you make something cool, consider letting others know how.  
 
-### This Very Site  
+## This Very Site  
 
 This page is built with [Jekyll](http://jekyllrb.com), currently hosted on [GitHub Pages](https://pages.github.com/), and [looks like this under the hood](https://github.com/ryan-p-randall/ryan-p-randall.github.io). It uses Michael Rose's [Minimal Mistakes theme](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), with a few of my own modifications.[^mmjt]  
 
@@ -29,11 +29,11 @@ I've also added (and minimally customized) Maxime Vaillancourt's [Bidirectional 
 
 The favicon (the little ellipsis in a speech bubble) is ["Blog" by Scott Lewis](https://thenounproject.com/term/blog/4618/), available with a CC BY-3.0 license from the Noun Project. I <strike>chopped and screwed</strike> cropped and shrank it into the favicon format.  
 
-### Link Conventions
+## Link Conventions
 
 Whenever possible, I link to [WorldCat](https://www.worldcat.org/) records for books. Why not work to make library access a default practice?  
 
-### Writing Formats  
+## Writing Formats  
 
 I'm a big fan of using [Markdown](https://www.markdownguide.org/) wherever possible. It's the primary source code for this site, for instance. I constantly use it with [Obsidian]({% link _notes/Note-taking/Obsidian/index.html %}) and VS Code for all sorts of notetaking, as I explain a bit further below. I also use it with [Pandoc](https://pandoc.org/) for academic writing.  
 
@@ -46,7 +46,7 @@ Amanda Visconti's [guide to Markdown and Jekyll](https://programminghistorian.or
 [mmd]: http://fletcherpenney.net/multimarkdown/  
 -->  
 
-### Journaling and Attention Management  
+## Journaling and Attention Management  
 
 For keeping my mental lines of flight somewhat directed, I use text files that blend blend Ryder Carroll's "Rapid Logging" [Bullet Journal](http://www.bulletjournal.com/) system with aspects of Francesco Cirillo's [Pomodoro Technique](https://web.archive.org/web/20090306080717/http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf).  
 
@@ -56,7 +56,7 @@ I explain the monthly version of this system further in my GitHub repo for [my m
 
 It's not a fully-featured project management system with active reminders, of course. For that I've used [OmniFocus](https://www.omnigroup.com/omnifocus) in the past, but currently do this mostly through a combination of text notes, calendar reminders, and regular reviews of my notes.  
 
-### Notekeeping & Text Editor Programs  
+## Notekeeping & Text Editor Programs  
 
 [Obsidian](https://obsidian.md/) has largely replaced [Dendron]({% link _notes/Note-taking/Dendron/index.html %}) as my notes app, due almost exclusively to the amazing [Tasks plugin](https://publish.obsidian.md/tasks/Introduction).  
 

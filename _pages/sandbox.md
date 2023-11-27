@@ -16,7 +16,11 @@ You've entered a workshop space. Remember, safety first!
 
 > A strange game. The only winning move is not to play.  
 
-## Testing Placeholder Text for Form Fields
+## Testing **Placeholder** Text for _Form_ Fields
+
+- testing *italic fonts* as well  
+- testing **bold fonts** as well  
+- testing ***italic bold fonts*** for sure  
 
 ### `Placeholder` Test
 
