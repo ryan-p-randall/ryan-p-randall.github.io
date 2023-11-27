@@ -192,3 +192,23 @@ h1,h2,h3,h4,h5,h6 {
 .footnotes {
     color: #d2d2d2 !important;
 }
+
+.btn--primary {
+    background-color: #ff8b3d !important;
+    color: #1f1f1f !important;
+}
+
+.btn--primary:visited {
+    background-color: #c96626 !important;
+    color: #030303 !important;
+}
+
+.btn--primary:hover {
+    background-color: #fc9959 !important;
+    color: #030303 !important;
+}
+
+.nav__title {
+    background-color: #ff8b3d !important;
+    color: #1f1f1f !important;
+}
