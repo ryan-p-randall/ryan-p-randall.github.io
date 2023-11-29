@@ -1,7 +1,7 @@
 ---
 permalink: /colophon/
 title: "Colophon"
-last_modified_at: 2022-08-14
+last_modified_at: 2023-11-28
 header: 
   image: /assets/images/pocket-notebooks.jpg
   image_description: "ryan's pocket notebooks with cute stickers on their covers"
@@ -15,6 +15,8 @@ When you find yourself wondering, "how does one make something like this?," it's
 
 ## This Very Site  
 
+### Jekyll and the Minimal Mistakes Theme  
+
 This page is built with [Jekyll](http://jekyllrb.com), currently hosted on [GitHub Pages](https://pages.github.com/), and [looks like this under the hood](https://github.com/ryan-p-randall/ryan-p-randall.github.io). It uses Michael Rose's [Minimal Mistakes theme](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), with a few of my own modifications.[^mmjt]  
 
 [^mmjt]: Michael Rose has a page about his various [free, open source Jekyll themes](https://mademistakes.com/work/jekyll-themes/) in case you'd like to see others.  
@@ -23,7 +25,13 @@ Jekyll and GitHub Pages make for a great alternative to [WordPress](https://word
 
 [^jkp]: I'll eventually make a separate post about all this, but until I do, here's a bunch of other useful links for Jekyll things. [Michael Rose's "Going Static"](https://mademistakes.com/articles/going-static/), [Mike Greiling's "Jekyll From Scratch"](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/), & [Barry Clark's "Build a Blog with Jekyll and GitHub Pages"](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) all do the job of introducing Jekyll admirably. [Carl Boettinger's "Learning Jekyll"](http://www.carlboettiger.info/2012/12/30/learning-jekyll.html) and [W. Caleb McDaniel's "Open Notebook History"](http://wcm1.web.rice.edu/open-notebook-history.html) each show how Jekyll- or Git-based sites work well for scholarly notebooks. I believe I initially taught myself from [Trevor Jones's series of posts on setting up a Jekyll/GitHub Pages blog](https://web.archive.org/web/20161211063913/https://www.trevordjones.com/jekyll) and [Mike Greiling's post "Jekyll from Scratch"](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/), but at this point, I can't really remember.
 
-To the Minimal Mistakes theme, I've added [Bigfoot.js](http://www.bigfootjs.com/) for the fancy pop-up footnotes, [Reveal.js](http://lab.hakim.se/reveal-js/#/) for a splendid presentation alternative to PowerPoint or Keynote, [FontAwesome](http://fontawesome.io) for most of the icons, and James Walsh's [Academicons](http://jpswalsh.github.io/academicons/) to supplement Font Awesome with the Open Access lock, Academia-dot-edu, Orcid, and Zotero icons.  
+### Fonts, Plugins, and Other Theme Customizations  
+
+To the Minimal Mistakes theme, I've added [Bigfoot.js](http://www.bigfootjs.com/) for the fancy pop-up footnotes and [Reveal.js](http://lab.hakim.se/reveal-js/#/) for a splendid presentation alternative to PowerPoint or Keynote. 
+
+As of late November, 2023, the <span style="font-family: Cartridge;">heading font is [Cartridge](https://simplebits.shop/collections/fonts/products/cartridge)</span> by [SimpleBits](https://simplebits.shop/) and the <span style="font-family: Atkinson-Hyperlegible;">body text font is [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)</span> by the [Braille Institute](https://brailleinstitute.org/).  
+
+I use [FontAwesome](http://fontawesome.io) for most of the icons, and James Walsh's [Academicons](http://jpswalsh.github.io/academicons/) to supplement Font Awesome with the Open Access lock, Academia-dot-edu, Orcid, and Zotero icons.  
 
 I've also added (and minimally customized) Maxime Vaillancourt's [Bidirectional links generator](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb) to make bidirectional links work in my [Notes/Digital Garden]({% link _notes/index.html %}).  
 
