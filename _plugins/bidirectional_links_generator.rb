@@ -6,8 +6,9 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
     all_notes = site.collections['notes'].docs
     all_pages = site.pages
+    all_posts = site.posts.docs
 
-    all_docs = all_notes + all_pages
+    all_docs = all_notes + all_pages + all_posts
 
     link_extension = !!site.config["use_html_extension"] ? '.html' : ''
 
@@ -85,7 +86,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         id: note_id_from_note(current_note),
         path: "#{site.baseurl}#{current_note.url}#{link_extension}",
         label: current_note.data['title'],
-      } unless current_note.path.include?('_wiki/index.html')
+      } unless current_note.path.include?('_notes/index.html')
 
       # Edges: Jekyll
       current_note.data['backlinks'] = notes_linking_to_current_note

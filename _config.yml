@@ -62,7 +62,7 @@ timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time
 include:
   - _pages
   - _sass
-  - wiki
+#  - wiki
 #  - _notes
 
 # Exclude from processing.
@@ -134,6 +134,8 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path # /:slug
+#  posts:
+#    output: true
 
 defaults:
   # _posts
