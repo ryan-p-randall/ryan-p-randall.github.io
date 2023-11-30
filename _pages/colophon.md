@@ -33,7 +33,7 @@ As of late November, 2023, the <span style="font-family: Cartridge;">heading fon
 
 I use [FontAwesome](http://fontawesome.io) for most of the icons, and James Walsh's [Academicons](http://jpswalsh.github.io/academicons/) to supplement Font Awesome with the Open Access lock, Academia-dot-edu, Orcid, and Zotero icons.  
 
-I've also added (and lightly customized) Maxime Vaillancourt's [Bidirectional links generator](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb) to make bidirectional links work in my [Notes/Digital Garden]({% link _notes/index.html %}). (The customizations allow the `[[wikilink]]` pattern to work from posts as well as notes and pages.)  
+I've also added (and lightly customized) Maxime Vaillancourt's [Bidirectional links generator](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb) to make bidirectional links work in my [Notes/Digital Garden]({% link _notes/index.html %}). (The customizations allow the wikilink brackets pattern to work from posts as well as notes and pages.)  
 
 The favicon (the little ellipsis in a speech bubble) is ["Blog" by Scott Lewis](https://thenounproject.com/term/blog/4618/), available with a CC BY-3.0 license from the Noun Project. I <strike>chopped and screwed</strike> cropped and shrank it into the favicon format.  
 
