@@ -56,13 +56,13 @@ Amanda Visconti's [guide to Markdown and Jekyll](https://programminghistorian.or
 
 ## Journaling and Attention Management  
 
-For keeping my mental lines of flight somewhat directed, I use text files that blend blend Ryder Carroll's "Rapid Logging" [Bullet Journal](http://www.bulletjournal.com/) system with aspects of Francesco Cirillo's [Pomodoro Technique](https://web.archive.org/web/20090306080717/http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf).  
+For keeping my mental lines of flight somewhat directed, I use text files that blend Ryder Carroll's "Rapid Logging" [Bullet Journal](http://www.bulletjournal.com/) system with aspects of Francesco Cirillo's [Pomodoro Technique](https://web.archive.org/web/20090306080717/http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf).  
 
 I used to create monthly files for this when I did this in the Atom text editor. Now I make daily notes in Obsidian. I'll be detailing how in this [series of notes]({% link _notes/Note-taking/Obsidian/index.html %}). <!-- Now I make weekly notes using VS Code, Dendron, and the BuJo extensions mentioned below. -->  
 
-I explain the monthly version of this system further in my GitHub repo for [my monthly planning files](https://github.com/ryan-p-randall/monthly-planning-files), which you're very welcome to download and adapt for your own brain. I'll eventually update this guide to match what I do with Dendron.  
+Years ago I explained my then-current monthly version of this system in a GitHub repo for [my monthly planning files](https://github.com/ryan-p-randall/monthly-planning-files). You're very welcome to download and adapt those files or gaze upon them in abject horror, whichever suits your own brain's ways of working. I might eventually update that repo to match what I now do with Dendron.  
 
-It's not a fully-featured project management system with active reminders, of course. For that I've used [OmniFocus](https://www.omnigroup.com/omnifocus) in the past, but currently do this mostly through a combination of text notes, calendar reminders, and regular reviews of my notes.  
+Using text files is not a fully-featured project management system with active reminders, of course. For that I've used [OmniFocus](https://www.omnigroup.com/omnifocus) in the past, but currently do this mostly through a combination of text notes, calendar reminders, and regular reviews of my notes.  
 
 ## Notekeeping & Text Editor Programs  
 
