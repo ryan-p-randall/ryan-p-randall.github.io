@@ -1,7 +1,7 @@
 ---
 title: "Zotero Advanced Features"
 date: 2023-12-06
-last_modified_at: 
+last_modified_at: 2023-12-07T21:04:02-6:00
 note-taking: true
 zotero: true
 excerpt: "Nifty Zotero things you might not know about yet."
@@ -34,14 +34,14 @@ Delany, Samuel R. <i>Nova</i>. 1968. 1st Vintage Books ed, Vintage Books, 2002.
 
 Look at that! It's **1968!**  
 
-(If that's a year you're also interested in, maybe give my old band's song "Le Nouveau Monde" a listen, especially if you'd like to hear my friend Omar putting his singing voice through its paces. It's [the second track, playable near the bottom](https://raincrossunderground.omeka.net/items/show/3). The lyrics are available there, too. And if you hear multiple songs playing simultaneously, you might need to disable media autoplay in your browser; I don't think that can be turned off in Omeka directly.)  
+(If that's a year you're also interested in, maybe give my old band's song "Le Nouveau Monde" a listen, especially if you'd like to hear my friend Omar putting his singing voice through its paces. It's [the second track, playable near the bottom](https://raincrossunderground.omeka.net/items/show/3) of this EP. The lyrics are available there, too. And if you hear multiple songs playing simultaneously, you might need to disable media autoplay in your browser; I don't think that can be turned off in the content management side of Omeka, unfortunately.)  
 
 ### Surprises or Gotchas  
 
 Okay, so are there any gotchas or surprises? Here are the ones I've found thus far in my 30 minutes of testing:
 
-First, **New lines** matter, although order doesn't! The `original-date:` string needs to be on a new line in the Extra field, but it doesn't need to be on the first, last, or other line in that field. This means that you can include other information in that field, you just have to make sure that `original-date:` is on its own separate line.  
+First, **New lines** matter, although the order of lines does not! The `original-date:` string needs to be on a new line in the Extra field, but it doesn't need to be on the first, last, or any other line in that field. This means that you can include other information in that field, you just have to make sure that `original-date:` is on its own separate line. I also have been putting the DOI of each publication in the Extra field, where relevant.  
 
-Second, Not all **source formats** will be output. At least as I'm testing this as of 2023-12-06, in MLA 9th edition, the `original-date:` field will be output for books and web pages, but will not be output for articles. It's certainly not usual for articles to be anthologized or reprinted—just think of the publication history of Donna Haraway's ["A Cyborg Manifesto"](https://en.wikipedia.org/wiki/A_Cyborg_Manifesto)—but that information doesn't seem to currently be included in the standard CSL file MLA 9th edition. If you really want to include it, you might try editing your own CSL file… or maybe it would be worth filing an issue at the [Citation Style Language official repository](https://github.com/citation-style-language/styles).  
+Second, **source formats** matter. At least as I'm testing this as of 2023-12-06, in MLA 9th edition, the `original-date:` field will be output for **books and web pages**, but will not be output for **articles**. It's certainly not usual for articles to be anthologized or reprinted—just think of the publication history of Donna Haraway's ["A Cyborg Manifesto"](https://en.wikipedia.org/wiki/A_Cyborg_Manifesto)—but that information doesn't seem to currently be included in the standard CSL file that Zotero uses to output a MLA 9th edition-style citation. If you really want to include initial date of publication for articles, you might try editing your own CSL file… or it might be worth filing an issue at the [Citation Style Language official repository](https://github.com/citation-style-language/styles).  
 
-Now, I'm off to add original dates to a **ton** of my Zotero entries. I've been doing this even more manually by adding BibLaTex-structured sections to my reading notes, so having learned this trick will make things far simpler, at least for me! Hopefully it'll be useful for you as well.  
+Okay! I'm off to add original dates to a **ton** of my Zotero entries! I've been keeping track of these using an even more manual process, which involves adding BibLaTex-structured information to my reading notes. So having learned this Extra field trick will make things far simpler, at least for me! Hopefully it'll be useful for you as well.  
