@@ -1,0 +1,70 @@
+---
+layout: notesindex
+excerpts: true
+folder-title: "thinking"
+title: "Thinking"
+notes-folder-path: "/notes/Thinking/"
+---
+
+<h2>All {{page.title}} folders</h2>
+
+{% assign folders = site.notes | where_exp:"item", "item.path contains 'Thinking'" %}
+{% assign wikifolders = "" | split:"" %}
+
+{% for folder in folders %}
+{% assign tempvar = folder.path | split:"/" %}
+{% assign wikifolders = wikifolders | push:tempvar[1] %}
+{% endfor %}
+
+{% assign wikifolders = wikifolders | uniq | sort %}
+
+{% comment %}
+<div class="wiki-folder-grid">
+    <div class="wiki-folder-grid-thirds">
+        <a class="btn btn--primary btn--large" href="{{page.folder-notes-path}}Jekyll">Jekyll
+        </a>
+    </div>
+    <div class="wiki-folder-grid-thirds">
+        <a class="btn btn--primary btn--large" href="{{page.folder-notes-path}}Social-Media">Social Media</a>
+    </div>
+    <div class="wiki-folder-grid-thirds">
+        <a class="btn btn--primary btn--large" href="{{page.folder-notes-path}}VS-Code">VS Code</a>
+    </div>
+</div>
+{% endcomment %}
+
+{% assign thinking_notes_pinned = site.notes | where:"thinking","true" | where:"pinned","true" | sort: "path" %}
+{% unless thinking_notes_pinned == empty %}
+
+<h2 id="pinned">Pinned {{page.title}} notes</h2>
+<ul>
+    {% for item in thinking_notes_pinned %}
+    <li>
+        <a href="{{ item.url }}">{% if item.pinned %}📌{% endif %}{{ item.title }}
+            {% if item.status == ":seedling:" %} :seedling:{% endif %}
+            {% if item.status == ":herb:" %} :herb:{% endif %}
+            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+{% endunless %}
+
+
+<h2 id="all">All {{page.title}} items</h2>
+{% assign thinking_notes_all = site.notes | where:"thinking","true" | sort: "path" %}
+{% if thinking_notes_all.size > 0 %}
+<ul>
+    {% for item in thinking_notes_all %}
+    <li>{% if item.pinned %}📌{% endif %}
+        <a href="{{ item.url }}">{{ item.title }}
+            {% if item.status == ":seedling:" %} :seedling:{% endif %}
+            {% if item.status == ":herb:" %} :herb:{% endif %}
+            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>There's nothing here yet!</p>
+{% endif %}
