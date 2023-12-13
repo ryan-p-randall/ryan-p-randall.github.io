@@ -1,13 +1,13 @@
 ---
 title: "Parking Lot Posting"
-date: 2023-12-13T14:07:53-06:00
+date:
 last_modified_at:  
 excerpt: "Brief mobile reflections."  
 categories: 
   - blips
 tags: 
   -   
-toc: true
+toc: false
 published: true
 ---
 
