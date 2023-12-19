@@ -2,7 +2,7 @@
 title: "Weekly Assemblage 2015 Week 41"
 modified:
 categories: [weekly-assemblage]
-excerpt: Talking about librarianship values&#58; objectivity as a value and valuing inclusivity enough to work toward it in earnest. And again—sorry, Eduardo.
+excerpt: "Talking about librarianship values&#58; objectivity as a value and valuing inclusivity enough to work toward it in earnest. And again—sorry, Eduardo."
 tags: [critlib chats, critical information literacy, critical race studies]
 # header:
 #  image: /assets/images/weekly-assemblage.png

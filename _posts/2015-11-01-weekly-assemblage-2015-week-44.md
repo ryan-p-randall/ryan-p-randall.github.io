@@ -2,7 +2,7 @@
 title: "Weekly Assemblage 2015 Week 44"
 modified:
 categories: [weekly-assemblage]
-excerpt: Halloween at CWI Library (Once Upon a Time); Readings I'm looking forward to; Taught my first library resources session.  
+excerpt: "Halloween at CWI Library (Once Upon a Time); Readings I'm looking forward to; Taught my first library resources session."  
 tags: [outreach]
 # header:
 #  image: /assets/images/weekly-assemblage.png

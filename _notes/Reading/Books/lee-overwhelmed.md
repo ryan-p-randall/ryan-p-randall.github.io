@@ -1,6 +1,6 @@
 ---
 date: 2023-11-12
-last_modified_at: 
+last_modified_at: 2023-12-17
 reading: true
 reading-books: true
 excerpt: "Lee explores the history of how various cultural formations around literature and information grew through the 19th Century Information Revolution."
@@ -14,7 +14,7 @@ year_read: 2023
 date_read: 
 date_started: 2023-11-12
 current: true
-progress_current: 9
+progress_current: 18
 progress_max: 277
 ---
 

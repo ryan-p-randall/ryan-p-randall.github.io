@@ -1,7 +1,7 @@
 ---
 title: "Mastodon Settings"
 date: 2022-11-20  
-last_modified_at: 2022-11-20  
+last_modified_at: 2023-12-18  
 excerpt: "Some suggested settings for Mastodon."
 status: ":seedling:"  
 published: true
@@ -10,13 +10,13 @@ technology: true
 technology-social-media: true
 ---
 
-<div class="notice--info" markdown="1">
-
+<div markdown="1">
+<span class="audience">Assumed Audience and Scope</span>
 This isn't trying to be comprehensive, or even an overview.  
 
-This is just me writing up some notes, as if I were explaining the settings to someone in my family. I'm not checking every setting to see if my recommendation varies from the default. If I remember, I'll probably refine this after a few days. (Today is 2022-11-20.)  
-
+This is just me briefly writing up some notes, as if I were explaining the settings to someone in my family. I'm not checking every setting to see if my recommendation varies from the default. If I remember, I'll probably refine this after a few days. (Today is 2022-11-20.)  
 </div>
+{: .notice }
 
 Mastodon manages to be simultaneously very customizable and deeply confusing. This isn't helped by some of the default settings funneling you toward rapidly-updating streams, and other choices that don't handle scale nicely.  
 
@@ -104,6 +104,8 @@ Many of the more pleasant "visual" interfaces, such as WordPress or ORCID, curre
 
 For instance, if you are on multiple instances, you might want to differentiate between them. If what you copy and paste starts out as `<a rel="me" href="https://example.social/@nerdcore">Mastodon</a>`, you might instead want to change the last few characters to instead read `Example.social</a>`. Repeat that for each instance you want to verify.  
 
-## Other Mastodonkulous Notes  
+## My Other Notes on Mastodon  
 
-[[Mastodon apps]]  
+You might also want to check out:  
+- [[Mastodon apps]]  
+- [[Mastodon starting points]]  

@@ -2,7 +2,7 @@
 title: "Weekly Assemblage 2015 Week 45"
 modified:
 categories: [weekly-assemblage]
-excerpt: Three links &amp; lots of enthusiasm! Elmborg's "Literacies Large and Small," a Time Management mega post, &amp; how STEM relates to the liberal arts.  
+excerpt: "Three links &amp; lots of enthusiasm! Elmborg's _Literacies Large and Small_, a Time Management mega post, &amp; how STEM relates to the liberal arts."  
 tags: [critical information literacy, meta]
 # header:
 #  image: /assets/images/weekly-assemblage.png

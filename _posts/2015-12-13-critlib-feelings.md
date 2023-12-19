@@ -2,7 +2,7 @@
 title: "critlib &#35;feelings"
 modified:
 categories:
-excerpt: Why do I &#35;critlib? Because another librarianship is possible. 
+excerpt: "Why do I &#35;critlib? Because another librarianship is possible."
 tags: [critlib chats, critical theory, featured]
 image:
   feature:
