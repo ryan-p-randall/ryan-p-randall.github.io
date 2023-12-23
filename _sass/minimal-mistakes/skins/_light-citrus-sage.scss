@@ -125,7 +125,7 @@ details {
     padding: .5rem;
 }
 
-summary:hover, /* summary:focus */ {
+summary:hover /* summary:focus */ {
    box-shadow: 0 0 0 0.35rem $masthead-link-color-hover;
 }
 
@@ -206,4 +206,15 @@ h1,h2,h3,h4,h5,h6 {
 
 .footnotes {
     color: #424242 !important;
+}
+
+.bookmark-box {
+    background: $backlink-background-color;
+    padding: 1em;
+    font-size: 1em;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: $border-color;
+    position: relative;
 }

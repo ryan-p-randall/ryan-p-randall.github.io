@@ -1,0 +1,180 @@
+---
+layout: default
+---
+{% comment %}
+{% assign b-tags_max = 0 %}
+
+{% assign allTags = "" | split: ',' %}
+{% for b-tag in site.bookmarks.b-tags %}
+{% assign allTags = allTags | push: b-tag[0] %}
+{% endfor %}
+{% assign linkTags = site.bookmarks | map: 'b-tags' | uniq %}
+{% assign allTags = allTags | concat: linkTags | uniq | sort %}
+
+{% for rawTag in allTags %}
+{% assign b-tag = rawTag | downcase %}
+{% assign b-taggedItems = "" | split: ',' %}
+  {% comment %}{% assign b-taggedItems = b-taggedItems | concat: site.posts| where_exp : "post", "post.b-tags contains b-tag" %}{% endcomment %}
+{% assign b-taggedItems = b-taggedItems | concat: site.bookmarks | where_exp : "bookmarks", "bookmarks.b-tags contains b-tag" %}
+{% if b-taggedItems.size > b-tags_max %}
+{% assign b-tags_max = b-taggedItems.size %}
+{% endif %}
+{% endfor %}
+
+
+{% assign b-tag_names_grouped_by_count = "" %}
+{% assign b-tag_counts = "" %}
+{% assign first_array_element = true %}
+{% for i in (1..b-tags_max) reversed %}
+{% assign b-tag_names = "" %}
+{% assign first_b-tag = true %}
+
+{% for rawTag in allTags %}
+{% assign b-tag = rawTag | downcase %}
+{% assign b-taggedItems = "" | split: ',' %}
+  {% comment %}{% assign b-taggedItems = b-taggedItems | concat: site.posts| where_exp : "post", "post.b-tags contains b-tag" %}{% endcomment %}
+{% assign b-taggedItems = b-taggedItems | concat: site.bookmarks | where_exp : "bookmarks", "bookmarks.b-tags contains b-tag" %}
+{% if b-taggedItems.size == i %}
+{% if first_b-tag %}
+{% assign first_b-tag = false %}
+{% else %}
+{% assign b-tag_names = b-tag_names | append: "," %}
+{% endif %}
+{% assign b-tag_names = b-tag_names | append: b-tag %}
+{% endif %}
+{% endfor %}
+
+{% if b-tag_names != "" %}
+{% assign b-tag_names = b-tag_names | split: "," | uniq | sort | join: "," %}
+
+{% if first_array_element %}
+{% assign first_array_element = false %}
+{% else %}
+{% assign b-tag_names_grouped_by_count = b-tag_names_grouped_by_count | append: "|" %}
+{% assign b-tag_counts = b-tag_counts | append: "|" %}
+{% endif %}
+{% assign b-tag_names_grouped_by_count = b-tag_names_grouped_by_count | append: b-tag_names %}
+{% assign b-tag_counts = b-tag_counts | append: i %}
+{% endif %}
+{% endfor %}
+
+{% assign b-tag_names_grouped_by_count = b-tag_names_grouped_by_count | split: "|" %}
+{% assign b-tag_counts = b-tag_counts | split: "|" %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% assign breadcrumbs_enabled = site.breadcrumbs %}
+{% if page.breadcrumbs != null %}
+  {% assign breadcrumbs_enabled = page.breadcrumbs %}
+{% endif %}
+{% if page.url != "/" and breadcrumbs_enabled %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+{% endcomment %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>{% endif %}
+          {% include page__meta.html %}
+        </header>
+      {% endunless %}
+
+      <section class="page__content e-content" itemprop="text">
+        {% if page.toc %}
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+            </nav>
+          </aside>
+        {% endif %}
+    {% comment %}{% include light-mode-only-notice.html %}{% endcomment %}
+        {{ content }}
+        {% if page.categories contains "notes" %}
+          {% include notes-index-mention.html %}
+          {% else %}
+        {% endif %}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
+
+      {% assign b-tags_sorted = page.b-tags | sort_natural %}
+      
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% if page.source-link %}
+            <i class="fas fa-people-arrows" aria-hidden="true"></i> <strong>Via:</strong> <a href="{{ page.source-link }}">{{ page.source-name }}</a>
+        {% endif %}
+        {% if page.source-name-only %}
+            <i class="fas fa-people-arrows" aria-hidden="true"></i> <strong>Via:</strong> {{ page.source-name-only }}
+        {% endif %}
+        <p class="page__taxonomy">
+            <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Bookmark Tags:" }} </strong>
+            <span itemprop="keywords">
+            {% for b-tag_name in b-tags_sorted %}
+              <a href="/bookmarks/#{{ b-tag_name | slugify }}" class="page__taxonomy-item p-category" rel="tag">{{ b-tag_name }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+            {% endfor %}
+            </span>
+          </p>
+          {% include page__date.html %}
+{% comment %}
+        {% include article_author.html %}
+        {% include page__taxonomy.html %}
+{% endcomment %}
+
+      </footer>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+
+      {% include post_pagination.html %}
+    </div>
+
+    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
+  
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+      <div class="grid__wrapper">
+        {% for post in site.related_posts limit:4 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
+  {% elsif page.id and page.related %}
+    <div class="page__related">
+      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+      <div class="grid__wrapper">
+        {% for post in site.posts limit:4 %}
+          {% if post.id == page.id %}
+            {% continue %}
+          {% endif %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+</div>

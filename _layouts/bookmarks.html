@@ -1,0 +1,106 @@
+---
+layout: archive
+---
+{% comment %} 
+    This is largely just an adaptation of Frank Chester's approach described at https://franck-chester.github.io/2021/09/28/customising-jekyll.html and found at https://github.com/franck-chester/franck-chester.github.io/blob/main/_layouts/tags.html.  
+
+    I changed all instances of `tag` to `b-tag` to separate bookmark tags from Jekyll's regular post and page tags. I also customized parts of the Minimal Mistakes theme as well.
+{% endcomment %}
+
+<p>Welcome to my space for sharing bookmarks!</p> 
+<p>At top are links to the tag sections organized by frequency. Below the sections themselves are organized alphabetically. To try to keep this from growing unwieldy, I'm going to try to only give at most two tags to each bookmark.</p>
+<p>Each "card" has a link directly to the external site, as well as a "read more" link to another page here on my site where I might add more context.</p>
+<h2>Bookmark Tags by Frequency</h2>
+
+{% assign b-tags_max = 0 %}
+
+{% assign allTags = "" | split: ',' %}
+{% for b-tag in site.bookmarks.b-tags %}
+{% assign allTags = allTags | push: b-tag[0] %}
+{% endfor %}
+{% assign linkTags = site.bookmarks | map: 'b-tags' | uniq %}
+{% assign allTags = allTags | concat: linkTags | uniq | sort %}
+
+{% for rawTag in allTags %}
+{% assign b-tag = rawTag | downcase %}
+{% assign b-taggedItems = "" | split: ',' %}
+  {% comment %}{% assign b-taggedItems = b-taggedItems | concat: site.posts| where_exp : "post", "post.b-tags contains b-tag" %}{% endcomment %}
+{% assign b-taggedItems = b-taggedItems | concat: site.bookmarks | where_exp : "bookmarks", "bookmarks.b-tags contains b-tag" %}
+{% if b-taggedItems.size > b-tags_max %}
+{% assign b-tags_max = b-taggedItems.size %}
+{% endif %}
+{% endfor %}
+
+
+{% assign b-tag_names_grouped_by_count = "" %}
+{% assign b-tag_counts = "" %}
+{% assign first_array_element = true %}
+{% for i in (1..b-tags_max) reversed %}
+{% assign b-tag_names = "" %}
+{% assign first_b-tag = true %}
+
+{% for rawTag in allTags %}
+{% assign b-tag = rawTag | downcase %}
+{% assign b-taggedItems = "" | split: ',' %}
+  {% comment %}{% assign b-taggedItems = b-taggedItems | concat: site.posts| where_exp : "post", "post.b-tags contains b-tag" %}{% endcomment %}
+{% assign b-taggedItems = b-taggedItems | concat: site.bookmarks | where_exp : "bookmarks", "bookmarks.b-tags contains b-tag" %}
+{% if b-taggedItems.size == i %}
+{% if first_b-tag %}
+{% assign first_b-tag = false %}
+{% else %}
+{% assign b-tag_names = b-tag_names | append: "," %}
+{% endif %}
+{% assign b-tag_names = b-tag_names | append: b-tag %}
+{% endif %}
+{% endfor %}
+
+{% if b-tag_names != "" %}
+{% assign b-tag_names = b-tag_names | split: "," | uniq | sort | join: "," %}
+
+{% if first_array_element %}
+{% assign first_array_element = false %}
+{% else %}
+{% assign b-tag_names_grouped_by_count = b-tag_names_grouped_by_count | append: "|" %}
+{% assign b-tag_counts = b-tag_counts | append: "|" %}
+{% endif %}
+{% assign b-tag_names_grouped_by_count = b-tag_names_grouped_by_count | append: b-tag_names %}
+{% assign b-tag_counts = b-tag_counts | append: i %}
+{% endif %}
+{% endfor %}
+
+{% assign b-tag_names_grouped_by_count = b-tag_names_grouped_by_count | split: "|" %}
+{% assign b-tag_counts = b-tag_counts | split: "|" %}
+
+<ul class="taxonomy-index">
+  {% for b-tag_names in b-tag_names_grouped_by_count %}
+  {% assign b-tag_names_list = b-tag_names | split: "," %}
+  {% assign b-tag_count = b-tag_counts[forloop.index0] %}
+  {% for b-tag_name in b-tag_names_list %}
+  <li>
+    <a href="#{{ b-tag_name | slugify }}">
+      <strong>{{ b-tag_name }}</strong> <span class="taxonomy-count">{{ b-tag_count }}</span>
+    </a>
+  </li>
+  {% endfor %}
+  {% endfor %}
+</ul>
+
+<h2>Bookmark Tags Alphabetized</h2>
+
+{% for rawTag in allTags %}
+{% assign b-tag_name = rawTag | downcase %}
+<section id="{{ b-tag_name | slugify | downcase }}" class="taxonomy-section">
+  <h3 class="taxonomy-title">{{ b-tag_name | capitalize }}</h3>
+  {% assign b-taggedItems = "" | split: ',' %}
+    {% comment %}{% assign b-taggedItems = b-taggedItems | concat: site.posts| where_exp : "post", "post.b-tags contains b-tag_name" %}{% endcomment %}
+  {% assign b-taggedItems = b-taggedItems | concat: site.bookmarks | where_exp : "bookmarks", "bookmarks.b-tags contains b-tag_name" %}
+<!--  <div class="entries-{{ page.entries_layout | default: 'grid' }}"> -->
+    <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+    {% for item in b-taggedItems %}
+    {% include bookmark-single.html %}
+    {% endfor %}
+  </div>
+  <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }}
+    &uarr;</a>
+</section>
+{% endfor %}

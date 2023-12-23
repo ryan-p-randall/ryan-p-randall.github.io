@@ -134,6 +134,9 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path # /:slug
+  bookmarks:
+    output: true
+    permalink: /:collection/:path
 #  posts:
 #    output: true
 
@@ -159,13 +162,6 @@ defaults:
       layout: single
       author_profile: true
       breadcrumbs: true
-  # wiki
-  # - scope:
-  #    path: "wiki/**/*.md"
-  #  values:
-  #    layout: "wiki2"
-  #    breadcrumbs: false
-  #    show_date: true
   # notes  
   - scope:
       path: "" # "_notes/**/*.md"
@@ -177,15 +173,16 @@ defaults:
       author_profile: true
       sidebar:
         nav: "notes"
-    #  author: wiki
-      # permalink: /:collection/:path # /:slug # /:categories/:title/
-      # breadcrumbs: true
-  # wiki
-#  - scope:
-#      path: "/_notes/*"
-#    values:
-#      layout: mike
-#      breadcrumbs: false
+  # bookmarks 
+  - scope:
+      path: "" # "_notes/**/*.md"
+      type: bookmarks
+    values:
+      layout: bookmark-single-page # single
+      # toc: false # true
+      # toc_sticky: false # true
+      author_profile: true
+
 
 category_archive:
   type: liquid

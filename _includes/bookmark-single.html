@@ -1,0 +1,44 @@
+{% comment %}
+{% if page.header.teaser %}
+  {% capture teaser %}{{ page.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if page.id %}
+  {% assign title = page.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = page.title %}
+{% endif %}
+{% endcomment %}
+
+<div class="{{ include.type | default: 'list' }}__item bookmark-box">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    {% comment %}
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src="{{ teaser | relative_url }}" alt="">
+      </div>
+    {% endif %}
+    <h4 class="archive__item-title" itemprop="headline">
+        {% if page.link %}
+        <a href="{{ page.link }}">{{ title }}</a> <a href="{{ item.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+        <a href="{{ item.url | relative_url }}" rel="permalink">{{ item.title }}</a>
+        {% endif %}
+    </h4>
+    {% endcomment %}
+    <div class="archive__item-title" itemprop="headline">
+        {% if item.target-link %}
+        <a href="{{ item.target-link }}">{{ item.title }}
+            <i class="fas fa-external-link-alt" aria-hidden="true" title="External link"></i>
+            <span class="sr-only">External link</span>
+        </a>
+        {% endif %}
+    </div>
+{% comment %}    {% include page__meta.html type=include.type %} {% endcomment %}
+    {% if item.excerpt %}<span class="archive__item-excerpt" itemprop="description">{{ item.excerpt | strip_html | markdownify | truncate: 300 }}
+        <a class="btn btn--primary" href="{{ item.url | relative_url }}" rel="permalink">Read More</a>
+    </span>{% endif %}
+  </article>
+</div>

@@ -1,0 +1,94 @@
+---
+layout: archive
+---
+
+{% assign tags_max = 0 %}
+
+{% assign allTags = "" | split: ',' %}
+{% for tag in site.bookmarks.tags %}
+{% assign allTags = allTags | push: tag[0] %}
+{% endfor %}
+{% assign linkTags = site.bookmarks | map: 'tags' | uniq %}
+{% assign allTags = allTags | concat: linkTags | uniq | sort %}
+
+{% for rawTag in allTags %}
+{% assign tag = rawTag | downcase %}
+{% assign taggedItems = "" | split: ',' %}
+  {% comment %}{% assign taggedItems = taggedItems | concat: site.posts| where_exp : "post", "post.tags contains tag" %}{% endcomment %}
+{% assign taggedItems = taggedItems | concat: site.bookmarks | where_exp : "bookmarks", "bookmarks.tags contains tag" %}
+{% if taggedItems.size > tags_max %}
+{% assign tags_max = taggedItems.size %}
+{% endif %}
+{% endfor %}
+
+
+{% assign tag_names_grouped_by_count = "" %}
+{% assign tag_counts = "" %}
+{% assign first_array_element = true %}
+{% for i in (1..tags_max) reversed %}
+{% assign tag_names = "" %}
+{% assign first_tag = true %}
+
+{% for rawTag in allTags %}
+{% assign tag = rawTag | downcase %}
+{% assign taggedItems = "" | split: ',' %}
+  {% comment %}{% assign taggedItems = taggedItems | concat: site.posts| where_exp : "post", "post.tags contains tag" %}{% endcomment %}
+{% assign taggedItems = taggedItems | concat: site.bookmarks | where_exp : "bookmarks", "bookmarks.tags contains tag" %}
+{% if taggedItems.size == i %}
+{% if first_tag %}
+{% assign first_tag = false %}
+{% else %}
+{% assign tag_names = tag_names | append: "," %}
+{% endif %}
+{% assign tag_names = tag_names | append: tag %}
+{% endif %}
+{% endfor %}
+
+{% if tag_names != "" %}
+{% assign tag_names = tag_names | split: "," | uniq | sort | join: "," %}
+
+{% if first_array_element %}
+{% assign first_array_element = false %}
+{% else %}
+{% assign tag_names_grouped_by_count = tag_names_grouped_by_count | append: "|" %}
+{% assign tag_counts = tag_counts | append: "|" %}
+{% endif %}
+{% assign tag_names_grouped_by_count = tag_names_grouped_by_count | append: tag_names %}
+{% assign tag_counts = tag_counts | append: i %}
+{% endif %}
+{% endfor %}
+
+{% assign tag_names_grouped_by_count = tag_names_grouped_by_count | split: "|" %}
+{% assign tag_counts = tag_counts | split: "|" %}
+
+<ul class="taxonomy-index">
+  {% for tag_names in tag_names_grouped_by_count %}
+  {% assign tag_names_list = tag_names | split: "," %}
+  {% assign tag_count = tag_counts[forloop.index0] %}
+  {% for tag_name in tag_names_list %}
+  <li>
+    <a href="#{{ tag_name | slugify }}">
+      <strong>{{ tag_name }}</strong> <span class="taxonomy-count">{{ tag_count }}</span>
+    </a>
+  </li>
+  {% endfor %}
+  {% endfor %}
+</ul>
+
+{% for rawTag in allTags %}
+{% assign tag_name = rawTag | downcase %}
+<section id="{{ tag_name | slugify | downcase }}" class="taxonomy-section">
+  <h2 class="taxonomy-title">{{ tag_name | capitalize }}</h2>
+  {% assign taggedItems = "" | split: ',' %}
+    {% comment %}{% assign taggedItems = taggedItems | concat: site.posts| where_exp : "post", "post.tags contains tag_name" %}{% endcomment %}
+  {% assign taggedItems = taggedItems | concat: site.bookmarks | where_exp : "bookmarks", "bookmarks.tags contains tag_name" %}
+<!--  <div class="entries-{{ page.entries_layout | default: 'grid' }}"> -->
+    <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+    {% for item in taggedItems %}
+    {% include bookmark-single.html %}
+    {% endfor %}
+  </div>
+  <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }}
+    &uarr;</a>
+</section>
+{% endfor %}
