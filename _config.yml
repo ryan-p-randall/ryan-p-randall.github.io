@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://ryanpatrickrandall.com" # "https://ryan-p-randall.github.io" # 
 baseurl: ""
 repository: "ryan-p-randall/ryan-p-randall.github.io"
-lifespan: 2014-2023
+lifespan: 2014-2024
 teaser:  
 logo:  
 masthead_title: 
@@ -66,8 +66,9 @@ paginate_path: /page:num/
 timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _pages
   - _sass
+  - _pages
+  - _posts
 #  - wiki
 #  - _notes
 

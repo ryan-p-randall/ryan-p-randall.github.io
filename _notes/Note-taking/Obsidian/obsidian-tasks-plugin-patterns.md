@@ -14,6 +14,9 @@ blogged: true
 <span class="audience">Assumed audience</span> People at least passably familiar with Obsidian. See [my other notes on Obsidian]({% link _notes/Note-taking/Obsidian/index.html %}) for more context.
 {: .notice }
 
+[[beginning-to-use-obsidian]]  
+[[obsidian-plugins]]  
+
 ## What is the Tasks plugin?  
 
 Originally written by Martin Schenck and now expertly maintained by Clare Macrae, the [Tasks plugin](https://github.com/obsidian-tasks-group/obsidian-tasks) is **the thing** that ultimately convinced me to switch from Dendron to Obsidian for my default note-taking environment. It's obviously the highest in my shortlist of [[obsidian-plugins]].  

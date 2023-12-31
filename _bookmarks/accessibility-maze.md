@@ -4,6 +4,7 @@ date-posted: 2023-12-22T19:44:22-6:00
 last_modified_at:   
 excerpt: "A fun, interactive way to learn more about web accessibility."  
 target-link: https://games.de.torontomu.ca/amaze/
+link: https://games.de.torontomu.ca/amaze/
 source-name-only: My memory.
 categories:   
 b-tags:

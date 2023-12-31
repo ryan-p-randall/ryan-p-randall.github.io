@@ -3,7 +3,7 @@ title: "Open Encyclopedia of Anthropology"
 date-posted: 2023-12-21T19:25:41-6:00
 last_modified_at:   
 excerpt: "An open encyclopedia of anthropology, which includes 'critical theory'-style terms!"  
-target-link: https://www.anthroencyclopedia.com/about
+link: https://www.anthroencyclopedia.com/about
 source-name: Mastodon  
 source-link: https://hcommons.social
 categories:   

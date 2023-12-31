@@ -3,7 +3,7 @@ title: 'Copy-as-Markdown Browser Tool'
 date-posted: 2023-12-26T17:59:52-6:00
 last_modified_at:
 excerpt: "A browser plug-in I've used for years. It quickly copies the names and URLs of all your open tabs and lets you paste them into a list wherever you want."
-target-link: https://github.com/yorkxin/copy-as-markdown
+link: https://github.com/yorkxin/copy-as-markdown
 source-name-only: My memory
 b-tags:
    - web tools

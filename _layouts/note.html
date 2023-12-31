@@ -43,7 +43,7 @@ sidebar:
         {% endif %}
 
         <aside style="font-size: 0.9em;">
-            <h2 id="backlinks" style="margin-bottom: 1em">Notes mentioning this note</h2>
+            <h2 id="backlinks" style="margin-bottom: 1em">Other places I mention this note <!-- Notes mentioning this note--></h2>
             {% if page.backlinks.size > 0 %}
             <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
                 {% for backlink in page.backlinks %}
@@ -59,7 +59,7 @@ sidebar:
 
             <div style="font-size: 0.9em">
                 <p>
-                    There are no notes linking to this note.
+                    I don't mention this note elsewhere… <strong>yet</strong>.<!-- There are no notes linking to this note. -->
                 </p>
             </div>
             {% endif %}

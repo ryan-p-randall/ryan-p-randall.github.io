@@ -28,15 +28,15 @@
         {% endif %}
     </h4>
     {% endcomment %}
-    <div class="archive__item-title" itemprop="headline">
-        {% if item.target-link %}
-        <a href="{{ item.target-link }}">{{ item.title }}
+    <div class="archive__item-title h-entry" itemprop="headline">
+        {% if item.link %}
+        <a class="u-bookmark-of h-cite" href="{{ item.link }}">{{ item.title }}
             <i class="fas fa-external-link-alt" aria-hidden="true" title="External link"></i>
             <span class="sr-only">External link</span>
         </a>
         {% endif %}
     </div>
-{% comment %}    {% include page__meta.html type=include.type %} {% endcomment %}
+{% comment %} {% include page__meta.html type=include.type %} {% endcomment %}
     {% if item.excerpt %}<span class="archive__item-excerpt" itemprop="description">{{ item.excerpt | strip_html | markdownify | truncate: 300 }}
         <a class="btn btn--primary" href="{{ item.url | relative_url }}" rel="permalink">Read More</a>
     </span>{% endif %}
