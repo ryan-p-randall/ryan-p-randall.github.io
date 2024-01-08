@@ -10,7 +10,7 @@ title: "Overwhelmed: Literature, Aesthetics, and the Nineteenth-Century Informat
 work_author: "Maurice S. Lee"
 work_link: "https://openlibrary.org/works/OL21212512W/Overwhelmed"
 work_link_text: "OpenLibrary"
-year_read: 2023
+year_read: 
 date_read: 
 date_started: 2023-11-12
 current: true

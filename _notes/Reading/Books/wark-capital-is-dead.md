@@ -1,6 +1,6 @@
 ---
 date: 2023-01-30
-last_modified_at: 2023-02-02
+last_modified_at: 2024-01-07
 reading: true
 reading-books: true
 excerpt: "Wark asks us to think about information less like Marxists and more like Marx."
@@ -14,7 +14,7 @@ year_read:
 date_read:
 date_started: 2023-01-02
 current: true
-progress_current: 158
+progress_current: 216
 progress_max: 240
 ---
 

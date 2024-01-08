@@ -34,6 +34,11 @@ Here are some of the places I've popped up online.
     <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>My `/Reading` Page
     </a>
 </li>
+<li role="listitem">
+    <a href="{{ '/uses' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>My `/Uses` Page
+    </a>
+</li>
 </ul>
 
 ## Social Media  

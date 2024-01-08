@@ -12,8 +12,8 @@ main:
     url: /notes/
   - title: "Bookmarks"
     url: /bookmarks/  
-  - title: "CV & Portfolio"
-    url: /cv/
+#  - title: "CV & Portfolio"
+#    url: /cv/
   - title: "Colophon"
     url: /colophon/
 

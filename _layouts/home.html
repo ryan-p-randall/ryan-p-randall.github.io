@@ -2,11 +2,24 @@
 layout: single
 ---
 
-{{ content }}
-
-<h1>About Me</h1>
-
+<h1>Hi, I'm Ryan.</h1>
+<p>I'm an instructional designer at Idaho State University, a Ph.D. student in English and the Teaching of English, and an academic journal editor.</p>
+<p>Whether as a community college librarian, a college radio d.j., a rhetoric and composition instructor, or the other positions I've held, I help people understand complex ideas and systems, embrace curiosity, and explore new alternatives.</p>
+<p>A better world is possible, and I aim to help make it happen. If you're curious for more details, here's more <a href="{{ site.url}}/about/">about me</a>.</p>
+<!-- 
 {% include about-me.html %}
+-->
+
+<h2>Featured Sections</h2>
+
+<div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+    <div><a class="btn btn--primary btn--large" href="{{ site.url }}/posts/">Blog</a><br>Somewhat regular posts.</div>
+    <div><a class="btn btn--primary btn--large" href="{{ site.url }}/bookmarks/">Booknarks</a><br>Annotated links.</div>
+    <div><a class="btn btn--primary btn--large" href="{{ site.url }}/notes/">Notes</a><br>My digital garden.</div>
+    <div><a class="btn btn--primary btn--large" href="{{ site.url }}/Reading/">Reading</a><br>What I'm reading.</div>
+    <div><a class="btn btn--primary btn--large" href="{{ site.url }}/colophon/">Colophon</a><br>How I make this site.</div>
+    <div><a class="btn btn--primary btn--large" href="{{ site.url }}/links-rhizome/">Links Rhizome</a><br>I am also here.</div>
+  </div>
 
 <h2>Featured Posts</h2>
 {% for post in site.tags.featured %} 
