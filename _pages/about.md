@@ -31,4 +31,4 @@ If all of this somehow leaves your curiosity unsated, here's <a href="{{ '/cv' |
 
 ## Elsewhere  
 
-I've you're curious about where else you can find me, check out my <a href="{{ /links-rhizome | relative_url }}">Links Rhizome</a> page.  
+I've you're curious about where else you can find me, check out my <a href="{{ '/links-rhizome' | relative_url }}">Links Rhizome</a> page.  

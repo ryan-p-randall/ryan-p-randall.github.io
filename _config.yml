@@ -40,7 +40,7 @@ comments:
     category_id       : "DIC_kwDOAWp4JM4CcAtG"
     discussion_term   : "pathname"
     reactions_enabled : "1"
-    remote_theme      : "preferred_color_scheme"
+    theme             : "preferred_color_scheme"
 #    theme                : # "github-light" (default), "github-dark"
 #    issue_term           : # "pathname" (default)
 twitter_username: foureyedsoul
