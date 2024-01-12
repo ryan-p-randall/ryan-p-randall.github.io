@@ -1,5 +1,5 @@
 ---
-title: "Coincidences on Aaron Swartz Day"
+title: "Observations on Aaron Swartz Day"
 modified:
 categories: # [weekly-assemblage]
 excerpt: 'A tiny tribute based on dots I just connected, as I was going about my business.'
