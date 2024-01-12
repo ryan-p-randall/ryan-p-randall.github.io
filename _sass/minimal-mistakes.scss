@@ -48,3 +48,8 @@
 .sidebar {
     opacity: 1;
 }
+
+.nav__list label {
+    color: $text-color;
+    border: 1px solid $primary-color;
+}
