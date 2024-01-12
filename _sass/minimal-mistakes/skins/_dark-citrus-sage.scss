@@ -9,6 +9,7 @@
     src: url('../fonts/atkinson-hyperlegible-regular-102a.woff2');
     font-weight: 400;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -16,6 +17,7 @@
     src: url('../fonts/atkinson-hyperlegible-bold-102a.woff2');
     font-weight: 700; /* bold */
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -23,6 +25,7 @@
     src: url('../fonts/Cartridge-Regular.woff2');
     font-weight: 400; /* bold */
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -30,6 +33,7 @@
     src: url('../fonts/Cartridge-Bold.woff2');
     font-weight: 700; /* bold */
     font-style: normal;
+    font-display: swap;
 }
 
 /* end of new font tests; also added $sans-serif-2 family in _variables.scss */

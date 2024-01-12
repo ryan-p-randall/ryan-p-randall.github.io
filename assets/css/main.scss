@@ -160,3 +160,32 @@ summary:focus {
 /*  outline-color:#007053; */
   box-shadow: 0 0 0 .3rem #f0f0f0;
 }
+
+.breadcrumbs ol {
+    padding: 0;
+    list-style: none;
+    font-size: 1em;
+}
+
+.breadcrumbs li:not(:last-child)::after {
+    display: inline-block;
+    content: "/";
+}
+
+.wiki-breadcrumbs ol {
+    list-style: none;
+    padding: 0;
+}
+
+.wiki-breadcrumbs li {
+    display: inline-block;
+}
+
+.wiki-breadcrumbs li:not(:last-child)::after {
+    display: inline-block;
+    content: "/";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1em 0 0.5em;
+}
