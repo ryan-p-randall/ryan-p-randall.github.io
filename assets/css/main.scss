@@ -189,3 +189,16 @@ summary:focus {
 h1, h2, h3, h4, h5, h6 {
     margin: 1em 0 0.5em;
 }
+
+.littlefoot {
+    --popover-background-color: #21262f !important;
+    --popover-border: 1px solid $border-color;
+    --popover-text-color: #eaeaea !important;
+    --popover-font-size: $doc-font-size;
+}
+
+.pagination {
+    margin-top: 0em;
+    padding-top: 0em;
+    padding-bottom: 1em;
+}

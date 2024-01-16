@@ -42,6 +42,7 @@ sidebar:
             <label style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress value="{{ page.progress_current }}" max="{{ page.progress_max }}">{{ page.progress_current }} pages</progress>
         {% endif %}
 
+        {% comment %}
         <aside style="font-size: 0.9em;">
             <h2 id="backlinks" style="margin-bottom: 1em">Other places I mention this note <!-- Notes mentioning this note--></h2>
             {% if page.backlinks.size > 0 %}
@@ -74,6 +75,7 @@ sidebar:
             </div>
         </aside>
     </div>
+    {% endcomment %}
 </article>
 
 <hr>

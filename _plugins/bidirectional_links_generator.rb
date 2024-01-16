@@ -4,11 +4,11 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       graph_nodes = []
       graph_edges = []
   
-      all_notes = site.collections['notes'].docs
-      # all_pages = site.pages
-      all_posts = site.posts.docs
+      all_notes = site.collections['notes'].docs + site.posts.docs
+      all_pages = site.pages
+      # all_posts = site.posts.docs
   
-      all_docs = all_notes + all_posts # + all_pages 
+      all_docs = all_notes + all_pages # all_posts + all_pages 
   
       link_extension = !!site.config["use_html_extension"] ? '.html' : ''
   
@@ -75,6 +75,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       end
   
       # Identify note backlinks and add them to each note
+      # all_docs.each do |current_note|
       all_notes.each do |current_note|
         # Nodes: Jekyll
         notes_linking_to_current_note = all_docs.filter do |e|
