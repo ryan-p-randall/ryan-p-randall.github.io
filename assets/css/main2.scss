@@ -55,3 +55,12 @@ h1,h2,h3,h4,h5,h6 {
     color: $masthead-link-color;
 }
 */
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1em 0 0.5em;
+}
+
+h2 {
+    padding-bottom: 0em;
+    border-bottom: none;
+  }
