@@ -1,3 +1,6 @@
+# This was initially written by Maxime Vaillancourt.  
+# The original can be found at: https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb  
+
 # frozen_string_literal: true
 class BidirectionalLinksGenerator < Jekyll::Generator
     def generate(site)
