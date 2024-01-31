@@ -2,121 +2,27 @@
 permalink: /links-rhizome/
 title: "Links Rhizome"
 date: 2022-12-31
-last_modified_at: 2023-12-08
+last_modified_at: 2024-01-30
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
-toc: true
+toc: false # true
 ---
-Here are some of the places I've popped up online.  
 
-## Elsewhere On This Site
-{: style="font-size: 1.7rem;"}  
+As of 2024-01-30, I've moved this page to [my `/elsewhere` page]({{ '/elsewhere' | relative_url }}).  
 
-<ul class="list-unstyled" role="list">
-<li role="listitem">
-    <a href="{{ '/posts' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-comment-dots" aria-hidden="true" style="margin-right: .5em;"></i>My Blog Posts
-    </a>
-</li>
-<li role="listitem">
-    <a href="{{ '/notes' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-seedling" aria-hidden="true" style="margin-right: .5em;"></i>My Notes / Digital Garden
-    </a>
-</li>
-<li role="listitem">
-    <a href="{{ '/now' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>My `/Now` Page
-    </a>
-</li>
-<li role="listitem">
-    <a href="{{ '/reading' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>My `/Reading` Page
-    </a>
-</li>
-<li role="listitem">
-    <a href="{{ '/uses' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>My `/Uses` Page
-    </a>
-</li>
-</ul>
+Why the switch? Basically, I've noticed the `/elsewhere` page is becoming a new convention, much like [`/now`]({{ '/now' | relative_url }}) & [`/uses`]({{ '/uses' | relative_url }}) pages.  
 
-## Social Media  
-{: style="font-size: 1.7rem;"}  
+Instead of just making this page automagically send you to my `/elsewhere` page, I'd prefer to elaborate the "rhizome" idea a bit further.  
 
-<ul class="list-unstyled" role="list">
-<li role="listitem">
-    <a href="https://hcommons.social/@ryanrandall" itemprop="sameAs" rel="me nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon (Mostly public at HCommons.Social)
-    </a>
-</li>
-<li role="listitem">
-    <a href="https://scholar.social/@foureyedsoul" itemprop="sameAs" rel="me nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon (Mostly private at Scholar.Social)
-    </a>
-</li>
-</ul>
+I really appreciate Dave Cormier's idea of [rhizomatic education](https://davecormier.com/edblog/2008/06/03/rhizomatic-education-community-as-curriculum/). My [#Rhizo15 posts](https://www.ryanpatrickrandall.com/tags/#rhizo15) were some of the first I wrote on here that went beyond school assignments. The notion of [rhizomatic learning](https://en.wikipedia.org/wiki/Rhizomatic_learning) remains very compelling!   
 
-## Professional Presences  
-{: style="font-size: 1.7rem;"}  
+Deleuze and Guattari's image of a [rhizomatic network](https://en.wikipedia.org/wiki/Rhizome_(philosophy))—a jumble of multiplicities and possibilities rather than a single narrative or hierarchical arrangement—also is very generative!  
 
-<ul class="list-unstyled" role="list">
-<li role="listitem">
-    <a href="https://hcommons.org/members/foureyedsoul/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-university" aria-hidden="true" style="margin-right: .5em;"></i>Humanities Commons
-    </a>
-</li>
-<li role="listitem">
-    <a href="https://orcid.org/0000-0003-4499-7255" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="ai ai-orcid" aria-hidden="true" style="margin-right: .5em;"></i>ORCID
-    </a>
-</li>
-<li role="listitem">
-    <a href="http://www.inthelibrarywiththeleadpipe.org/about/editorial-board/ryan-randall/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="ai ai-open-access" aria-hidden="true" style="margin-right: .5em;"></i>In the Library with the Lead Pipe
-  </a>
-</li>
-<li role="listitem">
-    <a href="https://www.credly.com/users/ryan-randall.95ecfee0" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-certificate" aria-hidden="true" style="margin-right: .5em;"></i>Quality Matters Certificates
-  </a>
-</li>
-<li role="listitem">
-    <a href="https://hacklibschool.wordpress.com/author/ryanprandall/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-pencil-alt" aria-hidden="true" style="margin-right: .5em;"></i>Hack Library School Posts
-  </a>
-</li>
+But ultimately, as much as I like counterposing all these images and influences and gardening metaphors to [that one "link in bio" service with "tree" in its name](https://en.wikipedia.org/wiki/Linktree), I like making things more understandable for my site's visitors!  
 
-</ul>
+Even—or perhaps especially—after all my years enjoying dadaism, surrealism, and critical theory, it's difficult to anticipate when to make language an intentional site for interventions that disrupt our expectations. One person's illuminating disruption can often be another person's inaccessible barrier or unproductively alienating experience.  
 
-## Shared Reading  
-{: style="font-size: 1.7rem;"}  
+So on balance, I've decided to retain this page as an elaboration of the "link rhizome" idea, instead of hoping that the phrase alone will set a thousand mental buds blooming as people scroll quickly around these pages.  
 
-<ul class="list-unstyled" role="list">
-<li role="listitem">
-    <a href="https://www.zotero.org/ryanprandall" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="ai ai-zotero" aria-hidden="true" style="margin-right: .5em;"></i>Zotero
-    </a>
-</li>
-<li role="listitem">
-    <a href="https://bookwyrm.social/user/foureyedsoul" itemprop="sameAs" rel="me nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-fw fa-book" aria-hidden="true" style="margin-right: .5em;"></i>BookWyrm
-    </a>
-</li>
-<li role="listitem">
-    <a href="http://goodreads.com/user/show/2077359-ryan" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-fw fa-book" aria-hidden="true" style="margin-right: .5em;"></i>Goodreads
-    </a>
-</li>
-</ul>
-
-## Tinkerings  
-{: style="font-size: 1.7rem;"}  
-
-<ul class="list-unstyled" role="list">
-<li role="listitem">
-    <a href="https://github.com/ryan-p-randall" itempromp="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fab fa-fw fa-github" aria-hidden="true" style="margin-right: .5em;"></i>Github
-    </a>
-</li>
-</ul>
+Hope you see you elsewhere!  

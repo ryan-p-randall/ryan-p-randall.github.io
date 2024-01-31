@@ -46,7 +46,11 @@ layout: default
           </aside>
         {% endif %}
     {% comment %}{% include light-mode-only-notice.html %}{% endcomment %}
-        {{ content }}
+    {{ content }}
+        {% if page.categories contains "photonic-jukebox" %}
+          {% include p-j-info.html %}
+          {% else %}
+        {% endif %}
         {% if page.categories contains "notes" %}
           {% include notes-index-mention.html %}
           {% else %}
