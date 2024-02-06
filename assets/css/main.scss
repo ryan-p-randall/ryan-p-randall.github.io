@@ -202,3 +202,8 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 0em;
     padding-bottom: 1em;
 }
+
+.social-icons .fa-mastodon,
+.social-icons .fa-mastodon-square {
+/*! color: #2b90d9; */ 
+color: unset !important; }
