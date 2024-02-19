@@ -15,7 +15,7 @@ date_read:
 date_started: 2024-02-14
 current: true
 progress_current: 14
-progress_max: 2350
+progress_max: 350
 ---
 
 
