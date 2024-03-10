@@ -1,0 +1,668 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Zotero Advanced Features — Ryan P. Randall</title>
+<meta name="description" content="Nifty Zotero things you might not know about yet.">
+
+
+  <meta name="author" content="Ryan P. Randall">
+  
+  <meta property="article:author" content="Ryan P. Randall">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="Zotero Advanced Features">
+<meta property="og:url" content="https://ryanpatrickrandall.com/notes/Note-taking/Zotero/zotero-advanced-features">
+
+
+  <meta property="og:description" content="Nifty Zotero things you might not know about yet.">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2023-12-06T00:00:00-07:00">
+
+
+
+  <meta property="article:modified_time" content="2023-12-07T20:04:02-07:00">
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/notes/Note-taking/Zotero/zotero-advanced-features">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<script defer data-domain="ryanpatrickrandall.com" src="https://plausible.io/js/script.js"></script>
+
+<!-- Light mode -->
+
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("/assets/css/main2.css") (prefers-color-scheme: light);
+  </style>
+
+  </head>
+
+  <body class="layout--note">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/bookmarks/">Bookmarks</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li>
+</ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author">
+
+  
+    <div class="author__avatar">
+      <a href="https://ryanpatrickrandall.com/">
+        <img src="/assets/images/bio-photo.jpg" alt="Ryan P. Randall" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://ryanpatrickrandall.com/" itemprop="url">Ryan P. Randall</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Instructional designer, tinkerer ∴ Cultural, information, literary, and media studies ∴ Another world is possible.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Boise, Idaho</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/ryan-p-randall" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+          </a>
+        </li>
+      
+
+      <li>
+        <a href="https://hcommons.social/@ryanrandall" itemprop="sameAs" rel="nofollow noopener noreferrer">
+        <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon
+        </a>
+    </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li>
+    <a href="/" itemprop="sameAs" rel="me">
+    <i class="fas fa-home" aria-hidden="true" style="margin-right: .5em;"></i>/Home
+    </a>
+</li>
+<li>
+    <a href="/now" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
+    </a>
+</li>
+<li>
+    <a href="/reading" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>/Reading
+    </a>
+</li>
+<li>
+    <a href="/elsewhere" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-seedling" aria-hidden="true" style="margin-right: .5em;"></i>/Elsewhere
+    </a>
+</li>
+
+<!--
+<li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-fw" aria-hidden="true"></i>Custom Social Profile Link
+    </a>
+</li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">A digital garden</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/notes/#emerging"><img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</a></li>
+          
+            <li><a href="/notes/#established"><img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</a></li>
+          
+            <li><a href="/notes/#evergreen"><img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</a></li>
+          
+            <li><a href="/notes/#all-folders">🎍    note folders</a></li>
+          
+            <li><a href="/notes/#all-items">👨🏻‍🌾    all notes</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Zotero Advanced Features">
+    <meta itemprop="description" content="Nifty Zotero things you might not know about yet.">
+    <meta itemprop="datePublished" content="2023-12-06T00:00:00-07:00">
+    <meta itemprop="dateModified" content="2023-12-07T20:04:02-07:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://ryanpatrickrandall.com/notes/Note-taking/Zotero/zotero-advanced-features" class="u-url" itemprop="url">Zotero Advanced Features
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h2 class="nav__title">
+<i class="fas fa-file-alt"></i> On this page</h2></header>
+              <ul class="toc__menu"><li>
+<a href="#original-publication-date">Original Publication Date</a><ul>
+<li><a href="#how-to-add-and-output-original-publication-dates">How to Add and Output Original Publication Dates</a></li>
+<li><a href="#surprises-or-gotchas">Surprises or Gotchas</a></li>
+</ul>
+</li></ul>
+
+            </nav>
+          </aside>
+        
+    
+    <article>
+<!-- earlier date version I made
+    <div>
+    <!-    <h1>Zotero Advanced Features</h1> ->
+        <time datetime="2023-12-06T00:00:00-07:00">
+            Created: 2023-12-06</time><br>
+        <time datetime="2023-12-07T20:04:02-07:00">
+            Last updated: 2023-12-07
+            
+        </time>
+    </div>
+-->
+<nav class="wiki-breadcrumbs">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        
+        <li>
+            <a href="/">home</a> 
+        </li>
+        
+        
+        <li>
+            <a href="/notes/">notes</a>
+        </li>
+            
+        
+        
+        <li>
+            <a href="/notes/Note-taking/">Note taking</a>
+        </li>
+            
+        
+        
+        <li>
+            <a href="/notes/Note-taking/Zotero/">Zotero</a>
+        </li>
+            
+        
+        
+        <li>
+            zotero advanced features
+        </li>
+        
+        
+    </ol>
+</nav>
+
+<!-- <div id="">
+ 
+        <a href="/">home</a> / 
+        
+          
+            <a href="/notes/">notes</a> /
+          
+        
+          
+            <a href="/notes/Note-taking/">Note taking</a> /
+          
+        
+          
+            <a href="/notes/Note-taking/Zotero/">Zotero</a> /
+          
+        
+          
+            zotero advanced features
+          
+        
+</div>-->
+
+
+<div class="page__date">Created: <time class="dt-published" datetime="2023-12-06T00:00:00-07:00">2023-12-06</time>
+</div>
+
+
+  <div class="page__date">Updated: <time class="dt-published" datetime="2023-12-07">2023-12-07</time>
+</div>
+
+
+<p>Note status: <img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"></p>
+
+
+    <div id="notes-entry-container">
+        <content>
+            <p class="notice"><span class="audience">Assumed audience</span> People at least passably familiar with <a href="https://www.zotero.org/">Zotero</a>, a free to use, cross-platform research tool.</p>
+
+<h2 id="original-publication-date">Original Publication Date</h2>
+
+<p>For those of us who work in the humanities and social sciences, it’s common for sources to have been published in multiple versions. But Zotero only has a single date field! <strong>Great Scott!</strong> How do we deal with the complexities of time?</p>
+
+<p>For instance, how would one indicate that Samuel Delany’s <em>Nova</em> was initially published in 1968, even though the edition we’re referencing was published in 2002?</p>
+
+<p>Here’s where Zotero’s <code class="language-plaintext highlighter-rouge">Extra</code> field comes in handy! That field allows you to include information beyond Zotero’s currently available fields. This additional info will be output as specified based on the citation style you select. (<strong>Obvious Signposting Alert:</strong> I will include some relevant intricate details that might feel like “gotchas” below.)</p>
+
+<h3 id="how-to-add-and-output-original-publication-dates">How to Add and Output Original Publication Dates</h3>
+
+<p>Adding <code class="language-plaintext highlighter-rouge">original-date: 1968</code> in the Extra field will do precisely what we want. (Once upon a time this required curly brackets, but <a href="https://forums.zotero.org/discussion/comment/263156/#Comment_263156">curly brackets were no longer necessary</a> after sometime in 2016.)</p>
+
+<p>If you want to check and make sure it outputs correctly, you can right-click on the item, select “Create Bibliography from Item,” select your intended citation style, and then select a few other options. The quickest I’ve found it to copy it to the clipboard and paste it somewhere else to check.</p>
+
+<p>Here’s the output formatted for an Modern Language Association (MLA) 9th edition bibliography:</p>
+
+<p>Delany, Samuel R. <i>Nova</i>. 1968. 1st Vintage Books ed, Vintage Books, 2002.</p>
+
+<p>Look at that! It’s <strong>1968!</strong></p>
+
+<p>(If that’s a year you’re also interested in, maybe give my old band’s song “Le Nouveau Monde” a listen, especially if you’d like to hear my friend Omar putting his singing voice through its paces. It’s <a href="https://raincrossunderground.omeka.net/items/show/3">the second track, playable near the bottom</a> of this EP. The lyrics are available there, too. And if you hear multiple songs playing simultaneously, you might need to disable media autoplay in your browser; I don’t think that can be turned off in the content management side of Omeka, unfortunately.)</p>
+
+<h3 id="surprises-or-gotchas">Surprises or Gotchas</h3>
+
+<p>Okay, so are there any gotchas or surprises? Here are the ones I’ve found thus far in my 30 minutes of testing:</p>
+
+<p>First, <strong>New lines</strong> matter, although the order of lines does not! The <code class="language-plaintext highlighter-rouge">original-date:</code> string needs to be on a new line in the Extra field, but it doesn’t need to be on the first, last, or any other line in that field. This means that you can include other information in that field, you just have to make sure that <code class="language-plaintext highlighter-rouge">original-date:</code> is on its own separate line. I also have been putting the DOI of each publication in the Extra field, where relevant.</p>
+
+<p>Second, <strong>source formats</strong> matter. At least as I’m testing this as of 2023-12-06, in MLA 9th edition, the <code class="language-plaintext highlighter-rouge">original-date:</code> field will be output for <strong>books and web pages</strong>, but will not be output for <strong>articles</strong>. It’s certainly not usual for articles to be anthologized or reprinted—just think of the publication history of Donna Haraway’s <a href="https://en.wikipedia.org/wiki/A_Cyborg_Manifesto">“A Cyborg Manifesto”</a>—but that information doesn’t seem to currently be included in the standard CSL file that Zotero uses to output a MLA 9th edition-style citation. If you really want to include initial date of publication for articles, you might try editing your own CSL file… or it might be worth filing an issue at the <a href="https://github.com/citation-style-language/styles">Citation Style Language official repository</a>.</p>
+
+<p>Okay! I’m off to add original dates to a <strong>ton</strong> of my Zotero entries! I’ve been keeping track of these using an even more manual process, which involves adding BibLaTex-structured information to my reading notes. So having learned this Extra field trick will make things far simpler, at least for me! Hopefully it’ll be useful for you as well.</p>
+
+        </content>
+        
+        
+
+        
+
+
+<hr>
+<!-- 
+
+
+-->
+
+<div class="">
+  <div class="wiki-flex notice">
+    <div class="wiki-flex-item">
+<img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</div>
+    <div class="wiki-flex-item">
+<img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</div> 
+    <div class="wiki-flex-item"> <img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</div>
+  </div>
+</div>
+
+        
+        
+        
+        
+        
+      
+      
+      <aside style="font-size: 0.9em; margin-top: 1em;">
+        <h2 id="bonus-info">Bonus Info</h2>
+            <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note-->
+</h3>
+            
+            <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                
+                
+                <div class="backlink-box">
+                    <a class="internal-link" href="/notes/new-note-on-original-publication-dates-in-zotero">Original publication dates in Zotero</a><br>
+                        <div style="font-size: 0.9em; margin: 0;">
+<p>A new note on how to add original publication dates in Zotero.</p>
+</div> <!-- initially was backlink.excerpt | strip_html | truncatewords: 20 -->
+                    </div>
+                    
+                    
+                
+                    
+                </div>
+                
+                <h3 id="page-info">Page Info</h3>
+                <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                    <div class="backlink-box">
+                        <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/_notes/Note-taking/Zotero/zotero-advanced-features.md">View page revision history</a>
+</div>
+                        <div class="backlink-box">
+                            <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_notes/Note-taking/Zotero/zotero-advanced-features.md">View page source</a>
+</div>
+                        </div>
+                </aside>
+                
+                <footer class="page__meta">
+                    
+                    
+
+
+<p itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author" style="padding-bottom: .5em;"><i class="fas fa-paper-plane" aria-hidden="true"></i><strong> By: </strong><a href="/" itemprop="url" rel="me">Ryan P. Randall</a></p>
+                    
+
+
+                    
+
+<div class="page__date">
+<strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Created: </strong> <time class="dt-published" datetime="2023-12-06T00:00:00-07:00">2023-12-06</time>
+</div>
+
+
+  <div class="page__date ">
+<strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-12-07">2023-12-07</time>
+</div>
+
+                </footer>
+                
+                
+                
+                
+  <nav class="pagination">
+    
+      <a href="/notes/Note-taking/Zotero/index" class="pagination--pager" title="Zotero
+">Previous</a>
+    
+    
+      <a href="/notes/Note-taking/index" class="pagination--pager" title="Note taking
+">Next</a>
+    
+  </nav>
+
+            </div>
+            
+            
+  </article>
+
+  
+  
+  
+</section>
+</div>
+
+    </article>
+</div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap">
+<form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term...">
+  </form>
+  <div id="results" class="results"></div>
+</div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">© 2014-2024 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </div></body>
+</html>

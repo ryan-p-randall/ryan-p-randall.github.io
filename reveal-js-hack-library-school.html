@@ -1,0 +1,762 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Presentation Alternatives: Reveal.js — Ryan P. Randall</title>
+<meta name="description" content="Are you looking for a good alternative to PowerPoint or Keynotes? Here’s a Hack Library School post about an excellent free &amp; open source one!">
+
+
+  <meta name="author" content="Ryan P. Randall">
+  
+  <meta property="article:author" content="Ryan P. Randall">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="Presentation Alternatives: Reveal.js">
+<meta property="og:url" content="https://ryanpatrickrandall.com/reveal-js-hack-library-school">
+
+
+  <meta property="og:description" content="Are you looking for a good alternative to PowerPoint or Keynotes? Here’s a Hack Library School post about an excellent free &amp; open source one!">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2015-06-21T00:38:52-06:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/reveal-js-hack-library-school">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<script defer data-domain="ryanpatrickrandall.com" src="https://plausible.io/js/script.js"></script>
+
+<!-- Light mode -->
+
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("/assets/css/main2.css") (prefers-color-scheme: light);
+  </style>
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/bookmarks/">Bookmarks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs" aria-label="Breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        
+      
+      
+        <li class="current" aria-current="Page">Presentation Alternatives: Reveal.js</li>
+      
+    
+  </ol>
+</nav>
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author">
+
+  
+    <div class="author__avatar">
+      <a href="https://ryanpatrickrandall.com/">
+        <img src="/assets/images/bio-photo.jpg" alt="Ryan P. Randall" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://ryanpatrickrandall.com/" itemprop="url">Ryan P. Randall</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Instructional designer, tinkerer ∴ Cultural, information, literary, and media studies ∴ Another world is possible.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Boise, Idaho</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/ryan-p-randall" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+          </a>
+        </li>
+      
+
+      <li>
+        <a href="https://hcommons.social/@ryanrandall" itemprop="sameAs" rel="nofollow noopener noreferrer">
+        <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon
+        </a>
+    </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li>
+    <a href="/" itemprop="sameAs" rel="me">
+    <i class="fas fa-home" aria-hidden="true" style="margin-right: .5em;"></i>/Home
+    </a>
+</li>
+<li>
+    <a href="/now" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
+    </a>
+</li>
+<li>
+    <a href="/reading" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>/Reading
+    </a>
+</li>
+<li>
+    <a href="/elsewhere" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-seedling" aria-hidden="true" style="margin-right: .5em;"></i>/Elsewhere
+    </a>
+</li>
+
+<!--
+<li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-fw" aria-hidden="true"></i>Custom Social Profile Link
+    </a>
+</li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Presentation Alternatives: Reveal.js">
+    <meta itemprop="description" content="Are you looking for a good alternative to PowerPoint or Keynotes? Here’s a Hack Library School post about an excellent free &amp; open source one!">
+    <meta itemprop="datePublished" content="2015-06-21T00:38:52-06:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://ryanpatrickrandall.com/reveal-js-hack-library-school" class="u-url" itemprop="url">Presentation Alternatives: Reveal.js
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2015-06-21T00:38:52-06:00">2015-06-21</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+    
+    <p>Here’s a <a href="http://hacklibraryschool.com/2015/06/18/presentation-alternatives-reveal/">post I wrote</a> for Hack Library School talking about my experience with the <a href="http://lab.hakim.se/reveal-js/#/">Reveal.js JavaScript presentation framework</a>. Not only does it hew to my goal of choosing open-source tools over proprietary formats whenever feasible, its functionality and inherent ability to make presentations shareable on the web make it vastly preferable to tools like PowerPoint or Keynote.</p>
+
+<p>As librarians, academics, archivists, and/or instructors, we should consider the effects of the formats we choose. How durable are they? How accessible are they? Whose interests do they serve? Whether you frame this as <a href="http://www.ala.org/acrl/standards/ilframework#process">“<strike>format </strike> information creation as a process”</a>, something closer to <a href="http://computationalculture.net/article/reflections-on-the-mp3-format">“format as culture,”</a> or even <a href="https://books.google.com/books?id=o7CZRPZ27TQC&amp;lpg=PT13&amp;pg=PT14#v=onepage&amp;q=econo&amp;f=false">“we jam econo,”</a> please be deliberate.</p>
+
+<p>The post at Hack Library School sits within a series introducing and explaining alternatives to PowerPoint, so it’s not quite a how-to sort of post. If you’d like pointers, please do feel free to get in touch via Twitter or when I add them—which I expect will <strike>be soon </strike><em>not happen until GitHub Pages adds an appropriate plugin</em>—the <a href="https://github.com/ldesgrange/jekyll-static-comments">Jekyll Static Comments</a> system that I’m slowly working out.<sup id="fnref:jsc" role="doc-noteref"><a href="#fn:jsc" class="footnote" rel="footnote">1</a></sup></p>
+
+<h2 id="edits-on-2016-04-04--2016-04-05">edits on 2016-04-04 &amp; 2016-04-05:</h2>
+
+<p>I found a great tutorial today: <a href="http://htmlcheats.com/reveal-js/reveal-js-tutorial-reveal-js-for-beginners/">Reveal.js for Beginners</a>. If you’re looking at implementing this on your own site, I’d highly recommend starting there.</p>
+
+<p>Also, I’d like to elaborate a little on the multiple, intersecting types of accessibility I think this type of mobile, audience-member-controllable slide presentations promotes:</p>
+
+<ul>
+  <li>mobile device
+    <ul>
+      <li>economic</li>
+    </ul>
+  </li>
+  <li>people with disabilities
+    <ul>
+      <li>low-vision / blind (i.e. users of screen reader technology)</li>
+      <li>people with attention disabilities or cognitive disabilities (ADHD, dyslexia, executive dysfunction resulting from a wide variety of causes, learning disabilities, etc.)</li>
+    </ul>
+  </li>
+  <li>pedagogical accessibility</li>
+</ul>
+
+<p>Many of these overlap, of course. For instance, it’s quite common for economically underprivileged people to own or have access to a mobile device but not a laptop. We see this continually at the community college where I work! We also work with—and indeed, are ourselves—students, instructors, librarians, and staff with what I’m calling attention or cognitive disabilities. (I’m lumping those together not because they have the same root causes, but because they all seem to be best addressed by providing a way for the person to control how much time they spend engaging with something.)</p>
+
+<p>These attention disabilities bring us to pedagogical accessibility. How many times have you wanted to write down a link or reference that was the last thing on a slide, but the speaker advances it just a few moments too quickly? How many times do you wish you could go back to see a term or definition introduced earlier in the talk, but couldn’t?</p>
+
+<p>Giving your audience the ability to engage with your slides as you talk effectively aides your audience in becoming actual interlocutors, able to engage with your ideas on their terms &amp; at their speeds. Why choose to ensnare them within your own timing? This slide framework promotes the attitude of generosity and loving kindness that I associate with bell hooks’ writings.<sup id="fnref:bh1" role="doc-noteref"><a href="#fn:bh1" class="footnote" rel="footnote">2</a></sup></p>
+
+<p>All that said, one still needs to add <code class="language-plaintext highlighter-rouge">alt</code> descriptions to images in Reveal.js talks! Since I initially made <a href="http://ryanpatrickrandall.com/talks/cwi.html#/">my current information literacy slides</a> for my position interview, which happened as I was still learning how to make slides with this javascript framework, I neglected to do this. I have just gone back and fixed that now. I’ll have to find someone who uses screen readers to see how accessible they feel these slides are now.</p>
+
+<p>As for Reveal.js itself, the <a href="https://github.com/hakimel/reveal.js/search?q=screen+reader&amp;type=Issues&amp;utf8=✓">issues for this framework</a> show that at least one of the people contributing to the project is <a href="https://github.com/marcysutton">Marcy Sutton</a>, who has apparently helped with <a href="http://girldevelopit.github.io/girldevelopit-rdu-access/#/">Girl Develop It’s accessibility slides</a>. Here’s her page of <a href="http://marcysutton.com/web-accessibility-resources/">web accessibility resources</a>. I’ll be going through these soon to continue learning about how to make web resources more accessible for people with visual disabilities.</p>
+
+<p>Or as I said in today’s <a href="https://storify.com/AlicePrael/intro-to-critlib-part-2">#critlib chat</a>, #critlib is a process.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many comm coll students have mobile devices w/o laptops @ home. Need to make slides more screenreader accessible now. <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a> is a process!</p>&mdash; Ryan P. Randall (@foureyedsoul) <a href="https://twitter.com/foureyedsoul/status/717055097742622722">April 4, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>If there’s one “should” statement I feel comfortable making, it’s that we should continually try to do better, collectively and individually. Part of doing better involves, to the degree individually possible, being willing to point out our own mistakes and how we’re improving what we’ve done.</p>
+
+<p>Or in the immortal words of Bill S. Preston, Esq., “Be Excellent to Each Other.”</p>
+
+<p><img src="https://media.giphy.com/media/POekkUcKs16gg/giphy.gif" width="100%" alt="Bill and Ted saying Be Excellent to Each Other and Party On, Dudes" /></p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:jsc" role="doc-endnote">
+      <p>Edit on 2016-04-05: At the moment, it’s unlikely I’ll be adding a <a href="https://blog.desgrange.net/2012/06/11/jekyll-installation.html">Jekyll Static Comments</a> plugin. I prefer this type of system over using Disqus since this is based on emails, and therefore people wouldn’t have to sign up for yet another web service. However, that means I’d have to work out per-post emails and then dial in a spam filter. Also, it’s not one of the <a href="https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/">few plug-ins GitHub Pages supports</a>. That means that I have to build my site locally, then sync it to GitHub’s servers. I’d never be able to update my site from my phone, which I have done on occasion and want to continue being able to do. So until (a) GitHub allows a version of email-based commenting to work on GitHub Pages, (b) I learn enough and/or choose to move my site to GitLibs or Heroku, or (c) I actually get multiple people reaching out on Twitter or elsewhere saying that they’d want to leave comments, I’m deep-freezing this task in carbonite. <a href="#fnref:jsc" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:bh1" role="doc-endnote">
+      <p>It’s late as I write this and I’ve got a few of her works muddled together. I’ve recently read most of <a href="https://www.worldcat.org/oclc/30668295"><em>Teaching to Transgress</em></a>, a <a href="http://www.lionsroar.com/bell-hooks-and-thich-nhat-hanh-on-building-a-community-of-love/">conversation between her and Thich Nhat Hanh</a>, and an <a href="http://tricycle.org/magazine/agent-change-an-interview-with-bell-hooks/">interview with her at <em>Tricycle</em></a>, so I’m not sure what to cite for this notion at the moment. If I haven’t revised this by firming up a reference, please <a href="https://twitter.com/foureyedsoul">reach out to me on Twitter</a> and I’ll try to figure it out or point you in a good direction. <a href="#fnref:bh1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+        
+        
+        
+        
+        
+      </section>
+      
+      <aside style="font-size: 0.9em; margin-top: 1em;">
+        <h2 id="bonus-info">Bonus Info</h2>
+            <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note--></h3>
+            
+                
+                <div style="font-size: 0.9em">
+                    <p>
+                        I don't mention this page elsewhere… <strong>yet</strong>.<!-- There are no notes linking to this note. -->
+                    </p>
+                </div>
+                
+                <h3 id="page-info">Page Info</h3>
+                <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                    <div class="backlink-box">
+                        <a class="internal-link"
+                        href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/_posts/2015-06-21-reveal-js-hack-library-school.md">View page revision history</a></div>
+                        <div class="backlink-box">
+                            <a class="internal-link"
+                            href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_posts/2015-06-21-reveal-js-hack-library-school.md">View page source</a></div>
+                        </div>
+                </aside>
+                </section>
+                <footer class="page__meta">
+                    
+                    
+
+
+<p itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author" style="padding-bottom: .5em;"><i class="fas fa-paper-plane" aria-hidden="true" ></i><strong> By: </strong><a href="/" itemprop="url" rel="me">Ryan P. Randall</a></p>
+                    
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#a11y" class="page__taxonomy-item" rel="tag">a11y</a><span class="sep">, </span>
+    
+      <a href="/tags/#critical-theory" class="page__taxonomy-item" rel="tag">critical theory</a><span class="sep">, </span>
+    
+      <a href="/tags/#hack-library-school" class="page__taxonomy-item" rel="tag">hack library school</a><span class="sep">, </span>
+    
+      <a href="/tags/#pedagogy" class="page__taxonomy-item" rel="tag">pedagogy</a><span class="sep">, </span>
+    
+      <a href="/tags/#presentations" class="page__taxonomy-item" rel="tag">presentations</a><span class="sep">, </span>
+    
+      <a href="/tags/#tech-tools" class="page__taxonomy-item" rel="tag">tech tools</a>
+    
+    </span>
+  </p>
+
+
+
+
+                    
+
+<div class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Created: </strong> <time class="dt-published" datetime="2015-06-21T00:38:52-06:00">2015-06-21</time></div>
+
+
+                </footer>
+                
+                
+                
+                
+  <nav class="pagination">
+    
+      <a href="/quick-thoughts-on-method" class="pagination--pager" title="Quick Thoughts on Method &amp; Knowledge Practices in Arts &amp; Humanities
+">Previous</a>
+    
+    
+      <a href="/critpotato-rhizo15-week-four" class="pagination--pager" title="Critical Hot Potato! aka #Rhizo15 Week Four
+">Next</a>
+    
+  </nav>
+
+            </div>
+            
+            
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Leave a comment</h4>
+      <section id="giscus-comments"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">You may also enjoy</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/weekly-assemblage/wa-2024-week-05" rel="permalink">Weekly Assemblage for 2024 Week 05
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-02-04T00:00:00-07:00">2024-02-04</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"><p>Amy Minervini published a new OER English composition book. Mita Williams might dropkick you. Plant43 might make you move to the Sentient City.</p>
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/ghdp" rel="permalink">Patterning, a Groundhog’s Day Theme
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-02-02T19:45:47-07:00">2024-02-02</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"><p>Aspirations for this year, perhaps in fractal patterns.</p>
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/photonic-jukebox/acid-jeep-clock-rhythm" rel="permalink">Acid Jeep’s Clock Rhythm
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-01-30T10:30:38-07:00">2024-01-30</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"><p>Tough electro with bouncy rhythms and squiggly synths.</p>
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/weekly-assemblage/wa-2024-week-04" rel="permalink">Weekly Assemblage for 2024 Week 04
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-01-28T13:48:53-07:00">2024-01-28</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"><p>A quick poem, resources for the fun web, dolphining, A Fine Start, and a process improvement.</p>
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2014-2024 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    <script>
+  'use strict';
+
+  (function () {
+    var commentContainer = document.querySelector('#giscus-comments');
+
+    if (!commentContainer) {
+      return;
+    }
+
+    var script = document.createElement('script');
+    script.setAttribute('src', 'https://giscus.app/client.js');
+    script.setAttribute('data-repo', 'ryan-p-randall/ryan-p-randall.github.io');
+    script.setAttribute('data-repo-id', 'MDEwOlJlcG9zaXRvcnkyMzc1NDc4OA==');
+    script.setAttribute('data-category', 'Comments');
+    script.setAttribute('data-category-id', 'DIC_kwDOAWp4JM4CcAtG');
+    script.setAttribute('data-mapping', 'pathname');
+    script.setAttribute('data-reactions-enabled', '1');
+    script.setAttribute('data-theme', 'preferred_color_scheme');
+    script.setAttribute('crossorigin', 'anonymous');
+
+    commentContainer.appendChild(script);
+  })();
+</script>
+  
+
+
+
+
+
+  </body>
+</html>

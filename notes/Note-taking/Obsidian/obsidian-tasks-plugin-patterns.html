@@ -1,0 +1,784 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Obsidian Tasks Plugin — Ryan P. Randall</title>
+<meta name="description" content="Some of the ways I use Tasks, my favorite Obsidian plugin.">
+
+
+  <meta name="author" content="Ryan P. Randall">
+  
+  <meta property="article:author" content="Ryan P. Randall">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="Obsidian Tasks Plugin">
+<meta property="og:url" content="https://ryanpatrickrandall.com/notes/Note-taking/Obsidian/obsidian-tasks-plugin-patterns">
+
+
+  <meta property="og:description" content="Some of the ways I use Tasks, my favorite Obsidian plugin.">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2023-11-18T00:00:00-07:00">
+
+
+
+  <meta property="article:modified_time" content="2023-11-19T00:00:00-07:00">
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/notes/Note-taking/Obsidian/obsidian-tasks-plugin-patterns">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<script defer data-domain="ryanpatrickrandall.com" src="https://plausible.io/js/script.js"></script>
+
+<!-- Light mode -->
+
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("/assets/css/main2.css") (prefers-color-scheme: light);
+  </style>
+
+  </head>
+
+  <body class="layout--note">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/bookmarks/">Bookmarks</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li>
+</ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author">
+
+  
+    <div class="author__avatar">
+      <a href="https://ryanpatrickrandall.com/">
+        <img src="/assets/images/bio-photo.jpg" alt="Ryan P. Randall" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://ryanpatrickrandall.com/" itemprop="url">Ryan P. Randall</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Instructional designer, tinkerer ∴ Cultural, information, literary, and media studies ∴ Another world is possible.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Boise, Idaho</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/ryan-p-randall" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+          </a>
+        </li>
+      
+
+      <li>
+        <a href="https://hcommons.social/@ryanrandall" itemprop="sameAs" rel="nofollow noopener noreferrer">
+        <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon
+        </a>
+    </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li>
+    <a href="/" itemprop="sameAs" rel="me">
+    <i class="fas fa-home" aria-hidden="true" style="margin-right: .5em;"></i>/Home
+    </a>
+</li>
+<li>
+    <a href="/now" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
+    </a>
+</li>
+<li>
+    <a href="/reading" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>/Reading
+    </a>
+</li>
+<li>
+    <a href="/elsewhere" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-seedling" aria-hidden="true" style="margin-right: .5em;"></i>/Elsewhere
+    </a>
+</li>
+
+<!--
+<li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-fw" aria-hidden="true"></i>Custom Social Profile Link
+    </a>
+</li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">A digital garden</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/notes/#emerging"><img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</a></li>
+          
+            <li><a href="/notes/#established"><img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</a></li>
+          
+            <li><a href="/notes/#evergreen"><img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</a></li>
+          
+            <li><a href="/notes/#all-folders">🎍    note folders</a></li>
+          
+            <li><a href="/notes/#all-items">👨🏻‍🌾    all notes</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Obsidian Tasks Plugin">
+    <meta itemprop="description" content="Some of the ways I use Tasks, my favorite Obsidian plugin.">
+    <meta itemprop="datePublished" content="2023-11-18T00:00:00-07:00">
+    <meta itemprop="dateModified" content="2023-11-19T00:00:00-07:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://ryanpatrickrandall.com/notes/Note-taking/Obsidian/obsidian-tasks-plugin-patterns" class="u-url" itemprop="url">Obsidian Tasks Plugin
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h2 class="nav__title">
+<i class="fas fa-file-alt"></i> On this page</h2></header>
+              <ul class="toc__menu">
+<li><a href="#what-is-the-tasks-plugin">What is the Tasks plugin?</a></li>
+<li>
+<a href="#patterns-i-use-most">Patterns I Use Most</a><ul>
+<li><a href="#global-query-or-separating-tasks-from-regular-checkboxes">Global Query, or Separating Tasks from Regular Checkboxes</a></li>
+<li><a href="#basic-query-within-a-single-file">Basic Query within a Single File</a></li>
+<li><a href="#basic-query-across-files">Basic Query Across Files</a></li>
+<li><a href="#daily-note-task-queries">Daily Note Task Queries</a></li>
+<li><a href="#still-to-write-adding-time-elements-to-tasks">Still to Write: Adding Time Elements to Tasks</a></li>
+</ul>
+</li>
+<li><a href="#coda">Coda</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+    
+    <article>
+<!-- earlier date version I made
+    <div>
+    <!-    <h1>Obsidian Tasks Plugin</h1> ->
+        <time datetime="2023-11-18T00:00:00-07:00">
+            Created: 2023-11-18</time><br>
+        <time datetime="2023-11-19T00:00:00-07:00">
+            Last updated: 2023-11-19
+            
+        </time>
+    </div>
+-->
+<nav class="wiki-breadcrumbs">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        
+        <li>
+            <a href="/">home</a> 
+        </li>
+        
+        
+        <li>
+            <a href="/notes/">notes</a>
+        </li>
+            
+        
+        
+        <li>
+            <a href="/notes/Note-taking/">Note taking</a>
+        </li>
+            
+        
+        
+        <li>
+            <a href="/notes/Note-taking/Obsidian/">Obsidian</a>
+        </li>
+            
+        
+        
+        <li>
+            obsidian tasks plugin patterns
+        </li>
+        
+        
+    </ol>
+</nav>
+
+<!-- <div id="">
+ 
+        <a href="/">home</a> / 
+        
+          
+            <a href="/notes/">notes</a> /
+          
+        
+          
+            <a href="/notes/Note-taking/">Note taking</a> /
+          
+        
+          
+            <a href="/notes/Note-taking/Obsidian/">Obsidian</a> /
+          
+        
+          
+            obsidian tasks plugin patterns
+          
+        
+</div>-->
+
+
+<div class="page__date">Created: <time class="dt-published" datetime="2023-11-18T00:00:00-07:00">2023-11-18</time>
+</div>
+
+
+  <div class="page__date">Updated: <time class="dt-published" datetime="2023-11-19">2023-11-19</time>
+</div>
+
+
+<p>Note status: <img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"></p>
+
+
+    <div id="notes-entry-container">
+        <content>
+            <p class="notice"><span class="audience">Assumed audience</span> People at least passably familiar with Obsidian. See <a href="/notes/Note-taking/Obsidian/index">my other notes on Obsidian</a> for more context.</p>
+
+<p><a class="internal-link" href="/notes/Note-taking/Obsidian/beginning-to-use-obsidian">beginning-to-use-obsidian</a><br>
+<a class="internal-link" href="/notes/Note-taking/Obsidian/obsidian-plugins">obsidian-plugins</a></p>
+
+<h2 id="what-is-the-tasks-plugin">What is the Tasks plugin?</h2>
+
+<p>Originally written by Martin Schenck and now expertly maintained by Clare Macrae, the <a href="https://github.com/obsidian-tasks-group/obsidian-tasks">Tasks plugin</a> is <strong>the thing</strong> that ultimately convinced me to switch from Dendron to Obsidian for my default note-taking environment. It’s obviously the highest in my shortlist of <a class="internal-link" href="/notes/Note-taking/Obsidian/obsidian-plugins">obsidian-plugins</a>.</p>
+
+<p>It lets you track and display tasks using a variety of queries and filters, which then get dynamically displayed in other views of your notes. If the longevity of Markdown appeals to you, but you’d also like to augment that with other features, Tasks is a great place to start.</p>
+
+<p>For example, if the “source code” (plain Markdown text) of a note contains the following instructions:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```tasks 
+not done 
+starts before tomorrow
+(tags do not include #waiting)
+group by happens
+```
+</code></pre></div></div>
+
+<p>Then the “reading view” or “live preview” of the note can display a list of tasks from any of your Obsidian notes, nicely grouped together by day, and with optional links back to the original note that contains the task.</p>
+
+<p>Here is an example with five different tasks, grouped into headings under three different days:<br>
+<img src="./../../../assets/images/obsidian-tasks-clever-example.png" alt="five example tasks, each about writing a set of clever task examples"></p>
+
+<h2 id="patterns-i-use-most">Patterns I Use Most</h2>
+
+<p>Task’s own <a href="https://publish.obsidian.md/tasks/Introduction">documentation site</a> might be the best I’ve ever seen or used. I highly recommend you consult it.</p>
+
+<p>Here I’ll share a few of the patterns (i.e. queries and filters) I use most frequently, and then show how I connect them all at the end.</p>
+
+<h3 id="global-query-or-separating-tasks-from-regular-checkboxes">Global Query, or Separating Tasks from Regular Checkboxes</h3>
+
+<p>Many Markdown apps will turn <code class="language-plaintext highlighter-rouge">- [ ]</code> into a checkbox, and Obsidian follows suit here. By default, the Tasks plugin will treat every checkbox as a task, automatically querying every line that begins with a checklist.</p>
+
+<p>This is a great default, especially if you’re new to using Markdown. I have notes going back about a decade at this point, through, and I’ve often used that checkbox pattern as a welcome reminder for components of my daily workplace routines. (Yes, I do indeed have ADHD, why do you ask?)</p>
+
+<p>Since I don’t want to needlessly ask Tasks to query long out-of-date things that were just prompts, not things I truly needed to track, I immediately began using what Tasks calls a “<a href="https://publish.obsidian.md/tasks/Queries/Global+Query">Global Query</a>” to separate regular <code class="language-plaintext highlighter-rouge">- [ ]</code> things from things that catch the attention of the Tasks plugin.</p>
+
+<p>To be clear: Clare, who maintains the Tasks plugin, has said that the plugin is performant enough that these global queries aren’t really necessary—and I have no reason to doubt her! I just had already adopted this approach before seeing that message from her, and haven’t yet found a compelling reason to stop. So you likely won’t need to use this pattern, but I’m explaining why you might see that in my examples below.</p>
+
+<p>I use <code class="language-plaintext highlighter-rouge">#tt</code> as my global query, since it’s simple to type and I can’t imagine every using that for a regular tag. Again, this might be entirely superfluous for most people, and even for me! I’m just explaining what I do, as of when I write this note on 2023-11-18.</p>
+
+<h3 id="basic-query-within-a-single-file">Basic Query within a Single File</h3>
+
+<p>A basic query looks something like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```tasks
+not done 
+filename includes {{query.file.filename}}
+group by happens
+```
+</code></pre></div></div>
+
+<p>Line-by-line, this will:</p>
+<ol>
+  <li>start the Tasks query (with the <code class="language-plaintext highlighter-rouge">```tasks</code> command).</li>
+  <li>return only tasks that aren’t already done (with the <code class="language-plaintext highlighter-rouge">not done</code> filter).</li>
+  <li>return only tasks written are <strong>on this same file</strong> (with the <code class="language-plaintext highlighter-rouge">filename includes {{query.file.filename}}</code> filter).</li>
+  <li>sort these according to the earliest of start date, scheduled date, or due date (with the <code class="language-plaintext highlighter-rouge">group by happens</code> filter).</li>
+  <li>ends the Tasks query (with the <code class="language-plaintext highlighter-rouge">```</code> three backticks).</li>
+</ol>
+
+<p>That <code class="language-plaintext highlighter-rouge">{{query.file.filename}}</code> query was recently added and has already proven extremely handy. I include the above query in a template for all my project files, and I used to have to remember to make sure that the file name was listed verbatim in the query. Now, however, this line of code always knows to just look on the same page where it’s included. A definitely time-saver!</p>
+
+<h3 id="basic-query-across-files">Basic Query Across Files</h3>
+
+<p>In addition to the various project files, I keep a sort of “digital bullet journal” of daily notes in Obsidian. My daily template includes various Tasks queries, set up to search across other files.</p>
+
+<p>A relatively basic query looks something like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```tasks
+not done
+starts before tomorrow
+filename includes life.writing.acwrimo.2023.md
+(tags include #td/writing)
+```
+</code></pre></div></div>
+
+<p>Line-by-line, this will:</p>
+<ol>
+  <li>start the Tasks query (with the <code class="language-plaintext highlighter-rouge">```tasks</code> command).</li>
+  <li>return only tasks that aren’t already done (with the <code class="language-plaintext highlighter-rouge">not done</code> filter).</li>
+  <li>return only tasks that aren’t far into the future (with the <code class="language-plaintext highlighter-rouge">starts before tomorrow</code> filter).</li>
+  <li>returns only tasks from a specific other file (with the <code class="language-plaintext highlighter-rouge">filename includes life.writing.acwrimo.2023.md</code> filter).</li>
+  <li>returns only tasks with a specific tag (with the <code class="language-plaintext highlighter-rouge">(tags include #td/writing)</code> filter).</li>
+  <li>ends the Tasks query (with the <code class="language-plaintext highlighter-rouge">```</code> three backticks).</li>
+</ol>
+
+<p>Usually I don’t use a filename query (like on line 4 above), and instead just have a query return all tasks with a certain tag (like on line 5). I figured I’d share an example that does both, though, just to show you how easily you can adjust the scope of what you see using the different filters.</p>
+
+<p>Without that filename query, the above query would get <strong>any task</strong> that includes <code class="language-plaintext highlighter-rouge">#td/writing</code>. In my case, that would include ideas I’ve jotted down for my blog or digital garden, ideas for academic writing, ideas for things I’ve writing at work, etc. Since November is Academic Writing Month (…and here’s my post about <a href="/acwrimo2023">AcWriMo2023</a> ), I wanted a more prominent and specific query reminding me to do this throughout the month.</p>
+
+<h3 id="daily-note-task-queries">Daily Note Task Queries</h3>
+
+<p>The ability to query and filter by tags allows you to display tasks in handy ways. I use multiple queries in my daily note templates to automatically display tasks in groups that work for me.</p>
+
+<p>Here’s the main query I use:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```tasks 
+not done 
+starts before tomorrow
+(tags do not include #td/work)
+(tags do not include #td/writing)
+group by tags
+group by happens
+```
+</code></pre></div></div>
+
+<p>Line-by-line, this will:</p>
+<ol>
+  <li>start the Tasks query (with the <code class="language-plaintext highlighter-rouge">```tasks</code> command).</li>
+  <li>return only tasks that start before tomorrow, not ones further into the future (with the <code class="language-plaintext highlighter-rouge">starts before tomorrow</code> filter).</li>
+  <li>return only tasks that don’t have the <code class="language-plaintext highlighter-rouge">#td/work</code> tag (with the <code class="language-plaintext highlighter-rouge">(tags do not include #td/work)</code> filter).</li>
+  <li>return only tasks that don’t have the <code class="language-plaintext highlighter-rouge">#td/writing</code> tag (with the <code class="language-plaintext highlighter-rouge">(tags do not include #td/writing)</code> filter).</li>
+  <li>group the tasks by tag (with the <code class="language-plaintext highlighter-rouge">(group by tags)</code> filter).</li>
+  <li>sort these according to the earliest of start date, scheduled date, or due date (with the <code class="language-plaintext highlighter-rouge">group by happens</code> filter).</li>
+  <li>ends the Tasks query (with the <code class="language-plaintext highlighter-rouge">```</code> three backticks).</li>
+</ol>
+
+<p>I put the above after two similar queries, each of which displays <strong>only</strong> tasks with <code class="language-plaintext highlighter-rouge">#td/work</code> or <code class="language-plaintext highlighter-rouge">#td/writing</code> tags.</p>
+
+<p>This helps me context switch more easily throughout the day. I can ignore or even fold the entire heading that has my work-related tasks, jump to my writing-related tasks after my work is done, and then look at all the other tasks I in one long query. These include things like any classes I’m taking, any blogging or website maintenance I’ve tagged outside of the writing tag, paying recurring bills, etc.</p>
+
+<h3 id="still-to-write-adding-time-elements-to-tasks">Still to Write: Adding Time Elements to Tasks</h3>
+
+<p>I’m done bashing out the first version of this note, and I haven’t yet mentioned how to actually indicate date-related elements in Tasks. I’ll probably add more about this later. For now, here’s a link to the <a href="https://publish.obsidian.md/tasks/Getting+Started/Dates">Tasks’ own Dates documentation page</a>.</p>
+
+<h2 id="coda">Coda</h2>
+
+<p>Hopefully this helps you better understand what the Tasks plugin can do, and whether you might want to use it yourself. It’s the most flexible solution I’ve found, and I’ve used quite a few options. If you’re not a Markdown fan like myself, Tasks might not be for you! But if you are—and I assume you probably are, if you’re still reading this—it’s well worth an hour of experimentation to see if it’ll suit your ways of working.</p>
+
+<p>Good luck finding what works for you, whether or not this is it!</p>
+
+        </content>
+        
+        
+
+        
+
+
+<hr>
+<!-- 
+
+
+-->
+
+<div class="">
+  <div class="wiki-flex notice">
+    <div class="wiki-flex-item">
+<img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</div>
+    <div class="wiki-flex-item">
+<img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</div> 
+    <div class="wiki-flex-item"> <img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</div>
+  </div>
+</div>
+
+        
+        
+        
+        
+        
+      
+      
+      <aside style="font-size: 0.9em; margin-top: 1em;">
+        <h2 id="bonus-info">Bonus Info</h2>
+            <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note-->
+</h3>
+            
+            <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                
+                
+                <div class="backlink-box">
+                    <a class="internal-link" href="/notes/Note-taking/Obsidian/obsidian-plugins">Obsidian Plugins</a><br>
+                        <div style="font-size: 0.9em; margin: 0;">
+<p>Some of the Obsidian plugins I use most.</p>
+</div> <!-- initially was backlink.excerpt | strip_html | truncatewords: 20 -->
+                    </div>
+                    
+                    
+                
+                <div class="backlink-box">
+                    <a class="internal-link" href="/acwrimo2023">AcWriMo2023</a><br>
+                        <div style="font-size: 0.9em; margin: 0;">
+<p>Here’s how I’m giving Academic Writing Month a go this year.</p>
+</div> <!-- initially was backlink.excerpt | strip_html | truncatewords: 20 -->
+                    </div>
+                    
+                    
+                
+                    
+                </div>
+                
+                <h3 id="page-info">Page Info</h3>
+                <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                    <div class="backlink-box">
+                        <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/_notes/Note-taking/Obsidian/obsidian-tasks-plugin-patterns.md">View page revision history</a>
+</div>
+                        <div class="backlink-box">
+                            <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_notes/Note-taking/Obsidian/obsidian-tasks-plugin-patterns.md">View page source</a>
+</div>
+                        </div>
+                </aside>
+                
+                <footer class="page__meta">
+                    
+                    
+
+
+<p itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author" style="padding-bottom: .5em;"><i class="fas fa-paper-plane" aria-hidden="true"></i><strong> By: </strong><a href="/" itemprop="url" rel="me">Ryan P. Randall</a></p>
+                    
+
+
+                    
+
+<div class="page__date">
+<strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Created: </strong> <time class="dt-published" datetime="2023-11-18T00:00:00-07:00">2023-11-18</time>
+</div>
+
+
+  <div class="page__date ">
+<strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-11-19">2023-11-19</time>
+</div>
+
+                </footer>
+                
+                
+                
+                
+  <nav class="pagination">
+    
+      <a href="/notes/Note-taking/Obsidian/obsidian-plugins" class="pagination--pager" title="Obsidian Plugins
+">Previous</a>
+    
+    
+      <a href="/notes/Note-taking/Zotero/index" class="pagination--pager" title="Zotero
+">Next</a>
+    
+  </nav>
+
+            </div>
+            
+            
+  </article>
+
+  
+  
+  
+</section>
+</div>
+
+    </article>
+</div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap">
+<form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term...">
+  </form>
+  <div id="results" class="results"></div>
+</div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">© 2014-2024 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </div></body>
+</html>

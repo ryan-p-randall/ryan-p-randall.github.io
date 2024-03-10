@@ -1,0 +1,4 @@
+sitemap: https://ryanpatrickrandall.com/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /

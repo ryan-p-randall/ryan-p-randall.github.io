@@ -1,0 +1,765 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>WA 2016 Week 14: Intro to #critlib chat, Reveal.js image alt tags — Ryan P. Randall</title>
+<meta name="description" content="Intro to #critlib 2; Improving accessibility for my reveal.js slides; Maker Showcase sounds and accessible statistics.">
+
+
+  <meta name="author" content="Ryan P. Randall">
+  
+  <meta property="article:author" content="Ryan P. Randall">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="WA 2016 Week 14: Intro to #critlib chat, Reveal.js image alt tags">
+<meta property="og:url" content="https://ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-14">
+
+
+  <meta property="og:description" content="Intro to #critlib 2; Improving accessibility for my reveal.js slides; Maker Showcase sounds and accessible statistics.">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2016-04-10T01:22:26-06:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-14">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<script defer data-domain="ryanpatrickrandall.com" src="https://plausible.io/js/script.js"></script>
+
+<!-- Light mode -->
+
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("/assets/css/main2.css") (prefers-color-scheme: light);
+  </style>
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/bookmarks/">Bookmarks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs" aria-label="Breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/categories/#weekly-assemblage" itemprop="item"><span itemprop="name">Weekly assemblage</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        
+      
+    
+      
+      
+        <li class="current" aria-current="Page">WA 2016 Week 14: Intro to #critlib chat, Reveal.js image alt tags</li>
+      
+    
+  </ol>
+</nav>
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author">
+
+  
+    <div class="author__avatar">
+      <a href="https://ryanpatrickrandall.com/">
+        <img src="/assets/images/bio-photo.jpg" alt="Ryan P. Randall" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://ryanpatrickrandall.com/" itemprop="url">Ryan P. Randall</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Instructional designer, tinkerer ∴ Cultural, information, literary, and media studies ∴ Another world is possible.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Boise, Idaho</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/ryan-p-randall" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+          </a>
+        </li>
+      
+
+      <li>
+        <a href="https://hcommons.social/@ryanrandall" itemprop="sameAs" rel="nofollow noopener noreferrer">
+        <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon
+        </a>
+    </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li>
+    <a href="/" itemprop="sameAs" rel="me">
+    <i class="fas fa-home" aria-hidden="true" style="margin-right: .5em;"></i>/Home
+    </a>
+</li>
+<li>
+    <a href="/now" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
+    </a>
+</li>
+<li>
+    <a href="/reading" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>/Reading
+    </a>
+</li>
+<li>
+    <a href="/elsewhere" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-seedling" aria-hidden="true" style="margin-right: .5em;"></i>/Elsewhere
+    </a>
+</li>
+
+<!--
+<li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-fw" aria-hidden="true"></i>Custom Social Profile Link
+    </a>
+</li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="WA 2016 Week 14: Intro to #critlib chat, Reveal.js image alt tags">
+    <meta itemprop="description" content="Intro to #critlib 2; Improving accessibility for my reveal.js slides; Maker Showcase sounds and accessible statistics.">
+    <meta itemprop="datePublished" content="2016-04-10T01:22:26-06:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-14" class="u-url" itemprop="url">WA 2016 Week 14: Intro to #critlib chat, Reveal.js image alt tags
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2016-04-10T01:22:26-06:00">2016-04-10</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h2 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h2></header>
+              <ul class="toc__menu"><li><a href="#intro-to-critlib-chat">Intro to #critlib chat</a></li><li><a href="#revised-my-post-on-revealjs">Revised my post on Reveal.js</a></li><li><a href="#makerspace-stuff-at-trailhead-in-boise">Makerspace stuff at Trailhead in Boise</a></li></ul>
+
+            </nav>
+          </aside>
+        
+    
+    <p class="notice"><a href="/weekly-assemblage/weekly-whaaa">Weekly Whaaa…?</a></p>
+
+<h2 id="intro-to-critlib-chat">Intro to #critlib chat</h2>
+
+<p><a href="https://about.me/courtums">Courtney Boudreau</a> hosted the second <a href="">intro to #critlib</a> chat, having co-hosted <a href="http://critlib.org/intro-to-critlib-chat-part-1/">one earlier</a> with Annie Pho. Here’s a link to the <a href="https://storify.com/AlicePrael/intro-to-critlib-part-2">Storify</a> made by Alice Prael.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A3. It would be cool to see <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a> extend across all of LAM. Fascinating stuff is going on at museums and archives. <a href="https://twitter.com/hashtag/CritLAM?src=hash">#CritLAM</a>?</p>&mdash; Ray Maxwell (@hsifnihplod) <a href="https://twitter.com/hsifnihplod/status/717055960972439553">April 4, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Among many other suggestions and insights throughout the chat, one by <a href="https://raymmaxx.wordpress.com">Ray Maxwell</a> really caught my eye. He suggested <a href="https://twitter.com/hashtag/CritLAM?src=hash">#critLAM</a>—a fantastic idea! With my visual culture background, I’d like to add “galleries” and go with #critGLAM. Galleries, libraries, archives, and museums share an awful lot of overlap in terms of the critical questions we need to ask about representation, marginalization, preservation, self-understanding, access, etc., etc., etc.</p>
+
+<h2 id="revised-my-post-on-revealjs">Revised my post on Reveal.js</h2>
+
+<p>As a result of this #critlib chat, I went back and edited my <a href="/reveal-js-hack-library-school">post on Reveal.js</a>. More importantly, I also went back and added <code class="language-plaintext highlighter-rouge">alt</code> tags for the images in one of my most common <a href="http://www.ryanpatrickrandall.com/talks/cwi.html">information literacy talks</a>.</p>
+
+<h2 id="makerspace-stuff-at-trailhead-in-boise">Makerspace stuff at Trailhead in Boise</h2>
+
+<p>For First Thursday, our local open gallery walk thing in Boise, <a href="https://trailheadboise.org">Trailhead</a> had their first-ever Maker’s Showcase.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sonic Scarf. <a href="https://twitter.com/TrailheadBoise">@TrailheadBoise</a> <a href="https://twitter.com/hashtag/boisemakers?src=hash">#boisemakers</a> <a href="https://t.co/G1KcZttuXd">pic.twitter.com/G1KcZttuXd</a></p>&mdash; amy vecchione (@librarythinking) <a href="https://twitter.com/librarythinking/status/718219540036001793">April 7, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Unsurprisingly, the sound-makers caught my attention first. <a href="">Amy Vecchione</a> showed off her cool Sonic Scarf, which had been so well-loved by the time I experienced it that the batteries seemed to have run low, so I couldn’t hear it as well as I’d have liked.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Executive Director Raino Zoller testing out the Plosiphone, an instrument invented by Scott Schmader <a href="https://twitter.com/hashtag/makershowcase?src=hash">#makershowcase</a> <a href="https://t.co/KurLCYx7Gl">pic.twitter.com/KurLCYx7Gl</a></p>&mdash; Trailhead (@TrailheadBoise) <a href="https://twitter.com/TrailheadBoise/status/718218094955610113">April 7, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>A BSU student named Scott Schmader—the head of BSU’s Creative Technologies Association, a Maker student group—showed off his Plosiphone and let at least a few other folks test it out.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/makerbot">@makerbot</a> This was my first 3D printed model of a design on which I had worked, to help teach stats <a href="https://twitter.com/hashtag/makermilestones?src=hash">#makermilestones</a> <a href="https://t.co/1rB9Xy6bSR">pic.twitter.com/1rB9Xy6bSR</a></p>&mdash; Donovan Kay (@DonovanKayyy) <a href="https://twitter.com/DonovanKayyy/status/718508778325344256">April 8, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>I was perhaps most impressed by Donovan Kay’s use of 3D printing to make statistics more readily accessible to people with vision impairments. He showed off a few iterations of his attempt to make standard deviations tangible to blind students.</p>
+
+        
+        
+        
+        
+        
+      </section>
+      
+      <aside style="font-size: 0.9em; margin-top: 1em;">
+        <h2 id="bonus-info">Bonus Info</h2>
+            <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note--></h3>
+            
+                
+                <div style="font-size: 0.9em">
+                    <p>
+                        I don't mention this page elsewhere… <strong>yet</strong>.<!-- There are no notes linking to this note. -->
+                    </p>
+                </div>
+                
+                <h3 id="page-info">Page Info</h3>
+                <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                    <div class="backlink-box">
+                        <a class="internal-link"
+                        href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/_posts/2016-04-05-wa-2016-week-14.md">View page revision history</a></div>
+                        <div class="backlink-box">
+                            <a class="internal-link"
+                            href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_posts/2016-04-05-wa-2016-week-14.md">View page source</a></div>
+                        </div>
+                </aside>
+                </section>
+                <footer class="page__meta">
+                    
+                    
+
+
+<p itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author" style="padding-bottom: .5em;"><i class="fas fa-paper-plane" aria-hidden="true" ></i><strong> By: </strong><a href="/" itemprop="url" rel="me">Ryan P. Randall</a></p>
+                    
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#a11y" class="page__taxonomy-item" rel="tag">a11y</a><span class="sep">, </span>
+    
+      <a href="/tags/#critlib-chats" class="page__taxonomy-item" rel="tag">critlib chats</a><span class="sep">, </span>
+    
+      <a href="/tags/#makerspaces" class="page__taxonomy-item" rel="tag">makerspaces</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#weekly-assemblage" class="page__taxonomy-item" rel="tag">weekly-assemblage</a>
+    
+    </span>
+  </p>
+
+
+                    
+
+<div class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Created: </strong> <time class="dt-published" datetime="2016-04-10T01:22:26-06:00">2016-04-10</time></div>
+
+
+                </footer>
+                
+                
+                
+                
+  <nav class="pagination">
+    
+      <a href="/weekly-assemblage/wa-2016-week-12" class="pagination--pager" title="WA 2016 Week 12: DERAIL, Site Updates
+">Previous</a>
+    
+    
+      <a href="/weekly-assemblage/wa-2016-week-15" class="pagination--pager" title="WA 2016 Week 15: UC Davis Wants Some Scrubs
+">Next</a>
+    
+  </nav>
+
+            </div>
+            
+            
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Leave a comment</h4>
+      <section id="giscus-comments"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">You may also enjoy</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/weekly-assemblage/wa-2024-week-05" rel="permalink">Weekly Assemblage for 2024 Week 05
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-02-04T00:00:00-07:00">2024-02-04</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"><p>Amy Minervini published a new OER English composition book. Mita Williams might dropkick you. Plant43 might make you move to the Sentient City.</p>
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/ghdp" rel="permalink">Patterning, a Groundhog’s Day Theme
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-02-02T19:45:47-07:00">2024-02-02</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"><p>Aspirations for this year, perhaps in fractal patterns.</p>
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/photonic-jukebox/acid-jeep-clock-rhythm" rel="permalink">Acid Jeep’s Clock Rhythm
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-01-30T10:30:38-07:00">2024-01-30</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"><p>Tough electro with bouncy rhythms and squiggly synths.</p>
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/weekly-assemblage/wa-2024-week-04" rel="permalink">Weekly Assemblage for 2024 Week 04
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-01-28T13:48:53-07:00">2024-01-28</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description"><p>A quick poem, resources for the fun web, dolphining, A Fine Start, and a process improvement.</p>
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2014-2024 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    <script>
+  'use strict';
+
+  (function () {
+    var commentContainer = document.querySelector('#giscus-comments');
+
+    if (!commentContainer) {
+      return;
+    }
+
+    var script = document.createElement('script');
+    script.setAttribute('src', 'https://giscus.app/client.js');
+    script.setAttribute('data-repo', 'ryan-p-randall/ryan-p-randall.github.io');
+    script.setAttribute('data-repo-id', 'MDEwOlJlcG9zaXRvcnkyMzc1NDc4OA==');
+    script.setAttribute('data-category', 'Comments');
+    script.setAttribute('data-category-id', 'DIC_kwDOAWp4JM4CcAtG');
+    script.setAttribute('data-mapping', 'pathname');
+    script.setAttribute('data-reactions-enabled', '1');
+    script.setAttribute('data-theme', 'preferred_color_scheme');
+    script.setAttribute('crossorigin', 'anonymous');
+
+    commentContainer.appendChild(script);
+  })();
+</script>
+  
+
+
+
+
+
+  </body>
+</html>

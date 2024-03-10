@@ -1,0 +1,288 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Everything Counts in Affective Amounts — Ryan P. Randall</title>
+<meta name="description" content="Week Two of #rhizo15—How we might count the affective aspects of learning? Also, what potential does Git give us for making open humanities notebooks?">
+
+
+  <meta name="author" content="Ryan P. Randall">
+  
+  <meta property="article:author" content="Ryan P. Randall">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="Everything Counts in Affective Amounts">
+<meta property="og:url" content="https://ryanpatrickrandall.com/_posts/2015-04-28-everything-counts-in-affective-amounts">
+
+
+  <meta property="og:description" content="Week Two of #rhizo15—How we might count the affective aspects of learning? Also, what potential does Git give us for making open humanities notebooks?">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2015-04-28T20:34:48-06:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/_posts/2015-04-28-everything-counts-in-affective-amounts">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<script defer data-domain="ryanpatrickrandall.com" src="https://plausible.io/js/script.js"></script>
+
+<!-- Light mode -->
+
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("/assets/css/main2.css") (prefers-color-scheme: light);
+  </style>
+
+  </head>
+
+  <body class="layout--default">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/bookmarks/">Bookmarks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <p class="notice">This post is for <a href="http://rhizomatic.net/2015/04/22/learning-is-not-a-counting-noun-so-what-should-we-count/">Week Two</a> of <a href="http://rhizomatic.net/">#rhizo15</a>.</p>
+
+<h2 id="typing-hands-type-what-they-can">Typing Hands Type What They Can</h2>
+
+<p>Over the last week I’ve effectively been teaching myself <a href="http://foundation.zurb.com/">Zurb’s Foundation website framework</a> as part of using it to make a prototype website for an information architecture course. Participating in <a href="http://rhizomatic.net/">#rhizo15</a> has primed me to really notice how the process mixes aspects of playful discovery with more structured “learning” outcomes.</p>
+
+<p>If I were to measure this as a learning process, I could count:</p>
+
+<ul>
+  <li>the new skills I’ve learned (even kludgey ones such as using the same naming convention in this prototype as for my regular website so that placeholder images appear when I’m testing it on my phone)</li>
+  <li>the hours I’ve spent on it</li>
+  <li>the features in whatever form the project becomes in the short-term and map them to intended “learning objectives”</li>
+  <li>the features in the final form and compare what I added &amp; what I changed along the way</li>
+</ul>
+
+<p>More interestingly, and to address this week’s question of “What can we count that isn’t learning?” I could count:</p>
+
+<ul>
+  <li>the hours I’ve spent <em>enjoying</em> bits of the process</li>
+  <li>the hours I’ve spent <em>frustrated</em> or perplexed</li>
+  <li>how many items that produced these types of affective reactions</li>
+  <li>the times I’ve consulted the <a href="http://foundation.zurb.com/docs/">rather well-written documentation</a></li>
+  <li>the times I’ve <a href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/master/aqredo">committed something via Git</a> (both to “save” it and so that I could try it out on my phone rather than using my laptop (more on Git below))</li>
+</ul>
+
+<p>This list hews close to learning, but nevertheless <em>feels</em> as though it remains just adjacent to what we normally conceive of as “learning” when we focus on outcomes rather than processes. I wonder whether one might discuss zones of proximal affective engagement in addition to zones of proximal development? Enumerating the things in that zone would be a strange approach—but one that might let us dance just enough of that ‘ol defamiliarization/distantiation rag to truly consider affect and learning in new ways.</p>
+
+<p>Affect isn’t quite countable, as it’s not discrete. It rapidly varies in intensity and mutates into inarticulable mutants of frustration, delight, and anticipation. This is something that we know as educators attentive to pedagogy, but it would be fascinating to find new ways to capture this process. Although this capture is not quite “counting,” it feels something other than the negative space around what is countable. Learning, affect, countable and non-count aspects all seem to flow through each other when we examine closely enough.</p>
+
+<h2 id="an-extended-aside-on-git-and-open-humanities-notebooks">…An Extended Aside on Git and Open Humanities Notebooks</h2>
+
+<p><a href="http://www.git-scm.com/">Git</a> is version tracking software that allows users to annotate, compare differences, or roll back any changes that they save in text documents. It’s primarily used for software development, but as the Chronicle of Higher Education’s <a href="http://chronicle.com/blogs/profhacker/tag/github101">ProfHacker series on GitHub</a> attests, Git and GitHub have a lot of potential for humanities and other forms of writing. For instance, if you were the curious type, you could see how many times I’ve edited this post after it went live. Typos are pesky and thoughts don’t stop arriving just because you’ve press a button.</p>
+
+<p>Franny Gaede started an excellent Twitter discussion on “what a lab notebook for the humanities would look like”:</p>
+
+<blockquote class="twitter-tweet" lang="en"><p>I’m still super interested in what a lab notebook for the humanities would look like… what tools could we build or adapt? <a href="https://twitter.com/hashtag/arcs20105?src=hash">#arcs20105</a></p>&mdash; Franny Gaede (@mfgaede) <a href="https://twitter.com/mfgaede/status/592497291098857472">April 27, 2015</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>…which led John Russell to share an illuminating post on <a href="http://wcm1.web.rice.edu/open-notebook-history.html">open humanities notebooks</a>, particularly history notebooks, by W. Caleb McDaniel.</p>
+
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/foureyedsoul">@foureyedsoul</a> <a href="https://twitter.com/mfgaede">@mfgaede</a> <a href="https://twitter.com/wcaleb">@wcaleb</a> writes about this very thing for history: <a href="http://t.co/tPfUgvfMKQ">http://t.co/tPfUgvfMKQ</a></p>&mdash; John Russell (@uohistlib) <a href="https://twitter.com/uohistlib/status/592502116624674816">April 27, 2015</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Although W. Caleb McDaniel doesn’t discuss Git’s potential in explicitly rhizomatic terms, his post makes clear many of the ways that Git helps document the messy process of assembling thoughts, evidence, discoveries, language, guiding questions, argumentative writing, and the other things that go into and get edited out of <del>humanities </del>writing.</p>
+
+<p>I’m going on this extended aside on Git, GitHub, and open notebooks in part just to document what I’m learning at the moment and in part to tie this post back to <a href="/learning-subjectives">my #rhizo15 post from last week</a>, in which I mentioned that one of my learning subjectives for the course would be to share things a little before they’re ready. By directing people to Git, I’m highlighting the actual process of learning. I could then annotate it with all the subjective, affective, experiential, etc. aspects of the process adjacent to learning as I’d like and language allows.</p>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2014-2024 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    <script>
+  'use strict';
+
+  (function () {
+    var commentContainer = document.querySelector('#giscus-comments');
+
+    if (!commentContainer) {
+      return;
+    }
+
+    var script = document.createElement('script');
+    script.setAttribute('src', 'https://giscus.app/client.js');
+    script.setAttribute('data-repo', 'ryan-p-randall/ryan-p-randall.github.io');
+    script.setAttribute('data-repo-id', 'MDEwOlJlcG9zaXRvcnkyMzc1NDc4OA==');
+    script.setAttribute('data-category', 'Comments');
+    script.setAttribute('data-category-id', 'DIC_kwDOAWp4JM4CcAtG');
+    script.setAttribute('data-mapping', 'pathname');
+    script.setAttribute('data-reactions-enabled', '1');
+    script.setAttribute('data-theme', 'preferred_color_scheme');
+    script.setAttribute('crossorigin', 'anonymous');
+
+    commentContainer.appendChild(script);
+  })();
+</script>
+  
+
+
+
+
+
+  </body>
+</html>

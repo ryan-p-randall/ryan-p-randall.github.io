@@ -1,0 +1,660 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>VS Code Spellcheck Squiggles — Ryan P. Randall</title>
+<meta name="description" content="How to change the color of all those squiggly lines under all those mispelled words.">
+
+
+  <meta name="author" content="Ryan P. Randall">
+  
+  <meta property="article:author" content="Ryan P. Randall">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="VS Code Spellcheck Squiggles">
+<meta property="og:url" content="https://ryanpatrickrandall.com/notes/Technology/VS-Code/vs-code-spellcheck-squiggles">
+
+
+  <meta property="og:description" content="How to change the color of all those squiggly lines under all those mispelled words.">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2023-04-01T19:02:44-06:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/notes/Technology/VS-Code/vs-code-spellcheck-squiggles">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<script defer data-domain="ryanpatrickrandall.com" src="https://plausible.io/js/script.js"></script>
+
+<!-- Light mode -->
+
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("/assets/css/main2.css") (prefers-color-scheme: light);
+  </style>
+
+  </head>
+
+  <body class="layout--note">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/bookmarks/">Bookmarks</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li>
+</ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author">
+
+  
+    <div class="author__avatar">
+      <a href="https://ryanpatrickrandall.com/">
+        <img src="/assets/images/bio-photo.jpg" alt="Ryan P. Randall" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://ryanpatrickrandall.com/" itemprop="url">Ryan P. Randall</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Instructional designer, tinkerer ∴ Cultural, information, literary, and media studies ∴ Another world is possible.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Boise, Idaho</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/ryan-p-randall" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+          </a>
+        </li>
+      
+
+      <li>
+        <a href="https://hcommons.social/@ryanrandall" itemprop="sameAs" rel="nofollow noopener noreferrer">
+        <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon
+        </a>
+    </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li>
+    <a href="/" itemprop="sameAs" rel="me">
+    <i class="fas fa-home" aria-hidden="true" style="margin-right: .5em;"></i>/Home
+    </a>
+</li>
+<li>
+    <a href="/now" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
+    </a>
+</li>
+<li>
+    <a href="/reading" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>/Reading
+    </a>
+</li>
+<li>
+    <a href="/elsewhere" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-seedling" aria-hidden="true" style="margin-right: .5em;"></i>/Elsewhere
+    </a>
+</li>
+
+<!--
+<li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-fw" aria-hidden="true"></i>Custom Social Profile Link
+    </a>
+</li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">A digital garden</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/notes/#emerging"><img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</a></li>
+          
+            <li><a href="/notes/#established"><img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</a></li>
+          
+            <li><a href="/notes/#evergreen"><img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</a></li>
+          
+            <li><a href="/notes/#all-folders">🎍    note folders</a></li>
+          
+            <li><a href="/notes/#all-items">👨🏻‍🌾    all notes</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="VS Code Spellcheck Squiggles">
+    <meta itemprop="description" content="How to change the color of all those squiggly lines under all those mispelled words.">
+    <meta itemprop="datePublished" content="2023-04-01T19:02:44-06:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://ryanpatrickrandall.com/notes/Technology/VS-Code/vs-code-spellcheck-squiggles" class="u-url" itemprop="url">VS Code Spellcheck Squiggles
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h2 class="nav__title">
+<i class="fas fa-file-alt"></i> On this page</h2></header>
+              <ul class="toc__menu">
+<li><a href="#step-1-check-the-notification-class">Step 1: Check the Notification Class</a></li>
+<li><a href="#step-2-indicate-your-preferred-color">Step 2: Indicate Your Preferred Color</a></li>
+<li><a href="#step-3-determine-your-preferred-color">Step 3: Determine Your Preferred Color</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+    
+    <article>
+<!-- earlier date version I made
+    <div>
+    <!-    <h1>VS Code Spellcheck Squiggles</h1> ->
+        <time datetime="2023-04-01T19:02:44-06:00">
+            Created: 2023-04-01</time><br>
+        <time datetime="">
+            Last updated: 
+            
+        </time>
+    </div>
+-->
+<nav class="wiki-breadcrumbs">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        
+        <li>
+            <a href="/">home</a> 
+        </li>
+        
+        
+        <li>
+            <a href="/notes/">notes</a>
+        </li>
+            
+        
+        
+        <li>
+            <a href="/notes/Technology/">Technology</a>
+        </li>
+            
+        
+        
+        <li>
+            <a href="/notes/Technology/VS-Code/">VS Code</a>
+        </li>
+            
+        
+        
+        <li>
+            vs code spellcheck squiggles
+        </li>
+        
+        
+    </ol>
+</nav>
+
+<!-- <div id="">
+ 
+        <a href="/">home</a> / 
+        
+          
+            <a href="/notes/">notes</a> /
+          
+        
+          
+            <a href="/notes/Technology/">Technology</a> /
+          
+        
+          
+            <a href="/notes/Technology/VS-Code/">VS Code</a> /
+          
+        
+          
+            vs code spellcheck squiggles
+          
+        
+</div>-->
+
+
+<div class="page__date">Created: <time class="dt-published" datetime="2023-04-01T19:02:44-06:00">2023-04-01</time>
+</div>
+
+
+
+<p>Note status: <img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"></p>
+
+
+    <div id="notes-entry-container">
+        <content>
+            <p>There are a number of spellchecking extensions available for VS Code. I <a href="https://hcommons.social/@ryanrandall/110098114786311964">realized recently</a> that I’d disabled the spellcheck I installed because of how distracting I found VS Code’s default squiggly lines.</p>
+
+<p>So I set about making them less intrusive, but still easily perceptible.</p>
+
+<h2 id="step-1-check-the-notification-class">Step 1: Check the Notification Class</h2>
+
+<p>Step 1 is to check the settings of whatever spell check extension you use to learn the notification class it applies.</p>
+
+<p>I use Bartosz Antosik’s <a href="https://marketplace.visualstudio.com/items?itemName=ban.spellright">Spell Right</a>, which works offline and allows for multiple languages. You can find the right setting by clicking on the “settings” gear icon, then searching for “Notification Class.”</p>
+
+<figure class="">
+  <img src="/assets/images/squiggle-default.png" alt="Default with distracting color"><figcaption>
+      Default spellcheck line color, which I find distracting.
+
+    </figcaption></figure>
+
+<p>I knew I was on the right track when I set the notification class to “warning” rather than “error” and saw the color of the squiggly lines change. But I didn’t love that color.</p>
+
+<p>I liked the default “hint” option better, but suspected that I wouldn’t notice the indicators reliably.</p>
+
+<figure class="">
+  <img src="/assets/images/squiggle-hint.png" alt="Hint otion with grey ellipses under first characters of an error instead of full underline"><figcaption>
+      Hint option, which I don’t find readily perceptible.
+
+    </figcaption></figure>
+
+<h2 id="step-2-indicate-your-preferred-color">Step 2: Indicate Your Preferred Color</h2>
+
+<p>Step 2 is to open your <code class="language-plaintext highlighter-rouge">settings.json</code> file, then add your preferred color’s hex code… and do so in the right place.</p>
+
+<figure class="">
+  <img src="/assets/images/squiggle-preferred.png" alt="Squiggly underline in my preferred color"><figcaption>
+      Here’s my preference, noticeable but not distracting in multiples.
+
+    </figcaption></figure>
+
+<p>You have to add <code class="language-plaintext highlighter-rouge">"editorWarning.foreground": "#(your color hex here w/o parentheses)",</code> in the “workbench.colorCustomizations” section. Not in the “editor.tokenColorCustomizations” section! (Which is the mistake that took me a while to find.)</p>
+
+<h2 id="step-3-determine-your-preferred-color">Step 3: Determine Your Preferred Color</h2>
+
+<p>But what if you don’t love your theme’s default colors?</p>
+
+<p>Step 3 is to learn that <a href="https://www.colorhexa.com/">ColorHexa</a> exists. You can use that site’s <a href="https://www.colorhexa.com/color-blend">color blend</a> tool to combine your theme’s colors into one that is perceptible, jibes with your aesthetics, but isn’t jarring. Then add that new, less jarring color to your <code class="language-plaintext highlighter-rouge">"editorWarning.foreground"</code> setting as mentioned above.</p>
+
+        </content>
+        
+        
+
+        
+
+
+<hr>
+<!-- 
+
+
+-->
+
+<div class="">
+  <div class="wiki-flex notice">
+    <div class="wiki-flex-item">
+<img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</div>
+    <div class="wiki-flex-item">
+<img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</div> 
+    <div class="wiki-flex-item"> <img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</div>
+  </div>
+</div>
+
+        
+        
+        
+        
+        
+      
+      
+      <aside style="font-size: 0.9em; margin-top: 1em;">
+        <h2 id="bonus-info">Bonus Info</h2>
+            <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note-->
+</h3>
+            
+                
+                <div style="font-size: 0.9em">
+                    <p>
+                        I don't mention this page elsewhere… <strong>yet</strong>.<!-- There are no notes linking to this note. -->
+                    </p>
+                </div>
+                
+                <h3 id="page-info">Page Info</h3>
+                <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                    <div class="backlink-box">
+                        <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/_notes/Technology/VS-Code/vs-code-spellcheck-squiggles.md">View page revision history</a>
+</div>
+                        <div class="backlink-box">
+                            <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_notes/Technology/VS-Code/vs-code-spellcheck-squiggles.md">View page source</a>
+</div>
+                        </div>
+                </aside>
+                
+                <footer class="page__meta">
+                    
+                    
+
+
+<p itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author" style="padding-bottom: .5em;"><i class="fas fa-paper-plane" aria-hidden="true"></i><strong> By: </strong><a href="/" itemprop="url" rel="me">Ryan P. Randall</a></p>
+                    
+
+
+                    
+
+<div class="page__date">
+<strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Created: </strong> <time class="dt-published" datetime="2023-04-01T19:02:44-06:00">2023-04-01</time>
+</div>
+
+
+                </footer>
+                
+                
+                
+                
+  <nav class="pagination">
+    
+      <a href="/notes/Technology/VS-Code/index" class="pagination--pager" title="VS Code
+">Previous</a>
+    
+    
+      <a href="/notes/Technology/index" class="pagination--pager" title="Technology
+">Next</a>
+    
+  </nav>
+
+            </div>
+            
+            
+  </article>
+
+  
+  
+  
+</section>
+</div>
+
+    </article>
+</div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap">
+<form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term...">
+  </form>
+  <div id="results" class="results"></div>
+</div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">© 2014-2024 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </div></body>
+</html>

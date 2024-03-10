@@ -1,0 +1,912 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>VS Code Snippets — Ryan P. Randall</title>
+<meta name="description" content="Handy snippets for digital bullet journalling or HTML and CSS coding.">
+
+
+  <meta name="author" content="Ryan P. Randall">
+  
+  <meta property="article:author" content="Ryan P. Randall">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ryan P. Randall">
+<meta property="og:title" content="VS Code Snippets">
+<meta property="og:url" content="https://ryanpatrickrandall.com/notes/Technology/VS-Code/vs-code-snippets">
+
+
+  <meta property="og:description" content="Handy snippets for digital bullet journalling or HTML and CSS coding.">
+
+
+
+  <meta property="og:image" content="https://ryanpatrickrandall.com/assets/images/pocket-notebooks-square.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2023-03-26T00:00:00-06:00">
+
+
+
+  <meta property="article:modified_time" content="2023-04-02T14:15:57-06:00">
+
+
+
+
+<link rel="canonical" href="https://ryanpatrickrandall.com/notes/Technology/VS-Code/vs-code-snippets">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Ryan P. Randall",
+      "url": "https://ryanpatrickrandall.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Ryan P. Randall Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<script defer data-domain="ryanpatrickrandall.com" src="https://plausible.io/js/script.js"></script>
+
+<!-- Light mode -->
+
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("/assets/css/main2.css") (prefers-color-scheme: light);
+  </style>
+
+  </head>
+
+  <body class="layout--note">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ryan P. Randall
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">Blog</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/notes/">Notes</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/bookmarks/">Bookmarks</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/colophon/">Colophon</a>
+            </li>
+</ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author">
+
+  
+    <div class="author__avatar">
+      <a href="https://ryanpatrickrandall.com/">
+        <img src="/assets/images/bio-photo.jpg" alt="Ryan P. Randall" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://ryanpatrickrandall.com/" itemprop="url">Ryan P. Randall</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Instructional designer, tinkerer ∴ Cultural, information, literary, and media studies ∴ Another world is possible.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Boise, Idaho</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/ryan-p-randall" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+          </a>
+        </li>
+      
+
+      <li>
+        <a href="https://hcommons.social/@ryanrandall" itemprop="sameAs" rel="nofollow noopener noreferrer">
+        <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon
+        </a>
+    </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li>
+    <a href="/" itemprop="sameAs" rel="me">
+    <i class="fas fa-home" aria-hidden="true" style="margin-right: .5em;"></i>/Home
+    </a>
+</li>
+<li>
+    <a href="/now" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-user-clock" aria-hidden="true" style="margin-right: .5em;"></i>/Now
+    </a>
+</li>
+<li>
+    <a href="/reading" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>/Reading
+    </a>
+</li>
+<li>
+    <a href="/elsewhere" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-seedling" aria-hidden="true" style="margin-right: .5em;"></i>/Elsewhere
+    </a>
+</li>
+
+<!--
+<li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <i class="fas fa-fw" aria-hidden="true"></i>Custom Social Profile Link
+    </a>
+</li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">A digital garden</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/notes/#emerging"><img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</a></li>
+          
+            <li><a href="/notes/#established"><img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</a></li>
+          
+            <li><a href="/notes/#evergreen"><img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</a></li>
+          
+            <li><a href="/notes/#all-folders">🎍    note folders</a></li>
+          
+            <li><a href="/notes/#all-items">👨🏻‍🌾    all notes</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="VS Code Snippets">
+    <meta itemprop="description" content="Handy snippets for digital bullet journalling or HTML and CSS coding.">
+    <meta itemprop="datePublished" content="2023-03-26T00:00:00-06:00">
+    <meta itemprop="dateModified" content="2023-04-02T14:15:57-06:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://ryanpatrickrandall.com/notes/Technology/VS-Code/vs-code-snippets" class="u-url" itemprop="url">VS Code Snippets
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h2 class="nav__title">
+<i class="fas fa-file-alt"></i> On this page</h2></header>
+              <ul class="toc__menu">
+<li>
+<a href="#context-and-syntax">Context and Syntax</a><ul>
+<li><a href="#snippet-considerations">Snippet Considerations</a></li>
+<li><a href="#vs-code-snippet-syntax">VS Code Snippet Syntax</a></li>
+</ul>
+</li>
+<li>
+<a href="#bullet-journal--task-management-snippets">Bullet Journal / Task Management Snippets</a><ul>
+<li><a href="#done">#;done</a></li>
+<li><a href="#doneyyyy-mm-dd">#;done;(YYYY-MM-DD)</a></li>
+<li><a href="#todays-date">Today’s Date</a></li>
+<li><a href="#this-hour--minute">This Hour &amp; Minute</a></li>
+<li><a href="#times-started-and-ended">Times Started and Ended</a></li>
+</ul>
+</li>
+<li>
+<a href="#html--css-snippets">HTML / CSS Snippets</a><ul><li>
+<a href="#tables">Tables</a><ul>
+<li><a href="#accessible-html-table">Accessible HTML Table</a></li>
+<li><a href="#accessible-html-table-with-a-thead">Accessible HTML Table with a &lt;thead&gt;</a></li>
+<li><a href="#accessible-html-table-row">Accessible HTML Table Row</a></li>
+</ul>
+</li></ul>
+</li>
+<li>
+<a href="#jekyll-snippets">Jekyll Snippets</a><ul><li><a href="#date-time-and-offset">Date, Time, and Offset</a></li></ul>
+</li>
+</ul>
+
+            </nav>
+          </aside>
+        
+    
+    <article>
+<!-- earlier date version I made
+    <div>
+    <!-    <h1>VS Code Snippets</h1> ->
+        <time datetime="2023-03-26T00:00:00-06:00">
+            Created: 2023-03-26</time><br>
+        <time datetime="2023-04-02T14:15:57-06:00">
+            Last updated: 2023-04-02
+            
+        </time>
+    </div>
+-->
+<nav class="wiki-breadcrumbs">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        
+        <li>
+            <a href="/">home</a> 
+        </li>
+        
+        
+        <li>
+            <a href="/notes/">notes</a>
+        </li>
+            
+        
+        
+        <li>
+            <a href="/notes/Technology/">Technology</a>
+        </li>
+            
+        
+        
+        <li>
+            <a href="/notes/Technology/VS-Code/">VS Code</a>
+        </li>
+            
+        
+        
+        <li>
+            vs code snippets
+        </li>
+        
+        
+    </ol>
+</nav>
+
+<!-- <div id="">
+ 
+        <a href="/">home</a> / 
+        
+          
+            <a href="/notes/">notes</a> /
+          
+        
+          
+            <a href="/notes/Technology/">Technology</a> /
+          
+        
+          
+            <a href="/notes/Technology/VS-Code/">VS Code</a> /
+          
+        
+          
+            vs code snippets
+          
+        
+</div>-->
+
+
+<div class="page__date">Created: <time class="dt-published" datetime="2023-03-26T00:00:00-06:00">2023-03-26</time>
+</div>
+
+
+  <div class="page__date">Updated: <time class="dt-published" datetime="2023-04-02">2023-04-02</time>
+</div>
+
+
+<p>Note status: <img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"></p>
+
+
+    <div id="notes-entry-container">
+        <content>
+            <p class="notice">This is one of my longest notes. Please don’t forget that the Table of Contents can help you jump to a particular section!</p>
+
+<p>I’m a fan of keeping a Bullet Journal in a text editor, as I’ve written about in <a class="internal-link" href="/notes/Note-taking/Dendron/task-tracking-in-dendron">task-tracking-in-dendron</a>.</p>
+
+<p>A Digital Bullet Journal might not seem like a very straightforward approach, but here’s a non-exhaustive list of things I like about it:</p>
+
+<ul>
+  <li>it’s more customizable than most dedicated Bullet Journal or GTD programs</li>
+  <li>the files involved (text or Markdown) are about as small and durable as computer files can be</li>
+  <li>it’s relatively distraction-free</li>
+</ul>
+
+<h2 id="context-and-syntax">Context and Syntax</h2>
+
+<p>Snippets are a substantial part of this customization. I use quite a few snippets in VS Code, both for bullet journal / daily log sort of things and HTML / CSS patterns. They allow both for quickly including repetitive patterns and for automatically including things like <a href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables">dates or times</a>. There are <a href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-syntax">more advanced possibilities</a>, too, but I haven’t really explored those yet.</p>
+
+<h3 id="snippet-considerations">Snippet Considerations</h3>
+
+<p>Probably the most difficult thing about using snippets isn’t realizing where you can use them or even setting them up in your text editors or system-level keyboard settings; it’s figuring out which prefixes and shortcodes to use as the expansion pattern. For the last few years, I’ve settled on usually using a semicolon followed immediately by a memorable abbreviation. I can’t think of a time in natural language when I’d write a semicolon without a space after it, so it’s served well as a pattern for invoking these kind of snippets. The <code class="language-plaintext highlighter-rouge">;</code> also is availably right under my pinky on a physical keyboard, and usually is on the primary or occasionally secondary level of a mobile device’s digital keyboard as well.</p>
+
+<p>I still occasionally have the muscle memory of using a strudel (a <code class="language-plaintext highlighter-rouge">@</code>, which you might call an “at sign” if you’re not of the pastry persuasion), so I’ve set up a number of these snippets to allow multiple invocation patterns. If you’re going to use wizardry, do so inclusively!</p>
+
+<h3 id="vs-code-snippet-syntax">VS Code Snippet Syntax</h3>
+
+<p>You can store snippets in VS Code in a number of different places. For my purposes, it’s so far been sufficient to use a <a href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets">global snippets file</a> and add the few languages in scope. That way I don’t have to remember to add each pattern for each new language I start using. I can just keep a single file and occasionally add any new language to the snippet’s <a href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-scope">scope</a> as desired.</p>
+
+<p>Here’s my basic pattern for a snippet, with comments added after <code class="language-plaintext highlighter-rouge">//</code>:</p>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"snippet name"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="err">//</span><span class="w"> </span><span class="err">I</span><span class="w"> </span><span class="err">usually</span><span class="w"> </span><span class="err">use</span><span class="w"> </span><span class="err">the</span><span class="w"> </span><span class="err">output</span><span class="p">,</span><span class="w"> </span><span class="err">i.e.</span><span class="w"> </span><span class="err">`#;done`</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@dd"</span><span class="p">,</span><span class="w"> </span><span class="s2">";dd"</span><span class="p">],</span><span class="w"> </span><span class="err">//</span><span class="w"> </span><span class="err">the</span><span class="w"> </span><span class="err">string(s)</span><span class="w"> </span><span class="err">that</span><span class="w"> </span><span class="err">will</span><span class="w"> </span><span class="err">invoke</span><span class="w"> </span><span class="err">the</span><span class="w"> </span><span class="err">snippet</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,yaml"</span><span class="p">,</span><span class="w"> </span><span class="err">//</span><span class="w"> </span><span class="err">the</span><span class="w"> </span><span class="err">language(s)</span><span class="w"> </span><span class="err">where</span><span class="w"> </span><span class="err">the</span><span class="w"> </span><span class="err">snippet</span><span class="w"> </span><span class="err">will</span><span class="w"> </span><span class="err">work</span><span class="p">,</span><span class="w"> </span><span class="err">if</span><span class="w"> </span><span class="err">you</span><span class="w"> </span><span class="err">don't</span><span class="w"> </span><span class="err">want</span><span class="w"> </span><span class="err">it</span><span class="w"> </span><span class="err">to</span><span class="w"> </span><span class="err">work</span><span class="w"> </span><span class="err">everywhere</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Add #;done"</span><span class="p">,</span><span class="w"> </span><span class="err">//</span><span class="w"> </span><span class="err">just</span><span class="w"> </span><span class="err">a</span><span class="w"> </span><span class="err">note</span><span class="w"> </span><span class="err">to</span><span class="w"> </span><span class="err">you</span><span class="w"> </span><span class="err">or</span><span class="w"> </span><span class="err">others</span><span class="w"> </span><span class="err">sharing</span><span class="w"> </span><span class="err">your</span><span class="w"> </span><span class="err">files</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w"> </span><span class="err">//</span><span class="w"> </span><span class="err">the</span><span class="w"> </span><span class="err">snippet</span><span class="w"> </span><span class="err">pattern</span><span class="w"> </span><span class="err">itself</span><span class="p">,</span><span class="w"> </span><span class="err">with</span><span class="w"> </span><span class="err">any</span><span class="w"> </span><span class="err">new</span><span class="w"> </span><span class="err">line</span><span class="w"> </span><span class="err">on</span><span class="w"> </span><span class="err">another</span><span class="w"> </span><span class="err">new</span><span class="w"> </span><span class="err">line</span><span class="w">
+        </span><span class="s2">"#;done"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="w">
+
+</span></code></pre></div></div>
+
+<h2 id="bullet-journal--task-management-snippets">Bullet Journal / Task Management Snippets</h2>
+
+<p>I keep a Digital Bullet Journal mostly based around weekly notes. I also use Dendron’s tags, which start with <code class="language-plaintext highlighter-rouge">#</code> characters. As far as I can tell, most other Markdown-based tools I’ve tried out (like Zettlr or Obsidian) have similarly converged on using <code class="language-plaintext highlighter-rouge">@</code> for tagging people and <code class="language-plaintext highlighter-rouge">#</code> for tagging concepts.</p>
+
+<p>Here’s a few of the snippets I’ve found very handy for this kind of DigiBuJo / text-file-based task management system.</p>
+
+<h3 id="done"><code class="language-plaintext highlighter-rouge">#;done</code></h3>
+
+<p>I’ve found that adding a tag indicating that I’m done with a particular day or task makes it much easier to scan files and reacquaint myself to what info is now just a record of the past and what info is still “live” or “in play.” It helps when skimming using an outline view, when folding headings, or even just when opening a note and realizing that there’s a <code class="language-plaintext highlighter-rouge">#;done</code> annotation on the first heading, indicating that the entire week is now just a log without anything that still needs my attention.</p>
+
+<p>However, just adding a <code class="language-plaintext highlighter-rouge">#done</code> string will rapidly make that tag unweildly; I don’t foresee a frequent need to see quickly see every single day I’ve marked with that, unlike tags such as <code class="language-plaintext highlighter-rouge">#urgent</code> or <code class="language-plaintext highlighter-rouge">#reading</code>.</p>
+
+<p>Therefore, this snippet is a tag intentionally broken by an interrupting semicolon.</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"#;done"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@dd"</span><span class="p">,</span><span class="w"> </span><span class="s2">";dd"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,yaml"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Add #;done"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"#;done"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="doneyyyy-mm-dd"><code class="language-plaintext highlighter-rouge">#;done;(YYYY-MM-DD)</code></h3>
+
+<p>When I have a note that has multiple tasks for a longer project, it’s often useful to know not just that something’s accomplished, but also <strong>when</strong> it was done. This snippet builds on the previous one with an automatic date annotation.</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"#;done; + today's date"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@dtd"</span><span class="p">,</span><span class="w"> </span><span class="s2">";dtd"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,yaml"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Add #;done + today's date in YYYY-MM-DD format; altered from Taskpaper format for Dendron tags"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"#;done;($CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE)"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="todays-date">Today’s Date</h3>
+
+<p>VS Code’s snippets include <a href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables">many standard variables</a>, making it easy to use a snippet that remembers the date better than you might. Here’ a snippet that will expand to the <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>—more on that below the snippet itself.</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"today's date"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@td"</span><span class="p">,</span><span class="w"> </span><span class="s2">";td"</span><span class="p">],</span><span class="w">
+</span><span class="err">//</span><span class="w">    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,yaml,json,dendron"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Add today's date in YYYY-MM-DD format"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<p>ISO 8601, by the way, remains the date format for <a href="https://xkcd.com/1179/">discerning nerds</a> largely because it lists values in largest to smallest time unit and therefore has the benefit of sorting files reliably.</p>
+
+<p>It’s used, for instance, for <a href="https://jekyllrb.com/docs/posts/">sorting posts in Jekyll</a>, the generator I use for this very site. I <strong>just now</strong> typed <code class="language-plaintext highlighter-rouge">;td</code> to invoke the snippet below into the <code class="language-plaintext highlighter-rouge">last_modified_at</code> value for this page. That means that once I run Jekyll again, today’s date (2023-04-01) will show up in various places on this page (which should be the top and bottom visible metadata sections of this note, unless I’ve changed the template for these pages since writing this).</p>
+
+<p>The scope line is commented out in this snippet, because I personally want this snippet available everywhere in VS Code. If you want to use it but prefer to narrow the places where it will work, you’d want to delete the <code class="language-plaintext highlighter-rouge">//</code> comment indicators at the beginning of that line, then list only the file formats where you want this snippet to work.</p>
+
+<p>For instance, if you only wanted it to work in markdown and html files, you’d want the whole snippet to instead read:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"today's date"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@td"</span><span class="p">,</span><span class="w"> </span><span class="s2">";td"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,html"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Add today's date in YYYY-MM-DD format"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="this-hour--minute">This Hour &amp; Minute</h3>
+
+<p>This snippet will add this hour and minute in 24 hour clock format. I use it often when tracking times or writing in <a href="https://wiki.dendron.so/notes/ogIUqY5VDCJP28G3cAJhd/">Dendron daily notes</a>.</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"this hour and minute"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@thm"</span><span class="p">,</span><span class="w"> </span><span class="s2">";thm"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,yaml,json"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Add this hour and minute in 24 hour clock format"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"$CURRENT_HOUR:$CURRENT_MINUTE"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="times-started-and-ended">Times Started and Ended</h3>
+
+<p>Building on the above, this snippet is useful for tracking time. When used, it will look something like <code class="language-plaintext highlighter-rouge">{started(17:10), ended(17:35)}</code>, useful for pomodoros or other ways of time tracking.</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"times started and ended"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@tsae"</span><span class="p">,</span><span class="w"> </span><span class="s2">";tsae"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,yaml,dendron"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Add section to track start and end times"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"{started($1$CURRENT_HOUR:$CURRENT_MINUTE), ended($2)}"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<h2 id="html--css-snippets">HTML / CSS Snippets</h2>
+
+<h3 id="tables">Tables</h3>
+
+<p>Here’s a few snippets related to making more <a href="https://webaim.org/techniques/tables/data">accessible HTML data tables</a>. Each of these includes row or column headers, <code class="language-plaintext highlighter-rouge">scope=col</code> or <code class="language-plaintext highlighter-rouge">scope=row</code> indicators, and captions.</p>
+
+<p>They also use the VS Code syntax for <a href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_tabstops">tab stops</a> and for escaping quotation marks.</p>
+
+<p>Tab stops use dollar signs followed by numbers, like <code class="language-plaintext highlighter-rouge">$1</code>. You indicate the first tab stop with a <code class="language-plaintext highlighter-rouge">$1</code>, the second with <code class="language-plaintext highlighter-rouge">$2</code>, and so on, then optionally indicate your snippet’s “final” tab stop with a <code class="language-plaintext highlighter-rouge">$0</code>. As of 2023-03-26, I’m including final tab stops in these. As I continue using them, I may or may not decide that I’ll remove those.</p>
+
+<p>The <code class="language-plaintext highlighter-rouge">"col"</code> or <code class="language-plaintext highlighter-rouge">"row"</code> part of the <code class="language-plaintext highlighter-rouge">scope=</code> attribute needs to include the quotation marks. But including a <code class="language-plaintext highlighter-rouge">"</code> in the snippet itself will confuse VS Code, as it will interpret the <code class="language-plaintext highlighter-rouge">"</code> as the end of that line! So to clarify things for these easily-confused robots, these snippets use <code class="language-plaintext highlighter-rouge">\</code> characters to escape those quotation marks. I could probably instead use single quotation marks, but decades of humanities writing in American English has apparently made double quotation marks a difficult habit to break.</p>
+
+<h4 id="accessible-html-table">Accessible HTML Table</h4>
+
+<p>Here’s an HTML data table that doesn’t use a <code class="language-plaintext highlighter-rouge">&lt;thead&gt;</code>.</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"@table"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,html,yaml"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@tt"</span><span class="p">,</span><span class="w"> </span><span class="s2">";tt"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"html table with caption"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"&lt;table&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"&lt;caption&gt;$1&lt;/caption&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"    &lt;th scope=</span><span class="se">\"</span><span class="s2">col</span><span class="se">\"</span><span class="s2">&gt;$2&lt;/th&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$3&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$4&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;/tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"    &lt;th scope=</span><span class="se">\"</span><span class="s2">row</span><span class="se">\"</span><span class="s2">&gt;$5&lt;/th&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$6&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$0&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;/tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"&lt;/table&gt;"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<h4 id="accessible-html-table-with-a-thead">Accessible HTML Table with a <code class="language-plaintext highlighter-rouge">&lt;thead&gt;</code>
+</h4>
+
+<p>Here’s an HTML data table that does use a <code class="language-plaintext highlighter-rouge">&lt;thead&gt;</code>.</p>
+
+<p>According to WebAIM’s summary, a <code class="language-plaintext highlighter-rouge">&lt;thead&gt;</code> doesn’t add or interfere with accessibility concerns. They are handy for styling (with CSS) or for printing out long tables to paper, where any <code class="language-plaintext highlighter-rouge">&lt;thead&gt;</code> or <code class="language-plaintext highlighter-rouge">&lt;tfoot&gt;</code> rows will repeat at the top or bottom of a printed page.</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"@tableh"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,html,yaml"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@tth"</span><span class="p">,</span><span class="w"> </span><span class="s2">";tth"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"html table with caption, thead, and tbody"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"&lt;table&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"&lt;caption&gt;$1&lt;/caption&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"&lt;thead&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"    &lt;th scope=</span><span class="se">\"</span><span class="s2">col</span><span class="se">\"</span><span class="s2">&gt;$2&lt;/th&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$3&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$4&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;/tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"&lt;/thead&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"&lt;tbody&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"    &lt;th scope=</span><span class="se">\"</span><span class="s2">row</span><span class="se">\"</span><span class="s2">&gt;$5&lt;/th&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$6&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$0&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;/tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"&lt;/tbody&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"&lt;/table&gt;"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<h4 id="accessible-html-table-row">Accessible HTML Table Row</h4>
+
+<p>Once you’ve got the structure in place for a table, you’ll almost certainly want to add more rows. So here’s a snippet for beginning a row. You’ll need to add additional <code class="language-plaintext highlighter-rouge">&lt;td&gt;&lt;/td&gt;</code> indicators for each additional cell, but VS Code and most other text editors will make that pretty easy.</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"@table-row"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,html,yaml"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"@tr"</span><span class="p">,</span><span class="w"> </span><span class="s2">";tr"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"html table row"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"  &lt;tr&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"    &lt;th scope=</span><span class="se">\"</span><span class="s2">row</span><span class="se">\"</span><span class="s2">&gt;$1&lt;/th&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$2&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"      &lt;td&gt;$0&lt;/td&gt;"</span><span class="p">,</span><span class="w">
+        </span><span class="s2">"  &lt;/tr&gt;"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<h2 id="jekyll-snippets">Jekyll Snippets</h2>
+
+<p>Here’s a link to more <a href="/notes/Technology/Jekyll/index">notes on Jekyll</a>.</p>
+
+<h3 id="date-time-and-offset">Date, Time, and Offset</h3>
+
+<p>If you’re publishing more than one post a day in Jekyll, it’s handy to indicate the specific time in the <code class="language-plaintext highlighter-rouge">date</code> value of each <a href="https://jekyllrb.com/docs/front-matter/#predefined-variables-for-posts">post’s front matter</a> metadata section. The time format Jekyll uses isn’t difficult to remember, but it’s also exactly the sort of thing I’d prefer to have robots do for me. Another perfect candidate for a snippet!</p>
+
+<p>The output looks like this: <code class="language-plaintext highlighter-rouge">2023-04-01T19:14:39-6:00</code></p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"date and time for jekyll"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"prefix"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">";dtj"</span><span class="p">],</span><span class="w">
+    </span><span class="nl">"scope"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdown,yaml,json"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Add today's date, and this hour, minute, and second in 24 hour clock format, with 6 hour Boise timezone offset"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="s2">"$CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}T$CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND-6:00"</span><span class="p">,</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<p>If you’re paying close attention, you’ll notice that one of those variable names is enclosed by curly brackets.</p>
+
+<p>Here’s that variable, and the relevant section: <code class="language-plaintext highlighter-rouge">${CURRENT_DATE}T$CURRENT_HOUR</code>.</p>
+
+<p>Without the curly brackets, that part of the snippet would look like <code class="language-plaintext highlighter-rouge">$CURRENT_DATET$CURRENT_HOUR</code>. Written this way, VS Code would think you’re asking for <code class="language-plaintext highlighter-rouge">$CURRENT_DATET</code>, a variable that doesn’t exist.</p>
+
+<p>In that unhappy version, the output you’ll get is: <code class="language-plaintext highlighter-rouge">2023-04-CURRENT_DATET19:24:52-6:00</code>. Bummer.</p>
+
+<p>Using the curly brackets tells VS Code that the letter T isn’t part of the variable name. In this scenario, it also lets it be output without a preceding space.</p>
+
+<p>You don’t have to enclose every variable’s name in this way, but this works as a nice example of when you’d want to do so.</p>
+
+        </content>
+        
+        
+
+        
+
+
+<hr>
+<!-- 
+
+
+-->
+
+<div class="">
+  <div class="wiki-flex notice">
+    <div class="wiki-flex-item">
+<img class="emoji" title=":seedling:" alt=":seedling:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" height="20" width="20"> = emerging note</div>
+    <div class="wiki-flex-item">
+<img class="emoji" title=":herb:" alt=":herb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" height="20" width="20"> = established note</div> 
+    <div class="wiki-flex-item"> <img class="emoji" title=":evergreen_tree:" alt=":evergreen_tree:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png" height="20" width="20"> = evergreen note</div>
+  </div>
+</div>
+
+        
+        
+        
+        
+        
+      
+      
+      <aside style="font-size: 0.9em; margin-top: 1em;">
+        <h2 id="bonus-info">Bonus Info</h2>
+            <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note-->
+</h3>
+            
+            <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                
+                
+                <div class="backlink-box">
+                    <a class="internal-link" href="/notes/Note-taking/Dendron/task-tracking-in-dendron">Task Tracking in Dendron</a><br>
+                        <div style="font-size: 0.9em; margin: 0;">
+<p>Ways I keep track of tasks and todos in Dendron.</p>
+</div> <!-- initially was backlink.excerpt | strip_html | truncatewords: 20 -->
+                    </div>
+                    
+                    
+                </div>
+                
+                <h3 id="page-info">Page Info</h3>
+                <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);">
+                    <div class="backlink-box">
+                        <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/_notes/Technology/VS-Code/vs-code-snippets.md">View page revision history</a>
+</div>
+                        <div class="backlink-box">
+                            <a class="internal-link" href="https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_notes/Technology/VS-Code/vs-code-snippets.md">View page source</a>
+</div>
+                        </div>
+                </aside>
+                
+                <footer class="page__meta">
+                    
+                    
+
+
+<p itemscope itemtype="https://schema.org/Person" class="p-author h-card" rel="author" style="padding-bottom: .5em;"><i class="fas fa-paper-plane" aria-hidden="true"></i><strong> By: </strong><a href="/" itemprop="url" rel="me">Ryan P. Randall</a></p>
+                    
+
+
+                    
+
+<div class="page__date">
+<strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Created: </strong> <time class="dt-published" datetime="2023-03-26T00:00:00-06:00">2023-03-26</time>
+</div>
+
+
+  <div class="page__date ">
+<strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-04-02">2023-04-02</time>
+</div>
+
+                </footer>
+                
+                
+                
+                
+  <nav class="pagination">
+    
+      <a href="/notes/Technology/Jekyll/jekyll-guides" class="pagination--pager" title="Jekyll Guides
+">Previous</a>
+    
+    
+      <a href="/notes/Thinking/critical-thinking-formula" class="pagination--pager" title="Critical Thinking Formula
+">Next</a>
+    
+  </nav>
+
+            </div>
+            
+            
+  </article>
+
+  
+  
+  
+</section>
+</div>
+
+    </article>
+</div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap">
+<form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term...">
+  </form>
+  <div id="results" class="results"></div>
+</div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">© 2014-2024 Ryan P. Randall. This site is licensed under a <a rel="license" style="text-decoration: underline;" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow" style="text-decoration: underline;">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="text-decoration: underline;">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </div></body>
+</html>
