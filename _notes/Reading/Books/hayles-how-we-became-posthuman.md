@@ -1,6 +1,6 @@
 ---
 date: 2024-02-17
-last_modified_at: 2024-02-17
+last_modified_at: 2024-03-19
 reading: true
 reading-books: true
 excerpt: "Hayles ."
@@ -14,7 +14,7 @@ year_read:
 date_read: 
 date_started: 2024-02-14
 current: true
-progress_current: 31
+progress_current: 65
 progress_max: 350
 ---
 

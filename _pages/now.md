@@ -2,7 +2,7 @@
 permalink: /now/
 title: "Now"
 date: 2022-06-28
-last_modified_at: 2023-05-18
+last_modified_at: 2024-03-19
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
@@ -10,10 +10,12 @@ toc: true
 ---
 ## What I'm Doing Currently  
 
-Here's some of what I'm currently doing, as of Summer 2023.  
-- I'm re-learning Spanish as part of my Ph.D. program requirements. I haven't formally used Spanish since junior year of high school… back when Tupac was still alive. Since then I've studied Latin for my undergrad program, and then French (for reading purposes only) for my English MA program. Between those, I'm able to get the gist of most Romance languages. I'm definitely stoked to be re-learning Spanish, though! Maybe I'll end up reading some of Manuel Castells' works for the dissertation project, or other academic things, in addition to just being closer to verbally fluent again?  
-- I'm still using the free, open-source notetaking tool [Dendron](https://www.dendron.so/), even though it's moved from active development to primarily being in a "maintenance mode." I've got my eye on Obsidian, should I ever need to switch, but I've decided that I like Dendron and VS Code enough that I'm not going to move until something makes me do so.  
-- Continuing my first viewing of _Star Trek_. We started with _Deep Space Nine_, then went to the original series, and have continued watching all the series and movies in order. At this point we're up to the first season of _Voyager._  
+Here's some of what I'm currently doing, as of Spring 2024. (More specifically, I'm writing this on {{ page.last_modified_at }}):  
+- Re-learning Spanish as part of my Ph.D. program. My current class is my last of four required semesters, and it feels great to be back to where I can read somewhat complicated fiction in Spanish.  
+- Mostly [[beginning-to-use-obsidian|using Obsidian]] for notes. Its ability to mix dynamic queries with markdown notes has made keeping track of tasks a lot smoother than doing so was in Dendron or any other tool I've tried.  
+- Continuing my first viewing of _Star Trek_. We started with _Deep Space Nine_, then went to the original series, and have continued watching all the series and movies in order. At this point we're up to the third season of _Enterprise_.  
+- Planning to add a theme switcher to my site, which also means I'll need to simplify the css for the theme and figure out how it will interact with the current code for the automatic light/dark theme switch. I keep bumping this whole project into the future since other things in life are far more urgent, but it's the next obvious change you're likely to notice on this site.  
+- Reading a few [books in parallel]({{ '/reading' | relative_url }}), a practice I'm realizing I've missed. Switching between them seems to help me think more clearly about the particularities of each, as well as find interesting resonances between them.  
 
 ## Right About `/Now`  
 
