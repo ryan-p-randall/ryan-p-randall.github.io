@@ -59,7 +59,7 @@ layout: default
         <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
-        {% include page__date.html %}
+        {% comment %} {% include page__date.html %} {% endcomment %} {% comment %} commented out on 2024-04-22 when realized this line was displaying incorrect dates on notes index pages; I'll delete this line once I'm sure doing so doesn't cause problems elsewhere {% endcomment %}
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}

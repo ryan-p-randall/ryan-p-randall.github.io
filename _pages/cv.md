@@ -203,7 +203,7 @@ I wrote the [SIFT Moves](https://infolit-idaho.github.io/infolit-for-everyone/si
 
 - "Opening the Door to a More Inclusive and Equitable Learning Environment with UDL: Connecting UDL Guidelines and Quality Matters Specific Review Standards." [slides](https://docs.google.com/presentation/d/1YcGKZwWk0Jzt4AK0cnYNDiWIor2Z7uEGsyeAvj6_JVY/edit?usp=sharing), [handout](https://docs.google.com/document/d/13KIvGGakJDd5xp1QlWsfQhG42Su9knxtZzMmNWMJXeQ/edit?usp=sharing).  
 Co-presented with Kimberly Tomkinson.  
-[*QM Connect 2023*](https://events.qualitymatters.org/event/8c32397a-b238-4523-beaa-93d7b4d93856/websitePage:4575682a-7d18-49cf-bfdc-3a1ab7bddf4e)  
+[*QM Connect 2023*](https://events.qualitymatters.org/event/8c32397a-b238-4523-beaa-93d7b4d93856/websitePage:4575682a-7d18-49cf-bfdc-3a1ab7bddf4e).  
 - "Student Scholars Creating OER through Renewable Assignments." [slides](https://docs.google.com/presentation/d/1JqVIjDQhL2G_94xW4m85IdaJFTDRhj2m3NKQ6uM26AI/edit?usp=sharing).  
 **Invited talk**, Co-presented with Liza Long.  
 [*Louisiana State University's HEROE-S Forum*](https://lsu.edu/hss/wllc/forlanglab/heroes.php), Conference held online, 2023.  
@@ -230,7 +230,7 @@ Panel with Zoe Fisher, Danielle Rowland, Megan Smithling, and Elizabeth Brown.
 [*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA, 2017.  
 - "ILA Social Justice Committee, Equity, and Libraries." [slides](http://ryanpatrickrandall.com/talks/swila2017)  
 __Keynote presentation__.
-*SWILA (Southwestern Idaho Library Association) Conference*, Meridian, ID, 2017.   
+*SWILA (Southwestern Idaho Library Association) Conference*, Meridian, ID, 2017.  
 - "Productive Interpretations: Encouraging Patron Agency through Cultural Criticism." [slides](https://www.ryanpatrickrandall.com/talks/capal16/), [paper](https://capalibrarians.org/wp/wp-content/uploads/2016/08/4A_Randall_paper.pdf).  
 [*CAPAL 2016 Conference*](https://capalibrarians.org/capal-conference-2016/), Calgary, AB, Canada, 2016.  
 - “Critical Information Literacy as Collaborative Praxis.”  

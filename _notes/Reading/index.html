@@ -1,4 +1,6 @@
 ---
+date: 2022-04-17
+last_modified_at: 2024-04-22
 layout: notesindex
 excerpts: true
 folder-title: "Reading"
@@ -24,6 +26,9 @@ notes-folder-path: "/notes/Reading/"
     <div class="wiki-folder-grid-thirds">
         <a class="btn btn--primary btn--large" href="{{page.folder-notes-path}}Books">Books</a>
     </div>
+    <div class="wiki-folder-grid-thirds">
+        <a class="btn btn--primary btn--large" href="{{page.folder-notes-path}}Lists">Lists</a>
+    </div>
 </div>
 
 <h2 id="all">All notes on what I've read</h2>
@@ -44,24 +49,33 @@ notes-folder-path: "/notes/Reading/"
 <p>There's nothing here yet!</p>
 {% endif %}
 
-<h2 id="all">All my reading notes by year</h2>
-{% assign reading_notes_2022 = site.notes | where:"year_read","2022" | sort: "date_read" %}
-{% if reading_notes_2022.size > 0 %}
-<details open><summary><h3 id="2022">2022</h3></summary>
-<div>
+<h2 id="all">All my reading notes, by the year I finished it</h2>
+
+<h3>2024</h3>
+
+{% assign reading_notes_2024 = site.notes | where: "year_read", "2024" %}
+
+{% for item in reading_notes_2024 %}
 <ul>
-    {% for item in reading_notes_2022 %}
-    <li>{% if item.pinned %}📌 {% endif %}
-        <a href="{{ item.url }}">{{ item.title }}
-            {% if item.status == ":seedling:" %} :seedling:{% endif %}
-            {% if item.status == ":herb:" %} :herb:{% endif %}
-            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-        </a>
+    <li><a href="{{ item.url }}">{{ item.title }}
+        {% if item.status == ":seedling:" %} :seedling:{% endif %}
+        {% if item.status == ":herb:" %} :herb:{% endif %}
+        {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+    </a>
     </li>
-    {% endfor %}
 </ul>
-</div>
-</details>
-{% else %}
-<p>There's nothing here yet!</p>
-{% endif %}
+{% endfor %}
+
+<h3>2023</h3>
+
+{% assign reading_notes_2023 = site.notes | where: "year_read", "2023" %}
+{% for item in reading_notes_2023 %}
+<ul>
+    <li><a href="{{ item.url }}">{{ item.title }}
+        {% if item.status == ":seedling:" %} :seedling:{% endif %}
+        {% if item.status == ":herb:" %} :herb:{% endif %}
+        {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+    </a>
+    </li>
+</ul>
+{% endfor %}
