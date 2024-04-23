@@ -1,12 +1,12 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2023-11-19T14:36:20-6:00
+last_modified_at: 2024-04-22T22:41:56-6:00
 toc: true
 toc_sticky: true
 ---
 
-This page last updated 2023-11-19.  
+This page last updated 2024-04-22.  
 Download an older version of this [C.V. as a .pdf from 2015](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
 You may also see some of this on my [portfolio page](https://www.ryanpatrickrandall.com/portfolio/), last updated 2015-10-10.  
 {: .notice}
@@ -201,6 +201,9 @@ I wrote the [SIFT Moves](https://infolit-idaho.github.io/infolit-for-everyone/si
 
 ## Instructional Design & Library Conference Presentations and Panels  
 
+- "Navigating Privacy Issues with Generative AI" panel. [video](https://www.youtube.com/watch?v=gBhUIoFstgc), [handout](https://docs.google.com/document/d/1QNS26A2fBBXKXFM8G9dk2fpweTpJudGuGsRNdFGTQGs/edit).  
+**Invited panelist**, with Liza Long and Reed Hepler.  
+Panel convened by Idaho State Board of Education's "AI Alliance" and held online, 2024.  
 - "Opening the Door to a More Inclusive and Equitable Learning Environment with UDL: Connecting UDL Guidelines and Quality Matters Specific Review Standards." [slides](https://docs.google.com/presentation/d/1YcGKZwWk0Jzt4AK0cnYNDiWIor2Z7uEGsyeAvj6_JVY/edit?usp=sharing), [handout](https://docs.google.com/document/d/13KIvGGakJDd5xp1QlWsfQhG42Su9knxtZzMmNWMJXeQ/edit?usp=sharing).  
 Co-presented with Kimberly Tomkinson.  
 [*QM Connect 2023*](https://events.qualitymatters.org/event/8c32397a-b238-4523-beaa-93d7b4d93856/websitePage:4575682a-7d18-49cf-bfdc-3a1ab7bddf4e).  
