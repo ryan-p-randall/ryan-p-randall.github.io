@@ -1,6 +1,6 @@
 ---
-date: 2024-02-01   
-last_modified_at: 2024-03-19
+date: 2024-02-01  
+last_modified_at: 2024-04-28
 reading: true
 reading-books: true
 excerpt: "A edition of José María Merino's book, adapted by Yolanda Pinto Gómez."
@@ -14,7 +14,7 @@ year_read:
 date_read: 
 date_started: 2024-02-01
 current: true
-progress_current: 49
+progress_current: 54
 progress_max: 102
 ---
 
