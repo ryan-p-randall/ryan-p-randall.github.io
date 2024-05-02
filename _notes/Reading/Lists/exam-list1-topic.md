@@ -10,6 +10,7 @@ work_author: "Ryan P. Randall"
 year_read: 
 date_read: 
 date_started: 2024-04-22
+list: true
 # current: true
 current-list: true
 progress_current: 3

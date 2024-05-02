@@ -3,6 +3,7 @@ date: 2024-02-01
 last_modified_at: 2024-05-01
 reading: true
 reading-books: true
+reading-type: "book"
 excerpt: "A edition of José María Merino's book, adapted by Yolanda Pinto Gómez."
 status: ":herb:"
 published: true

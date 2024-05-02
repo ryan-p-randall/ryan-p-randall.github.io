@@ -22,7 +22,7 @@ title: "Books"
 {% endunless %}
 
 
-<h2 id="all">All my notes on books I've read</h2>
+<h2 id="all">All my notes on books</h2>
 {% assign reading-books_notes_all = site.notes | where:"reading-books","true" | sort: "date_read" %}
 {% if reading-books_notes_all.size > 0 %}
 <ul>
@@ -40,15 +40,37 @@ title: "Books"
 <p>There's nothing here yet!</p>
 {% endif %}
 
-<h2 id="all">All my reading notes on books by year</h2>
+<h2 id="by-year">All my reading notes on books by year</h2>
 
-{% assign reading_notes_2022 = site.notes | where:"reading-books","true" | where:"year_read","2022" | sort: "date_read" %}
-{% if reading_notes_2022.size > 0 %}
+{% assign reading_notes_2024 = site.notes | where:"reading-books","true" | where:"year_read","2024" | sort: "date_read" %}
+{% if reading_notes_2024.size > 0 %}
 
-<details open><summary><h3 id="2022">2022</h3></summary>
+<details open><summary><h3 id="2024">2024</h3></summary>
     <div>
         <ul>
-        {% for item in reading_notes_2022 %}
+        {% for item in reading_notes_2024 %}
+        <li>{% if item.pinned %}📌 {% endif %}
+            <a href="{{ item.url }}">{{ item.title }}
+                {% if item.status == ":seedling:" %} :seedling:{% endif %}
+                {% if item.status == ":herb:" %} :herb:{% endif %}
+                {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
+            </a>
+        </li>
+        {% endfor %}
+        </ul>
+        {% else %}
+        <p>There's nothing here yet!</p>
+        {% endif %}
+    </div>
+</details>
+
+{% assign reading_notes_2023 = site.notes | where:"reading-books","true" | where:"year_read","2023" | sort: "date_read" %}
+{% if reading_notes_2023.size > 0 %}
+
+<details open><summary><h3 id="2023">2023</h3></summary>
+    <div>
+        <ul>
+        {% for item in reading_notes_2023 %}
         <li>{% if item.pinned %}📌 {% endif %}
             <a href="{{ item.url }}">{{ item.title }}
                 {% if item.status == ":seedling:" %} :seedling:{% endif %}

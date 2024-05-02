@@ -31,13 +31,45 @@ notes-folder-path: "/notes/Reading/"
     </div>
 </div>
 
-<h2 id="all">All notes on what I've read</h2>
-{% assign reading_notes_all = site.notes | where:"reading","true" | sort: "date_read" %}
+<h2 id="all">All my reading notes</h2>
+{% assign reading_notes_all = site.notes | where:"reading","true" | sort_natural: "title" %}
 {% if reading_notes_all.size > 0 %}
 <ul>
     {% for item in reading_notes_all %}
-    <li>{% if item.pinned %}📌 {% endif %}
-        <a href="{{ item.url }}">{{ item.title }}
+        {% if item.reading-books == true or item.reading-articles == true %}
+        {% include item-list-link.html%}
+        {% endif %}
+    {% endfor %}
+</ul>
+{% else %}
+<p>There's nothing here yet!</p>
+{% endif %}
+
+
+<h2 id="all">All my reading notes, by year finished</h2>
+
+{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | group_by:"year_read" %}
+{% for year in reading_notes_by_year reversed %}
+    <section id="{{ year.name }}">
+        <h3 id="{{year.name}}">{{ year.name }}</h3>
+        <ul>
+        {% for item in year.items %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </section>
+{% endfor %}
+
+<!-- 
+
+    
+    <h3>2024</h3>
+    
+    {% assign reading_notes_2024 = site.notes | where: "year_read", "2024" %}
+    
+    <ul>
+        {% for item in reading_notes_2024 %}
+        <li><a href="{{ item.url }}">{{ item.title }}
             {% if item.status == ":seedling:" %} :seedling:{% endif %}
             {% if item.status == ":herb:" %} :herb:{% endif %}
             {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
@@ -45,37 +77,19 @@ notes-folder-path: "/notes/Reading/"
     </li>
     {% endfor %}
 </ul>
-{% else %}
-<p>There's nothing here yet!</p>
-{% endif %}
-
-<h2 id="all">All my reading notes, by the year I finished it</h2>
-
-<h3>2024</h3>
-
-{% assign reading_notes_2024 = site.notes | where: "year_read", "2024" %}
-
-{% for item in reading_notes_2024 %}
-<ul>
-    <li><a href="{{ item.url }}">{{ item.title }}
-        {% if item.status == ":seedling:" %} :seedling:{% endif %}
-        {% if item.status == ":herb:" %} :herb:{% endif %}
-        {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-    </a>
-    </li>
-</ul>
-{% endfor %}
 
 <h3>2023</h3>
 
 {% assign reading_notes_2023 = site.notes | where: "year_read", "2023" %}
-{% for item in reading_notes_2023 %}
 <ul>
+    {% for item in reading_notes_2023 %}
     <li><a href="{{ item.url }}">{{ item.title }}
         {% if item.status == ":seedling:" %} :seedling:{% endif %}
         {% if item.status == ":herb:" %} :herb:{% endif %}
         {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
     </a>
-    </li>
-</ul>
+</li>
 {% endfor %}
+</ul>
+
+-->
