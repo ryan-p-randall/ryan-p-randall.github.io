@@ -36,10 +36,32 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
 <p>Tell me something to read!</p>
 {% endif %}
 
+## My Current Comprehensive Exam Lists  
+
+{% assign reading_current_lists = site.notes | where:"current-list","true" %}
+{% if reading_current_lists.size > 0 %}
+    {% for item in reading_current_lists %}
+<article>
+    <h3>
+        :books:
+        <a href="{{ item.url }}">{{ item.title }}
+        </a></h3>
+        <!-- <p>By: {{ item.work_author }}<br /> -->
+        <p>Started: {{ item.date_started }}<br />
+        Amount read: {{ item.progress_current }} of {{ item.progress_max }} works</p>
+        <label style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
+</article>
+    {% endfor %}
+{% else %}
+<p>Tell me something to read!</p>
+{% endif %}
+
+## Previously Read  
+
 {% assign reading_2024_all = site.notes | where:"year_read","2024" | sort: "date_read" %}
 {% if reading_2024_all.size > 0 %}
 
-## 2024  
+### 2024  
 
 <ul>
     {% for item in reading_2024_all %}
@@ -60,7 +82,7 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
 <p>There's nothing here yet!</p>
 {% endif %}
 
-## 2023  
+### 2023  
 
 {% assign reading_2023_all = site.notes | where:"year_read","2023" | sort: "date_read" %}
 {% if reading_2023_all.size > 0 %}

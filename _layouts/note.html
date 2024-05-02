@@ -32,7 +32,7 @@ sidebar:
         
         {% if page.reading %}
           <h2 id="reading-details">Details</h2>
-          <p>{% if page.reading-articles %} :page_facing_up: "{{ page.title }}" {% endif %}
+          <p>{% if page.reading-articles %} :page_facing_up: "{{ page.title }}"<br />{% endif %}
           {% if page.reading-books %} :book: <strong>{{ page.title }}</strong><br />{% endif %}
           {% if page.work_link %}Link: <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><br />{% endif %}
           By: {{ page.work_author }}<br />
