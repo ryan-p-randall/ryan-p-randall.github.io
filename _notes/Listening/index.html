@@ -39,13 +39,7 @@ title: "Listening"
 <h2 id="pinned">Pinned {{page.title}} notes</h2>
 <ul>
     {% for item in listening_notes_pinned %}
-    <li>{% if item.pinned %}📌 {% endif %}
-        <a href="{{ item.url }}">{{ item.title }}
-            {% if item.status == ":seedling:" %} :seedling:{% endif %}
-            {% if item.status == ":herb:" %} :herb:{% endif %}
-            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-        </a>
-    </li>
+        {% include item-list-link.html %}
     {% endfor %}
 </ul>
 {% endunless %}

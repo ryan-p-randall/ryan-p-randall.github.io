@@ -45,13 +45,7 @@ title: "Keywords"
 <h2 id="pinned">Pinned {{page.title}} notes</h2>
 <ul>
     {% for item in keywords_notes_pinned %}
-    <li>
-        <a href="{{ item.url }}">{% if item.pinned %}📌{% endif %}{{ item.title }}
-            {% if item.status == ":seedling:" %} :seedling:{% endif %}
-            {% if item.status == ":herb:" %} :herb:{% endif %}
-            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-        </a>
-    </li>
+        {% include item-list-link.html %}
     {% endfor %}
 </ul>
 {% endunless %}
@@ -62,13 +56,7 @@ title: "Keywords"
 {% if keywords_notes_all.size > 0 %}
 <ul>
     {% for item in keywords_notes_all %}
-    <li>{% if item.pinned %}📌{% endif %}
-        <a href="{{ item.url }}">{{ item.title }}
-            {% if item.status == ":seedling:" %} :seedling:{% endif %}
-            {% if item.status == ":herb:" %} :herb:{% endif %}
-            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-        </a>
-    </li>
+        {% include item-list-link.html %}
     {% endfor %}
 </ul>
 {% else %}
