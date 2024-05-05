@@ -37,7 +37,7 @@ notes-folder-path: "/notes/Reading/"
 <ul>
     {% for item in reading_notes_all %}
         {% if item.reading-books == true or item.reading-articles == true %}
-        {% include item-list-link.html%}
+            {% include item-list-link.html %}
         {% endif %}
     {% endfor %}
 </ul>

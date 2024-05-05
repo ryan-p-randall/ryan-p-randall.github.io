@@ -56,7 +56,7 @@ search_provider          : # lunr (default), algolia, google
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes" # "mmistakes/minimal-mistakes@4.24.0"
 kramdown:
   auto_ids: true
 # Outputting
@@ -175,9 +175,10 @@ defaults:
       type: notes
     values:
       layout: "note"
+      author_profile: true
+      comments: true
       toc: true
       toc_sticky: true
-      author_profile: true
       sidebar:
         nav: "notes"
   # bookmarks 
