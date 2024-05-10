@@ -82,3 +82,7 @@ h6 {
     font-size: 1.25em;
     text-transform: none;
 }
+
+.toc .active a {
+    box-shadow: inset 0 0 0 0.15rem mix($background-color, $link-color-hover, 5%);
+}

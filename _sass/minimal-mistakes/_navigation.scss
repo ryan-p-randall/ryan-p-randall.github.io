@@ -518,8 +518,7 @@
 //    @include yiq-contrasted($active-color);
   
   .active a {
-//    box-shadow: 0 0 0 0.1rem mix($background-color, $link-color-hover, 25%);
-    box-shadow: inset 0 0 0 0.15rem mix($background-color, $link-color-hover, 5%);
+    box-shadow: 0 0 0 0.1rem mix($background-color, $link-color-hover, 25%);
   }
 
 }
