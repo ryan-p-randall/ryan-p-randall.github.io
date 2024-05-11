@@ -7,6 +7,7 @@ status: ":evergreen_tree:"
 published: true
 title: "Exam List 2: Mobility, Agency, & Surveillance in 20th & 21st Century American Literature"
 work_author: "Ryan P. Randall"
+excerpt: 'This is the "field" list for my comprehensive exam, with links to my own reading notes.'
 year_read: 
 date_read: 
 date_started: 2024-04-22
@@ -17,7 +18,6 @@ progress_current: 5
 progress_max: 35
 ---
 
-This is one of my comprehensive exam lists, with links to my own reading notes.  
 It is 35 “work units” long (countable by searching “work Unit1” without a space), as defined in my [program's](https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/) PhD Program [Handbook](https://www.isu.edu/media/libraries/english/PhD-Program-Handbook.pdf).  
 
 ## Rationale
@@ -61,17 +61,17 @@ Spanning from 1922 to 1998, the works on this list represent a range of modernis
 #### Batch One = workUnit1
 
 1. Appiah, Kwame Anthony. “Is the Post- in Postmodernism the Post- in Postcolonial?” _Critical Inquiry_ vol. 17, no. 2, 1991, pp. 336–357. (21 pp.)  
-2. Calhoun, Jamie. “Reimagining the Self: Maxine Hong Kingston’s ‘Tripmaster Monkey: His Fake Book.’” _The Journal of the Midwest Modern Language Association_ vols. 46/47, nos. 2/1, Fall 2013–Spring 2014, pp. 37--53. _JSTOR_, <http://www.jstor.org/stable/43264539>. (27 pp.)  
+2. Calhoun, Jamie. [“Reimagining the Self: Maxine Hong Kingston’s ‘Tripmaster Monkey: His Fake Book.’”](http://www.jstor.org/stable/43264539) _The Journal of the Midwest Modern Language Association_ vols. 46/47, nos. 2/1, Fall 2013–Spring 2014, pp. 37--53. _JSTOR_. (27 pp.)  
 3. Ermarth, Elizabeth Deeds. “Agency in the Discursive Condition.” _History and Theory_ vol. 40, no. 4, 2001, pp. 34–58. (24 pp.)  
 4. ———. “Beyond ‘The Subject’: Individuality in the Discursive Condition.” _New Literary Theory_ vol. 31, no. 3, 2000, pp. 405–419. (14 pp.)  
-5. Eve, Martin Paul and Joe Street. “The Silicon Valley Novel.” _Literature & History_ vol. 28, no. 1, 2018, pp. 81–97. _BIROn: Birkbeck Institutional Research Online_, <https://eprints.bbk.ac.uk/id/eprint/20365/>. (16 pp.)  
+5. Eve, Martin Paul and Joe Street. [“The Silicon Valley Novel.”](https://eprints.bbk.ac.uk/id/eprint/20365/) _Literature & History_ vol. 28, no. 1, 2018, pp. 81–97. _BIROn: Birkbeck Institutional Research Online_. (16 pp.)  
 
 #### Batch Two = workUnit1
 
 1. Foucault, Michel. “Panopticism.” _Discipline & Punish_. 1975. Translated by Alan Sheridan, 2nd ed., Vintage, 1995. pp. 195–228. (33 pp.)  
-2. Foster, Tim. “’A Kingdom of a Thousand Princes but No Kings’: The Postsuburban Network in Douglas Coupland's Microserfs.” _Western American Literature_ vol. 46, no. 3, 2011, pp. 302–324. _Project Muse_, <https://muse.jhu.edu/pub/104/article/459333>. (22 pp.)  
-3. Gross, Ariela J. “Litigating Whiteness: Trials of Racial Determination in the Nineteenth-Century South.” _The Yale Law Journal_ vol. 198, no. 1, 1998, pp. 109–188. _JSTOR_, <https://www.jstor.org/stable/797472>. (79 pp.)  
-4. Hutcheon, Linda. “Discourse, Power, Ideology: Humanism and Postmodernism.” _Postmodernism and Contemporary Fiction_, ed. Edmund J. Smyth, 1991, pp. 105–122. _TSpace_, <https://hdl.handle.net/1807/4354>. (17 pp.)  
+2. Foster, Tim. [“’A Kingdom of a Thousand Princes but No Kings’: The Postsuburban Network in Douglas Coupland's Microserfs.”](https://muse.jhu.edu/pub/104/article/459333) _Western American Literature_ vol. 46, no. 3, 2011, pp. 302–324. _Project Muse_. (22 pp.)  
+3. Gross, Ariela J. [“Litigating Whiteness: Trials of Racial Determination in the Nineteenth-Century South.”](https://www.jstor.org/stable/797472) _The Yale Law Journal_ vol. 198, no. 1, 1998, pp. 109–188. _JSTOR_. (79 pp.)  
+4. Hutcheon, Linda. [“Discourse, Power, Ideology: Humanism and Postmodernism.”](https://hdl.handle.net/1807/4354) _Postmodernism and Contemporary Fiction_, ed. Edmund J. Smyth, 1991, pp. 105–122. _TSpace_. (17 pp.)  
 5. Lipsitz, George. “The Possessive Investment in Whiteness: Racialized Social Democracy and the ‘White’ Problem in American Studies.” _American Quarterly_ vol. 47, no. 3, 1995, pp. 369–387. (18 pp.)  
-6. Mills, Charles W. “Body Politic, Bodies Impolitic.” The Body and the State: How the State Controls and Protects the Body, Part 1, special issue of _Social Research_ vol. 78, no. 2, summer 2011, pp. 583–606. _JSTOR_, <http://www.jstor.org/stable/23347191>. (24 pp.)  
+6. Mills, Charles W. [“Body Politic, Bodies Impolitic.”](http://www.jstor.org/stable/23347191) The Body and the State: How the State Controls and Protects the Body, Part 1, special issue of _Social Research_ vol. 78, no. 2, summer 2011, pp. 583–606. _JSTOR_. (24 pp.)  
 7. Yúdice, George. “The Privatization of Culture.” _Social Text_ no. 59, 1999, pp. 17–34. (17 pp.)  

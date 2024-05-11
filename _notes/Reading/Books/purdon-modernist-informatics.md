@@ -17,5 +17,3 @@ current: false
 progress_current: 224
 progress_max: 224
 ---
-
-Purdon examines modernist fiction to trace how writers experienced information culture as a disturbing interruption and governmental intrusion.  

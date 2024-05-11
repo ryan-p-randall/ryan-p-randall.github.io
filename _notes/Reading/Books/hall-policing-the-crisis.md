@@ -18,4 +18,3 @@ progress_current: 32
 progress_max: 451
 ---
 
-Hall and cowriters provide a classic analysis of the rhetoric of a moral panic.  

@@ -1,7 +1,9 @@
 <li>{% if item.pinned %}📌 {% endif %}
-    <a href="{{ item.url }}">{{ item.title }}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+        {% if item.work_author %} by {{ item.work_author }}{% endif %}
+        {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
+        {% if item.access == "paywalled" %} :closed_lock_with_key:{% endif %}
         {% if item.status == ":seedling:" %} :seedling:{% endif %}
         {% if item.status == ":herb:" %} :herb:{% endif %}
         {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-    </a>
 </li>

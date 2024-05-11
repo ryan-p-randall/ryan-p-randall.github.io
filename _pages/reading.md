@@ -22,14 +22,15 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
     {% for item in reading_current reversed %}
 <article>
     <h3>
-        {% if item.reading-articles %} :page_facing_up:{% endif %}
-        {% if item.reading-books %} :book:{% endif %}
-        <a href="{{ item.url }}">{{ item.title }}
-        </a></h3>
-        <p>By: {{ item.work_author }}<br />
-        Started: {{ item.date_started }}<br />
-        Amount read: {{ item.progress_current }} of {{ item.progress_max }} pages</p>
-        <label style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
+    {% if item.reading-articles %} :page_facing_up:{% endif %}
+    {% if item.reading-books %} :book:{% endif %}
+    <a href="{{ item.url }}">{{ item.title }}
+    </a>{% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
+    {% if item.access == "paywalled" %} :closed_lock_with_key:{% endif %}</h3>
+    <p>By: {{ item.work_author }}<br />
+    Started: {{ item.date_started }}<br />
+    Amount read: {{ item.progress_current }} of {{ item.progress_max }} pages</p>
+    <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label><progress id="reading-progress" value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
 </article>
     {% endfor %}
 {% else %}
@@ -43,13 +44,13 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
     {% for item in reading_current_lists %}
 <article>
     <h3>
-        :books:
-        <a href="{{ item.url }}">{{ item.title }}
-        </a></h3>
-        <!-- <p>By: {{ item.work_author }}<br /> -->
-        <p>Started: {{ item.date_started }}<br />
-        Amount read: {{ item.progress_current }} of {{ item.progress_max }} works</p>
-        <label style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
+    :books:
+    <a href="{{ item.url }}">{{ item.title }}
+    </a></h3>
+    <!-- <p>By: {{ item.work_author }}<br /> -->
+    <p>Started: {{ item.date_started }}<br />
+    Amount read: {{ item.progress_current }} of {{ item.progress_max }} works</p>
+    <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} works</progress>
 </article>
     {% endfor %}
 {% else %}
@@ -58,49 +59,24 @@ I plan to add links to reading notes in my digital garden once I'm done, as a ty
 
 ## Previously Read  
 
-{% assign reading_2024_all = site.notes | where:"year_read","2024" | sort: "date_read" %}
-{% if reading_2024_all.size > 0 %}
-
-### 2024  
-
+{% assign reading_notes_all = site.notes | where:"reading","true" | sort_natural: "title" %}
+{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | group_by:"year_read" %}
+{% for year in reading_notes_by_year reversed %}
+<details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
+<div>
 <ul>
-    {% for item in reading_2024_all %}
-    <li>{% if item.pinned %}📌 {% endif %}
-        {% if item.reading-articles %} :page_facing_up:{% endif %}
-        {% if item.reading-books %} :book:{% endif %}
-        <a href="{{ item.url }}">{{ item.title }}</a>
-            {% if item.status == ":seedling:" %} :seedling:{% endif %}
-            {% if item.status == ":herb:" %} :herb:{% endif %}
-            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-            <br />
-        {{ item.excerpt }}
-        <!-- <meta class="p-summary" itemprop="description" content="{{ item.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"> -->
-    </li>
-    {% endfor %}
+{% for item in year.items %}
+<li>
+    {% if item.reading-articles %} :page_facing_up:{% endif %}
+    {% if item.reading-books %} :book:{% endif %}
+    <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}
+    {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
+    {% if item.access == "paywalled" %}:closed_lock_with_key:{% endif %}
+    {% if item.status == ":seedling:" %}:seedling:{% endif %}{% if item.status == ":herb:" %}:herb:{% endif %}{% if item.status == ":evergreen_tree:" %}:evergreen_tree:{% endif %}<br>
+    {{ item.excerpt | markdownify }}
+</li>
+{% endfor %}
 </ul>
-{% else %}
-<p>There's nothing here yet!</p>
-{% endif %}
-
-### 2023  
-
-{% assign reading_2023_all = site.notes | where:"year_read","2023" | sort: "date_read" %}
-{% if reading_2023_all.size > 0 %}
-<ul>
-    {% for item in reading_2023_all %}
-    <li>{% if item.pinned %}📌 {% endif %}
-        {% if item.reading-articles %} :page_facing_up:{% endif %}
-        {% if item.reading-books %} :book:{% endif %}
-        <a href="{{ item.url }}">{{ item.title }}</a>
-            {% if item.status == ":seedling:" %} :seedling:{% endif %}
-            {% if item.status == ":herb:" %} :herb:{% endif %}
-            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-            <br />
-        {{ item.excerpt }}
-        <!-- <meta class="p-summary" itemprop="description" content="{{ item.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"> -->
-    </li>
-    {% endfor %}
-</ul>
-{% else %}
-<p>There's nothing here yet!</p>
-{% endif %}
+</div>
+</details>
+{% endfor %}

@@ -3,7 +3,7 @@ date: 2024-02-17
 last_modified_at: 2024-04-28
 reading: true
 reading-books: true
-excerpt: "Hayles ."
+excerpt: "Hayles examines literary fiction and technological texts for her study of how information became conceived of as immaterial, of how the figure of the cyborg was invented in cultural and technological discourses, and how this cybernetic discourse altered the understanding of the liberal humanist subject."
 status: ":herb:"
 published: true
 title: "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
@@ -17,5 +17,4 @@ current: true
 progress_current: 131
 progress_max: 350
 ---
-
 

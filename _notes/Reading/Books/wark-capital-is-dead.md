@@ -18,4 +18,3 @@ progress_current: 240
 progress_max: 240
 ---
 
-Wark asks us to think about history and information less like Marxists and more like Marx.  

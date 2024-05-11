@@ -17,5 +17,3 @@ current: true
 progress_current: 57
 progress_max: 277
 ---
-
-Lee explores the history of how various cultural formations around literature and information grew through the 19th Century Information Revolution.  

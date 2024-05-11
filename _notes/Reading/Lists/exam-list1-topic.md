@@ -7,6 +7,7 @@ status: ":evergreen_tree:"
 published: true
 title: "Exam List 1: Information Control and Making Meaning in Modern/Postmodern Texts"
 work_author: "Ryan P. Randall"
+excerpt: 'This is the "topic" list for my comprehensive exam, with links to my own reading notes.'
 year_read: 
 date_read: 
 date_started: 2024-04-22
@@ -17,7 +18,6 @@ progress_current: 3
 progress_max: 35
 ---
 
-This is one of my comprehensive exam lists, with links to my own reading notes.  
 It is 35 “work units” long (countable by searching “work Unit1” without a space), as defined in my [program's](https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/) PhD Program [Handbook](https://www.isu.edu/media/libraries/english/PhD-Program-Handbook.pdf).  
 
 ## Rationale
@@ -61,8 +61,8 @@ How do we, in modern or postmodern times, make meaning out of texts? To what ext
 ### Theory Articles
 #### Batch One (workUnit1)
 
-1. Budd, John M. “Instances of Ideology in Discursive Practice: Implications for Library and Information Science.” _The Library Quarterly_ vol 71, no 4, 2001, pp. 498–517. _JSTOR_, <https://www.jstor.org/stable/4309562>. (20 pp.)  
-2. Colatrella, Carol. “Information in the Novel and the Novel as Information System: Charles Dickens’s ‘Little Dorrit’ and Margaret Drabble’s ‘Radiant Way’ Trilogy.” _Information & Culture_ vol. 50, no. 3, 2015, pp. 339–371. _JSTOR_, <https://www.jstor.org/stable/43737492>. (33 pp.)  
+1. Budd, John M. [“Instances of Ideology in Discursive Practice: Implications for Library and Information Science.”](https://www.jstor.org/stable/4309562) _The Library Quarterly_ vol 71, no 4, 2001, pp. 498–517. _JSTOR_. (20 pp.)  
+2. Colatrella, Carol. [“Information in the Novel and the Novel as Information System: Charles Dickens’s ‘Little Dorrit’ and Margaret Drabble’s ‘Radiant Way’ Trilogy.”](https://www.jstor.org/stable/43737492) _Information & Culture_ vol. 50, no. 3, 2015, pp. 339–371. _JSTOR_. (33 pp.)  
 3. Daston, Lorraine. “Objectivity and the Escape from Perspective.” _Social Studies of Science_ vol. 22, pp. 597–618. _SAGE_. (21 pp.)  
 4. Haraway, Donna. “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century.” pp. 149-–181. _Simians, Cyborgs, and Women: The Reinvention of Nature_. Routledge, 1991. (32 pp.)  
 5. ———. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” p. 183–201. _Simians, Cyborgs, and Women: The Reinvention of Nature_. Routledge, 1991. (18 pp.)  
@@ -71,6 +71,6 @@ How do we, in modern or postmodern times, make meaning out of texts? To what ext
 
 1. Olson, Hope. A. “The Power to Name: Representation in Library Catalogs.” _Signs_, vol. 26, no. 3, 2001, pp. 639–668. (29 pp.)  
 2. Radford, Gary P. “Positivism, Foucault, and the Fantasia of the Library: Conceptions of Knowledge and the Modern Library Experience.” _The Library Quarterly: Information, Community, Policy_, vol. 62, no. 4, Oct. 1992, pp. 408–424. (16 pp.)  
-3. Sekula, Allan. “The Body and the Archive.” _October_, vol. 39, winter 1986, pp. 3–64. _JSTOR_, <https://www.jstor.org/stable/778312>. (62 pp.)  
-4. Vidhyanathan, Siva. “Afterword: Critical Information Studies: A Bibliographic Manifesto.” _Cultural Studies_, vol. 20, nos. 2--3, 2006, pp. 292–315. <https://doi.org/10.1080/09502380500521091>. (24 pp.)  
-5. Wark, McKenzie. “Information Wants to Be Free (But Is Everywhere In Chains).” _Cultural Studies_, vol. 20, nos. 2–3, 2006. <https://www.tandfonline.com/doi/abs/10.1080/09502380500495668>. (18 pp.)  
+3. Sekula, Allan. [“The Body and the Archive.”](https://www.jstor.org/stable/778312) _October_, vol. 39, winter 1986, pp. 3–64. _JSTOR_. (62 pp.)  
+4. Vidhyanathan, Siva. [“Afterword: Critical Information Studies: A Bibliographic Manifesto.”](https://doi.org/10.1080/09502380500521091) _Cultural Studies_, vol. 20, nos. 2--3, 2006, pp. 292–315. (24 pp.)  
+5. Wark, McKenzie. [“Information Wants to Be Free (But Is Everywhere In Chains).”](https://www.tandfonline.com/doi/abs/10.1080/09502380500495668) _Cultural Studies_, vol. 20, nos. 2–3, 2006. (18 pp.)  

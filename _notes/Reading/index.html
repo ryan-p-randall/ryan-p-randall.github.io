@@ -48,48 +48,24 @@ notes-folder-path: "/notes/Reading/"
 
 <h2 id="all">All my reading notes, by year finished</h2>
 
+{% assign reading_notes_all = site.notes | where:"reading","true" | sort_natural: "title" %}
 {% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | group_by:"year_read" %}
 {% for year in reading_notes_by_year reversed %}
-    <section id="{{ year.name }}">
-        <h3 id="{{year.name}}">{{ year.name }}</h3>
-        <ul>
-        {% for item in year.items %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-        </ul>
-    </section>
-{% endfor %}
-
-<!-- 
-
-    
-    <h3>2024</h3>
-    
-    {% assign reading_notes_2024 = site.notes | where: "year_read", "2024" %}
-    
-    <ul>
-        {% for item in reading_notes_2024 %}
-        <li><a href="{{ item.url }}">{{ item.title }}
-            {% if item.status == ":seedling:" %} :seedling:{% endif %}
-            {% if item.status == ":herb:" %} :herb:{% endif %}
-            {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-        </a>
-    </li>
-    {% endfor %}
-</ul>
-
-<h3>2023</h3>
-
-{% assign reading_notes_2023 = site.notes | where: "year_read", "2023" %}
+<details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
+<div>
 <ul>
-    {% for item in reading_notes_2023 %}
-    <li><a href="{{ item.url }}">{{ item.title }}
-        {% if item.status == ":seedling:" %} :seedling:{% endif %}
-        {% if item.status == ":herb:" %} :herb:{% endif %}
-        {% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}
-    </a>
+{% for item in year.items %}
+<li>
+    {% if item.reading-articles %} :page_facing_up:{% endif %}
+    {% if item.reading-books %} :book:{% endif %}
+    <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}
+    {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
+    {% if item.access == "paywalled" %} :closed_lock_with_key:{% endif %}
+    {% if item.status == ":seedling:" %} :seedling:{% endif %}{% if item.status == ":herb:" %} :herb:{% endif %}{% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}<br>
+    {{ item.excerpt | markdownify }}
 </li>
 {% endfor %}
 </ul>
-
--->
+</div>
+</details>
+{% endfor %}
