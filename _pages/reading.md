@@ -11,7 +11,7 @@ toc: true
 
 I've occasionally kept track of what I'm reading on BookWyrm, Goodreads, or similar sites.  
 
-As an ongoing experiment with centralizing things to this site, I'm going to try doing so here as well/instead. I often read multiple books and articules in parallel, so I plan to annotate my progress here.  
+As an ongoing experiment with centralizing things to this site, I'm going to try doing so here as well/instead. I often read multiple books and articles in parallel, so I plan to annotate my progress here.  
 
 I plan to add links to reading notes in my digital garden once I'm done, as a type of review.  
 

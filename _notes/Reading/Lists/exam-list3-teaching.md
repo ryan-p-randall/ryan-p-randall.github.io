@@ -20,6 +20,8 @@ progress_max: 35
 
 It is 35 “work units” long (countable by searching “work Unit1” without a space), as defined in my [program's](https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/) PhD Program [Handbook](https://www.isu.edu/media/libraries/english/PhD-Program-Handbook.pdf).  
 
+Book title links go to OpenLibrary's listings, and article title links go to the most open article versions I can find.  
+
 ## Rationale
 
 The works on this list largely fall into two categories. The first category, composition and information literacy, aims to connect the topic of my dissertation to the most typical ways that information is taught in higher education. Instruction on “writing with sources” often provides the most direct instruction an undergraduate will receive on topics such as source evaluation, epistemology, and scholarly consensus. The second category, which includes both more general works on pedagogy and ones more narrowly focused on instructional design, speaks to my career as an instructional designer. It includes both more classic works of critical pedagogy, such as those by Freire, Giroux, or hooks, and more contemporary works like those by Bean, Darby, or Gannon. As I work with instructors across many disciplines in my position in ISU’s Instructional Technology and Resource Center (ITRC), this list includes both more general instructional design works as well as those that address online and hybrid courses.  
