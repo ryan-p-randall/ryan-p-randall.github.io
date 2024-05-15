@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12T16:10:52-6:00
-last_modified_at:
+last_modified_at: 2024-05-15
 reading: true
 reading-books: true
 excerpt: 'Rick Deckard is a bounty hunter searching for escaped androids in a radioactive Northern California where social status is measured by caring for live animals, as an indicator of empathy.'
@@ -13,7 +13,7 @@ year_read:
 date_read: 
 date_started: 2024-05-12
 current: true
-progress_current: 9
+progress_current: 33 # starting page is 435
 progress_max: 177
 ---
 
