@@ -13,7 +13,7 @@ year_read:
 date_read: 
 date_started: 2024-05-12
 current: true
-progress_current: 33 # starting page is 435
+progress_current: 92 # starting page is 435
 progress_max: 177
 ---
 
