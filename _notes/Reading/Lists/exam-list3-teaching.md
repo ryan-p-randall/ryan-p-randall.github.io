@@ -71,7 +71,7 @@ The works on this list largely fall into two categories. The first category, com
 ### Pedagogy and Instructional Design
 
 1. Bean, John C. _Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom_. 2nd ed., Jossey-Bass, 2011. (360 pp., workUnit1.)  
-2. Darby, Flower and James M. Lang. [_Small Teaching Online: Applying Learning Science in Online Classes_](https://openlibrary.org/books/OL28652610M/Small_Teaching_Online). Jossey-Bass, 2019. (252 pp., workUnit1.) ([[darby-small-teaching-online|My public notes]].)  
+2. Darby, Flower and James M. Lang. [_Small Teaching Online: Applying Learning Science in Online Classes_](https://openlibrary.org/books/OL28652610M/Small_Teaching_Online). Jossey-Bass, 2019. (252 pp., workUnit1.) ([[darby-small-teaching-online|My public notes]].) :ballot_box_with_check:  
 3. Dujardin, Gwynn, James M. Lang, and John A. Staunton, editors. _Teaching the Literature Survey Course: New Strategies for College Faculty_. WVU Press, 2018. (249 pp., workUnit1.)  
 4. Gannon, Kevin M. _Radical Hope: A Teaching Manifesto_. WVU Press, 2020. (180 pp., workUnit1.)  
 5. Germano, William and Kit Nicholls. _Syllabus: The Remarkable, Unremarkable Document That Changes Everything_. Princeton UP, 2020. (204 pp., workUnit1.)  

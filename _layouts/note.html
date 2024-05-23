@@ -36,7 +36,7 @@ sidebar:
         {% if page.reading %}
           <h2 id="reading-details">Reading Details</h2>
           <p>{% if page.reading-articles %} :page_facing_up: "{{ page.title }}"<br />{% endif %}
-            {% if page.reading-books %} :book: <strong>{{ page.title }}</strong><br />{% endif %}
+            {% if page.reading-books %} :book: <strong>{{ page.title }}</strong> | <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><br />{% endif %}
             {% if page.access == "oa" %}Link: <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span><br />{% endif %}
             {% if page.access == "paywalled" %}Link: <a href="{{ page.work_link }}">{{ page.work_link_text }}</a> :closed_lock_with_key:<br />{% endif %}
             {% if page.access == "web" %}Link: <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="fas fa-globe" aria-hidden="true"></i><span class="sr-only">general web link</span><br />{% endif %}

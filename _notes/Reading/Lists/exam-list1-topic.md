@@ -1,6 +1,6 @@
 ---
 date: 2024-04-22
-last_modified_at: 
+last_modified_at: 2024-05-22
 reading: true
 reading-lists: true
 status: ":evergreen_tree:"
@@ -14,7 +14,7 @@ date_started: 2024-04-22
 list: true
 # current: true
 current-list: true
-progress_current: 3
+progress_current: 5
 progress_max: 35
 ---
 
@@ -37,7 +37,7 @@ One strategy for depicting information systems and epistemological experiences h
 3. ———. _[Dhalgren](https://openlibrary.org/works/OL56835W/Dhalgren)_. 1974. Vintage, 2001. (801 pp. workUnit1 + workUnit1.)  
 4. ———. _[Nova](https://openlibrary.org/works/OL56833W/Nova)_. 1968. Vintage, 2002. (241 pp. workUnit1.)  
 5. DeLillo, Don. _[White Noise](https://openlibrary.org/books/OL2531465M/White_noise)_. Penguin, 1986. (326 pp. workUnit1.)  
-6. Dick, Philip K. _Do Androids Dream of Electric Sheep?_ 1968. _[Four Novels of the 1960s](https://openlibrary.org/books/OL8898972M/Philip_K._Dick)_. The Library of America, 2007, pp. 435–608. (177 pp. workUnit1.) ([[do androids dream of electric sheep?|My public notes]].)  
+6. Dick, Philip K. _Do Androids Dream of Electric Sheep?_ 1968. _[Four Novels of the 1960s](https://openlibrary.org/books/OL8898972M/Philip_K._Dick)_. The Library of America, 2007, pp. 435–608. (177 pp. workUnit1.) ([[do androids dream of electric sheep?|My public notes]].) :ballot_box_with_check:  
 7. Divya, S.B. _[Machinehood](https://openlibrary.org/works/OL21967564W/Machinehood)_. Gallery / Saga Press, 2022. (416 pp., workUnit1 + workUnit1.)  
 8. Erdrich, Louise. _[The Round House](https://openlibrary.org/works/OL16532040W/The_round_house?mode=all)_. Harper Perennial, 2013. (321 pp. workUnit1.)  
 9. Okorafor, Nnedi. _[Binti: The Complete Trilogy](https://openlibrary.org/works/OL19649739W/Binti_The_Complete_Trilogy)_. Daw Books, 2020. (358 pp. workUnit1.)  
