@@ -7,13 +7,12 @@ title: "Reading"
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
 toc: true
+featured_pages: true
 ---
 
-I've occasionally kept track of what I'm reading on BookWyrm, Goodreads, or similar sites.  
+I've occasionally used BookWyrm, Goodreads, or similar sites for sharing what I'm reading.  
 
-As an ongoing experiment with centralizing things to this site, I'm going to try doing so here as well/instead. I often read multiple books and articles in parallel, so I plan to annotate my progress here.  
-
-I plan to add links to reading notes in my digital garden once I'm done, as a type of review.  
+Now, I track this here. I often read multiple books and articles in parallel, and I annotate my progress here.  
 
 ## Currently Reading  
 

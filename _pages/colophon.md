@@ -6,6 +6,7 @@ header:
   image: /assets/images/pocket-notebooks.jpg
   image_description: "ryan's pocket notebooks with cute stickers on their covers"
 toc: true
+featured_pages: true
 ---
 
 Colophon  

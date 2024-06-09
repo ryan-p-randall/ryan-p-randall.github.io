@@ -10,8 +10,8 @@ main:
     url: /posts/
   - title: "Notes"
     url: /notes/
-  - title: "Bookmarks"
-    url: /bookmarks/  
+  - title: "Reading"
+    url: /reading/  
 #  - title: "CV & Portfolio"
 #    url: /cv/
   - title: "Colophon"

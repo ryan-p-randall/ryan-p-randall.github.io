@@ -7,6 +7,7 @@ last_modified_at: 2024-01-30
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
 toc: true
+featured_pages: true
 ---
 Here are some of the places I've [rhizomatically]({{ '/links-rhizome' | relative_url }}) popped up online, around this site and beyond.  
 

@@ -6,6 +6,7 @@ last_modified_at: 2023-11-21
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
 toc: true
+main_pages: true
 ---
 
 Much like a [colophon]({% link _pages/colophon.md %}), it's intriguing—and sometimes even useful—to see what other people use as they work. Hence, the [/uses](https://uses.tech/) page convention.  

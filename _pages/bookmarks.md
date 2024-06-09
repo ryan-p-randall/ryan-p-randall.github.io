@@ -8,4 +8,5 @@ classes: wide
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
 # toc: true
+featured_pages: true
 ---
