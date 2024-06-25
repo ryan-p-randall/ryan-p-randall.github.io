@@ -27,7 +27,10 @@ Now, I track this here. I often read multiple books and articles in parallel, an
     </a>{% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
     {% if item.access == "paywalled" %} :closed_lock_with_key:{% endif %}</h3>
     <p>By: {{ item.work_author }}<br />
+    <!--
     Started: {{ item.date_started }}<br />
+    -->
+    Last updated: {{ item.last_modified_at }}<br />
     Amount read: {{ item.progress_current }} of {{ item.progress_max }} pages</p>
     <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label><progress id="reading-progress" value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
 </article>
@@ -48,6 +51,7 @@ Now, I track this here. I often read multiple books and articles in parallel, an
     </a></h3>
     <!-- <p>By: {{ item.work_author }}<br /> -->
     <p>Started: {{ item.date_started }}<br />
+    Last updated: {{ item.last_modified_at }}<br />
     Amount read: {{ item.progress_current }} of {{ item.progress_max }} works</p>
     <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} works</progress>
 </article>

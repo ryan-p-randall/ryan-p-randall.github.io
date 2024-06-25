@@ -1,6 +1,6 @@
 ---
 date: 2024-02-17
-last_modified_at: 2024-06-01
+last_modified_at: 2024-06-24
 reading: true
 reading-books: true
 excerpt: "Hayles examines literary fiction and technological texts for her study of how information became conceived of as immaterial, of how the figure of the cyborg was invented in cultural and technological discourses, and how this cybernetic discourse altered the understanding of the liberal humanist subject."
@@ -14,7 +14,7 @@ year_read:
 date_read: 
 date_started: 2024-02-14
 current: true
-progress_current: 192
+progress_current: 231
 progress_max: 350
 ---
 
