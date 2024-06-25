@@ -118,7 +118,7 @@ layout: default
     <div class="page__related">
       <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
       <div class="grid__wrapper">
-        {% for post in site.related_posts limit:4 %}
+        {% for post in site.related_posts limit:3 %} {% comment %} default was limit:4 {% endcomment %}
           {% include archive-single.html type="grid" %}
         {% endfor %}
       </div>
@@ -128,7 +128,7 @@ layout: default
     <div class="page__related">
       <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
       <div class="grid__wrapper">
-        {% for post in site.posts limit:4 %}
+        {% for post in site.posts limit:3 %} {% comment %} default was limit:4 {% endcomment %}
           {% if post.id == page.id %}
             {% continue %}
           {% endif %}
