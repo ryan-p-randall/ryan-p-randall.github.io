@@ -5,7 +5,8 @@ last_modified_at: # 2023-10-12T21:32:49-6:00
 excerpt: "I've been using Obsidian. Both enthusiastically and reluctantly."  
 categories: 
     - notes
-tags: 
+tags:
+    - notetaking
 toc: false
 published: true
 ---

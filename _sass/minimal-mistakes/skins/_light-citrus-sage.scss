@@ -2,6 +2,42 @@
    Light-citrus-sage skin
    ========================================================================== */
 
+   /* new font tests */
+
+@font-face {
+    font-family: "Atkinson-Hyperlegible";
+    src: url('../fonts/atkinson-hyperlegible-regular-102a.woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Atkinson-Hyperlegible";
+    src: url('../fonts/atkinson-hyperlegible-bold-102a.woff2');
+    font-weight: 700; /* bold */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cartridge";
+    src: url('../fonts/Cartridge-Regular.woff2');
+    font-weight: 400; /* bold */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cartridge";
+    src: url('../fonts/Cartridge-Bold.woff2');
+    font-weight: 700; /* bold */
+    font-style: normal;
+    font-display: swap;
+}
+
+/* end of new font tests; also added $sans-serif-2 family in _variables.scss */
+
 /* Colors */
 $background-color: #FAFAFA !default;
 $text-color: #252a34 !default;
@@ -123,6 +159,16 @@ details > div {
 
 details {
     padding: .5rem;
+}
+
+details.tags > div {
+    padding: 0;
+}
+
+details.tags ul {
+    list-style-type: none;
+    padding-left: 1rem;
+    margin-bottom: 0;
 }
 
 summary:hover /* summary:focus */ {

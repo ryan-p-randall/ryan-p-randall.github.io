@@ -5,6 +5,7 @@ categories: [photonic-jukebox]
 excerpt: 'Tough electro with bouncy rhythms and squiggly synths.'
 tags:
     - techno
+    - listening
 # header:
 #  image: /assets/images/weekly-assemblage.png
 #  caption: 'Photo credit: [**Unsplash**](https://unsplash.com)'

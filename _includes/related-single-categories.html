@@ -1,0 +1,23 @@
+<!-- {% assign tags_common_sorted = commonTags.tags | sort_natural %} -->
+
+<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+{% include page__meta.html type=include.type %}
+<p>
+    {{ post.excerpt }}
+</p>
+<!--<details class="tags" style="font-size: .9em;"><summary>
+    {{ site.data.ui-text[site.locale].categories_label | default: "Categories" }}
+    </summary>
+    <div>
+        <ul class="list-unstyled">
+            {% for category in post.categories %}
+            <li style="font-size: .9em;">-->
+                <p>Category: 
+                    <a href="{{ category | slugify | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="category">{{ category }}</a><!-- {% unless forloop.last %}<span class="sep">, </span>{% endunless %}-->
+                    
+                </p>
+            <!--</li>
+            {% endfor %}
+        </ul>
+    </div>
+</details>-->

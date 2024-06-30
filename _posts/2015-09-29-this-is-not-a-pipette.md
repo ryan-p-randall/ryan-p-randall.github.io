@@ -3,7 +3,7 @@ title: "This Is Not a Pipette: Bringing Humanities Methods into LIS Programs"
 modified:
 categories:
 excerpt: _"Science"_ doesn't have to be the only way to parse the "S" in LIS—I suggest some examples of using humanities-style critical theory in information studies in this post for Hack Library School.
-tags: [hack library school, critical theory]
+tags: [hack library school, critical theory, method]
 published: true
 date: 2015-09-27T22:46:08-06:00
 ---

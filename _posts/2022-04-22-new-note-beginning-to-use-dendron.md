@@ -4,9 +4,9 @@ date: 2022-04-22T12:51:53-07:00
 last_modified_at:  
 excerpt: "New note with suggestions for starting to use Dendron."  
 categories: 
-  - notes
+    - notes
 tags: 
-  -   
+    - notetaking
 toc: false
 published: true
 ---

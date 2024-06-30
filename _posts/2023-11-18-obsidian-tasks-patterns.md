@@ -6,6 +6,7 @@ excerpt: "How I use the Tasks plugin for Obsidian."
 categories: 
     - notes
 tags: 
+    - notetaking
 toc: false
 published: true
 ---

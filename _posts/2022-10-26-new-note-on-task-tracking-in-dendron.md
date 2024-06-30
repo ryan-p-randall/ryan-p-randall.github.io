@@ -4,9 +4,9 @@ date: 2022-10-26T12:51:53-07:00
 last_modified_at:  
 excerpt: "Note about how I track tasks in Dendron."  
 categories: 
-  - notes
+    - notes
 tags: 
-  -   
+    - notetaking
 toc: false
 published: true
 ---

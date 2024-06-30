@@ -153,7 +153,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single-custom-related-categories
       author_profile: false # true
       breadcrumbs: true
       comments: true

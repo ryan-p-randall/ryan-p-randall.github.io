@@ -161,6 +161,16 @@ details {
     padding: .5rem;
 }
 
+details.tags > div {
+    padding: 0;
+}
+
+details.tags ul {
+    list-style-type: none;
+    padding-left: 1rem;
+    margin-bottom: 0;
+}
+
 summary:hover /* summary:focus */ {
    box-shadow: 0 0 0 0.35rem $masthead-link-color-hover;
 }

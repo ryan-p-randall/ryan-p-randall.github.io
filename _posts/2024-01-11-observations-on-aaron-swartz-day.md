@@ -1,9 +1,9 @@
 ---
 title: "Observations on Aaron Swartz Day"
-modified:
+last_modified_at: 2024-06-29
 categories: # [weekly-assemblage]
 excerpt: 'A tiny tribute based on dots I just connected, as I was going about my business.'
-tags: []
+tags: [meta, markdown, rss, open access, personal websites]
 # header:
 #  image: /assets/images/weekly-assemblage.png
 #  caption: 'Photo credit: [**Unsplash**](https://unsplash.com)'

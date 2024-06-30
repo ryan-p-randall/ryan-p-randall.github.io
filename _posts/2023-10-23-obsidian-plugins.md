@@ -5,7 +5,8 @@ last_modified_at: # 2023-10-12T21:32:49-6:00
 excerpt: "The plugins I use most with Obsidian."  
 categories: 
     - notes
-tags: 
+tags:
+    - notetaking
 toc: false
 published: true
 ---
