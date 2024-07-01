@@ -13,7 +13,7 @@
             {% for category in post.categories %}
             <li style="font-size: .9em;">-->
                 <p>Category: 
-                    <a href="{{ category | slugify | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="category">{{ category }}</a><!-- {% unless forloop.last %}<span class="sep">, </span>{% endunless %}-->
+                    <a href="{{ category | slugify | prepend: path_type | prepend: site.category_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="category">{{ category }}</a><!-- {% unless forloop.last %}<span class="sep">, </span>{% endunless %}-->
                     
                 </p>
             <!--</li>
