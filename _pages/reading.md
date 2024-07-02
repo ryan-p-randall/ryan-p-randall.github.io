@@ -10,9 +10,11 @@ toc: true
 featured_pages: true
 ---
 
-I've occasionally used BookWyrm, Goodreads, or similar sites for sharing what I'm reading.  
+I occasionally use [BookWyrm](https://bookwyrm.social/user/foureyedsoul) for sharing what I'm reading, and I love the interactions on there. (This "part of a larger community" feeling is what I've loved about our reading sites like GoodReads in the past as well.)  
 
-Now, I track this here. I often read multiple books and articles in parallel, and I annotate my progress here.  
+Simultaneously, I'm most reliable about tracking my reading here—and I'm still aiming to write more posts that link to these notes, somewhat like Mandy Brown does in her [A Working Library](https://aworkinglibrary.com/) site.  
+
+As you'll notice, I often read works in parallel. For the next couple years, I'll also be heavily prioritizing the things on my Ph.D. exam reading lists.  
 
 ## Currently Reading  
 
