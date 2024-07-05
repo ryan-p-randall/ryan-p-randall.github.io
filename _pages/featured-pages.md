@@ -11,10 +11,6 @@ Several Pages Galore
         <div><span id="blips-desc">Hyperlocal microblogging, if you will.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="blogroll-desc" href="{{ site.url }}/blogroll/">Blogroll</a><br>
-        <div><span id="blogroll-desc">Blogs you might also enjoy following.</span></div>
-    </div>
-    <div class="backlink-box">
         <a aria-describedby="booksmarks-desc" href="{{ site.url }}/bookmarks/">Bookmarks</a><br>
         <div><span id="bookmarks-desc">Bookmarks I'd like to share.</span></div>
     </div>
@@ -37,6 +33,10 @@ Several Pages Galore
     <div class="backlink-box">
         <a aria-describedby="uses-desc" href="{{ site.url }}/uses/">Uses</a><br>
         <div><span id="uses-desc">Some apps and other things I use.</span></div>
+    </div>
+    <div class="backlink-box">
+        <a aria-describedby="postroll-desc" href="{{ site.url }}/postroll/">Postroll</a><br>
+        <div><span id="postroll-desc">Other people's blog posts you might also enjoy reading.</span></div>
     </div>
 <!--    <div class="backlink-box">
         <a aria-describedby="ways-desc" href="{{ site.url }}/ways/">Ways</a><br>
