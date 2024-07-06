@@ -40,4 +40,5 @@ This list is numbered chronologically, with "1" indicating the newest addition t
 
 Do you have a postroll page? Let me know and I'll try to add it here.  
 
-- Brandon's [Postroll](https://wand3r.net/postroll/) page.  
+- Brandon's [Postroll](https://wand3r.net/postroll/).  
+- Jedda's [Postroll](https://notes.jeddacp.com/postroll/).  
