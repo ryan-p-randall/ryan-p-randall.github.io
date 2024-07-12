@@ -38,4 +38,4 @@ It offers a suggestion or example that will disappear when other text is entered
 <input type="text" id="text" name="text" value="Does this text automagically disappear?" required>
 
 The above text uses the `value` html attribute.  
-It prepopulates the field with that text.
+It prepopulates the field with that text.  
