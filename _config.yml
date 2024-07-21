@@ -212,3 +212,6 @@ tag_archive:
 #    enabled: true
 #  pagepreview:
 #    enabled: true
+
+after_footer_scripts:
+    - /assets/js/plugins/external-link-indicator.js
