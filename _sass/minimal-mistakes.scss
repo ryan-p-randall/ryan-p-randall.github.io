@@ -86,3 +86,13 @@ h6 {
 .toc .active a {
     box-shadow: inset 0 0 0 0.15rem mix($background-color, $link-color-hover, 5%);
 }
+
+/*
+.page__content a.internal-link:not(nav a.internal-link) {
+    background-color: aqua;
+}
+*/
+
+.page__content a.external-link:not(nav a.external-link, div.backlink-box a.external-link)::after {
+    content: " ↗"
+}
