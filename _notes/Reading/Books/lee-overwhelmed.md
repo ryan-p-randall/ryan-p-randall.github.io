@@ -14,6 +14,6 @@ year_read:
 date_read: 
 date_started: 2023-11-12
 current: true
-progress_current: 108
+progress_current: 111
 progress_max: 277
 ---
