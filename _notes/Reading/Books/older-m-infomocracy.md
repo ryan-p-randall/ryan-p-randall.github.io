@@ -1,6 +1,6 @@
 ---
 date: 2024-07-30T21:54:30-6:00
-last_modified_at: 2024-08-04
+last_modified_at: 2024-08-07
 reading: true
 reading-books: true
 excerpt: '.'
@@ -14,6 +14,6 @@ year_read:
 date_read: 
 date_started: 2024-07-30
 current: true
-progress_current: 177
+progress_current: 294
 progress_max: 380
 ---
