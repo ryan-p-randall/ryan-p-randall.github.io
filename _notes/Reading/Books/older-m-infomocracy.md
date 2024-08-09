@@ -1,9 +1,9 @@
 ---
 date: 2024-07-30T21:54:30-6:00
-last_modified_at: 2024-08-07
+last_modified_at: 2024-08-08
 reading: true
 reading-books: true
-excerpt: '.'
+excerpt: 'Twenty years into a global experiment with micro-democracy, and Information workers (or antagonists) hope to protect this political experiment through the next world-wide election cycle.'
 status: ':herb:'
 published: true
 title: 'Infomocracy'
