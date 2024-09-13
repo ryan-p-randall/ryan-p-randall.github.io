@@ -1,12 +1,12 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2024-04-22T22:41:56-6:00
+last_modified_at: 2024-09-12
 toc: true
 toc_sticky: true
 ---
 
-This page last updated 2024-04-22.  
+This page last updated on {{ page.last_modified_at }}.  
 Download an older version of this [C.V. as a .pdf from 2015](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
 You may also see some of this on my [portfolio page](https://www.ryanpatrickrandall.com/portfolio/), last updated 2015-10-10.  
 {: .notice}
@@ -111,7 +111,6 @@ Rush Rhees Library Digital Initiatives Unit, May 2007–November 2008
   - ["Designing the Academic Library Catalog: A Review of Relevant Literature and Projects,"](http://hdl.handle.net/1802/8409) co-authored with Nancy Fried Foster. Technical report, 2007.
   - Assisted with literature and project review, as well as writing the report  
 
-
 ## English, Visual and Cultural Studies, and ESOL Teaching and Tutorial Experience  
 
 **Idaho State University** Pocatello, ID  
@@ -201,6 +200,9 @@ I wrote the [SIFT Moves](https://infolit-idaho.github.io/infolit-for-everyone/si
 
 ## Instructional Design & Library Conference Presentations and Panels  
 
+- "Opening the Door to a More Inclusive and Equitable Learning Environment with UDL". [slides](https://hcommons.org/deposits/item/hc:65889/), [handout](https://hcommons.org/deposits/item/hc:65891/).  
+**Invited presentation**, co-presented with Kimberly Tomkinson.  
+[*2024 Higher Ed Quality in Action Conference*](https://qualitymatters.org/qa-resources/resource-center/conference-presentations/opening-door-more-inclusive-and-equitable).  
 - "Navigating Privacy Issues with Generative AI" panel. [video](https://www.youtube.com/watch?v=gBhUIoFstgc), [handout](https://docs.google.com/document/d/1QNS26A2fBBXKXFM8G9dk2fpweTpJudGuGsRNdFGTQGs/edit).  
 **Invited panelist**, with Liza Long and Reed Hepler.  
 Panel convened by Idaho State Board of Education's "AI Alliance" and held online, 2024.  
@@ -208,7 +210,7 @@ Panel convened by Idaho State Board of Education's "AI Alliance" and held online
 Co-presented with Kimberly Tomkinson.  
 [*QM Connect 2023*](https://events.qualitymatters.org/event/8c32397a-b238-4523-beaa-93d7b4d93856/websitePage:4575682a-7d18-49cf-bfdc-3a1ab7bddf4e).  
 - "Student Scholars Creating OER through Renewable Assignments." [slides](https://docs.google.com/presentation/d/1JqVIjDQhL2G_94xW4m85IdaJFTDRhj2m3NKQ6uM26AI/edit?usp=sharing).  
-**Invited talk**, Co-presented with Liza Long.  
+**Invited talk**, co-presented with Liza Long.  
 [*Louisiana State University's HEROE-S Forum*](https://lsu.edu/hss/wllc/forlanglab/heroes.php), Conference held online, 2023.  
 - "Student Scholars in Action: Collaborations with Librarians, Students, and Instructors for Student-Driven OER." [slides](https://docs.google.com/presentation/d/1ivuInqMSBssEpQhRr0frs9SdoCcwrAjR_7doz4w_E_8/edit?usp=sharing), [links and related resources](https://docs.google.com/document/d/1klIFV3vrRj4Rre-TDRrXFPNqmmZBfmQce1fENP5oGcU/edit?usp=sharing).  
 Co-presented with Liza Long and Carrie Bailey.  
@@ -222,8 +224,8 @@ Panel with Jonathan Lashley, Kristin Witman, Marco Seiferle-Valencia, and Monica
 - "Will I Get Credit for my Badges?" [slides](https://drive.google.com/file/d/1KH8FzjqsoTHAc44dTxqcyyK_24Jpq2tW/view).  
 Information Literacy Lightning Talk with Rebeca Peacock, Shelly Doty, and Lindsay Marsh.  
 [*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020.  
-- "SIFT Moves." [video](https://flipgrid.com/05bb6128)  
-"Innovative Ideas" poster session / video lightning talk  
+- "SIFT Moves." [video](https://flipgrid.com/05bb6128).  
+"Innovative Ideas" poster session / video lightning talk.  
 [*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020.  
 - "Informing the Crisis of Fake News."  
 Presentation.  
@@ -231,7 +233,7 @@ Presentation.
 - "Changing Tides: Exploring Current Trends in Information Literacy Programs."  
 Panel with Zoe Fisher, Danielle Rowland, Megan Smithling, and Elizabeth Brown.  
 [*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA, 2017.  
-- "ILA Social Justice Committee, Equity, and Libraries." [slides](http://ryanpatrickrandall.com/talks/swila2017)  
+- "ILA Social Justice Committee, Equity, and Libraries." [slides](http://ryanpatrickrandall.com/talks/swila2017).  
 __Keynote presentation__.
 *SWILA (Southwestern Idaho Library Association) Conference*, Meridian, ID, 2017.  
 - "Productive Interpretations: Encouraging Patron Agency through Cultural Criticism." [slides](https://www.ryanpatrickrandall.com/talks/capal16/), [paper](https://capalibrarians.org/wp/wp-content/uploads/2016/08/4A_Randall_paper.pdf).  
