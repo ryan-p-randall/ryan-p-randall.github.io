@@ -1,6 +1,6 @@
 ---
 date: 2023-11-12
-last_modified_at: 2024-09-09
+last_modified_at: 2024-09-18
 reading: true
 reading-books: true
 excerpt: "Lee explores the history of how various cultural formations around literature and information grew through the 19th Century Information Revolution."
@@ -10,10 +10,10 @@ title: "Overwhelmed: Literature, Aesthetics, and the Nineteenth-Century Informat
 work_author: "Maurice S. Lee"
 work_link: "https://openlibrary.org/works/OL21212512W/Overwhelmed"
 work_link_text: "OpenLibrary"
-year_read: 
-date_read: 
+year_read: 2024
+date_read: 2024-09-14
 date_started: 2023-11-12
-current: true
-progress_current: 185
+current: false # true
+progress_current: 277
 progress_max: 277
 ---
