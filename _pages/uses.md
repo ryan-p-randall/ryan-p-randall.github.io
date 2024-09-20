@@ -1,7 +1,7 @@
 ---
 permalink: /uses/
 title: "Uses"
-last_modified_at: 2023-11-21
+last_modified_at: 2024-09-19
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
@@ -57,6 +57,7 @@ Here I'll selectively highlight some of the things I use. **None** of these are 
     3. Open another app,
     4. Log into a web-based chat client,
     5. And keep my display from falling asleep for the next couple hours, so I'd still hear the "new chat" alert if I'd gone to grab a glass of water in the next room.  
+- [Espanso](https://espanso.org/) is a free, open-source text expander. It's decidedly more "techie" to set up than many others, since configuring it involves separate text files and YAML markup—but it's also very handy if you type things repeatedly or want to be able to type something like `;now` and have it output the current time anywhere you're tying. For someone with my kind of ADHD, this kind of constantly-updating output is surprisingly useful!  
 - [Lungo](https://sindresorhus.com/lungo) is an inexpensive menu bar tool for MacOS that can keep your screen/computer awake. The same developer makes a ton of [other tools](https://sindresorhus.com/apps), many of them free. This one's definitely worth what little I paid for it, though.  
 - [PopClip](https://www.popclip.app/) is a great paid utility that provides a bunch of small tools for text. Want to quickly sort a list? Want to know word or character count, anywhere? Want to change something from all caps to sentence case? It does all that and more!  
 - [Rectangle](https://rectangleapp.com/) is a gratis utility that lets you move your windows in MacOS using just keyboard commands. I never realized how much I'd benefit from something like this until I started using it.  
