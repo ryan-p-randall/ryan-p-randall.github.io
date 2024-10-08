@@ -1,7 +1,7 @@
 ---
 permalink: /uses/
 title: "Uses"
-last_modified_at: 2024-09-19
+last_modified_at: 2024-10-07
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
@@ -17,7 +17,9 @@ Here I'll selectively highlight some of the things I use. **None** of these are 
 
 ## Hardware  
 
-- LogicTech's [MX Mechanical](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html) keyboard easily switches between a few different devices, and is compatible with Mac, Linux, and Windows.  
+- LogicTech's [MX Keys S](https://www.logitech.com/en-us/products/keyboards/mx-keys-s.920-011558.html) keyboard easily switches between a few different devices, and is compatible with Mac, Linux, and Windows.  
+    - (I've also used the [mechanical version](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html) of this keyboard, and liked it well enough. However, I ultimately decided that I prefer the quieter, lower-profile version. I apparently type vigorously enough while taking notes in Zoom meetings that sometimes the mechanical keys would be loud enough to obscure other people's voices. Your mileage may vary; both are nice for what they are!)  
+- Blue Microphone's [Yeti](https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.988-000101.html) is a great external USB microphone, particularly for vocal recordings. Its adjustable pickup patterns are the main feature that stood out when I first picked it up, since we needed a microphone that would pick up just the necessary voices—and minimal other sounds—for our streamed backyard wedding in 2020.  
 
 ## Software  
 
