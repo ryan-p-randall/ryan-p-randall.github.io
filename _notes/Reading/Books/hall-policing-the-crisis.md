@@ -1,6 +1,6 @@
 ---
 date: 2023-02-01
-last_modified_at: 2024-10-29
+last_modified_at: 2024-11-10
 reading: true
 reading-books: true
 excerpt: "Hall and cowriters provide a classic analysis of the rhetoric of a moral panic."
@@ -14,7 +14,7 @@ year_read:
 date_read:
 date_started: 2022-10-02
 current: true
-progress_current: 206
+progress_current: 268
 progress_max: 451
 ---
 
