@@ -28,7 +28,7 @@ lifespan: 2014-2024
 teaser:  
 logo:  
 masthead_title: 
-og_image: /assets/images/pocket-notebooks-square.jpg
+og_image: /assets/images/pocket-notebooks-og-card.jpg
 # breadcrumbs: true  
 words_per_minute: 160  
 date_format: "%Y-%m-%d"
