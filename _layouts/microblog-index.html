@@ -1,0 +1,43 @@
+---
+layout: archive
+---
+
+{% for item in site.microblog %}
+    <h2>
+        <a href="{{ item.url }}">
+            {{ item.title }}
+        </a>
+    </h2>
+    {{ item.content | markdownify }}
+    <p> {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        {% if item.date %}
+        <div class="page__date" style="font-size: .9em;"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Created: </strong> <time class="dt-published" datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: date_format }}</time></div>
+        {% endif %}
+        {% if item.last_modified_at %}
+            <div class="page__date" style="font-size: .9em;"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time class="dt-published" datetime="{{ item.last_modified_at | date: "%Y-%m-%d" }}">{{ item.last_modified_at | date: date_format }}</time></div>
+        {% endif %}</p>
+        {% include tag-list.html %}
+        {% if item.tags != empty %}<p>
+            <li style="font-size: .9em; display: inline-block;">
+                {% for tag in item.tags %}
+                <a href="{{ tag | slugify | prepend: '#' }}" class="page__taxonomy-item p-category" rel="tag">#{{ tag }}</a>
+                {% endfor %}
+            </li>
+        </p>
+        {% endif %}
+        {% comment %}
+        {% endcomment %}
+{% endfor %}
+
+  <h2>Tags</h2>
+{% assign tags =  site.microblog | map: 'tags' | uniq %}
+{% for tag in tags %}
+  <h3 id="{{ tag }}">{{ tag }}</h3>
+  <ul>
+  {% for item in site.microblog %}
+    {% if item.tags contains tag %}
+    <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}
