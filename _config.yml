@@ -176,7 +176,7 @@ defaults:
       path: "" # "_notes/**/*.md"
       type: notes
     values:
-      layout: "note"
+      layout: note
       author_profile: false # true
       comments: true
       toc: true

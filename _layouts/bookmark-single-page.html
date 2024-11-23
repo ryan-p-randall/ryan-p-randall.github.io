@@ -107,6 +107,7 @@ layout: default
         {% endif %}
     {% comment %}{% include light-mode-only-notice.html %}{% endcomment %}
         {{ content }}
+        {% include tinylytics.html %}
         {% if page.categories contains "notes" %}
           {% include notes-index-mention.html %}
           {% else %}
