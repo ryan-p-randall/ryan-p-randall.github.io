@@ -9,6 +9,7 @@ toc: true
 toc_sticky: true
 featured_pages: true
 author_profile: true
+comments: true
 ---
 
 Colophon  

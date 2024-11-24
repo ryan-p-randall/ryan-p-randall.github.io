@@ -59,7 +59,16 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
       {% comment %}{% endcomment %}
-      <aside style="font-size: 0.9em; margin-top: 1em;">
+      <aside style="font-size: 0.9em;"> <!-- margin-top: 1em; -->
+        <footer class="page__meta" style="margin-top: 0em; margin-bottom: 1em;">
+            {% if site.data.ui-text[site.locale].meta_label %}
+            <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+            {% endif %}
+            {% include article_author.html %}
+            {% include page__taxonomy.html %}
+            {% include page__date.html %}
+        </footer>
+        {% include post_pagination.html %}
         <h2 id="bonus-info">Bonus Info</h2>
             <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note--></h3>
             {% if page.backlinks.size > 0 %}
@@ -94,18 +103,9 @@ layout: default
                         </div>
                 </aside>{% comment %}{% endcomment %}
                 </section>
-                <footer class="page__meta">
-                    {% if site.data.ui-text[site.locale].meta_label %}
-                    <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
-                    {% endif %}
-                    {% include article_author.html %}
-                    {% include page__taxonomy.html %}
-                    {% include page__date.html %}
-                </footer>
-                
+                <!-- footer was here -->
                 {% if page.share %}{% include social-share.html %}{% endif %}
-                
-                {% include post_pagination.html %}
+                <!-- post pagination was here -->
             </div>
             
             {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}

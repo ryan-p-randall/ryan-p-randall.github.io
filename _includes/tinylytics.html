@@ -1,5 +1,9 @@
 <h3 id="kudos">Kudos</h3>
-Did you enjoy this? Let me know:
 <p>
-<button class="tinylytics_kudos"></button>
+    Did you enjoy this? Let me know: <button class="tinylytics_kudos"></button>
 </p>
+{% if page.comments == true %}
+<p>
+    Perhaps even <a href="#comments">leave a comment below</a>?
+</p>
+{% endif %}

@@ -90,7 +90,7 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+            {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
           </h1>{% endif %}
           {% include page__meta.html %}
         </header>
@@ -107,17 +107,16 @@ layout: default
         {% endif %}
     {% comment %}{% include light-mode-only-notice.html %}{% endcomment %}
         {{ content }}
-        {% include tinylytics.html %}
         {% if page.categories contains "notes" %}
-          {% include notes-index-mention.html %}
-          {% else %}
+        {% include notes-index-mention.html %}
+        {% else %}
         {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
+    </section>
 
       {% assign b-tags_sorted = page.b-tags | sort_natural %}
       
-      <footer class="page__meta">
+      <footer class="page__meta" style="margin-bottom: 1em;">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
@@ -142,7 +141,7 @@ layout: default
 {% endcomment %}
 
       </footer>
-
+      {% include tinylytics.html %}
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
