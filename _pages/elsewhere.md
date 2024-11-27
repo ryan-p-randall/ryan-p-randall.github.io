@@ -48,12 +48,17 @@ Here are some of the places I've [rhizomatically]({{ '/links-rhizome' | relative
 <ul class="list-unstyled" role="list">
 <li role="listitem">
     <a href="https://hcommons.social/@ryanrandall" itemprop="sameAs" rel="me nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon (Mostly public at HCommons.Social)
+    <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon (At HCommons.Social)
+    </a>
+</li>
+<li role="listitem">
+    <a href="https://bsky.app/profile/ryanpatrickrandall.com" itemprop="sameAs" rel="me nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="fa-brands fa-square-bluesky" aria-hidden="true" style="margin-right: .5em;"></i>BlueSky
     </a>
 </li>
 <li role="listitem">
     <a href="https://scholar.social/@foureyedsoul" itemprop="sameAs" rel="me nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon (Mostly private at Scholar.Social)
+    <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon (At Scholar.Social)
     </a>
 </li>
 </ul>
