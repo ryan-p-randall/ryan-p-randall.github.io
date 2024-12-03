@@ -189,6 +189,7 @@ defaults:
       type: bookmarks
     values:
       layout: bookmark-single-page # single
+      breadcrumbs: true
       # toc: false # true
       # toc_sticky: false # true
       author_profile: false # true

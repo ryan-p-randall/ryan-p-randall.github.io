@@ -1,7 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
+$max-width: 85%;
 @charset "utf-8";
 // $background-color: #252a34;
 // $primary-color: #00b386 !default;
@@ -164,6 +164,7 @@ summary:focus {
 .breadcrumbs ol {
     padding: 0;
     list-style: none;
+    // width: calc(#{$max-width} - 2rem ); // width: 82%;
     /* font-size: 1em; */
 }
 
