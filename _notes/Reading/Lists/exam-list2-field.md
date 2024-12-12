@@ -30,7 +30,7 @@ In putting together the list, the themes of the built environment and spatial/so
 
 ## Fiction
 
-1. Butler, Octavia. E. _Kindred_. 1979. Beacon Press, 2004. (287 pp. workUnit1.)  
+1. Butler, Octavia E. _Kindred_. 1979. Beacon Press, 2004. (287 pp. workUnit1.)  
 2. ———. _Parable of the Sower_. 1993. Grand Central Publishing, 2019. (368 pp. workUnit1.)  
 3. ———. _Parable of the Talents_. 1998. Grand Central Publishing, 2019. (448 pp. workUnit1 + workUnit1.)  
 4. Coupland, Douglas. _Generation X: Tales for an Accelerated Culture_. St. Martin's Press, 1991. (192 pp. workUnit1.)  
