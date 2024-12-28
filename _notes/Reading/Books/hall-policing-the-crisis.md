@@ -1,6 +1,10 @@
 ---
 date: 2023-02-01
+<<<<<<< Updated upstream
 last_modified_at: 2024-12-22
+=======
+last_modified_at: 2024-12-27
+>>>>>>> Stashed changes
 reading: true
 reading-books: true
 excerpt: "Hall and cowriters provide a classic analysis of the rhetoric of a moral panic."
@@ -10,11 +14,16 @@ title: "Policing the Crisis: Mugging, the State, and Law and Order"
 work_author: "Stuart Hall, Chas Critcher, Tony Jefferson, John Clarke, and Brian Roberts"
 work_link: "https://openlibrary.org/works/OL20720487W/Policing_the_Crisis"
 work_link_text: "OpenLibrary"
-year_read:
-date_read:
+year_read: 2024
+date_read: 2024-12-27
 date_started: 2022-10-02
+<<<<<<< Updated upstream
 current: true
 progress_current: 355
+=======
+current: false
+progress_current: 451
+>>>>>>> Stashed changes
 progress_max: 451
 ---
 

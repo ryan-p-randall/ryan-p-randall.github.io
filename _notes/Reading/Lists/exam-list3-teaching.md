@@ -1,6 +1,6 @@
 ---
 date: 2024-04-22
-last_modified_at: 2024-05-10
+last_modified_at: 2024-12-28
 reading: true
 reading-lists: true
 status: ":evergreen_tree:"
@@ -71,7 +71,7 @@ The works on this list largely fall into two categories. The first category, com
 ### Pedagogy and Instructional Design
 
 1. Bean, John C. _Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom_. 2nd ed., Jossey-Bass, 2011. (360 pp., workUnit1.)  
-2. Darby, Flower and James M. Lang. [_Small Teaching Online: Applying Learning Science in Online Classes_](https://openlibrary.org/books/OL28652610M/Small_Teaching_Online). Jossey-Bass, 2019. (252 pp., workUnit1.) ([[darby-small-teaching-online|My public notes]].) :ballot_box_with_check:  
+2. :ballot_box_with_check: Darby, Flower and James M. Lang. [_Small Teaching Online: Applying Learning Science in Online Classes_](https://openlibrary.org/books/OL28652610M/Small_Teaching_Online). Jossey-Bass, 2019. (252 pp., workUnit1.) ([[darby-small-teaching-online|My public notes]].)  
 3. Dujardin, Gwynn, James M. Lang, and John A. Staunton, editors. _Teaching the Literature Survey Course: New Strategies for College Faculty_. WVU Press, 2018. (249 pp., workUnit1.)  
 4. Gannon, Kevin M. _Radical Hope: A Teaching Manifesto_. WVU Press, 2020. (180 pp., workUnit1.)  
 5. Germano, William and Kit Nicholls. _Syllabus: The Remarkable, Unremarkable Document That Changes Everything_. Princeton UP, 2020. (204 pp., workUnit1.)  
@@ -79,7 +79,7 @@ The works on this list largely fall into two categories. The first category, com
 7. Goodell, Jim and Janet Kolodner, eds. _Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond_. Routledge, 2022. (438 pp., workUnit1 + workUnit1.)  
 8. Hayot, Eric. _Humanist Reason: A History. An Argument. A Plan._ Columbia UP, 2021. (218 pp., workUnit1.)  
 9. hooks, bell. _Teaching Critical Thinking: Practice Wisdom_. Routledge, 2010. (198 pp., workUnit1.)  
-10. ———. _Teaching to Transgress: Education as the Practice of Freedom_. Routledge, 1994. (224 pp., workUnit1.)  
+10. :ballot_box_with_check: ———. _Teaching to Transgress: Education as the Practice of Freedom_. Routledge, 1994. (224 pp., workUnit1.)  
 11. Kernahan, Cyndi. _Teaching about Race and Racism in the College Classroom: Notes from a White Professor_. WVU Press, 2019. (228 pp., workUnit1.)  
 12. Lang, James M. _Small Teaching: Everyday Lessons from the Science of Learning_. 2nd ed., Jossey-Bass, 2021. (288 pp., workUnit1.)  
 13. Neuhaus, Jessamyn. _Geeky Pedagogy: A Guide for Intellectuals, Introverts, and Nerds Who Want to Be Effective Teachers_. WVU Press, 2019. (264 pp., workUnit1.)  

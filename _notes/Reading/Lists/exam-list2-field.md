@@ -1,6 +1,6 @@
 ---
 date: 2024-04-22
-last_modified_at: 
+last_modified_at: 2024-12-28
 reading: true
 reading-lists: true
 status: ":evergreen_tree:"
@@ -14,7 +14,7 @@ date_started: 2024-04-22
 list: true
 # current: true
 current-list: true
-progress_current: 5
+progress_current: 0
 progress_max: 35
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-04-22
-last_modified_at: 2024-05-22
+last_modified_at: 2024-12-28
 reading: true
 reading-lists: true
 status: ":evergreen_tree:"
@@ -14,7 +14,7 @@ date_started: 2024-04-22
 list: true
 # current: true
 current-list: true
-progress_current: 5
+progress_current: 6
 progress_max: 35
 ---
 
@@ -37,11 +37,11 @@ One strategy for depicting information systems and epistemological experiences h
 3. ———. _[Dhalgren](https://openlibrary.org/works/OL56835W/Dhalgren)_. 1974. Vintage, 2001. (801 pp. workUnit1 + workUnit1.)  
 4. ———. _[Nova](https://openlibrary.org/works/OL56833W/Nova)_. 1968. Vintage, 2002. (241 pp. workUnit1.)  
 5. DeLillo, Don. _[White Noise](https://openlibrary.org/books/OL2531465M/White_noise)_. Penguin, 1986. (326 pp. workUnit1.)  
-6. Dick, Philip K. _Do Androids Dream of Electric Sheep?_ 1968. _[Four Novels of the 1960s](https://openlibrary.org/books/OL8898972M/Philip_K._Dick)_. The Library of America, 2007, pp. 435–608. (177 pp. workUnit1.) ([[do androids dream of electric sheep?|My public notes]].) :ballot_box_with_check:  
+6. :ballot_box_with_check: Dick, Philip K. _Do Androids Dream of Electric Sheep?_ 1968. _[Four Novels of the 1960s](https://openlibrary.org/books/OL8898972M/Philip_K._Dick)_. The Library of America, 2007, pp. 435–608. (177 pp. workUnit1.) ([[do androids dream of electric sheep?|My public notes]].)  
 7. Divya, S.B. _[Machinehood](https://openlibrary.org/works/OL21967564W/Machinehood)_. Gallery / Saga Press, 2022. (416 pp., workUnit1 + workUnit1.)  
 8. Erdrich, Louise. _[The Round House](https://openlibrary.org/works/OL16532040W/The_round_house?mode=all)_. Harper Perennial, 2013. (321 pp. workUnit1.)  
 9. Okorafor, Nnedi. _[Binti: The Complete Trilogy](https://openlibrary.org/works/OL19649739W/Binti_The_Complete_Trilogy)_. Daw Books, 2020. (358 pp. workUnit1.)  
-10. Older, Malka. _[Infomocracy](https://openlibrary.org/books/OL26854483M/Infomocracy)_. Tordotcom, 2017. (400 pp. workUnit1.)  
+10. :ballot_box_with_check: Older, Malka. _[Infomocracy](https://openlibrary.org/books/OL26854483M/Infomocracy)_. Tordotcom, 2017. (400 pp. workUnit1.)  
 11. Pynchon, Thomas. _[The Crying of Lot 49](https://openlibrary.org/works/OL2636665W/The_Crying_of_Lot_49)_. 1966. Harper Perennial, 2006. (160 pp. workUnit1.)  
 12. ———. _[Gravity’s Rainbow](https://openlibrary.org/books/OL6900801M/Gravity's_rainbow)_. 1973. Penguin, 2000. (776 pp. workUnit1 + workUnit1.)  
 13. Stephenson, Neal. _[Snow crash](https://openlibrary.org/works/OL38501W/Snow_Crash)_. 1992. Del Rey, 2000. (440 pp. workUnit1 + workUnit1.)  
@@ -55,12 +55,12 @@ One strategy for depicting information systems and epistemological experiences h
 3. Day, Ronald E. _[The Modern Invention of Information: Discourse, History, and Power](https://openlibrary.org/works/OL221883W/The_modern_invention_of_information)_. Southern Illinois UP, 2001. (152 pp. workUnit1.)  
 4. Foucault, Michel. _[The Archaeology of Knowledge](https://openlibrary.org/books/OL5282804M/The_archaeology_of_knowledge.)_. Pantheon, 1972. (237 pp. workUnit1.)  
 5. ———. _[The Order of Things: An Archaeology of the Human Sciences](https://openlibrary.org/works/OL10477605W/Les_mots_et_les_choses?edition=key%3A/books/OL20242164M)_. Vintage, 1994. (387 pp. workUnit1.)  
-6. Hall, Stuart et al. _[Policing the Crisis: Mugging, the State, and Law and Order](https://openlibrary.org/works/OL20720487W/Policing_the_Crisis)_. 1978. 2nd ed. / 35th Anniversary ed. Red Globe Press / Palgrave Macmillan, 2013. (472 pp. workUnit1 + workUnit1.) ([[hall-policing-the-crisis|My public notes]].)  
-7. Hayles, N. Katherine. _[How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics](https://openlibrary.org/books/OL374645M/How_we_became_posthuman)_. U Chicago P, 1999. (350 pp. workUnit1.) ([[How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics|My public notes]].)  
+6. :ballot_box_with_check: Hall, Stuart et al. _[Policing the Crisis: Mugging, the State, and Law and Order](https://openlibrary.org/works/OL20720487W/Policing_the_Crisis)_. 1978. 2nd ed. / 35th Anniversary ed. Red Globe Press / Palgrave Macmillan, 2013. (472 pp. workUnit1 + workUnit1.) ([[hall-policing-the-crisis|My public notes]].)  
+7. :ballot_box_with_check: Hayles, N. Katherine. _[How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics](https://openlibrary.org/books/OL374645M/How_we_became_posthuman)_. U Chicago P, 1999. (350 pp. workUnit1.) ([[How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics|My public notes]].)  
 8. ———. _[My Mother Was a Computer: Digital Subjects and Literary Texts](https://openlibrary.org/works/OL1950423W/My_Mother_Was_a_Computer)_. U Chicago P, 2005. (288 pp. workUnit1.)  
 9. Hayot, Eric. _[Information: A Reader](https://openlibrary.org/works/OL21696531W/Information_-_a_Reader)_. Columbia UP, 2021. (408 pp. workUnit1 + workUnit1.)  
-10. Lee, Maurice S. _[Overwhelmed: Literature, Aesthetics, and the Nineteenth-Century Information Revolution](https://openlibrary.org/works/OL21212512W/Overwhelmed)_. Princeton UP, 2019. (277 pp. workUnit1.) ([[lee-overwhelmed|My public notes]].)  
-11. Purdon, James. _[Modernist Informatics: Literature, Information, and the State](https://openlibrary.org/works/OL21114005W/Modernist_Informatics)_. Oxford UP, 2016. (224 pp. workUnit1.) ([[purdon-modernist-informatics|My public notes]].)  
+10. :ballot_box_with_check: Lee, Maurice S. _[Overwhelmed: Literature, Aesthetics, and the Nineteenth-Century Information Revolution](https://openlibrary.org/works/OL21212512W/Overwhelmed)_. Princeton UP, 2019. (277 pp. workUnit1.) ([[lee-overwhelmed|My public notes]].)  
+11. :ballot_box_with_check: Purdon, James. _[Modernist Informatics: Literature, Information, and the State](https://openlibrary.org/works/OL21114005W/Modernist_Informatics)_. Oxford UP, 2016. (224 pp. workUnit1.) ([[purdon-modernist-informatics|My public notes]].)  
 12. Richards, Thomas. _[The Imperial Archive: Knowledge and the Fantasy of Empire](https://openlibrary.org/works/OL2637775W/The_imperial_archive)_. Verso, 1993. (179 pp. workUnit1.)  
 13. Tucker, Jeffrey Allen. _[A Sense of Wonder: Samuel R. Delany, Race, Identity, and Difference](https://openlibrary.org/works/OL5701906W/A_sense_of_wonder)_. Wesleyan UP, 2004. (344 pp., workUnit1.)  
 
