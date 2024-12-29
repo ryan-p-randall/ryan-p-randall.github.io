@@ -1,10 +1,6 @@
 ---
 date: 2023-02-01
-<<<<<<< Updated upstream
-last_modified_at: 2024-12-22
-=======
 last_modified_at: 2024-12-27
->>>>>>> Stashed changes
 reading: true
 reading-books: true
 excerpt: "Hall and cowriters provide a classic analysis of the rhetoric of a moral panic."
@@ -17,13 +13,9 @@ work_link_text: "OpenLibrary"
 year_read: 2024
 date_read: 2024-12-27
 date_started: 2022-10-02
-<<<<<<< Updated upstream
-current: true
-progress_current: 355
-=======
 current: false
 progress_current: 451
->>>>>>> Stashed changes
 progress_max: 451
 ---
 
+{{ page.excerpt }}
