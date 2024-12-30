@@ -20,11 +20,13 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 
 {% assign reading_current = site.notes | where:"current","true" | sort: "date_started" %}
 {% if reading_current.size > 0 %}
+<details open id="currently-reading"><summary><h3 id="currently-reading">Currently Reading</h3></summary>
+<div>
     {% for item in reading_current reversed %}
 <article>
     <h3>
     {% if item.reading-articles %} :page_facing_up:{% endif %}
-    {% if item.reading-books %} :book:{% endif %}
+    {% if item.reading-books %} :green_book:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}
     </a>{% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
     {% if item.access == "paywalled" %} :closed_lock_with_key:{% endif %}</h3>
@@ -37,12 +39,16 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
     <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label><progress id="reading-progress" value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
 </article>
     {% endfor %}
+</div>
+</details>
 {% else %}
 <p>Tell me something to read!</p>
 {% endif %}
 
 ## My Current Comprehensive Exam Lists  
 
+<details open id="current-exam-lists"><summary><h3 id="current-exam-lists">My Current Lists</h3></summary>
+<div>
 {% assign reading_current_lists = site.notes | where:"current-list","true" %}
 {% if reading_current_lists.size > 0 %}
     {% for item in reading_current_lists %}
@@ -61,6 +67,8 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 {% else %}
 <p>Tell me something to read!</p>
 {% endif %}
+</div>
+</details>
 
 ## Previously Read  
 
@@ -69,11 +77,11 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 {% for year in reading_notes_by_year reversed %}
 <details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
 <div>
-<ul>
+<ol>
 {% for item in year.items %}
 <li>
     {% if item.reading-articles %} :page_facing_up:{% endif %}
-    {% if item.reading-books %} :book:{% endif %}
+    {% if item.reading-books %} :green_book:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}
     {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
     {% if item.access == "paywalled" %}:closed_lock_with_key:{% endif %}
@@ -81,7 +89,7 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
     {{ item.excerpt | markdownify }}
 </li>
 {% endfor %}
-</ul>
+</ol>
 </div>
 </details>
 {% endfor %}
