@@ -16,11 +16,11 @@ Simultaneously, I'm most reliable about tracking my reading here—and I'm still
 
 As you'll notice, I often read works in parallel. For the next couple years, I'll also be heavily prioritizing the things on my Ph.D. exam reading lists.  
 
-## Currently Reading  
+<!-- currently reading -->
 
 {% assign reading_current = site.notes | where:"current","true" | sort: "date_started" %}
 {% if reading_current.size > 0 %}
-<details open id="currently-reading"><summary><h3 id="currently-reading">Currently Reading</h3></summary>
+<details open id="currently-reading"><summary><h2 id="currently-reading">Currently Reading</h2></summary>
 <div>
     {% for item in reading_current reversed %}
 <article>
@@ -45,9 +45,9 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 <p>Tell me something to read!</p>
 {% endif %}
 
-## My Current Comprehensive Exam Lists  
+## My Reading Lists  
 
-<details open id="current-exam-lists"><summary><h3 id="current-exam-lists">My Current Lists</h3></summary>
+<details open id="my-exam-lists"><summary><h3 id="my-exam-lists">My Comprehensive Exam Reading Lists</h3></summary>
 <div>
 {% assign reading_current_lists = site.notes | where:"current-list","true" %}
 {% if reading_current_lists.size > 0 %}
@@ -69,6 +69,27 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 {% endif %}
 </div>
 </details>
+
+{% assign reading_other_lists = site.notes | where:"other-reading-list","true" %}
+{% if reading_other_lists.size > 0 %}
+<details open id="my-other-lists"><summary><h3 id="my-other-lists">My Other Lists</h3></summary>
+<div>
+    {% for item in reading_other_lists %}
+<article>
+    <h3>
+    :books:
+    <a href="{{ item.url }}">{{ item.title }}
+    </a></h3>
+    <!-- <p>By: {{ item.work_author }}<br /> -->
+    <p>Started: {{ item.date_started }}<br />
+    Last updated: {{ item.last_modified_at }}<br />
+    Amount read: {{ item.progress_current }} of {{ item.progress_max }} works</p>
+    <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} works</progress>
+</article>
+    {% endfor %}
+</div>
+</details>
+{% endif %}
 
 ## Previously Read  
 
