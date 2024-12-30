@@ -18,8 +18,4 @@ progress_current: 252
 progress_max: 252
 ---
 
-## Initial Summary and Context
-
-{{ page.excerpt }}
-
 I read this as part of a Quality Matters book club, with my own group facilitated by a colleague at my institution. It was a delight to read and discuss it with others in small chunks every few weeks. If you can do something similar, I'd recommend that as well.

@@ -77,7 +77,7 @@ The works on this list largely fall into two categories. The first category, com
 5. Germano, William and Kit Nicholls. _Syllabus: The Remarkable, Unremarkable Document That Changes Everything_. Princeton UP, 2020. (204 pp., workUnit1.)  
 6. Giroux, Henry A. _Counternarratives: Cultural Studies and Critical Pedagogies in Postmodern Spaces_. Routledge, 1996. (208 pp., workUnit1.)  
 7. Goodell, Jim and Janet Kolodner, eds. _Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond_. Routledge, 2022. (438 pp., workUnit1 + workUnit1.)  
-8. Hayot, Eric. _Humanist Reason: A History. An Argument. A Plan._ Columbia UP, 2021. (218 pp., workUnit1.)  
+8. Hayot, Eric. _Humanist Reason: A History. An Argument. A Plan._ Columbia UP, 2021. (218 pp., workUnit1.) ([[hayot-humanist-reason|My public notes]].)  
 9. hooks, bell. _Teaching Critical Thinking: Practice Wisdom_. Routledge, 2010. (198 pp., workUnit1.)  
 10. :ballot_box_with_check: ———. _Teaching to Transgress: Education as the Practice of Freedom_. Routledge, 1994. (224 pp., workUnit1.)  
 11. Kernahan, Cyndi. _Teaching about Race and Racism in the College Classroom: Notes from a White Professor_. WVU Press, 2019. (228 pp., workUnit1.)  

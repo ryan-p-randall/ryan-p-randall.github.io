@@ -41,7 +41,7 @@ One strategy for depicting information systems and epistemological experiences h
 7. Divya, S.B. _[Machinehood](https://openlibrary.org/works/OL21967564W/Machinehood)_. Gallery / Saga Press, 2022. (416 pp., workUnit1 + workUnit1.)  
 8. Erdrich, Louise. _[The Round House](https://openlibrary.org/works/OL16532040W/The_round_house?mode=all)_. Harper Perennial, 2013. (321 pp. workUnit1.)  
 9. Okorafor, Nnedi. _[Binti: The Complete Trilogy](https://openlibrary.org/works/OL19649739W/Binti_The_Complete_Trilogy)_. Daw Books, 2020. (358 pp. workUnit1.)  
-10. :ballot_box_with_check: Older, Malka. _[Infomocracy](https://openlibrary.org/books/OL26854483M/Infomocracy)_. Tordotcom, 2017. (400 pp. workUnit1.)  
+10. :ballot_box_with_check: Older, Malka. _[Infomocracy](https://openlibrary.org/books/OL26854483M/Infomocracy)_. Tordotcom, 2017. (400 pp. workUnit1.) ([[older-m-infomocracy|My public notes]].)  
 11. Pynchon, Thomas. _[The Crying of Lot 49](https://openlibrary.org/works/OL2636665W/The_Crying_of_Lot_49)_. 1966. Harper Perennial, 2006. (160 pp. workUnit1.)  
 12. ———. _[Gravity’s Rainbow](https://openlibrary.org/books/OL6900801M/Gravity's_rainbow)_. 1973. Penguin, 2000. (776 pp. workUnit1 + workUnit1.)  
 13. Stephenson, Neal. _[Snow crash](https://openlibrary.org/works/OL38501W/Snow_Crash)_. 1992. Del Rey, 2000. (440 pp. workUnit1 + workUnit1.)  

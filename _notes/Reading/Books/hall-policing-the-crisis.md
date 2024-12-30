@@ -17,5 +17,3 @@ current: false
 progress_current: 451
 progress_max: 451
 ---
-
-{{ page.excerpt }}
