@@ -14,6 +14,6 @@ year_read:
 date_read: 
 date_started: 2024-12-29
 current: true
-progress_current: 19
+progress_current: 74
 progress_max: 218
 ---
