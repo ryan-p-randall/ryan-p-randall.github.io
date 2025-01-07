@@ -1,6 +1,6 @@
 ---
 date: 2024-12-29
-last_modified_at: 
+last_modified_at: 2025-01-06
 reading: true
 reading-books: true
 excerpt: 'As Hayot writes in the intro, this book "reclaims and redescribes the work of humanist thought [and…] scholarship as a form of reason [and…] truth-seeking".'
@@ -14,6 +14,6 @@ year_read:
 date_read: 
 date_started: 2024-12-29
 current: true
-progress_current: 74
+progress_current: 120
 progress_max: 218
 ---
