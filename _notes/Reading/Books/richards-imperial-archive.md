@@ -1,6 +1,6 @@
 ---
 date: 2025-01-10T19:45:41-6:00
-last_modified_at: 2025-01-13
+last_modified_at: 2025-01-14
 reading: true
 reading-books: true
 excerpt: "Thomas Richards analyses the ways in which the Victorian organization of knowledge was enlisted into the service of the British Empire."
@@ -14,7 +14,7 @@ year_read:
 date_read: 
 date_started: 2025-01-10
 current: true # false true
-progress_current: 45
+progress_current: 65
 progress_max: 179
 ---
 
