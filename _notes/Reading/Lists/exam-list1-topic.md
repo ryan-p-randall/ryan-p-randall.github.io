@@ -14,7 +14,7 @@ date_started: 2024-04-22
 list: true
 # current: true
 current-list: true
-progress_current: 6
+progress_current: 7
 progress_max: 35
 ---
 
@@ -61,7 +61,7 @@ One strategy for depicting information systems and epistemological experiences h
 9. Hayot, Eric. _[Information: A Reader](https://openlibrary.org/works/OL21696531W/Information_-_a_Reader)_. Columbia UP, 2021. (408 pp. workUnit1 + workUnit1.)  
 10. :ballot_box_with_check: Lee, Maurice S. _[Overwhelmed: Literature, Aesthetics, and the Nineteenth-Century Information Revolution](https://openlibrary.org/works/OL21212512W/Overwhelmed)_. Princeton UP, 2019. (277 pp. workUnit1.) ([[lee-overwhelmed|My public notes]].)  
 11. :ballot_box_with_check: Purdon, James. _[Modernist Informatics: Literature, Information, and the State](https://openlibrary.org/works/OL21114005W/Modernist_Informatics)_. Oxford UP, 2016. (224 pp. workUnit1.) ([[purdon-modernist-informatics|My public notes]].)  
-12. Richards, Thomas. _[The Imperial Archive: Knowledge and the Fantasy of Empire](https://openlibrary.org/works/OL2637775W/The_imperial_archive)_. Verso, 1993. (179 pp. workUnit1.)  
+12. :ballot_box_with_check: Richards, Thomas. _[The Imperial Archive: Knowledge and the Fantasy of Empire](https://openlibrary.org/works/OL2637775W/The_imperial_archive)_. Verso, 1993. (179 pp. workUnit1.)  
 13. Tucker, Jeffrey Allen. _[A Sense of Wonder: Samuel R. Delany, Race, Identity, and Difference](https://openlibrary.org/works/OL5701906W/A_sense_of_wonder)_. Wesleyan UP, 2004. (344 pp., workUnit1.)  
 
 ### Theory Articles

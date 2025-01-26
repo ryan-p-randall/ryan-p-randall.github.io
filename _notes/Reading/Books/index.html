@@ -17,7 +17,7 @@ title: "Books"
 
 
 <h2 id="all">All my notes on books</h2>
-{% assign reading-books_notes_all = site.notes | where:"reading-books","true" | sort: "date_read" %}
+{% assign reading-books_notes_all = site.notes | where:"reading-books","true" | sort_natural: "title" %} {% comment %} sort: "date_read" {% endcomment %}
 {% if reading-books_notes_all.size > 0 %}
 <ul>
     {% for item in reading-books_notes_all %}
@@ -30,34 +30,58 @@ title: "Books"
 
 <h2 id="by-year">All my reading notes on books by year</h2>
 
-{% assign reading_notes_2024 = site.notes | where:"reading-books","true" | where:"year_read","2024" | sort: "date_read" %}
-{% if reading_notes_2024.size > 0 %}
-
-<details open><summary><h3 id="2024">2024</h3></summary>
-    <div>
-        <ul>
-        {% for item in reading_notes_2024 %}
-            {% include item-list-link.html %}
-        {% endfor %}
-        </ul>
-        {% else %}
-        <p>There's nothing here yet!</p>
-        {% endif %}
-    </div>
+{% assign reading_notes_all = site.notes | where:"reading-books","true" | sort: "date_read" %}
+{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | group_by:"year_read" %}
+{% for year in reading_notes_by_year reversed %}
+<details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
+<div>
+<ol>
+{% for item in year.items %}
+<li>
+    {% if item.reading-books %} :green_book:{% endif %}
+    <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}
+    {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
+    {% if item.access == "paywalled" %}:closed_lock_with_key:{% endif %}
+    {% if item.status == ":seedling:" %}:seedling:{% endif %}{% if item.status == ":herb:" %}:herb:{% endif %}{% if item.status == ":evergreen_tree:" %}:evergreen_tree:{% endif %}<br>
+    {{ item.excerpt | markdownify }}
+</li>
+{% endfor %}
+</ol>
+</div>
 </details>
+{% endfor %}
 
-{% assign reading_notes_2023 = site.notes | where:"reading-books","true" | where:"year_read","2023" | sort: "date_read" %}
-{% if reading_notes_2023.size > 0 %}
+{% comment %}
 
-<details open><summary><h3 id="2023">2023</h3></summary>
-    <div>
-        <ul>
-        {% for item in reading_notes_2023 %}
-            {% include item-list-link.html %}
-        {% endfor %}
-        </ul>
-        {% else %}
-        <p>There's nothing here yet!</p>
-        {% endif %}
-    </div>
-</details>
+    {% assign reading_notes_2024 = site.notes | where:"reading-books","true" | where:"year_read","2024" | sort: "date_read" %}
+    {% if reading_notes_2024.size > 0 %}
+
+    <details open><summary><h3 id="2024">2024</h3></summary>
+        <div>
+            <ul>
+                {% for item in reading_notes_2024 %}
+                {% include item-list-link.html %}
+                {% endfor %}
+            </ul>
+            {% else %}
+            <p>There's nothing here yet!</p>
+            {% endif %}
+        </div>
+    </details>
+
+    {% assign reading_notes_2023 = site.notes | where:"reading-books","true" | where:"year_read","2023" | sort: "date_read" %}
+    {% if reading_notes_2023.size > 0 %}
+
+    <details open><summary><h3 id="2023">2023</h3></summary>
+        <div>
+            <ul>
+                {% for item in reading_notes_2023 %}
+                {% include item-list-link.html %}
+                {% endfor %}
+            </ul>
+            {% else %}
+            <p>There's nothing here yet!</p>
+            {% endif %}
+        </div>
+    </details>
+{% endcomment %}

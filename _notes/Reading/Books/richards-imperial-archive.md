@@ -1,6 +1,6 @@
 ---
 date: 2025-01-10T19:45:41-6:00
-last_modified_at: 2025-01-21
+last_modified_at: 2025-01-25
 reading: true
 reading-books: true
 excerpt: "Thomas Richards analyses the ways in which the Victorian organization of knowledge was enlisted into the service of the British Empire."
@@ -10,11 +10,11 @@ title: 'The Imperial Archive: Knowledge and the Fantasy of Empire.'
 work_author: 'Thomas Richards'
 work_link: 'https://openlibrary.org/works/OL2637775W/The_imperial_archive'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2025
+date_read: 2025-01-25
 date_started: 2025-01-10
-current: true # false true
-progress_current: 78116
+current: false # true
+progress_current: 179
 progress_max: 179
 ---
 
