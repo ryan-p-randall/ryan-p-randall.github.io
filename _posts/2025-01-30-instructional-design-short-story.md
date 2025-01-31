@@ -1,6 +1,6 @@
 ---
 title: Instructional design in a short story mode
-last_modified_at:
+last_modified_at: 2025-01-31T13:10:15-6:00
 categories: # [blips, now, notes, monthly-signal-boost, photonic-jukebox, ways, weekly-assemblage]
 excerpt: "Aspiring to maintain communities where people want to keep studying. Maintaining space for everyone."
 tags:
@@ -22,15 +22,15 @@ I recently saw a lot of people, including the author Sarah Pinsker, asking a fun
 
 [She asks (and answers)](https://bsky.app/profile/sarahpinsker.bsky.social/post/3lgceonhhus2b):  
 > if you went to college  
-> 1. what was your career goal when you started?  
-> 2. your initial major?  
-> 3. if you changed majors, what did you change to?  
-> 4. what do you do now, professionally?  
->
-> 1. i was interested in genetics but unsure  
-> 2. History  
-> 3. Never changed  
-> 4. Writer/creating writing prof  
+> <ol><li>what was your career goal when you started?</li>
+>  <li>your initial major?</li>
+>  <li>if you changed majors, what did you change to?</li>
+>  <li>what do you do now, professionally?</li></ol>
+> &nbsp; 
+> <ol><li>i was interested in genetics but unsure</li>
+> <li>History</li>
+> <li>Never changed</li>
+> <li>Writer/creating writing prof</li></ol>
 
 Here's my response, which not only demonstrates my usual predilection to wrap social media posts up in tidy little bows, but also contains enough durable insight that I felt it worth sharing here:
 
