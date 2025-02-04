@@ -1,6 +1,6 @@
 ---
 date: 2025-01-25
-last_modified_at: 2025-01-30T20:22:38-6:00
+last_modified_at: 2025-02-03
 reading: true
 reading-books: true
 excerpt: "Cecire argues that experimental writing should be understood as a historical phenomenon before it is understood as a set of formal phenomena."
@@ -14,6 +14,6 @@ year_read:
 date_read: 
 date_started: 2025-01-25
 current: true #false true
-progress_current: 10
+progress_current: 69
 progress_max: 293
 ---
