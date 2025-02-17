@@ -14,7 +14,7 @@ date_started: 2024-04-22
 list: true
 # current: true
 current-list: true
-progress_current: 0
+progress_current: 1
 progress_max: 35
 ---
 
@@ -51,7 +51,7 @@ In putting together the list, the themes of the built environment and spatial/so
 ## Theory & Criticism
 ### T & C Books
 
-1. Cecire, Natalia. _Experimental: American Literature and the Aesthetics of Knowledge_. Johns Hopkins UP, 2019. (293 pp. workUnit1.)  
+1. :ballot_box_with_check: Cecire, Natalia. [_Experimental: American Literature and the Aesthetics of Knowledge_](https://openlibrary.org/books/OL28728693M/Experimental). Johns Hopkins UP, 2019. (293 pp. workUnit1.) ([[cecire-experimental|My public notes]].)  
 2. Denning, Michael. _The Cultural Front: The Laboring of American Culture in the Twentieth Century_. Verso, 1998. (556 pp. workUnit1 + workUnit1.)  
 3. Foley, Barbara. _Radical Representations: Politics and Form in U.S. Proletarian Fiction, 1929–1941_. Duke UP, 1993. (459 pp. workUnit1 + workUnit1.)  
 4. Jameson, Frederic. _Postmodernism, or, the Cultural Logic of Late Capitalism_. Duke UP, 1991. (438 pp. workUnit1 + workUnit1.)  

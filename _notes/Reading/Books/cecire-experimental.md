@@ -10,10 +10,10 @@ title: 'Experimental: American Literature and the Aesthetics of Knowledge'
 work_author: 'Natalia Cecire'
 work_link: 'https://openlibrary.org/books/OL28728693M/Experimental'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2025
+date_read: 2025-02-15
 date_started: 2025-01-25
-current: true #false true
-progress_current: 191
+current: false # true
+progress_current: 293
 progress_max: 293
 ---
