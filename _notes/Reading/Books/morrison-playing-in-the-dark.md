@@ -14,6 +14,6 @@ year_read:
 date_read: 
 date_started: 
 current: true # false
-progress_current: 12
+progress_current: 66
 progress_max: 91
 ---
