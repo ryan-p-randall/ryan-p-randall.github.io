@@ -28,9 +28,11 @@ layout: single
 <article>
 {% if post.link %}
   <h3 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link" aria-hidden="true"></i></h3>
+    <span style="font-size: .7rem;">{% include page__meta.html type=include.type %}</span>
 {% else %}
   <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-  {{ post.excerpt | markdownify | truncate: 220 }}
+  <span style="font-size: .7rem;">{% include page__meta.html type=include.type %}</span>
+  {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | strip_html | markdownify | truncate: 300 }}</p>{% endif %}
 {% endif %}
 </article>
 {% endfor %}
@@ -41,9 +43,12 @@ layout: single
 <article>
 {% if post.link %}
   <h3 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link" aria-hidden="true"></i></h3>
+    <span style="font-size: .7rem;">{% include page__meta.html type=include.type %}</span>
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | strip_html | markdownify | truncate: 300 }}</p>{% endif %}
 {% else %}
   <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-  {{ post.excerpt | markdownify | truncate: 220 }}
+  <span style="font-size: .7rem;">{% include page__meta.html type=include.type %}</span>
+  {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | strip_html | markdownify | truncate: 300 }}</p>{% endif %}
 {% endif %}
 </article>
 <!--  {% include archive-single.html %} -->

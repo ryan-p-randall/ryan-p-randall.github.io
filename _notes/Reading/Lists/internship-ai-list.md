@@ -1,6 +1,6 @@
 ---
-date: 2024-04-22
-last_modified_at: 2024-12-28
+date: 2024-11-21
+last_modified_at: 2025-02-24
 reading: true
 reading-lists: true
 status: ":evergreen_tree:"
@@ -10,7 +10,7 @@ work_author: "Ryan P. Randall"
 excerpt: 'This is the "topic" list for my comprehensive exam, with links to my own reading notes.'
 year_read: 
 date_read: 
-date_started: 2024-04-22
+date_started: 2025-02-18
 list: true
 # current: true
 other-reading-list: true
