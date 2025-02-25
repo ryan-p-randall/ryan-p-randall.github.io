@@ -1,6 +1,6 @@
 ---
 date: 2025-02-17
-last_modified_at: 
+last_modified_at: 2025-02-21
 reading: true
 reading-books: true
 excerpt: "Morrison maps how American authors invented and deployed tropes associated with America's constant 'African' presence, using these tropes as a foil to organize their growing sense of 'Americanness'."
