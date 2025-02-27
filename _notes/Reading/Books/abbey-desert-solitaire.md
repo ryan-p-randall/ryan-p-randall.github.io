@@ -1,6 +1,6 @@
 ---
 date: 2025-02-24T20:30:29-6:00
-last_modified_at:
+last_modified_at: 2025-02-26
 reading: true
 reading-books: true
 excerpt: "The author describes his experiences serving for three seasons as a park ranger in southeastern Utah."
@@ -14,6 +14,6 @@ year_read:
 date_read: 
 date_started: 2025-02-24 
 current: true # false
-progress_current: 1 
+progress_current: 15 
 progress_max: 269
 ---
