@@ -14,13 +14,13 @@ date_started: 2025-02-18
 list: true
 # current: true
 other-reading-list: true
-progress_current: 0
+progress_current: 2
 progress_max: 5
 ---
 
 ## Fiction
 
-1. Abbey, Edward. _[Desert Solitaire](https://openlibrary.org/books/OL2200182M/Desert_solitaire)_.  
+1. :ballot_box_with_check: Abbey, Edward. _[Desert Solitaire](https://openlibrary.org/books/OL2200182M/Desert_solitaire)_.  
 2. Habila, Helon. _[Oil on Water](https://openlibrary.org/books/OL25075433M/Oil_on_water)_.  
 
 ## Articles

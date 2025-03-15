@@ -1,6 +1,6 @@
 ---
 date: 2024-04-22
-last_modified_at: 2024-12-28
+last_modified_at: 2025-03-15
 reading: true
 reading-lists: true
 status: ":evergreen_tree:"
@@ -14,7 +14,7 @@ date_started: 2024-04-22
 list: true
 # current: true
 current-list: true
-progress_current: 1
+progress_current: 2
 progress_max: 35
 ---
 
@@ -57,7 +57,7 @@ In putting together the list, the themes of the built environment and spatial/so
 4. Jameson, Frederic. _Postmodernism, or, the Cultural Logic of Late Capitalism_. Duke UP, 1991. (438 pp. workUnit1 + workUnit1.)  
 5. Jurca, Catherine. _White Diaspora: The Suburb and the Twentieth-Century American Novel_. Princeton UP, 2001. (238 pp. workUnit1.)  
 6. Miller, D.A. _The Novel and the Police_. U California P, 1989. (240 pp. workUnit1.)  
-7. Morrison, Toni. _Playing in the Dark: Whiteness and the Literary Imagination_. 1992. 1st Vintage ed., 2019. (91 pp. workUnit1.)  
+7. :ballot_box_with_check: Morrison, Toni. _Playing in the Dark: Whiteness and the Literary Imagination_. 1992. 1st Vintage ed., 2019. (91 pp. workUnit1.)  
 8. Rothstein, Richard. _The Color of Law: A Forgotten History of How Our Government Segregated America_. Liveright Publishing Corporation, 2017. (342 pp. workUnit1.)  
 9. Soja, Edward W. _Postmodern Geographies: The Reassertion of Space in Critical Social Theory_. Verso, 1989. (266 pp. workUnit1.)  
 
