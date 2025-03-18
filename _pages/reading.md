@@ -45,18 +45,26 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 <p>Tell me something to read!</p>
 {% endif %}
 
+{% comment %}
+## My New Version of Reading Lists  
+
+{% include reading-list01-progress-counter.html %}
+{% include reading-list-internship-ai-counter.html %}
+{% endcomment %}
+
 ## My Reading Lists  
 
 <details open id="my-exam-lists"><summary><h3 id="my-exam-lists">My Comprehensive Exam Reading Lists</h3></summary>
 <div>
+{% comment %}
 {% assign reading_current_lists = site.notes | where:"current-list","true" %}
 {% if reading_current_lists.size > 0 %}
     {% for item in reading_current_lists %}
 <article>
-    <h3>
+    <h4>
     :books:
     <a href="{{ item.url }}">{{ item.title }}
-    </a></h3>
+    </a></h4>
     <!-- <p>By: {{ item.work_author }}<br /> -->
     <p>Started: {{ item.date_started }}<br />
     Last updated: {{ item.last_modified_at }}<br />
@@ -67,8 +75,13 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 {% else %}
 <p>Tell me something to read!</p>
 {% endif %}
+{% endcomment %}
+{% include reading-list01-progress-counter.html %}
+{% include reading-list02-progress-counter.html %}
+{% include reading-list03-progress-counter.html %}
 </div>
 </details>
+
 
 {% assign reading_other_lists = site.notes | where:"other-reading-list","true" %}
 {% if reading_other_lists.size > 0 %}

@@ -16,6 +16,7 @@ date_started: 2024-12-28
 current: false
 progress_current: 159
 progress_max: 159
+reading-status: "finished"
 ---
 
 {{ page.excerpt }}  

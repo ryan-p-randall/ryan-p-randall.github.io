@@ -16,4 +16,6 @@ date_started:
 current: false # true
 progress_current: 0
 progress_max: 196
+reading-list01: true
+reading-status: "unstarted"
 ---

@@ -1,0 +1,23 @@
+<article>
+<h4>
+  :books:
+  <a href="{{ site.baseurl}}/notes/Reading/Lists/internship-ai-list.html">Internship AI List
+  </a></h4>
+<p>
+  {% assign reading_list_internship_ai = site.notes | where:"internship-ai-list","true" %}
+  {% assign reading_list_internship_ai_finished = reading_list_internship_ai | where: "reading-status","finished" %}
+  {% assign reading_list_internship_ai_list_note = site.notes | where:"title","Internship AI List" %}
+  {{ reading_list_internship_ai.size }} total books in this list.
+  {{ reading_list_internship_ai_finished.size }} books finished in this list.
+</p>
+{% if reading_list_internship_ai_list_note.size > 0 %}
+  {% for item in reading_list_internship_ai_list_note %}
+<p>Started: {{ item.date_started }}<br />
+  Last updated: {{ item.last_modified_at }}<br />
+  Amount read: {{ reading_list_internship_ai_finished.size }} of {{ 8 }} works.</p>
+  <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ reading_list_internship_ai_finished.size }}" max="8">{{ reading_list_internship_ai_finished.size }} works</progress>
+  {% endfor %}
+  {% else %}
+  <p>No books in the Internship AI List!</p>
+{% endif %}
+</article>

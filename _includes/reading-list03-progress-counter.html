@@ -1,0 +1,25 @@
+<article>
+    <h4>
+        :books:
+        <a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list3-teaching.html">Exam List 3: Composition and Information Literacy, Pedagogy and Instructional Design
+        </a></h4>
+        {% assign reading_list03 = site.notes | where:"reading-list03","true" %}
+        {% assign reading_list03_finished = reading_list03 | where: "reading-status","finished" %}
+        {% assign reading_list03_note = site.notes | where:"title","Exam List 3: Composition and Information Literacy, Pedagogy and Instructional Design" %}
+        {% comment %}
+        <p>
+        {{ reading_list03.size }} total books in this list.
+        {{ reading_list03_finished.size }} books finished in this list.
+        </p>
+        {% endcomment %}
+    {% if reading_list03_note.size > 0 %}
+        {% for item in reading_list03_note %}
+    <p>Started: {{ item.date_started }}<br />
+        Last updated: {{ item.last_modified_at }}<br />
+        Amount read: {{ reading_list03_finished.size }} of {{ item.progress_max }} works.</p>
+  <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ reading_list03_finished.size }}" max="{{ item.progress_max }}">{{ reading_list03_finished.size }} works</progress>
+        {% endfor %}
+        {% else %}
+        <p>No books in this List!</p>
+    {% endif %}
+</article>

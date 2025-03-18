@@ -16,4 +16,6 @@ date_started: 2022-11-02
 current: false
 progress_current: 224
 progress_max: 224
+reading-list01: true
+reading-status: "finished"
 ---

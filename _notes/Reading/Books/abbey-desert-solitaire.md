@@ -16,4 +16,6 @@ date_started: 2025-02-24
 current: false # true
 progress_current: 269
 progress_max: 269
+internship-ai-list: true
+reading-status: "finished"
 ---

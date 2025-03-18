@@ -16,5 +16,7 @@ date_started: 2024-02-14
 current: false
 progress_current: 350
 progress_max: 350
+reading-list01: true
+reading-status: "finished"
 ---
 

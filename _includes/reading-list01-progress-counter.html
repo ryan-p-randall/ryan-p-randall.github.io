@@ -1,0 +1,42 @@
+<article>
+<h4>
+    :books:
+    <a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list1-topic.html">Exam List 1: Information Control and Making Meaning in Modern/Postmodern Texts
+    </a></h4>
+    {% assign reading_list01 = site.notes | where:"reading-list01","true" %}
+    {% assign reading_list01_finished = reading_list01 | where: "reading-status","finished" %}
+    {% assign reading_list01_note = site.notes | where:"title","Exam List 1: Information Control and Making Meaning in Modern/Postmodern Texts" %}
+    {% comment %}
+    <p>
+    {{ reading_list01.size }} total books in this list.
+    {{ reading_list01_finished.size }} books finished in this list.
+    </p>
+    {% endcomment %}
+{% if reading_list01_note.size > 0 %}
+    {% for item in reading_list01_note %}
+<p>Started: {{ item.date_started }}<br />
+    Last updated: {{ item.last_modified_at }}<br />
+    Amount read: {{ reading_list01_finished.size }} of {{ item.progress_max }} works.</p>
+  <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ reading_list01_finished.size }}" max="{{ item.progress_max }}">{{ reading_list01_finished.size }} works</progress>
+    {% endfor %}
+    {% else %}
+    <p>No books in this List!</p>
+{% endif %}
+</article>
+
+{% comment %}
+<h4>
+    :books:
+    <a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list1-topic.html">Exam List 1: Information Control and Making Meaning in Modern/Postmodern Texts
+    </a></h4>
+<p>
+    {% assign reading_list01 = site.notes | where:"reading-list01","true" %}
+    {% assign reading_list01_finished = reading_list01 | where: "reading-status","finished" %}
+    {{ reading_list01.size }} total books in this list.
+    {{ reading_list01_finished.size }} books finished in this list.
+</p>
+<p>Started: {{ item.date_started }}<br />
+    Last updated: {{ item.last_modified_at }}<br />
+    Amount read: {{ reading_list01_finished.size }} of {{ 35 }} works.</p>
+<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ reading_list01_finished.size }}" max="35">{{ reading_list01_finished.size }} works</progress>
+{% endcomment %}

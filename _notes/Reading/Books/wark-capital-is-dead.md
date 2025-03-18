@@ -16,5 +16,6 @@ date_started: 2023-01-02
 current: false
 progress_current: 240
 progress_max: 240
+reading-status: "finished"
 ---
 

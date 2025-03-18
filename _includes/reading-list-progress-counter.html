@@ -1,0 +1,26 @@
+<details open id="my-exam-lists"><summary><h3 id="my-exam-lists">My Comprehensive Exam Reading Lists</h3></summary>
+    <div>
+    {% assign reading_current_lists = site.notes | where:"current-list","true" %}
+    {% if reading_current_lists.size > 0 %}
+        {% for item in reading_current_lists %}
+            {% assign list_docs = item.documents %}
+            {% assign list_docs_finished = list_docs | where: "finished", "true" %}
+            {% assign list_docs_finished_array = list_docs_finished | map: 'finished' | join: ',' | split: ',' %}
+            {% assign list_progress_current = item.list_docs_finished_array.size %}
+    <article>
+        <h4>
+        :books:
+        <a href="{{ item.url }}">{{ item.title }}
+        </a></h4>
+        <!-- <p>By: {{ item.work_author }}<br /> -->
+        <p>Started: {{ item.date_started }}<br />
+        Last updated: {{ item.last_modified_at }}<br />
+        Amount read: {{ item.progress_current }} of <!-- {{ item.progress_max }} --> {{ item.list_docs_finished_array.size }} works</p>
+        <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ item.progress_current }}" max="{{ item.list_docs_finished_array.size }}" <!-- max="{{ item.progress_max }}" --></progress>>{{ item.progress_current }} works</progress>
+    </article>
+        {% endfor %}
+    {% else %}
+    <p>Tell me something to read!</p>
+    {% endif %}
+    </div>
+    </details>

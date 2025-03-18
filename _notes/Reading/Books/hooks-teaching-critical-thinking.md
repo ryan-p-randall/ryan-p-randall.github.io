@@ -16,4 +16,6 @@ date_started: 2025-02-15
 current: false
 progress_current: 188
 progress_max: 188
+reading-list03: true
+reading-status: "finished"
 ---

@@ -16,6 +16,8 @@ date_started: 2025-01-10
 current: false # true
 progress_current: 179
 progress_max: 179
+reading-list01: true
+reading-status: "finished"
 ---
 
 > The [British] narratives of the late nineteenth century are full of fantasies about an empire united not by force but by information. The study of some of these narratives is the subject of this book.(p. 1)  

@@ -16,6 +16,8 @@ date_started: 2024-03-07
 current: false
 progress_current: 252
 progress_max: 252
+reading-list03: true
+reading-status: "finished"
 ---
 
 I read this as part of a Quality Matters book club, with my own group facilitated by a colleague at my institution. It was a delight to read and discuss it with others in small chunks every few weeks. If you can do something similar, I'd recommend that as well.
