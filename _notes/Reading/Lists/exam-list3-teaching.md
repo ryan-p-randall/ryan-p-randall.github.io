@@ -1,6 +1,6 @@
 ---
 date: 2024-04-22
-last_modified_at: 2025-01-10
+last_modified_at: 2025-04-21
 reading: true
 reading-lists: true
 status: ":evergreen_tree:"
@@ -14,7 +14,7 @@ date_started: 2024-04-22
 list: true
 # current: true
 current-list: true
-progress_current: 4
+progress_current: 5
 progress_max: 35
 ---
 
@@ -74,7 +74,7 @@ The works on this list largely fall into two categories. The first category, com
 2. :ballot_box_with_check: Darby, Flower and James M. Lang. [_Small Teaching Online: Applying Learning Science in Online Classes_](https://openlibrary.org/books/OL28652610M/Small_Teaching_Online). Jossey-Bass, 2019. (252 pp., workUnit1.) ([[darby-small-teaching-online|My public notes]].)  
 3. Dujardin, Gwynn, James M. Lang, and John A. Staunton, editors. _Teaching the Literature Survey Course: New Strategies for College Faculty_. WVU Press, 2018. (249 pp., workUnit1.)  
 4. Gannon, Kevin M. _Radical Hope: A Teaching Manifesto_. WVU Press, 2020. (180 pp., workUnit1.)  
-5. Germano, William and Kit Nicholls. _Syllabus: The Remarkable, Unremarkable Document That Changes Everything_. Princeton UP, 2020. (204 pp., workUnit1.)  
+5. :ballot_box_with_check: Germano, William and Kit Nicholls. _Syllabus: The Remarkable, Unremarkable Document That Changes Everything_. Princeton UP, 2020. (204 pp., workUnit1.)  
 6. Giroux, Henry A. _Counternarratives: Cultural Studies and Critical Pedagogies in Postmodern Spaces_. Routledge, 1996. (208 pp., workUnit1.)  
 7. Goodell, Jim and Janet Kolodner, eds. _Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond_. Routledge, 2022. (438 pp., workUnit1 + workUnit1.)  
 8. :ballot_box_with_check: Hayot, Eric. _Humanist Reason: A History. An Argument. A Plan._ Columbia UP, 2021. (218 pp., workUnit1.) ([[hayot-humanist-reason|My public notes]].)  
