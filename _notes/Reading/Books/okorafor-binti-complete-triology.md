@@ -14,38 +14,82 @@ year_read:
 date_read: 
 date_started: 2025-04-28
 current: true
-progress_current: 11
+progress_current: 119
 progress_max: 358
 reading-list01: true
 reading-status: 'started' # 'finished'
-progress_current_binti: 11
-progress_max_binti: 56
-progress_current_bsf: 0
-progress_max_bsf: 95
-progress_current_bh: 0
-progress_max_bh: 204
-progress_current_btnm: 0
-progress_max_btnm: 358
 ---
 
 This omnibus edition is actually three books, plus a short story.  
 
+{% assign binti_first_page = 1 %}
+{% assign binti_last_page = 56 %}
+{% assign binti_bsf_first_page = 61 %}
+{% assign binti_bsf_last_page = 95 %}
+{% assign binti_bh_first_page = 99 %}
+{% assign binti_bh_last_page = 204 %}
+{% assign binti_btnm_first_page = 209 %}
+{% assign binti_btnm_last_page = 358 %}
+
 ## Binti
 
-<p>Amount read: {{ page.progress_current_binti }} of {{ page.progress_max_binti }} pages</p>
-<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ page.progress_current_binti }}" max="{{ page.progress_max_binti }}">{{ page.progress_max_binti }} pages</progress>
+{% assign binti_final_pages_read = 0 %}
+{% assign binti_page_range = binti_last_page | minus: binti_first_page | plus: 1 %}
+
+{% if page.progress_current > binti_last_page %}
+    {% assign binti_final_pages_read = binti_page_range %}
+{% else %}
+{% assign binti_final_pages_read = page.progress_current | minus: binti_first_page %}
+{% endif %}
+
+<p>Amount read: {{ binti_final_pages_read }} of {{ binti_page_range }} pages</p>
+<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ binti_final_pages_read }}" max="{{ binti_page_range }}">{{ binti_page_range }} pages</progress>
 
 ## Binti: Sacred Fire
 
-<p>Amount read: {{ page.progress_current_bsf }} of {{ page.progress_max_bsf }} pages</p>
-<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ page.progress_current_bsf }}" max="{{ page.progress_max_bsf }}">{{ page.progress_max_bsf }} pages</progress>
+{% assign binti_bsf_final_pages = 0 %}
+{% assign binti_bsf_page_range = binti_bsf_last_page | minus: binti_bsf_first_page | plus: 1 %}
+
+{% if page.progress_current < binti_bsf_first_page %}
+    {% assign binti_bsf_final_pages_read = 0 %}
+{% elsif page.progress_current >= binti_bsf_last_page %}
+    {% assign binti_bsf_final_pages_read = binti_bsf_page_range %}
+{% else %}
+{% assign binti_bsd_final_pages_read = page.progress_current | minus: binti_bsf_first_page %}
+{% endif %}
+
+<p>Amount read: {{ binti_bsf_final_pages_read }} of {{ binti_bsf_page_range }} pages</p>
+<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ binti_bsf_final_pages_read }}" max="{{ binti_bsf_page_range }}">{{ binti_bsf_page_range }} pages</progress>
+
 
 ## Binti: Home
 
-<p>Amount read: {{ page.progress_current_bh }} of {{ page.progress_max_bh }} pages</p>
-<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ page.progress_current_bh }}" max="{{ page.progress_max_bh }}">{{ page.progress_max_bh }} pages</progress>
+{% assign binti_bh_final_pages = 0 %}
+{% assign binti_bh_page_range = binti_bh_last_page | minus: binti_bh_first_page | plus: 1 %}
+
+{% if page.progress_current < binti_bh_first_page %}
+    {% assign binti_bh_final_pages_read = 0 %}
+{% elsif page.progress_current >= binti_bh_last_page %}
+    {% assign binti_bh_final_pages_read = binti_bh_page_range %}
+{% else %}
+{% assign binti_bh_final_pages_read = page.progress_current | minus: binti_bh_first_page %}
+{% endif %}
+
+<p>Amount read: {{ binti_bh_final_pages_read }} of {{ binti_bh_page_range }} pages</p>
+<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ binti_bh_final_pages_read }}" max="{{ binti_bh_page_range }}">{{ binti_bh_page_range }} pages</progress>
 
 ## Binti: The Night Masquerade
 
-<p>Amount read: {{ page.progress_current_btnm }} of {{ page.progress_max_btnm }} pages</p>
-<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ page.progress_current_btnm }}" max="{{ page.progress_max_btnm }}">{{ page.progress_max_btnm }} pages</progress>
+{% assign binti_btnm_final_pages = 0 %}
+{% assign binti_btnm_page_range = binti_btnm_last_page | minus: binti_btnm_first_page | plus: 1 %}
+
+{% if page.progress_current < binti_btnm_first_page %}
+    {% assign binti_btnm_final_pages_read = 0 %}
+{% elsif page.progress_current >= binti_btnm_last_page %}
+    {% assign binti_btnm_final_pages_read = binti_btnm_page_range %}
+{% else %}
+{% assign binti_btnm_final_pages_read = page.progress_current | minus: binti_btnm_first_page %}
+{% endif %}
+
+<p>Amount read: {{ binti_btnm_final_pages_read }} of {{ binti_btnm_page_range }} pages</p>
+<label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ binti_btnm_final_pages_read }}" max="{{ binti_btnm_page_range }}">{{ binti_btnm_page_range }} pages</progress>
