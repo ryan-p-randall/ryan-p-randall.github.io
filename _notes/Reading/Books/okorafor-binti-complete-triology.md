@@ -1,6 +1,6 @@
 ---
 date: 2025-04-28T22:04:54-6:00
-last_modified_at:
+last_modified_at: 2025-05-02T22:56:22-6:00
 reading: true
 reading-books: true
 excerpt: "Binti leaves her homeworld for Oomza University."
@@ -14,7 +14,7 @@ year_read:
 date_read: 
 date_started: 2025-04-28
 current: true
-progress_current: 119
+progress_current: 231
 progress_max: 358
 reading-list01: true
 reading-status: 'started' # 'finished'
