@@ -1,23 +1,23 @@
 ---
 date: 2025-04-28T22:04:54-6:00
-last_modified_at: 2025-05-02T22:56:22-6:00
+last_modified_at: 2025-05-04
 reading: true
 reading-books: true
-excerpt: "Binti leaves her homeworld for Oomza University."
+excerpt: "Binti leaves her homeworld for Oomza University and grows in unexpected ways."
 status: ':herb:'
 published: true
 title: 'Binti: The Complete Trilogy'
 work_author: 'Nnedi Okorafor'
 work_link: 'https://openlibrary.org/books/OL28195511M/Binti'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2025
+date_read: 2025-05-04
 date_started: 2025-04-28
-current: true
-progress_current: 231
+current: false # true
+progress_current: 358
 progress_max: 358
 reading-list01: true
-reading-status: 'started' # 'finished'
+reading-status: 'finished'
 ---
 
 This omnibus edition is actually three books, plus a short story.  

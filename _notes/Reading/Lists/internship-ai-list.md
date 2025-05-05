@@ -1,6 +1,6 @@
 ---
 date: 2024-11-21
-last_modified_at: 2025-02-24
+last_modified_at: 2025-05-04
 reading: true
 reading-lists: true
 status: ":evergreen_tree:"
@@ -9,23 +9,23 @@ title: "Internship AI List"
 work_author: "Ryan P. Randall"
 excerpt: 'This is the "topic" list for my comprehensive exam, with links to my own reading notes.'
 year_read: 
-date_read: 
+date_read: 2025-05-04
 date_started: 2025-02-18
 list: true
 # current: true
 other-reading-list: true
-progress_current: 2
+progress_current: 5
 progress_max: 5
 ---
 
 ## Fiction
 
 1. :ballot_box_with_check: Abbey, Edward. _[Desert Solitaire](https://openlibrary.org/books/OL2200182M/Desert_solitaire)_.  
-2. Habila, Helon. _[Oil on Water](https://openlibrary.org/books/OL25075433M/Oil_on_water)_.  
+2. :ballot_box_with_check: Habila, Helon. _[Oil on Water](https://openlibrary.org/books/OL25075433M/Oil_on_water)_.  
 
 ## Articles
 
-### Batch 01
+### :ballot_box_with_check: Batch 01
 
 1. Barrett A. and A.P.  
 2. Eaton, Sarah Elaine.  
@@ -33,7 +33,7 @@ progress_max: 5
 4. Revell, Tom et al.  
 5. Sweiecki, Z. et al.  
 
-### Batch 02
+### :ballot_box_with_check: Batch 02
 
 1. Vetter, M.A. et al.  
 2. Waltzer, Tal et al.  
@@ -41,7 +41,7 @@ progress_max: 5
 4. Cummings R.E. et al.  
 5. Knowles, A.M.  
 
-### Batch 03
+### :ballot_box_with_check: Batch 03
 
 1. Lozić, E. and BŠ.  
 2. Markauskaite, L. et al.  

@@ -107,12 +107,13 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 ## Previously Read  
 
 {% assign reading_notes_all = site.notes | where:"reading","true" | sort_natural: "title" %}
-{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | group_by:"year_read" %}
+{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | sort: "year_read" | group_by:"year_read" %}
 {% for year in reading_notes_by_year reversed %}
+{% assign yearly_items_sorted = year.items | sort_natural: "title" %}
 <details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
 <div>
 <ol>
-{% for item in year.items %}
+{% for item in yearly_items_sorted %}
 <li>
     {% if item.reading-articles %} :page_facing_up:{% endif %}
     {% if item.reading-books %} :green_book:{% endif %}
