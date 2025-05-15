@@ -79,3 +79,5 @@ In putting together the list, the themes of the built environment and spatial/so
 5. Lipsitz, George. “The Possessive Investment in Whiteness: Racialized Social Democracy and the ‘White’ Problem in American Studies.” _American Quarterly_ vol. 47, no. 3, 1995, pp. 369–387. (18 pp.)  
 6. Mills, Charles W. [“Body Politic, Bodies Impolitic.”](http://www.jstor.org/stable/23347191) The Body and the State: How the State Controls and Protects the Body, Part 1, special issue of _Social Research_ vol. 78, no. 2, summer 2011, pp. 583–606. _JSTOR_. (24 pp.)  
 7. Yúdice, George. “The Privatization of Culture.” _Social Text_ no. 59, 1999, pp. 17–34. (17 pp.)  
+
+### Reading Progress

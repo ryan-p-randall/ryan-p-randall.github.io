@@ -14,8 +14,9 @@ date_started: 2024-04-22
 list: true
 # current: true
 current-list: true
-progress_current: 7
+# progress_current: 9
 progress_max: 35
+reading-list01-note: true
 ---
 
 It is 35 “work units” long (countable by searching “work Unit1” without a space), as defined in my [program's](https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/) PhD Program [Handbook](https://www.isu.edu/media/libraries/english/PhD-Program-Handbook.pdf).  
@@ -36,7 +37,7 @@ One strategy for depicting information systems and epistemological experiences h
 2. Delany, Samuel R. _The Ballad of Beta-2_. 1965. _[A, B, C: Three Short Novels](https://openlibrary.org/works/OL20114359W/A_B_C_Three_Short_Novels_The_Jewels_of_Aptor_The_Ballad_of_Beta-2_They_Fly_at_Ciron)_. Vintage, 2015, pp. 172--262. (90 pp. workUnit1.)  
 3. ———. _[Dhalgren](https://openlibrary.org/works/OL56835W/Dhalgren)_. 1974. Vintage, 2001. (801 pp. workUnit1 + workUnit1.)  
 4. ———. _[Nova](https://openlibrary.org/works/OL56833W/Nova)_. 1968. Vintage, 2002. (241 pp. workUnit1.)  
-5. DeLillo, Don. _[White Noise](https://openlibrary.org/books/OL2531465M/White_noise)_. Penguin, 1986. (326 pp. workUnit1.)  
+5. :ballot_box_with_check: DeLillo, Don. _[White Noise](https://openlibrary.org/books/OL2531465M/White_noise)_. Penguin, 1986. (326 pp. workUnit1.)  
 6. :ballot_box_with_check: Dick, Philip K. _Do Androids Dream of Electric Sheep?_ 1968. _[Four Novels of the 1960s](https://openlibrary.org/books/OL8898972M/Philip_K._Dick)_. The Library of America, 2007, pp. 435–608. (177 pp. workUnit1.) ([[do androids dream of electric sheep?|My public notes]].)  
 7. Divya, S.B. _[Machinehood](https://openlibrary.org/works/OL21967564W/Machinehood)_. Gallery / Saga Press, 2022. (416 pp., workUnit1 + workUnit1.)  
 8. Erdrich, Louise. _[The Round House](https://openlibrary.org/works/OL16532040W/The_round_house?mode=all)_. Harper Perennial, 2013. (321 pp. workUnit1.)  
@@ -80,3 +81,5 @@ One strategy for depicting information systems and epistemological experiences h
 3. Sekula, Allan. [“The Body and the Archive.”](https://www.jstor.org/stable/778312) _October_, vol. 39, winter 1986, pp. 3–64. _JSTOR_. (62 pp.)  
 4. Vidhyanathan, Siva. [“Afterword: Critical Information Studies: A Bibliographic Manifesto.”](https://doi.org/10.1080/09502380500521091) _Cultural Studies_, vol. 20, nos. 2--3, 2006, pp. 292–315. (24 pp.)  
 5. Wark, McKenzie. [“Information Wants to Be Free (But Is Everywhere In Chains).”](https://www.tandfonline.com/doi/abs/10.1080/09502380500495668) _Cultural Studies_, vol. 20, nos. 2–3, 2006. (18 pp.)  
+
+### Reading Progress

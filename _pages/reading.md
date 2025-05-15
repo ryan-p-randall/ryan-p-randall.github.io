@@ -76,8 +76,14 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 <p>Tell me something to read!</p>
 {% endif %}
 {% endcomment %}
+<h4><a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list1-topic.html">Exam List 1: Information Control and Making Meaning in Modern/Postmodern Texts
+</a></h4>
 {% include reading-list01-progress-counter.html %}
+<h4><a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list2-field.html">Exam List 2: Mobility, Agency, & Surveillance in 20th & 21st Century American Literature
+        </a></h4>
 {% include reading-list02-progress-counter.html %}
+<h4><a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list3-teaching.html">Exam List 3: Composition and Information Literacy, Pedagogy and Instructional Design
+        </a></h4>
 {% include reading-list03-progress-counter.html %}
 </div>
 </details>

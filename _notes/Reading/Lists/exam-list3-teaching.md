@@ -84,3 +84,5 @@ The works on this list largely fall into two categories. The first category, com
 12. Lang, James M. _Small Teaching: Everyday Lessons from the Science of Learning_. 2nd ed., Jossey-Bass, 2021. (288 pp., workUnit1.)  
 13. Neuhaus, Jessamyn. _Geeky Pedagogy: A Guide for Intellectuals, Introverts, and Nerds Who Want to Be Effective Teachers_. WVU Press, 2019. (264 pp., workUnit1.)  
 14. Tobin, Thomas J. and Kirsten T. Behling. _Reach Everyone, Teach Everyone: Universal Design for Learning in Higher Education_. WVU Press, 2018. (312 pp., workUnit1.)  
+
+### Reading Progress

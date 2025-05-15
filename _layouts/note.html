@@ -33,7 +33,13 @@ sidebar:
         <content>
             {{ content }}
         </content>
-        {% if page.reading %}
+        {% if page.title == "Exam List 1: Information Control and Making Meaning in Modern/Postmodern Texts" %}
+          {% include reading-list01-progress-counter.html %}
+        {% elsif page.title == "Exam List 2: Mobility, Agency, & Surveillance in 20th & 21st Century American Literature" %}
+          {% include reading-list02-progress-counter.html %}
+        {% elsif page.title == "Exam List 3: Composition and Information Literacy, Pedagogy and Instructional Design" %}
+          {% include reading-list03-progress-counter.html %}
+        {% elsif page.reading %}
           <h2 id="reading-details">Reading Details</h2>
           <p>{% if page.reading-articles %} :page_facing_up: "{{ page.title }}"<br />{% endif %}
             {% if page.reading-books %} :book: <strong>{{ page.title }}</strong> | <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><br />{% endif %}
