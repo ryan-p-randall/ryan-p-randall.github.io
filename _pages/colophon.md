@@ -1,7 +1,7 @@
 ---
 permalink: /colophon/
 title: "Colophon"
-last_modified_at: 2023-11-28
+last_modified_at: 2025-05-20
 header: 
   image: /assets/images/pocket-notebooks.jpg
   image_description: "ryan's pocket notebooks with cute stickers on their covers"
@@ -35,7 +35,7 @@ To the Minimal Mistakes theme, I've added [Bigfoot.js](http://www.bigfootjs.com/
 
 As of late November, 2023, the <span style="font-family: Cartridge;">heading font is [Cartridge](https://simplebits.shop/collections/fonts/products/cartridge)</span> by [SimpleBits](https://simplebits.shop/) and the <span style="font-family: Atkinson-Hyperlegible;">body text font is [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)</span> by the [Braille Institute](https://brailleinstitute.org/).  
 
-I use [FontAwesome](http://fontawesome.io) for most of the icons, and James Walsh's [Academicons](http://jpswalsh.github.io/academicons/) to supplement Font Awesome with the Open Access lock, Academia-dot-edu, Orcid, and Zotero icons.  
+I use [FontAwesome](http://fontawesome.io) for most of the icons, and James Walsh's [Academicons](http://jpswalsh.github.io/academicons/) to supplement Font Awesome with the Open Access lock, Academia-dot-edu, ORCiD, and Zotero icons.  
 
 I've also added (and lightly customized) Maxime Vaillancourt's [Bidirectional links generator](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb) to make bidirectional links work in my [Notes/Digital Garden]({% link _notes/index.html %}). (The customizations allow the wikilink brackets pattern to work from posts as well as notes and pages.)  
 
@@ -43,7 +43,9 @@ The favicon (the little ellipsis in a speech bubble) is ["Blog" by Scott Lewis](
 
 ## Link Conventions
 
-Whenever possible, I link to [WorldCat](https://www.worldcat.org/) records for books. Why not work to make library access a default practice?  
+Whenever possible, I link to [Open Library](https://openlibrary.org/about) or [WorldCat](https://www.worldcat.org/) records for books. Why not focus on open records and library access?  
+
+Similarly, I tend to link to JSTOR for academic articles. If you don't have access through your school or library, you can [create a no-cost personal JSTOR account](https://support.jstor.org/hc/en-us/articles/115004760028-How-to-Register-Get-Free-Access-to-Content) and read up to 100 articles every 30 days without paying anything.  
 
 ## Writing Formats  
 

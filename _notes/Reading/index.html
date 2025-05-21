@@ -32,7 +32,7 @@ notes-folder-path: "/notes/Reading/"
 </div>
 
 <h2 id="all">All my reading notes, by alphabetical order</h2>
-{% assign reading_notes_all = site.notes | where:"reading","true" | sort_natural: "title" %}
+{% assign reading_notes_all = site.notes | where:"reading","true" | where_exp:"item", "item.year_read > 2022" | sort_natural: "title" %}
 {% if reading_notes_all.size > 0 %}
 <details open id="{{ alphabetical }}"><summary><h3 id="{{alphabetical}}">Alphabetical by Title</h3></summary>
     <div>
@@ -49,16 +49,16 @@ notes-folder-path: "/notes/Reading/"
 <p>There's nothing here yet!</p>
 {% endif %}
 
-
 <h2 id="all">All my reading notes, by year finished</h2>
 
-{% assign reading_notes_all = site.notes | where:"reading","true" | sort_natural: "title" %}
-{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | group_by:"year_read" %}
+{% assign reading_notes_all = site.notes | where:"reading","true" %}
+{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | sort: "year_read" | group_by:"year_read" %}
 {% for year in reading_notes_by_year reversed %}
+{% assign year_sort_title = year.items | sort_natural: "title"%}
 <details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
 <div>
 <ol>
-{% for item in year.items %}
+{% for item in year_sort_title %}
 <li>
     {% if item.reading-articles %} :page_facing_up:{% endif %}
     {% if item.reading-books %} :green_book:{% endif %}

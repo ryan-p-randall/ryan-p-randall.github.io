@@ -15,15 +15,18 @@ title: "Books"
 </ul>
 {% endunless %}
 
-
-<h2 id="all">All my notes on books</h2>
-{% assign reading-books_notes_all = site.notes | where:"reading-books","true" | sort_natural: "title" %} {% comment %} sort: "date_read" {% endcomment %}
+<h2 id="all">All my notes on books, by alphabetical order</h2>
+{% assign reading-books_notes_all = site.notes | where:"reading-books","true" | where_exp:"item", "item.year_read > 2022" | sort_natural: "title" %} 
 {% if reading-books_notes_all.size > 0 %}
-<ul>
+<details open id="{{ alphabetical }}"><summary><h3 id="{{alphabetical}}">Alphabetical by Title</h3></summary>
+    <div>
+    <ol>
     {% for item in reading-books_notes_all %}
         {% include item-list-link.html %}
     {% endfor %}
-</ul>
+    </ol>
+    </div>
+</details>
 {% else %}
 <p>There's nothing here yet!</p>
 {% endif %}
@@ -31,12 +34,13 @@ title: "Books"
 <h2 id="by-year">All my reading notes on books by year</h2>
 
 {% assign reading_notes_all = site.notes | where:"reading-books","true" | sort: "date_read" %}
-{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | group_by:"year_read" %}
+{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | sort:"year_read" | group_by:"year_read" %}
 {% for year in reading_notes_by_year reversed %}
+{% assign year_sort_title = year.items | sort_natural: "title"%}
 <details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
 <div>
 <ol>
-{% for item in year.items %}
+{% for item in year_sort_title %}
 <li>
     {% if item.reading-books %} :green_book:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}

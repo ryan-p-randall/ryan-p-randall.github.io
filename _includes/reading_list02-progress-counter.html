@@ -3,7 +3,7 @@
         :books:
         <a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list2-field.html">Exam List 2: Mobility, Agency, & Surveillance in 20th & 21st Century American Literature
         </a></h4>-->
-        {% assign reading_list02 = site.notes | where:"reading-list02","true" %}
+        {% assign reading_list02 = site.notes | where:"reading_list02","true" %}
         {% assign reading_list02_finished = reading_list02 | where: "reading-status","finished" %}
         {% assign reading_list02_note = site.notes | where:"title","Exam List 2: Mobility, Agency, & Surveillance in 20th & 21st Century American Literature" %}
         {% comment %}

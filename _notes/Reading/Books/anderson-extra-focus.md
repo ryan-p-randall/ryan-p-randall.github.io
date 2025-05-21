@@ -8,6 +8,7 @@ status: ":herb:"
 published: true
 title: "Extra Focus: The Quick Start Guide to Adult ADHD"
 work_author: "Jesse J. Anderson"
+work_author_sort: "Anderson, Jesse J."
 work_link: "https://openlibrary.org/works/OL36718098W/Extra_Focus"
 work_link_text: "OpenLibrary"
 year_read: 2024
@@ -17,6 +18,5 @@ current: false
 progress_current: 159
 progress_max: 159
 reading-status: "finished"
+genre: [practice, book] # fiction novel article practice criticism
 ---
-
-{{ page.excerpt }}  

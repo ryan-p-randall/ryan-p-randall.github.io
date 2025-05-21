@@ -8,6 +8,7 @@ status: ":herb:"
 published: true
 title: "Modernist Informatics: Literature, Information, and the State"
 work_author: "James Purdon"
+work_author_sort: "Purdon, James"
 work_link: "https://openlibrary.org/works/OL21114005W/Modernist_Informatics"
 work_link_text: "OpenLibrary"
 year_read: 2023
@@ -16,6 +17,9 @@ date_started: 2022-11-02
 current: false
 progress_current: 224
 progress_max: 224
-reading-list01: true
+genre: [theory, book] # fiction novel article practice criticism
+reading_list01: true
 reading-status: "finished"
+citation: 'Purdon, James. <a href="https://openlibrary.org/works/OL21114005W/Modernist_Informatics"><em>Modernist Informatics: Literature, Information, and the State</em></a>. Oxford UP, 2016. (224 pp. workUnit1.)'
+bib_order: 11
 ---

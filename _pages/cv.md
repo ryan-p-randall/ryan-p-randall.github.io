@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2024-09-12
+last_modified_at: 2025-05-20
 toc: true
 toc_sticky: true
 ---
@@ -202,51 +202,51 @@ I wrote the [SIFT Moves](https://infolit-idaho.github.io/infolit-for-everyone/si
 
 - "Opening the Door to a More Inclusive and Equitable Learning Environment with UDL". [slides](https://hcommons.org/deposits/item/hc:65889/), [handout](https://hcommons.org/deposits/item/hc:65891/).  
 **Invited presentation**, co-presented with Kimberly Tomkinson.  
-[*2024 Higher Ed Quality in Action Conference*](https://qualitymatters.org/qa-resources/resource-center/conference-presentations/opening-door-more-inclusive-and-equitable).  
+[*2024 Higher Ed Quality in Action Conference*](https://qualitymatters.org/qa-resources/resource-center/conference-presentations/opening-door-more-inclusive-and-equitable), 2024-05-03.  
 - "Navigating Privacy Issues with Generative AI" panel. [video](https://www.youtube.com/watch?v=gBhUIoFstgc), [handout](https://docs.google.com/document/d/1QNS26A2fBBXKXFM8G9dk2fpweTpJudGuGsRNdFGTQGs/edit).  
 **Invited panelist**, with Liza Long and Reed Hepler.  
-Panel convened by Idaho State Board of Education's "AI Alliance" and held online, 2024.  
+Panel convened by Idaho State Board of Education's "AI Alliance" and held online, 2024-03-06.  
 - "Opening the Door to a More Inclusive and Equitable Learning Environment with UDL: Connecting UDL Guidelines and Quality Matters Specific Review Standards." [slides](https://docs.google.com/presentation/d/1YcGKZwWk0Jzt4AK0cnYNDiWIor2Z7uEGsyeAvj6_JVY/edit?usp=sharing), [handout](https://docs.google.com/document/d/13KIvGGakJDd5xp1QlWsfQhG42Su9knxtZzMmNWMJXeQ/edit?usp=sharing).  
 Co-presented with Kimberly Tomkinson.  
-[*QM Connect 2023*](https://events.qualitymatters.org/event/8c32397a-b238-4523-beaa-93d7b4d93856/websitePage:4575682a-7d18-49cf-bfdc-3a1ab7bddf4e).  
+[*QM Connect 2023*](https://events.qualitymatters.org/event/8c32397a-b238-4523-beaa-93d7b4d93856/websitePage:4575682a-7d18-49cf-bfdc-3a1ab7bddf4e), 2023-11-06.  
 - "Student Scholars Creating OER through Renewable Assignments." [slides](https://docs.google.com/presentation/d/1JqVIjDQhL2G_94xW4m85IdaJFTDRhj2m3NKQ6uM26AI/edit?usp=sharing).  
 **Invited talk**, co-presented with Liza Long.  
-[*Louisiana State University's HEROE-S Forum*](https://lsu.edu/hss/wllc/forlanglab/heroes.php), Conference held online, 2023.  
+[*Louisiana State University's HEROE-S Forum*](https://lsu.edu/hss/wllc/forlanglab/heroes.php), Conference held online, 2023-04-13.  
 - "Student Scholars in Action: Collaborations with Librarians, Students, and Instructors for Student-Driven OER." [slides](https://docs.google.com/presentation/d/1ivuInqMSBssEpQhRr0frs9SdoCcwrAjR_7doz4w_E_8/edit?usp=sharing), [links and related resources](https://docs.google.com/document/d/1klIFV3vrRj4Rre-TDRrXFPNqmmZBfmQce1fENP5oGcU/edit?usp=sharing).  
 Co-presented with Liza Long and Carrie Bailey.  
-[*Open Education Conference 2022*](https://opened22.sched.com/event/1AmUs/student-scholars-in-action-student-driven-oer-creation-with-librarians-students-and-instructors), Conference held online, 2022.  
+[*Open Education Conference 2022*](https://opened22.sched.com/event/1AmUs/student-scholars-in-action-student-driven-oer-creation-with-librarians-students-and-instructors), Conference held online, 2022-10-20.  
 - "Student Achievement Unlocked! The Effectiveness of Badging in Community College Library Instruction." [video](https://cwidahocc-my.sharepoint.com/:v:/g/personal/amandanida_cwi_edu/EU6tbLoY4ypLnFVF_KqGicYB4n3dIulhj5NuX_dn7QIYgQ?e=oiLePW), [paper](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/StudentAchievementUnlocked.pdf).  
 Co-presented with Amanda Nida and Kim Reed.  
-[*ACRL (Association of College &amp; Research Libraries) 2021*](https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP), Conference held online, 2020.  
+[*ACRL (Association of College &amp; Research Libraries) 2021*](https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP), Conference held online, 2021-04-13.  
 - "Textbook Affordability & OER (Open Education Resources)."  
 Panel with Jonathan Lashley, Kristin Witman, Marco Seiferle-Valencia, and Monica Brown.  
-[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020.  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020-07-30.  
 - "Will I Get Credit for my Badges?" [slides](https://drive.google.com/file/d/1KH8FzjqsoTHAc44dTxqcyyK_24Jpq2tW/view).  
 Information Literacy Lightning Talk with Rebeca Peacock, Shelly Doty, and Lindsay Marsh.  
-[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020.  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020-07-30.  
 - "SIFT Moves." [video](https://flipgrid.com/05bb6128).  
 "Innovative Ideas" poster session / video lightning talk.  
-[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020.  
+[*MOSS Meetup 2020*](https://libraries.idaho.gov/moss2020/), Conference held online, 2020-07-30.  
 - "Informing the Crisis of Fake News."  
 Presentation.  
 [*Library Instruction West 2020*](https://liw2020.sched.com/event/Zhqm/informing-the-crisis-of-fake-news), Conference [cancelled](https://liw2020.sched.com/event/Zhqm/informing-the-crisis-of-fake-news) due to COVID19 pandemic.  
 - "Changing Tides: Exploring Current Trends in Information Literacy Programs."  
 Panel with Zoe Fisher, Danielle Rowland, Megan Smithling, and Elizabeth Brown.  
-[*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA, 2017.  
+[*2017 ACRL Washington & Oregon Joint Conference*](http://acrlwa.org/2017conference), Eatonville, WA, 2017-10-20.  
 - "ILA Social Justice Committee, Equity, and Libraries." [slides](http://ryanpatrickrandall.com/talks/swila2017).  
 __Keynote presentation__.
 *SWILA (Southwestern Idaho Library Association) Conference*, Meridian, ID, 2017.  
 - "Productive Interpretations: Encouraging Patron Agency through Cultural Criticism." [slides](https://www.ryanpatrickrandall.com/talks/capal16/), [paper](https://capalibrarians.org/wp/wp-content/uploads/2016/08/4A_Randall_paper.pdf).  
-[*CAPAL 2016 Conference*](https://capalibrarians.org/capal-conference-2016/), Calgary, AB, Canada, 2016.  
+[*CAPAL 2016 Conference*](https://capalibrarians.org/capal-conference-2016/), Calgary, AB, Canada, 2016-05-30.  
 - “Critical Information Literacy as Collaborative Praxis.”  
 Co-presented with Jessica Critten, Karen Nicholson, and Eamon Tewell.  
-[*Cultural Studies Association Conference*](http://www.culturalstudiesassociation.org/program15), Riverside, CA, 2015.  
+[*Cultural Studies Association Conference*](http://www.culturalstudiesassociation.org/program15), Riverside, CA, 2015-05-21.  
 - “LIS Education and New Conceptions of Democracy.” [video and slides](https://hdl.handle.net/2142/78057).  
-[*2015 Symposium on LIS Education*](https://lisedsymposium.wordpress.com/refereed-presentations/), University of Illinois, Urbana-Champaign, 2015.  
+[*2015 Symposium on LIS Education*](https://lisedsymposium.wordpress.com/refereed-presentations/), University of Illinois, Urbana-Champaign, 2015-04-11.  
 [Presentation slides.](http://www.slideshare.net/ryanprandall/ryan-lised-symp)  
 - “Undergraduate as Creator, Undergraduate as Curator: Exploring the Role of the Instruction Librarian in the Digital Humanities.”  
 Co-presented with Katherine Ahnberg, Megan Browndorf, and Cynthia Fisher.  
-*The Collective*, University of Tennessee, Knoxville, 2015.  
+*The Collective*, University of Tennessee, Knoxville, 2015-02-19.  
 [http://sched.co/233V](http://sched.co/233V)  
 - “Community Building Workshop.”  
 Co-led with Meghan McGrath.  
@@ -263,7 +263,7 @@ Co-presented with Katherine Ahnberg.
 - "Is a Plant a Document? The Knowledge Practices of Renaissance Natural History, Francis Bacon, and Contemporary Library Science."  
 *Intermountain Graduate Conference*, Pocatello, ID, 2019.  
 - "Intersectionality and Juxtaposition in Mourning Dove's _Cogewea_."  
-*Western Literature Association Conference*, Estes Park, CO, 2019.  
+*Western Literature Association Conference*, Estes Park, CO, 2019-09-21.  
 - “'This is a musical instrument. This is another. Combine them. Now perform historical materialism through your band.': Bricolage and Historical Materialism as Audible in the Altered Instruments of Sonic Youth and Laurie Anderson."  
 *Popular Culture Association/American Culture Association Conference*, Boston, MA, 2012.  
 - “Musical Mutations, Alternative Institutions: A Materialist Cultural Studies Approach to the Early Works of Laurie Anderson and Sonic Youth.”  

@@ -8,6 +8,7 @@ status: ":seedling:"
 published: true
 title: "Playing in the Dark: Whiteness and the Literary Imagination"
 work_author: "Toni Morrison"
+work_author_sort: "Morrison, Toni"
 work_link: "https://openlibrary.org/works/OL50554W/Playing_in_the_dark"
 work_link_text: "OpenLibrary"
 year_read: 2025
@@ -16,6 +17,9 @@ date_started: 2025-02-21
 current: false # true
 progress_current: 91
 progress_max: 91
-reading-list02: true
+genre: [theory, book, criticism] # fiction novel article practice criticism
+reading_list02: true
 reading-status: "finished"
+citation: "Morrison, Toni. <em>Playing in the Dark: Whiteness and the Literary Imagination</em>. 1992. 1st Vintage ed., 2019. (91 pp. workUnit1.)"
+bib_order: 7
 ---

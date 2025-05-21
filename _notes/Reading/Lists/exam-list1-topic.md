@@ -16,7 +16,7 @@ list: true
 current-list: true
 # progress_current: 9
 progress_max: 35
-reading-list01-note: true
+reading_list01-note: true
 ---
 
 It is 35 “work units” long (countable by searching “work Unit1” without a space), as defined in my [program's](https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/) PhD Program [Handbook](https://www.isu.edu/media/libraries/english/PhD-Program-Handbook.pdf).  
@@ -33,6 +33,18 @@ One strategy for depicting information systems and epistemological experiences h
 
 ## Fiction
 
+{% assign exam_list1_fiction = site.notes | where: "reading_list01", "true" | where: "genre","fiction" | sort: "bib_order" %}
+<ol>
+{% for item in exam_list1_fiction %}
+<li>
+{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
+</li>
+{% endfor %}
+</ol>
+
+<!--
+
 1. Asimov, Isaac. _[Foundation](https://openlibrary.org/works/OL46125W/Foundation)_. 1951. Spectra, 1991. (320 pp., workUnit1.)  
 2. Delany, Samuel R. _The Ballad of Beta-2_. 1965. _[A, B, C: Three Short Novels](https://openlibrary.org/works/OL20114359W/A_B_C_Three_Short_Novels_The_Jewels_of_Aptor_The_Ballad_of_Beta-2_They_Fly_at_Ciron)_. Vintage, 2015, pp. 172--262. (90 pp. workUnit1.)  
 3. ———. _[Dhalgren](https://openlibrary.org/works/OL56835W/Dhalgren)_. 1974. Vintage, 2001. (801 pp. workUnit1 + workUnit1.)  
@@ -47,10 +59,22 @@ One strategy for depicting information systems and epistemological experiences h
 12. ———. _[Gravity’s Rainbow](https://openlibrary.org/books/OL6900801M/Gravity's_rainbow)_. 1973. Penguin, 2000. (776 pp. workUnit1 + workUnit1.)  
 13. Stephenson, Neal. _[Snow crash](https://openlibrary.org/works/OL38501W/Snow_Crash)_. 1992. Del Rey, 2000. (440 pp. workUnit1 + workUnit1.)  
 14. Yamashita, Karen Tei. _[Tropic of Orange](https://openlibrary.org/works/OL2664054W/Tropic_of_orange)_. Coffee House Press, 1997. (270 pp. workUnit1.)  
+-->
 
 ## Theory
 ### Theory Books
 
+{% assign exam_list1_theory = site.notes | where: "reading_list01", "true" | where: "genre","book" | where: "genre","theory" | sort: "bib_order" %}
+<ol>
+{% for item in exam_list1_theory %}
+<li>
+{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
+</li>
+{% endfor %}
+</ol>
+
+<!--
 1. Benjamin, Ruha. _[Race after Technology: Abolitionist Tools for the New Jim Code](https://openlibrary.org/works/OL20794423W/Race_After_Technology)_. Polity, 2019. (285 pp. workUnit1.)  
 2. Chu, Patricia E. _[Race, Nationalism, and the State in British and American Modernism](https://openlibrary.org/works/OL8332653W/Race_Nationalism_and_the_State_in_British_and_American_Modernism)_. Cambridge UP, 2006. (196 pp. workUnit1.)  
 3. Day, Ronald E. _[The Modern Invention of Information: Discourse, History, and Power](https://openlibrary.org/works/OL221883W/The_modern_invention_of_information)_. Southern Illinois UP, 2001. (152 pp. workUnit1.)  
@@ -64,22 +88,47 @@ One strategy for depicting information systems and epistemological experiences h
 11. :ballot_box_with_check: Purdon, James. _[Modernist Informatics: Literature, Information, and the State](https://openlibrary.org/works/OL21114005W/Modernist_Informatics)_. Oxford UP, 2016. (224 pp. workUnit1.) ([[purdon-modernist-informatics|My public notes]].)  
 12. :ballot_box_with_check: Richards, Thomas. _[The Imperial Archive: Knowledge and the Fantasy of Empire](https://openlibrary.org/works/OL2637775W/The_imperial_archive)_. Verso, 1993. (179 pp. workUnit1.)  
 13. Tucker, Jeffrey Allen. _[A Sense of Wonder: Samuel R. Delany, Race, Identity, and Difference](https://openlibrary.org/works/OL5701906W/A_sense_of_wonder)_. Wesleyan UP, 2004. (344 pp., workUnit1.)  
+-->
 
 ### Theory Articles
 #### Batch One (workUnit1)
 
+{% assign exam_list1_articles_batch01 = site.notes | where: "reading_list01", "true" | where: "genre","article" | where: "batch","batch01" | sort: "bib_order" %}
+<ol>
+{% for item in exam_list1_articles_batch01 %}
+<li>
+{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
+</li>
+{% endfor %}
+</ol>
+
+<!--
 1. Budd, John M. [“Instances of Ideology in Discursive Practice: Implications for Library and Information Science.”](https://www.jstor.org/stable/4309562) _The Library Quarterly_ vol 71, no 4, 2001, pp. 498–517. _JSTOR_. (20 pp.)  
 2. Colatrella, Carol. [“Information in the Novel and the Novel as Information System: Charles Dickens’s ‘Little Dorrit’ and Margaret Drabble’s ‘Radiant Way’ Trilogy.”](https://www.jstor.org/stable/43737492) _Information & Culture_ vol. 50, no. 3, 2015, pp. 339–371. _JSTOR_. (33 pp.)  
 3. Daston, Lorraine. “Objectivity and the Escape from Perspective.” _Social Studies of Science_ vol. 22, pp. 597–618. _SAGE_. (21 pp.)  
 4. Haraway, Donna. “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century.” pp. 149-–181. _[Simians, Cyborgs, and Women: The Reinvention of Nature](https://openlibrary.org/works/OL3257500W/Simians_cyborgs_and_women)_. Routledge, 1991. (32 pp.)  
 5. ———. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” p. 183–201. _[Simians, Cyborgs, and Women: The Reinvention of Nature](https://openlibrary.org/works/OL3257500W/Simians_cyborgs_and_women)_. Routledge, 1991. (18 pp.)  
+-->
 
 #### Batch Two (workUnit1)
 
-1. Olson, Hope. A. “The Power to Name: Representation in Library Catalogs.” _Signs_, vol. 26, no. 3, 2001, pp. 639–668. (29 pp.)  
+{% assign exam_list1_articles_batch02 = site.notes | where: "reading_list01", "true" | where: "genre","article" | where: "batch","batch02" | sort: "bib_order" %}
+<ol>
+{% for item in exam_list1_articles_batch02 %}
+<li>
+{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
+</li>
+{% endfor %}
+</ol>
+
+<!-- 
+1. Olson, Hope A. “The Power to Name: Representation in Library Catalogs.” _Signs_, vol. 26, no. 3, 2001, pp. 639–668. (29 pp.)  
 2. Radford, Gary P. “Positivism, Foucault, and the Fantasia of the Library: Conceptions of Knowledge and the Modern Library Experience.” _The Library Quarterly: Information, Community, Policy_, vol. 62, no. 4, Oct. 1992, pp. 408–424. (16 pp.)  
 3. Sekula, Allan. [“The Body and the Archive.”](https://www.jstor.org/stable/778312) _October_, vol. 39, winter 1986, pp. 3–64. _JSTOR_. (62 pp.)  
-4. Vidhyanathan, Siva. [“Afterword: Critical Information Studies: A Bibliographic Manifesto.”](https://doi.org/10.1080/09502380500521091) _Cultural Studies_, vol. 20, nos. 2--3, 2006, pp. 292–315. (24 pp.)  
+4. Vidhyanathan, Siva. [“Afterword: Critical Information Studies: A Bibliographic Manifesto.”](https://doi.org/10.1080/09502380500521091) _Cultural Studies_, vol. 20, nos. 23, 2006, pp. 292–315. (24 pp.)  
 5. Wark, McKenzie. [“Information Wants to Be Free (But Is Everywhere In Chains).”](https://www.tandfonline.com/doi/abs/10.1080/09502380500495668) _Cultural Studies_, vol. 20, nos. 2–3, 2006. (18 pp.)  
+-->
 
 ### Reading Progress

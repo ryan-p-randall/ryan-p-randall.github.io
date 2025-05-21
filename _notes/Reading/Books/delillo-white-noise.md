@@ -8,6 +8,7 @@ status: ':herb:'
 published: true # false
 title: 'White Noise'
 work_author: 'Don DeLillo'
+work_author_sort: "DeLillo, Don"
 work_link: 'https://openlibrary.org/books/OL2531465M/White_Noise'
 work_link_text: 'OpenLibrary'
 year_read: 2025
@@ -16,6 +17,9 @@ date_started: 2025-05-08
 current: false
 progress_current: 326
 progress_max: 326
-reading-list01: true
+genre: [fiction, book, novel] # theory
+reading_list01: true
 reading-status: 'finished'
+citation: 'DeLillo, Don. <a href="https://openlibrary.org/books/OL2531465M/White_noise"><em>White Noise</em>.</a> Penguin, 1986. (326 pp. workUnit1.)'
+bib_order: 5
 ---

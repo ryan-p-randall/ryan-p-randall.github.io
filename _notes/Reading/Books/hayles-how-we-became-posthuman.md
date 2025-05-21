@@ -8,6 +8,7 @@ status: ":herb:"
 published: true
 title: "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
 work_author: "N. Katherine Hayles"
+work_author_sort: "Hayles, N. Katherine"
 work_link: "https://openlibrary.org/books/OL374645M/How_we_became_posthuman"
 work_link_text: "OpenLibrary"
 year_read: 2024
@@ -16,7 +17,10 @@ date_started: 2024-02-14
 current: false
 progress_current: 350
 progress_max: 350
-reading-list01: true
+genre: [theory, criticism, book] # fiction novel article practice pedagogy criticism
+reading_list01: true
 reading-status: "finished"
+citation: 'Hayles, N. Katherine. <a href="https://openlibrary.org/books/OL374645M/How_we_became_posthuman"><em>How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics</em></a>. U Chicago P, 1999. (350 pp. workUnit1.)'
+bib_order: 7
 ---
 

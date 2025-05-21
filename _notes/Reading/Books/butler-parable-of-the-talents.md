@@ -8,14 +8,19 @@ status: ':herb:'
 published: true
 title: 'Parable of the Talents'
 work_author: 'Octavia E. Butler'
+work_author_sort: "Butler, Octavia E."
 work_link: 'https://openlibrary.org/books/OL28924805M/Parable_of_the_Talents'
 work_link_text: 'OpenLibrary'
 year_read: 
 date_read: 
-date_started: 
+# date_started: 
 current: false # true
 progress_current: 0
-progress_max: 406
-reading-list02: true
+progress_max: 448
+reading_list02: true
+fiction: true
+genre: [fiction, book, novel] # theory
 reading-status: "not yet started" # 'started' 'finished'
+citation: "———. <em>Parable of the Talents</em>. 1998. Grand Central Publishing, 2019. (448 pp. workUnit1 + workUnit1.)"
+bib_order: 3
 ---

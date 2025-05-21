@@ -6,13 +6,13 @@ layout: single-no-backlinks
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
 toc: true
-last_modified_at: 2024-01-07
+last_modified_at: 2025-05-20
 ---
 ## Currently  
 
 As an Instructional Designer at <a href="https://www.isu.edu/itrc/about-the-itrc/itrc-staff/">Idaho State University</a>, I work to help faculty design engaging, clear, and accessible online courses that improve outcomes for every learner. I'm enthusiastic about open educational resources (OERs) and open pedagogical approaches.  
 
-I'm also a student in Idaho State University's <a href="https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/">Ph.D. in English and the Teaching of English</a> program, which emphasizes pedagogy more than most English literature programs. I serve as the Web Editor for <em><a href="http://www.inthelibrarywiththeleadpipe.org/">In the Library with the Lead Pipe</a></em>, an open access, open peer reviewed library journal.
+I'm also a student in Idaho State University's <a href="https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/">Ph.D. in English and the Teaching of English</a> program, which emphasizes pedagogy more than most English literature programs. Additionally, I serve as the Web Editor for <em><a href="http://www.inthelibrarywiththeleadpipe.org/">In the Library with the Lead Pipe</a></em>, an open access, open peer reviewed library journal.
 
 ## Previously  
 
@@ -31,4 +31,4 @@ If all of this somehow leaves your curiosity unsated, here's <a href="{{ '/cv' |
 
 ## Elsewhere  
 
-I've you're curious about where else you can find me, check out my <a href="{{ '/links-rhizome' | relative_url }}">Links Rhizome</a> page.  
+I've you're curious about where else you can find me, check out my <a href="{{ '/elsewhere' | relative_url }}">`/Elsewhere`</a> page.  

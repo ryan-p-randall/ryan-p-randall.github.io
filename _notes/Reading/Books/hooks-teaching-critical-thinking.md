@@ -8,6 +8,7 @@ status: ":herb:"
 published: true
 title: "Teaching Critical Thinking: Practical Wisdom"
 work_author: 'bell hooks'
+work_author_sort: "hooks, bell"
 work_link: 'https://search.worldcat.org/title/149307225'
 work_link_text: 'WorldCat'
 year_read: 2025
@@ -16,6 +17,10 @@ date_started: 2025-02-15
 current: false
 progress_current: 188
 progress_max: 188
-reading-list03: true
+genre: [theory, pedagogy, practice, book] # fiction novel article practice pedagogy criticism
+reading_list03: true
 reading-status: "finished"
+citation: 'hooks, bell. <em>Teaching Critical Thinking: Practice Wisdom</em>. Routledge, 2010. (198 pp., workUnit1.)'
+group: [pid]
+bib_order: 9
 ---

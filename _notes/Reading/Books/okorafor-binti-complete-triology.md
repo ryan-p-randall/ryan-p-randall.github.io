@@ -8,6 +8,7 @@ status: ':herb:'
 published: true
 title: 'Binti: The Complete Trilogy'
 work_author: 'Nnedi Okorafor'
+work_author_sort: "Okorafor, Nnedi"
 work_link: 'https://openlibrary.org/books/OL28195511M/Binti'
 work_link_text: 'OpenLibrary'
 year_read: 2025
@@ -16,8 +17,11 @@ date_started: 2025-04-28
 current: false # true
 progress_current: 358
 progress_max: 358
-reading-list01: true
+genre: [fiction, book, novel] # fiction novel article practice criticism
+reading_list01: true
 reading-status: 'finished'
+citation: 'Okorafor, Nnedi. <a href="https://openlibrary.org/works/OL19649739W/Binti_The_Complete_Trilogy"><em>Binti: The Complete Trilogy</em></a>. Daw Books, 2020. (358 pp. workUnit1.)'
+bib_order: 9
 ---
 
 This omnibus edition is actually three books, plus a short story.  

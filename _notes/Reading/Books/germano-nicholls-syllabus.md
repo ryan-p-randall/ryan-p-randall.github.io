@@ -7,7 +7,8 @@ excerpt: "You know how film has the idea of a [MacGuffin](https://en.wikipedia.o
 status: ':herb:'
 published: true # false
 title: 'Syllabus: The Remarkable, Unremarkable Document That Changes Everything'
-work_author: 'Wiliam Germano & Kit Nicholls'
+work_author: 'William P. Germano & Kit Nicholls'
+work_author_sort: "Germano, William P. and Kit Nicholls"
 work_link: 'https://openlibrary.org/books/OL29512077M/Syllabus'
 work_link_text: 'OpenLibrary'
 year_read: 2025
@@ -16,6 +17,10 @@ date_started: 2025-03-20
 current: false
 progress_current: 204
 progress_max: 204
-reading-list03: true
+genre: [practice, pedagogy, book] # theory
+reading_list03: true
 reading-status: 'finished'
+citation: 'Germano, William and Kit Nicholls. <em>Syllabus: The Remarkable, Unremarkable Document That Changes Everything</em>. Princeton UP, 2020. (204 pp., workUnit1.)'
+group: [pid]
+bib_order: 5
 ---

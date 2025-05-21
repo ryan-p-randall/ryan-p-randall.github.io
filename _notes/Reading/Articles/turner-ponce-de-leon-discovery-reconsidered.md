@@ -16,6 +16,7 @@ year_read: 2024
 date_read: 2024-05-01
 date_started: 2024-05-01
 current: false
+reading-status: "finished"
 progress_current: 31
 progress_max: 31
 ---

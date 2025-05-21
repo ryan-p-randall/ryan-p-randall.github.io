@@ -16,6 +16,9 @@ date_started: 2023-11-12
 current: false # true
 progress_current: 277
 progress_max: 277
-reading-list01: true
+genre: [theory, book] # fiction novel article practice criticism
+reading_list01: true
 reading-status: "finished"
+citation: 'Lee, Maurice S. <a href="https://openlibrary.org/works/OL21212512W/Overwhelmed"><em>Overwhelmed: Literature, Aesthetics, and the Nineteenth-Century Information Revolution</em></a>. Princeton UP, 2019. (277 pp. workUnit1.)'
+bib_order: 10
 ---

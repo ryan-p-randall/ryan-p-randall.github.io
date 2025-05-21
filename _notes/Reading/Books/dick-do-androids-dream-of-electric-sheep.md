@@ -8,6 +8,7 @@ status: ':herb:'
 published: true
 title: 'Do Androids Dream of Electric Sheep?'
 work_author: 'Philip K. Dick'
+work_author_sort: "Dick, Philip K."
 work_link: 'https://openlibrary.org/books/OL8898972M/Philip_K._Dick'
 work_link_text: "OpenLibrary"
 year_read: 2024
@@ -16,7 +17,10 @@ date_started: 2024-05-12
 current: false
 progress_current: 177
 progress_max: 177
-reading-list01: true
+genre: [fiction, book, novel] # fiction novel article practice criticism
+reading_list01: true
 reading-status: "finished"
+citation: 'Dick, Philip K. <em>Do Androids Dream of Electric Sheep?</em> 1968. <a href="https://openlibrary.org/books/OL8898972M/Philip_K._Dick"><em>Four Novels of the 1960s</em></a>. The Library of America, 2007, pp. 435&ndash;608. (177 pp. workUnit1.)'
+bib_order: 6
 ---
 

@@ -5,7 +5,7 @@ folder-title: "Reading Articles"
 title: "Articles"
 ---
 
-{% assign reading-articles_notes_pinned = site.notes | where:"reading-articles","true" | where:"pinned","true" | sort: "path" %}
+{% assign reading-articles_notes_pinned = site.notes | where:"reading-articles","true" | where:"pinned","true" | sort: "title" %}
 {% unless reading-articles_notes_pinned == empty %}
 <h2 id="pinned">Pinned {{page.title}} notes</h2>
 <ul>
@@ -16,7 +16,7 @@ title: "Articles"
 {% endunless %}
 
 <h2 id="all">All my notes on articles I've read</h2>
-{% assign reading-articles_notes_all = site.notes | where:"reading-articles","true" | sort: "date_read" %}
+{% assign reading-articles_notes_all = site.notes | where:"reading-articles","true" | where:"reading-status","finished" | sort: "title" %}
 {% if reading-articles_notes_all.size > 0 %}
 <ul>
     {% for item in reading-articles_notes_all %}
@@ -29,8 +29,35 @@ title: "Articles"
 
 <h2 id="all">All my reading notes on articles by year</h2>
 
-{% comment %}
-{% assign reading_notes_2023 = site.notes | where:"reading-articles","true" | where:"year_read","2023" | sort: "date_read" %}
+{% assign reading_notes_2025 = site.notes | where:"reading-articles",true | where:"year_read","2025" | sort: "title" %}
+{% if reading_notes_2025.size > 0 %}
+<details open><summary><h3 id="2025">2025</h3></summary>
+    <div>
+    <ul>
+        {% for item in reading_notes_2025 %}
+            {% include item-list-link.html %}
+        {% endfor %}
+    </ul>
+    </div>
+</details>
+{% endif %}
+
+{% assign reading_notes_2024 = site.notes | where:"reading-articles",true | where:"year_read","2024" | sort: "title" %}
+{% if reading_notes_2024.size > 0 %}
+<details open><summary><h3 id="2024">2024</h3></summary>
+    <div>
+    <ul>
+        {% for item in reading_notes_2024 %}
+            {% include item-list-link.html %}
+        {% endfor %}
+    </ul>
+    </div>
+</details>
+{% else %}
+<p>There's nothing here yet!</p>
+{% endif %}
+
+{% assign reading_notes_2023 = site.notes | where:"reading-articles",true | where:"year_read","2023" | sort: "title" %}
 {% if reading_notes_2023.size > 0 %}
 <details open><summary><h3 id="2023">2023</h3></summary>
     <div>
@@ -44,10 +71,9 @@ title: "Articles"
 {% else %}
 <p>There's nothing here yet!</p>
 {% endif %}
-{% endcomment %}
 
 
-{% assign reading_notes_2022 = site.notes | where:"reading-articles","true" | where:"year_read","2022" | sort: "date_read" %}
+{% assign reading_notes_2022 = site.notes | where:"reading-articles","true" | where:"year_read","2022" | sort: "title" %}
 {% if reading_notes_2022.size > 0 %}
 <details open><summary><h3 id="2022">2022</h3></summary>
     <div>
@@ -58,6 +84,4 @@ title: "Articles"
     </ul>
     </div>
 </details>
-{% else %}
-<p>There's nothing here yet!</p>
 {% endif %}

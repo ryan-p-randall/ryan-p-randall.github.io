@@ -30,6 +30,20 @@ In putting together the list, the themes of the built environment and spatial/so
 
 ## Fiction
 
+{% assign exam_list2_fiction = site.notes | where: "reading_list02", "true" | where: "genre","fiction" | sort: "bib_order" %}
+<ol>
+{% for item in exam_list2_fiction %}
+<li>
+{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
+</li>
+{% endfor %}
+</ol>
+
+<!-- 
+
+## Fiction-Original
+
 1. Butler, Octavia E. _Kindred_. 1979. Beacon Press, 2004. (287 pp. workUnit1.)  
 2. ———. _Parable of the Sower_. 1993. Grand Central Publishing, 2019. (368 pp. workUnit1.)  
 3. ———. _Parable of the Talents_. 1998. Grand Central Publishing, 2019. (448 pp. workUnit1 + workUnit1.)  
@@ -47,9 +61,24 @@ In putting together the list, the themes of the built environment and spatial/so
 15. Vonnegut, Kirk. _Slaughterhouse-five, or, The Children's Crusade: a Duty-Dance with Death_. 1969. Modern Library, 1994. (240 pp. workUnit1.)  
 16. Wojnarowicz, David. _Close to the Knives: A Memoir of Disintegration_. Vintage, 1991. (288 pp. workUnit1.)  
 17. Wright, Richard. _Native Son_. 1940. Harper Perennial, 2023. (544 pp. workUnit1 + workUnit1.)  
+-->
 
 ## Theory & Criticism
 ### T & C Books
+
+{% assign exam_list2_theory_books = site.notes | where: "reading_list02","true" | where:"genre","theory" | where:"genre","book" | sort: "bib_order" %}
+<ol>
+{% for item in exam_list2_theory_books %}
+<li>
+{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
+</li>
+{% endfor %}
+</ol>
+
+<!-- 
+
+T C Original  
 
 1. :ballot_box_with_check: Cecire, Natalia. [_Experimental: American Literature and the Aesthetics of Knowledge_](https://openlibrary.org/books/OL28728693M/Experimental). Johns Hopkins UP, 2019. (293 pp. workUnit1.) ([[cecire-experimental|My public notes]].)  
 2. Denning, Michael. _The Cultural Front: The Laboring of American Culture in the Twentieth Century_. Verso, 1998. (556 pp. workUnit1 + workUnit1.)  
@@ -60,24 +89,49 @@ In putting together the list, the themes of the built environment and spatial/so
 7. :ballot_box_with_check: Morrison, Toni. _Playing in the Dark: Whiteness and the Literary Imagination_. 1992. 1st Vintage ed., 2019. (91 pp. workUnit1.)  
 8. Rothstein, Richard. _The Color of Law: A Forgotten History of How Our Government Segregated America_. Liveright Publishing Corporation, 2017. (342 pp. workUnit1.)  
 9. Soja, Edward W. _Postmodern Geographies: The Reassertion of Space in Critical Social Theory_. Verso, 1989. (266 pp. workUnit1.)  
+-->
 
 ### T & C Articles
 #### Batch One = workUnit1
 
+{% assign exam_list2_articles_batch01 = site.notes | where: "reading_list02", "true" | where: "genre","article" | where: "batch","batch01" | sort: "bib_order" %}
+<ol>
+{% for item in exam_list2_articles_batch01 %}
+<li>
+{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
+</li>
+{% endfor %}
+</ol>
+
+<!--
 1. Appiah, Kwame Anthony. “Is the Post- in Postmodernism the Post- in Postcolonial?” _Critical Inquiry_ vol. 17, no. 2, 1991, pp. 336–357. (21 pp.)  
 2. Calhoun, Jamie. [“Reimagining the Self: Maxine Hong Kingston’s ‘Tripmaster Monkey: His Fake Book.’”](http://www.jstor.org/stable/43264539) _The Journal of the Midwest Modern Language Association_ vols. 46/47, nos. 2/1, Fall 2013–Spring 2014, pp. 37--53. _JSTOR_. (27 pp.)  
 3. Ermarth, Elizabeth Deeds. “Agency in the Discursive Condition.” _History and Theory_ vol. 40, no. 4, 2001, pp. 34–58. (24 pp.)  
 4. ———. “Beyond ‘The Subject’: Individuality in the Discursive Condition.” _New Literary Theory_ vol. 31, no. 3, 2000, pp. 405–419. (14 pp.)  
 5. Eve, Martin Paul and Joe Street. [“The Silicon Valley Novel.”](https://eprints.bbk.ac.uk/id/eprint/20365/) _Literature & History_ vol. 28, no. 1, 2018, pp. 81–97. _BIROn: Birkbeck Institutional Research Online_. (16 pp.)  
+-->
 
 #### Batch Two = workUnit1
 
-1. Foucault, Michel. “Panopticism.” _Discipline & Punish_. 1975. Translated by Alan Sheridan, 2nd ed., Vintage, 1995. pp. 195–228. (33 pp.)  
-2. Foster, Tim. [“’A Kingdom of a Thousand Princes but No Kings’: The Postsuburban Network in Douglas Coupland's Microserfs.”](https://muse.jhu.edu/pub/104/article/459333) _Western American Literature_ vol. 46, no. 3, 2011, pp. 302–324. _Project Muse_. (22 pp.)  
+{% assign exam_list2_articles_batch02 = site.notes | where: "reading_list02", "true" | where: "genre","article" | where: "batch","batch02" | sort: "bib_order" %}
+<ol>
+{% for item in exam_list2_articles_batch02 %}
+<li>
+{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
+</li>
+{% endfor %}
+</ol>
+
+<!-- 
+1. Foster, Tim. [“’A Kingdom of a Thousand Princes but No Kings’: The Postsuburban Network in Douglas Coupland's Microserfs.”](https://muse.jhu.edu/pub/104/article/459333) _Western American Literature_ vol. 46, no. 3, 2011, pp. 302–324. _Project Muse_. (22 pp.)  
+2. Foucault, Michel. “Panopticism.” _Discipline & Punish_. 1975. Translated by Alan Sheridan, 2nd ed., Vintage, 1995. pp. 195–228. (33 pp.)  
 3. Gross, Ariela J. [“Litigating Whiteness: Trials of Racial Determination in the Nineteenth-Century South.”](https://www.jstor.org/stable/797472) _The Yale Law Journal_ vol. 198, no. 1, 1998, pp. 109–188. _JSTOR_. (79 pp.)  
 4. Hutcheon, Linda. [“Discourse, Power, Ideology: Humanism and Postmodernism.”](https://hdl.handle.net/1807/4354) _Postmodernism and Contemporary Fiction_, ed. Edmund J. Smyth, 1991, pp. 105–122. _TSpace_. (17 pp.)  
 5. Lipsitz, George. “The Possessive Investment in Whiteness: Racialized Social Democracy and the ‘White’ Problem in American Studies.” _American Quarterly_ vol. 47, no. 3, 1995, pp. 369–387. (18 pp.)  
 6. Mills, Charles W. [“Body Politic, Bodies Impolitic.”](http://www.jstor.org/stable/23347191) The Body and the State: How the State Controls and Protects the Body, Part 1, special issue of _Social Research_ vol. 78, no. 2, summer 2011, pp. 583–606. _JSTOR_. (24 pp.)  
 7. Yúdice, George. “The Privatization of Culture.” _Social Text_ no. 59, 1999, pp. 17–34. (17 pp.)  
+-->
 
 ### Reading Progress
