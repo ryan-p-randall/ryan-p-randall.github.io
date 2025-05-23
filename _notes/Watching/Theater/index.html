@@ -1,0 +1,55 @@
+---
+layout: notesindex
+excerpts: true
+folder-title: "Theater"
+title: "Theater"
+---
+<h2 id="all">All my theater watching notes, by alphabetical order</h2>
+{% assign theater_notes_all = site.notes | where:"theater","true" | where_exp:"item", "item.year_watched > 2022" | sort_natural: "title" %}
+
+{% if theater_notes_all.size > 0 %}
+<details open id="{{ alphabetical }}"><summary><h3 id="{{alphabetical}}">Alphabetical by Title</h3></summary>
+    <div>
+    <ol>
+    {% for item in theater_notes_all %}
+        <!-- {% if item.theater-books == true or item.theater-articles == true %} -->
+            {% include item-list-link.html %}
+        <!-- {% endif %} -->
+    {% endfor %}
+    </ol>
+    </div>
+</details>
+{% else %}
+<p>There's nothing here yet!</p>
+{% endif %}
+
+{% if theater_notes_all.size > 0 %}
+<h2 id="all">All my theater watching notes, by year finished</h2>
+
+{% assign theater_notes_all = site.notes | where:"theater","true" %}
+{% assign theater_notes_by_year = theater_notes_all | where_exp:"item", "item.year_watched > 2022" | sort: "year_watched" | group_by:"year_watched" %}
+{% for year in theater_notes_by_year reversed %}
+{% assign year_sort_title = year.items | sort_natural: "title"%}
+<details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
+<div>
+<ol>
+{% for item in year_sort_title %}
+<li>
+    <!--
+        {% if item.theater-articles %} :page_facing_up:{% endif %}
+        {% if item.theater-books %} :green_book:{% endif %}
+    -->
+    <a href="{{ item.url }}">{{ item.title }}</a>{% if work_author %} by {{ item.work_author }}{% endif %}
+    <!--
+        {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
+        {% if item.access == "paywalled" %} :closed_lock_with_key:{% endif %}
+    -->
+    {% if item.status == ":seedling:" %} :seedling:{% endif %}{% if item.status == ":herb:" %} :herb:{% endif %}{% if item.status == ":evergreen_tree:" %} :evergreen_tree:{% endif %}<br>
+    {{ item.excerpt | markdownify }}
+</li>
+{% endfor %}
+</ol>
+</div>
+</details>
+{% endfor %}
+{% endif %}
