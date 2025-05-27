@@ -1,6 +1,6 @@
 ---
 date: 2025-01-25T19:46:12-6:00
-last_modified_at: 2025-05-24
+last_modified_at: 2025-05-26
 reading: true
 reading-books: true
 excerpt: "Chu argues that innovations of form and style developed by Anglo-American modernist writers chart anxieties about personal freedom in the face of increasing governmental controls."
@@ -15,7 +15,7 @@ year_read:
 date_read: 
 date_started: 2025-05-22
 current: true # false # true
-progress_current: 21
+progress_current: 46
 progress_max: 196
 genre: [theory, book] # fiction novel article practice criticism
 reading_list01: true
