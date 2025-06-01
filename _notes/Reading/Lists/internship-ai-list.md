@@ -8,11 +8,11 @@ published: true
 title: "Internship AI List"
 work_author: "Ryan P. Randall"
 excerpt: 'This is the "topic" list for my comprehensive exam, with links to my own reading notes.'
-year_read: 
+year_read: 2025
 date_read: 2025-05-04
 date_started: 2025-02-18
 list: true
-# current: true
+current: false
 other-reading-list: true
 progress_current: 5
 progress_max: 5

@@ -89,7 +89,7 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 </details>
 
 
-{% assign reading_other_lists = site.notes | where:"other-reading-list","true" %}
+{% assign reading_other_lists = site.notes | where:"other-reading-list","true" | where:"current","true" %}
 {% if reading_other_lists.size > 0 %}
 <details open id="my-other-lists"><summary><h3 id="my-other-lists">My Other Lists</h3></summary>
 <div>
@@ -123,6 +123,7 @@ As you'll notice, I often read works in parallel. For the next couple years, I'l
 <li>
     {% if item.reading-articles %} :page_facing_up:{% endif %}
     {% if item.reading-books %} :green_book:{% endif %}
+    {% if item.list%} :memo:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}
     {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
     {% if item.access == "paywalled" %}:closed_lock_with_key:{% endif %}
