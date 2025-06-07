@@ -4,7 +4,7 @@ last_modified_at: 2024-04-22
 layout: notesindex
 excerpts: true
 folder-title: "Reading"
-title: "Reading"
+title: "Reading Notes"
 notes-folder-path: "/notes/Reading/"
 ---
 <h2>All {{page.title}} folders</h2>
@@ -31,8 +31,9 @@ notes-folder-path: "/notes/Reading/"
     </div>
 </div>
 
-<h2 id="all">All my reading notes, by alphabetical order</h2>
-{% assign reading_notes_all = site.notes | where:"reading","true" | where_exp:"item", "item.year_read > 2022" | sort_natural: "title" %}
+<h2 id="all">All my reading notes</h2>
+<p>These notes are for works I've <strong>actually started</strong> reading. You can find additional placeholder notes for works on <a href="{{page.folder-notes-path}}Lists">my reading lists</a> that aren't indexed below.</p>
+{% assign reading_notes_all = site.notes | where:"reading","true" | where_exp:"item", "item.date_started > 2022" | sort_natural: "title" %}
 {% if reading_notes_all.size > 0 %}
 <details open id="{{ alphabetical }}"><summary><h3 id="{{alphabetical}}">Alphabetical by Title</h3></summary>
     <div>

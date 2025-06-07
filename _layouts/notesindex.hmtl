@@ -48,12 +48,9 @@ layout: default
         {% include wikifooter.html %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{
             site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      <!-- just added below-->
-
-      
-      <!-- just added above-->
+        <h3 id="page-info">Page Info</h3>
+        {% include page-info-source-link-boxes.html %}
       </section>
-
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
         <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -61,7 +58,6 @@ layout: default
         {% include page__taxonomy.html %}
         {% comment %} {% include page__date.html %} {% endcomment %} {% comment %} commented out on 2024-04-22 when realized this line was displaying incorrect dates on notes index pages; I'll delete this line once I'm sure doing so doesn't cause problems elsewhere {% endcomment %}
       </footer>
-
       {% if page.share %}{% include social-share.html %}{% endif %}
 
     </div>

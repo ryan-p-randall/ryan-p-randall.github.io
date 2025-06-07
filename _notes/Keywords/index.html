@@ -2,12 +2,15 @@
 layout: notesindex
 excerpts: true
 folder-title: "keywords"
-title: "Keywords"
+title: "Notes on Keywords"
 ---
+
+{% assign folders = site.notes | where_exp:"item", "item.path contains 'keywords'" %}
+
+{% if folders.size > 0 %}
 
 <h2>All {{page.title}} folders</h2>
 
-{% assign folders = site.notes | where_exp:"item", "item.path contains 'keywords'" %}
 {% assign wikifolders = "" | split:"" %}
 
 {% for folder in folders %}
@@ -16,6 +19,8 @@ title: "Keywords"
 {% endfor %}
 
 {% assign wikifolders = wikifolders | uniq | sort %}
+
+{% endif %}
 
 {% comment %}
 
@@ -40,7 +45,7 @@ title: "Keywords"
 {% endcomment}
 
 {% assign keywords_notes_pinned = site.notes | where:"keywords","true" | where:"pinned","true" | sort: "path" %}
-{% unless keywords_notes_pinned == empty %}
+{% if keywords_notes_pinned.size > 0 %}
 
 <h2 id="pinned">Pinned {{page.title}} notes</h2>
 <ul>
@@ -48,7 +53,7 @@ title: "Keywords"
         {% include item-list-link.html %}
     {% endfor %}
 </ul>
-{% endunless %}
+{% endif %}
 
 
 <h2 id="all">All {{page.title}} items</h2>

@@ -2,7 +2,7 @@
 layout: notesindex
 excerpts: true
 folder-title: "Books"
-title: "Books"
+title: "Book Notes"
 ---
 
 {% assign reading-books_notes_pinned = site.notes | where:"reading-books","true" | where:"pinned","true" | sort: "path" %}
@@ -15,8 +15,9 @@ title: "Books"
 </ul>
 {% endunless %}
 
-<h2 id="all">All my notes on books, by alphabetical order</h2>
-{% assign reading-books_notes_all = site.notes | where:"reading-books","true" | where_exp:"item", "item.year_read > 2022" | sort_natural: "title" %} 
+<h2 id="all">All my notes on books</h2>
+<p>These notes are for works I've <strong>actually started</strong> reading. You can find additional placeholder notes for works on <a href="{{ site.baseurl }}/notes/Reading/Lists/">my reading lists</a> that aren't indexed below.</p>
+{% assign reading-books_notes_all = site.notes | where:"reading-books","true" | where_exp:"item", "item.date_started > 2022" | sort_natural: "title" %} 
 {% if reading-books_notes_all.size > 0 %}
 <details open id="{{ alphabetical }}"><summary><h3 id="{{alphabetical}}">Alphabetical by Title</h3></summary>
     <div>

@@ -24,4 +24,6 @@ citation: 'Richards, Thomas. <a href="https://openlibrary.org/works/OL2637775W/T
 bib_order: 12
 ---
 
+## Notes & Quotes
+
 > The [British] narratives of the late nineteenth century are full of fantasies about an empire united not by force but by information. The study of some of these narratives is the subject of this book.(p. 1)  

@@ -2,7 +2,7 @@
 layout: notesindex
 excerpts: true
 folder-title: "Films"
-title: "Films"
+title: "Film Notes"
 ---
 <h2 id="all">All my film watching notes, by alphabetical order</h2>
 {% assign films_notes_all = site.notes | where:"films","true" | where_exp:"item", "item.year_watched > 2022" | sort_natural: "title" %}

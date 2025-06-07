@@ -16,6 +16,11 @@ published: true
 toc: false # true
 comments:
 date: 2025-01-30T20:06:49-6:00
+gerolami-the-library-assemblage: true
+# note: 'The library assemblage: creative institutions in an information society'
+# notes:
+#    - 'The library assemblage: creative institutions in an information society'
+#    - 'Race, Nationalism and the State in British and American Modernism'
 ---
 
 I recently saw a lot of people, including the author Sarah Pinsker, asking a fun set of questions over on BlueSky. (Also, by the way, I'm on BlueSky.)  

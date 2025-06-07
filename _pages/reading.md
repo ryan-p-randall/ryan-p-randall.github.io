@@ -1,6 +1,6 @@
 ---
 permalink: /reading/
-title: "Reading"
+title: "A Reading Log"
 # date: 2023-01-10
 # last_modified_at: 2023-02-01
 # header: 
