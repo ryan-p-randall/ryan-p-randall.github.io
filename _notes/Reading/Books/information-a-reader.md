@@ -1,6 +1,6 @@
 ---
 date: 2025-03-15T15:01:37-6:00
-last_modified_at: 2025-05-07
+last_modified_at: 2025-08-16
 reading: true
 reading-books: true
 excerpt: "A humanistic introduction to the concept of information in historical, literary, and cultural studies."
@@ -15,7 +15,7 @@ year_read:
 date_read: 
 date_started: 2025-03-11
 current: true # false
-progress_current: 170
+progress_current: 201
 progress_max: 393
 reading_list01: true
 genre: [theory, book] # fiction novel article practice pedagogy criticism
