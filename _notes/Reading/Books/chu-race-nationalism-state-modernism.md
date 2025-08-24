@@ -3,7 +3,7 @@ date: 2025-01-25T19:46:12-6:00
 last_modified_at: 2025-08-23
 reading: true
 reading-books: true
-excerpt: "Chu argues that innovations of form and style developed by Anglo-American modernist writers chart anxieties about personal freedom in the face of increasing governmental controls."
+excerpt: "Chu argues that innovations of form and style developed by modernists chart anxieties about personal freedom in the face of increasing governmental controls."
 status: ':herb:'
 published: true # false
 title: 'Race, Nationalism and the State in British and American Modernism'
