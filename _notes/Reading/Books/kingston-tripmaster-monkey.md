@@ -22,6 +22,6 @@ reading_list02: true
 # reading_list03: true
 reading-status: # 'started' 'finished'
 genre: [fiction, book, novel] # theory
-citation: 'Kingston, Maxine Hong. Tripmaster Monkey: His Fake Book. Vintage, 1990. (352 pp. workUnit1.)'
+citation: 'Kingston, Maxine Hong. <em>Tripmaster Monkey: His Fake Book</em>. Vintage, 1990. (352 pp. workUnit1.)'
 bib_order: 11
 ---

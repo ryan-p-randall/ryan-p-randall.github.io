@@ -57,7 +57,7 @@ search_provider          : # lunr (default), algolia, google
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.26.2" # remote_theme: "mmistakes/minimal-mistakes" #  
+remote_theme: "mmistakes/minimal-mistakes@4.27.3" # remote_theme: "mmistakes/minimal-mistakes"
 kramdown:
   auto_ids: true
 # Outputting

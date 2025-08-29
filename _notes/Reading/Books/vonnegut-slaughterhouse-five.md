@@ -22,6 +22,6 @@ reading_list02: true
 # reading_list03: true
 reading-status: # 'started' 'finished'
 genre: [fiction, book, novel] # theory
-citation: 'Vonnegut, Kurt. Slaughterhouse-five, or, The Children’s Crusade: a Duty-Dance with Death. 1969. Modern Library, 1994. (240 pp. workUnit1.)'
+citation: 'Vonnegut, Kurt. <em>Slaughterhouse-five, or, The Children’s Crusade: a Duty-Dance with Death</em>. 1969. Modern Library, 1994. (240 pp. workUnit1.)'
 bib_order: 15
 ---
