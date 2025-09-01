@@ -22,6 +22,6 @@ reading_list01: true
 # reading_list03: true
 reading-status: # 'started' 'finished'
 genre: [theory, book] # fiction theory book novel article practice pedagogy criticism
-citation: 'Foucault, Michel. <a href="https://openlibrary.org/books/OL5282804M/The_archaeology_of_knowledge"><em>The Archaeology of Knowledge</em></a>. Pantheon, 1972. (237 pp. workUnit1.)'
+citation: 'Foucault, Michel. <a href="https://openlibrary.org/books/OL5282804M/The_archaeology_of_knowledge"><em>The Archaeology of Knowledge</em></a>. 1969. Pantheon, 1972. (237 pp. workUnit1.)'
 bib_order: 4
 ---
