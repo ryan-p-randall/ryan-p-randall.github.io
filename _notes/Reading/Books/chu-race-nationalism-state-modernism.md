@@ -23,3 +23,9 @@ reading-status: "finished"
 citation: 'Chu, Patricia E. <a href="https://openlibrary.org/works/OL8332653W/Race_Nationalism_and_the_State_in_British_and_American_Modernism"><em>Race, Nationalism, and the State in British and American Modernism</em></a>. Cambridge UP, 2006. (196 pp. workUnit1.)'
 bib_order: 2
 ---
+
+## 2025-09-03
+
+### 22:38
+
+Just testing Webmentions. Does mentioning my [most recent post](https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-35) currently send a Webmention to my own site?

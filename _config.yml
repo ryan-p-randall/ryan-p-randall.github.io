@@ -100,6 +100,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+#  - jekyll-webmention_io
+#  - jekyll-algolia
 
 author:
   name   : "Ryan P. Randall"
@@ -195,7 +197,6 @@ defaults:
       # toc_sticky: false # true
       author_profile: false # true
 
-
 category_archive:
   type: liquid
   path: /categories/
@@ -220,7 +221,22 @@ after_footer_scripts:
 
 webmentions:
   username: www.ryanpatrickrandall.com
-  cache_bad_uris_for: 5
   pages: true
   collections:
     - notes
+  throttle_lookups:
+    last_week: daily
+    last_month: weekly
+    last_year: every 2 weeks
+    older: monthly
+  max_attempts: 5
+  cache_bad_uris_for: 5
+  bad_uri_policy:
+    unsupported:
+      policy: ban
+    error:
+      policy: ignore
+    failure:
+      policy: retry
+      retry_delay: [ 1, 12, 48, 120 ]
+      max_retries: 5
