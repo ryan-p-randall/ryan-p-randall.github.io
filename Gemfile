@@ -18,4 +18,5 @@ group :jekyll_plugins do
 #  gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "github-pages-unscramble"
+  gem "jekyll-webmention_io"
 end

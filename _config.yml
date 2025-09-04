@@ -217,3 +217,10 @@ tag_archive:
 
 after_footer_scripts:
     - /assets/js/plugins/external-link-indicator.js
+
+webmentions:
+  username: www.ryanpatrickrandall.com
+  cache_bad_uris_for: 5
+  pages: true
+  collections:
+    - notes

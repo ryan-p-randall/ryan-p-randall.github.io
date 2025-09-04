@@ -69,6 +69,9 @@ layout: default
             {% include page__date.html %}
         </footer>
         {% include post_pagination.html %}
+        <h2 id="webmentions" style="margin-top: 1em">Webmentions</h2>
+            {% webmentions page.url %}
+            {% webmention_likes page.url %}
         <h2 id="bonus-info" style="margin-top: 1em;">Bonus Info</h2>
             <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note--></h3>
             {% if page.backlinks.size > 0 %}
