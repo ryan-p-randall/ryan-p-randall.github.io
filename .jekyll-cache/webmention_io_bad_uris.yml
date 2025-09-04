@@ -1,1 +1,2105 @@
---- {}
+---
+www.youtube.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:01 -0600'
+jekyllrb.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:02 -0600'
+mmistakes.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:02 -0600'
+foureyedsoul.tumblr.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:03 -0600'
+thelifeguardlibrarian.tumblr.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:04 -0600'
+katherineahnberg.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:05 -0600'
+www.augustana.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:06 -0600'
+github.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:07 -0600'
+twitter.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:07 -0600'
+www.bigfootjs.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:07 -0600'
+opendyslexic.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:08 -0600'
+www.trevordjones.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:09 -0600'
+pixelcog.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:10 -0600'
+www.smashingmagazine.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:11 -0600'
+biblicon.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:12 -0600'
+www.soic.indiana.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:14 -0600'
+www.oac.cdlib.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:16 -0600'
+www.cdlib.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:18 -0600'
+davidkentrandall.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:19 -0600'
+firstmonday.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:20 -0600'
+software-carpentry.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:21 -0600'
+ella.slis.indiana.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:24 -0600'
+git-scm.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:24 -0600'
+daringfireball.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:25 -0600'
+dillinger.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:25 -0600'
+blog.martinfenner.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:26 -0600'
+etherpad.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:26 -0600'
+etherpad.mozilla.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:27 -0600'
+www.andrewasher.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:28 -0600'
+libraries.iub.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:28 -0600'
+mcpress.media-commons.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:31 -0600'
+mediacommons.futureofthebook.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:36 -0600'
+www.worldcat.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:36 -0600'
+menus.nypl.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:38 -0600'
+hacklibschool.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:39 -0600'
+pages.github.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:39 -0600'
+bulletjournal.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:40 -0600'
+www.hybridpedagogy.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:41 -0600'
+www.uchastings.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:42 -0600'
+code.library.arizona.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:43 -0600'
+www.americanlibrariesmagazine.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:45 -0600'
+chronicle.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:47 -0600'
+tinyurl.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:48 -0600'
+storify.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:49 -0600'
+www.dissentmagazine.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:55 -0600'
+tweetdeck.twitter.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:54:56 -0600'
+oksveta.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:54:56 -0600'
+rhizomatic.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:00 -0600'
+foundation.zurb.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:01 -0600'
+www.git-scm.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:01 -0600'
+wcm1.web.rice.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:03 -0600'
+t.co:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:03 -0600'
+arstechnica.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:05 -0600'
+homepages.gac.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:06 -0600'
+www.celt.iastate.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:08 -0600'
+plato.stanford.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:08 -0600'
+www.columbia.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:10 -0600'
+hacklibraryschool.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:12 -0600'
+lab.hakim.se:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:13 -0600'
+www.ala.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:13 -0600'
+computationalculture.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:16 -0600'
+books.google.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:16 -0600'
+blog.desgrange.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:18 -0600'
+help.github.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:20 -0600'
+htmlcheats.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:55:20 -0600'
+www.lionsroar.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:22 -0600'
+tricycle.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:23 -0600'
+ryanpatrickrandall.com:
+  state: error
+  attempts: 1
+  last_checked: '2025-09-03 19:55:23 -0600'
+girldevelopit.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:24 -0600'
+marcysutton.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:24 -0600'
+media.giphy.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:25 -0600'
+www.tinyurl.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:25 -0600'
+www.tumblr.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:26 -0600'
+youtu.be:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:27 -0600'
+www.emilydrabinski.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:28 -0600'
+www.jstor.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:28 -0600'
+www.infed.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:31 -0600'
+www.bruno-latour.fr:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:32 -0600'
+www.kungfugrippe.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:33 -0600'
+bettermess.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:34 -0600'
+omz-software.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:34 -0600'
+rlc.radicallibrarianship.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:37 -0600'
+critlib.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:38 -0600'
+pdxscholar.library.pdx.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:39 -0600'
+libraryfreedomproject.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:55:44 -0600'
+www.ils.indiana.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:45 -0600'
+kshockey.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:46 -0600'
+sandstorm.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:46 -0600'
+act.eff.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:46 -0600'
+www.propublica.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:47 -0600'
+www.popsci.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:47 -0600'
+libraryjuicepress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:49 -0600'
+litwinbooks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:50 -0600'
+www.gsb.stanford.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:55:55 -0600'
+www.sciencedirect.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:55 -0600'
+instagram.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:56 -0600'
+en.wikipedia.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:57 -0600'
+www.boisepubliclibrary.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:57 -0600'
+library.boisestate.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:55:57 -0600'
+www.cwidaho.cc:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:55:57 -0600'
+www.inthelibrarywiththeleadpipe.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:56:04 -0600'
+acrlog.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:05 -0600'
+5by5.tv:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:06 -0600'
+www.idahostatesman.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:07 -0600'
+freecodecamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:08 -0600'
+hackeducation.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:08 -0600'
+www.insidehighered.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:09 -0600'
+www.zotero.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:11 -0600'
+womenoflibraryhistory.tumblr.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:12 -0600'
+www.glbtrt.ala.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:13 -0600'
+chrisbourg.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:13 -0600'
+vinopal.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:14 -0600'
+www.facebook.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:15 -0600'
+ir.uiowa.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:16 -0600'
+www.theadhdnerd.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:16 -0600'
+theconversation.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:17 -0600'
+lareviewofbooks.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:17 -0600'
+workingcopyapp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:19 -0600'
+www.textasticapp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:21 -0600'
+commons.emich.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:22 -0600'
+facstaffweb.montevallo.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:56:23 -0600'
+www.curationculture.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:23 -0600'
+www.transformingamericanlibraries.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:56:23 -0600'
+trailheadboise.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:25 -0600'
+placesjournal.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:28 -0600'
+undaimonia.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:29 -0600'
+www.thedemands.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:29 -0600'
+web.archive.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:56:30 -0600'
+www.ucpress.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:31 -0600'
+understandingsociety.blogspot.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:32 -0600'
+wikis.la.utexas.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:56:33 -0600'
+www.scottbot.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:35 -0600'
+www.carlboettiger.info:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:35 -0600'
+www.bookstoprisoners.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:35 -0600'
+pagestoprisoners.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:39 -0600'
+catladylibrarian.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:40 -0600'
+www.digitalpedagogylab.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:56:41 -0600'
+nuzzel.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:41 -0600'
+scholarblogs.emory.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:42 -0600'
+www.journals.uchicago.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:42 -0600'
+berkeleyjournal.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:44 -0600'
+www.wocintechchat.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:45 -0600'
+cecily.info:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:46 -0600'
+kellymce.tumblr.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:47 -0600'
+acluidaho.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:47 -0600'
+lists.riseup.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:48 -0600'
+boisestate2016.thatcamp.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:48 -0600'
+guides.boisestate.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:50 -0600'
+thatcamp.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:51 -0600'
+guides.lib.virginia.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:53 -0600'
+theunquietlibrarian.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:53 -0600'
+www.heinemann.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:56 -0600'
+atom.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:56 -0600'
+guides.github.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:57 -0600'
+www.foldingtext.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:57 -0600'
+codeanywhere.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:58 -0600'
+claps2016.wix.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:58 -0600'
+drive.google.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:56:59 -0600'
+arizona.hosted.panopto.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:00 -0600'
+librarydayinthelife.pbworks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:01 -0600'
+lisedforum.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:01 -0600'
+bryanbraun.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:02 -0600'
+99percentinvisible.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:02 -0600'
+about.me:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:03 -0600'
+raymmaxx.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:04 -0600'
+www.sacbee.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:07 -0600'
+thechecafe.blogspot.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:07 -0600'
+archive.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:08 -0600'
+www.campusactivism.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:09 -0600'
+www.indybay.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:20 -0600'
+karloespiritu.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:23 -0600'
+sjlseattle.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:57:23 -0600'
+muse.jhu.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:25 -0600'
+redlibrarian.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:25 -0600'
+issuesandadvocacy.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:26 -0600'
+www.theguardian.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:26 -0600'
+dx.doi.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:27 -0600'
+digitalcommons.unl.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:28 -0600'
+librariandesignshare.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:28 -0600'
+libguides.libraries.claremont.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:30 -0600'
+veronicaarellanodouglas.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:57:35 -0600'
+infomational.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:36 -0600'
+crln.acrl.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:37 -0600'
+fonts.google.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:37 -0600'
+jpswalsh.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:37 -0600'
+fontawesome.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:38 -0600'
+www.designkit.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:39 -0600'
+idaholibraries.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:40 -0600'
+makerlab.boisestate.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:57:41 -0600'
+escholarship.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:41 -0600'
+www.1science.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:57:43 -0600'
+scholarworks.umass.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:57:53 -0600'
+staticman.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:54 -0600'
+thedesignersrepublic.bigcartel.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:54 -0600'
+davidseah.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:55 -0600'
+caseyboyle.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:56 -0600'
+programminghistorian.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:57 -0600'
+criticmarkup.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:58 -0600'
+data-lessons.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:58 -0600'
+cirillocompany.de:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:59 -0600'
+pomodoro.ugolandini.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:57:59 -0600'
+growl.info:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:57:59 -0600'
+www.prowlapp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:00 -0600'
+openbooklibrarian.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:00 -0600'
+soundcloud.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:01 -0600'
+angelkyodowilliams.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:03 -0600'
+help.dayoneapp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:04 -0600'
+medium.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:04 -0600'
+about.gitlab.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:05 -0600'
+theory.cribchronicles.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:08 -0600'
+digitalcommons.plattsburgh.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:58:10 -0600'
+bryanalexander.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:14 -0600'
+americanlibrariesmagazine.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:14 -0600'
+thedesignteam.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:16 -0600'
+pandoc.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:17 -0600'
+www.bibtex.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:18 -0600'
+ftp.math.utah.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:18 -0600'
+oasis.sandstorm.io:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:58:23 -0600'
+scholar.social:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:24 -0600'
+critlib2017.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:24 -0600'
+riseup.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:25 -0600'
+www.kexp.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:25 -0600'
+www.eventscribe.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:25 -0600'
+pad.riseup.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:26 -0600'
+2018.alaannual.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:26 -0600'
+platform.twitter.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:26 -0600'
+www.poetryfoundation.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:32 -0600'
+meredith.wolfwater.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:32 -0600'
+genius.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:32 -0600'
+pages.mtu.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:35 -0600'
+raincrossunderground.omeka.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:35 -0600'
+www.minorcompositions.info:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:36 -0600'
+infolit-idaho.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:36 -0600'
+www1.rebus.community:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:58:37 -0600'
+www.rebus.community:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:39 -0600'
+schomj.weebly.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:39 -0600'
+www.ryanpatrickrandall.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:40 -0600'
+notes.andymatuschak.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:41 -0600'
+mind.miketannenbaum.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:58:42 -0600'
+maximevaillancourt.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:43 -0600'
+organizingideaspod.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:43 -0600'
+podcasts.apple.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:43 -0600'
+www.buddhistpeacefellowship.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:44 -0600'
+flipgrid.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:58:44 -0600'
+libraries.idaho.gov:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:45 -0600'
+hapgood.us:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:46 -0600'
+www.notion.so:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:46 -0600'
+infodemic.blog:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:47 -0600'
+docs.google.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:47 -0600'
+webliteracy.pressbooks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:49 -0600'
+www.wakingup.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:50 -0600'
+samharris.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:51 -0600'
+dotaichi.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:51 -0600'
+plumvillage.app:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:51 -0600'
+jukebouncewerk.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:52 -0600'
+www.empirednb.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:58:53 -0600'
+johntejada.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:54 -0600'
+www.qualitymatters.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:54 -0600'
+www.cast.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:54 -0600'
+www.dendron.so:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:54 -0600'
+davecormier.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:58 -0600'
+wiki.dendron.so:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:59 -0600'
+www.tandfonline.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:58:59 -0600'
+journals.litwinbooks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:00 -0600'
+doi.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:00 -0600'
+fossandcrafts.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:01 -0600'
+orgmode.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:02 -0600'
+marketplace.visualstudio.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:02 -0600'
+parksandrecreation.idaho.gov:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:09 -0600'
+hcommons.social:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:10 -0600'
+www.ridgetorivers.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:10 -0600'
+social.pixie.town:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:12 -0600'
+fossheim.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:13 -0600'
+littlefoot.js.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:13 -0600'
+www.moma.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:13 -0600'
+raw.githubusercontent.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:14 -0600'
+www.gofundme.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:14 -0600'
+fractalecho.substack.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:15 -0600'
+a.gup.pe:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:15 -0600'
+mas.to:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:16 -0600'
+kramdown.gettalong.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:17 -0600'
+plausible.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:17 -0600'
+giscus.app:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:18 -0600'
+zirk.us:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:19 -0600'
+mastodon.social:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:19 -0600'
+raindrop.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:19 -0600'
+scatteredquotes.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:21 -0600'
+www.hughrundle.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:22 -0600'
+openlibrary.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:24 -0600'
+bookwyrm.social:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:25 -0600'
+aworkinglibrary.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:26 -0600'
+dsriseah.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:27 -0600'
+danielcernst.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:27 -0600'
+hickstro.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:29 -0600'
+howcyborgs.chat:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 19:59:29 -0600'
+netnewswire.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:30 -0600'
+www.aaronsw.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:31 -0600'
+killedbygoogle.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:31 -0600'
+home.omg.lol:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:32 -0600'
+micro.blog:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:32 -0600'
+memory-alpha.fandom.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:33 -0600'
+standardebooks.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:33 -0600'
+webaim.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:34 -0600'
+www.versobooks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:34 -0600'
+brianlovin.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:35 -0600'
+colorsafe.co:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:36 -0600'
+www.howtocanvas.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:37 -0600'
+exploringaipedagogy.hcommons.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:38 -0600'
+www.w3.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:38 -0600'
+ia.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:41 -0600'
+front-end.social:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:42 -0600'
+daverupert.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:42 -0600'
+stimpunks.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:46 -0600'
+afinestart.me:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:46 -0600'
+smarimccarthy.is:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:48 -0600'
+texasrecordingsunderground.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:48 -0600'
+www.themesystem.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:49 -0600'
+support.hcommons.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:50 -0600'
+networks.h-net.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:50 -0600'
+jon-e.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:51 -0600'
+www.spopowich.ca:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:52 -0600'
+www.linkedin.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:53 -0600'
+lcsc.pressbooks.pub:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:54 -0600'
+isu.pressbooks.pub:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:55 -0600'
+www.oxfordreference.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:56 -0600'
+semanticarecords.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:56 -0600'
+librarian.aedileworks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:58 -0600'
+publish.obsidian.md:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:58 -0600'
+www.youtube-nocookie.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:58 -0600'
+derekkedziora.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 19:59:58 -0600'
+blog.webjeda.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:00 -0600'
+slashpages.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:01 -0600'
+www.discogs.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:01 -0600'
+thomasrigby.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:02 -0600'
+danilafe.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:02 -0600'
+www.bdadyslexia.org.uk:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:04 -0600'
+www.justwatch.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:05 -0600'
+www.upress.umn.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:06 -0600'
+jasonheppler.org:
+  state: error
+  attempts: 1
+  last_checked: '2025-09-03 20:00:07 -0600'
+obsidian.md:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:08 -0600'
+blacksmithgu.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:08 -0600'
+elenarazlogova.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:09 -0600'
+michaeldot.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:09 -0600'
+developer.mozilla.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:10 -0600'
+www.jacky.wtf:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:10 -0600'
+tedium.co:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:11 -0600'
+berjon.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:12 -0600'
+solarbird.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:12 -0600'
+ghost.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:13 -0600'
+everythingchanges.us:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:17 -0600'
+www.seedsforchange.org.uk:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:19 -0600'
+www.bicycling.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:19 -0600'
+todon.eu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:20 -0600'
+macwright.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:20 -0600'
+sive.rs:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:21 -0600'
+espanso.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:27 -0600'
+brew.sh:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:27 -0600'
+dubsyndicate.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:29 -0600'
+on-usound.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:29 -0600'
+boardgamegeek.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:30 -0600'
+asaobinoue.blogspot.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:30 -0600'
+www.librarian.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:31 -0600'
+www.fieggen.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:32 -0600'
+www.bookforum.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:34 -0600'
+www.tithibhattacharya.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:34 -0600'
+www.isu.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:35 -0600'
+www.imdb.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:35 -0600'
+refusinggenai.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:36 -0600'
+halperta.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:36 -0600'
+tinylytics.app:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:37 -0600'
+violentfemmes.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:38 -0600'
+100daystooffload.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:38 -0600'
+challenges.stefanbohacek.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:39 -0600'
+projects.kwon.nyc:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:39 -0600'
+llamalife.co:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:40 -0600'
+rectangleapp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:40 -0600'
+bsky.app:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:41 -0600'
+citationstyles.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:41 -0600'
+tinmanofficial.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:42 -0600'
+acidtestrecords.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:42 -0600'
+omunit.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:43 -0600'
+ellanew.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:43 -0600'
+www.merriam-webster.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:00:49 -0600'
+cwi.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:14 -0600'
+english.ucr.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:14 -0600'
+www.rochester.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:16 -0600'
+kucr.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:17 -0600'
+wrur.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:21 -0600'
+libparlor.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:22 -0600'
+www.dueapp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:22 -0600'
+www.timetimer.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:23 -0600'
+apps.apple.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:23 -0600'
+jacky.wtf:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:24 -0600'
+sarajoy.dev:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:27 -0600'
+stephaniewalter.design:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:31 -0600'
+crimethinc.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:32 -0600'
+www.johncoulthart.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:33 -0600'
+justseeds.org:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 20:01:38 -0600'
+thequietus.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:40 -0600'
+superbon.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:42 -0600'
+allthingspedagogical.blogspot.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:42 -0600'
+vic.work:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 20:01:43 -0600'
+radicalscholarship.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:43 -0600'
+www.johnxlibris.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:47 -0600'
+erinkissane.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:51 -0600'
+dansinker.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:52 -0600'
+conference.capalibrarians.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:53 -0600'
+www.oxforddictionaries.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:55 -0600'
+wordpress.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:57 -0600'
+simplebits.shop:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:01:58 -0600'
+brailleinstitute.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:03 -0600'
+thenounproject.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:04 -0600'
+support.jstor.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:05 -0600'
+www.markdownguide.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:05 -0600'
+fletcherpenney.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:07 -0600'
+www.bulletjournal.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:07 -0600'
+www.omnigroup.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:08 -0600'
+code.visualstudio.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:08 -0600'
+bujo.mihaiconstantin.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:08 -0600'
+daybreaktheme.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:09 -0600'
+horizontheme.netlify.app:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:09 -0600'
+thedesignersrepublic.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:14 -0600'
+warp.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:15 -0600'
+www.dropbox.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:16 -0600'
+webapp1.dlib.indiana.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:17 -0600'
+hdl.handle.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:19 -0600'
+hcommons.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:20 -0600'
+qualitymatters.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:20 -0600'
+events.qualitymatters.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:22 -0600'
+lsu.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:23 -0600'
+opened22.sched.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:24 -0600'
+cwidahocc-my.sharepoint.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:26 -0600'
+airtable.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:27 -0600'
+liw2020.sched.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:29 -0600'
+acrlwa.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:29 -0600'
+capalibrarians.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:29 -0600'
+www.culturalstudiesassociation.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:30 -0600'
+lisedsymposium.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:31 -0600'
+www.slideshare.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:33 -0600'
+sched.co:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:35 -0600'
+orcid.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:35 -0600'
+www.credly.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:35 -0600'
+goodreads.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 20:02:41 -0600'
+ils.indiana.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:41 -0600'
+nickoal.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 20:02:41 -0600'
+clintonmckay.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 20:02:42 -0600'
+researchguides.elac.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:43 -0600'
+pumpedlibrarian.blogspot.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:43 -0600'
+inromaunce.blogspot.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:43 -0600'
+ventibelli.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:44 -0600'
+annenberg.usc.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:45 -0600'
+tulane.academia.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:47 -0600'
+plus.google.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:48 -0600'
+sterneworks.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:50 -0600'
+www.merlinmann.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:52 -0600'
+progressivelibrariansguild.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:53 -0600'
+sivers.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:53 -0600'
+blogs.libraries.iub.edu:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 20:02:55 -0600'
+omeka.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:57 -0600'
+wand3r.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:02:57 -0600'
+www.anildash.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:04 -0600'
+link.springer.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:06 -0600'
+gkeenan.co:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:09 -0600'
+aj-boston.pubpub.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:12 -0600'
+quartz.jzhao.xyz:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:13 -0600'
+bearblog.dev:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:14 -0600'
+darthmall.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:15 -0600'
+imaginarytext.ca:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:16 -0600'
+aprilhathcock.wordpress.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:19 -0600'
+catassessmentresearch.blogspot.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:20 -0600'
+liminalities.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:20 -0600'
+msuweb.montclair.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:21 -0600'
+unc.academia.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:22 -0600'
+works.bepress.com:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 20:03:23 -0600'
+www.comminfolit.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:24 -0600'
+eprints.qut.edu.au:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:31 -0600'
+www.tricycle.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:32 -0600'
+www.saic.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:33 -0600'
+jwarby.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:33 -0600'
+uses.tech:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:35 -0600'
+www.logitech.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:35 -0600'
+www.logitechg.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:36 -0600'
+www.mozilla.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:36 -0600'
+getnoir.app:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:37 -0600'
+www.gitkraken.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:37 -0600'
+iterm2.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:38 -0600'
+genjiapp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:38 -0600'
+www.macbartender.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:39 -0600'
+bunchapp.co:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:39 -0600'
+sindresorhus.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:40 -0600'
+www.popclip.app:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:41 -0600'
+rogueamoeba.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:41 -0600'
+www.zettlr.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:42 -0600'
+schema.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:42 -0600'
+s3.amazonaws.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:43 -0600'
+takesmartnotes.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:43 -0600'
+css-tricks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:44 -0600'
+egghead.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:45 -0600'
+diagramcenter.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:46 -0600'
+soundstudiesblog.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:47 -0600'
+pressbooks.bccampus.ca:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:47 -0600'
+www.latex-project.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:49 -0600'
+caniuse.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:50 -0600'
+www.mathjax.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:50 -0600'
+accessibility.psu.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:51 -0600'
+webdemo.myscript.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:52 -0600'
+www.wiris.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:53 -0600'
+networkmanagerguide.pressbooks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:55 -0600'
+guide.pressbooks.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:57 -0600'
+octodon.social:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:57 -0600'
+itunes.apple.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:58 -0600'
+metabolist.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:03:59 -0600'
+example.social:
+  state: failure
+  attempts: 1
+  last_checked: '2025-09-03 20:03:59 -0600'
+xkcd.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:00 -0600'
+www.colorhexa.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:01 -0600'
+platers.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:01 -0600'
+matthewmeye.rs:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:02 -0600'
+help.obsidian.md:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:02 -0600'
+zachyoung.dev:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:02 -0600'
+forums.zotero.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:03 -0600'
+blog.djnavarro.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:04 -0600'
+nathanlesage.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:04 -0600'
+eprints.bbk.ac.uk:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:11 -0600'
+wac.colostate.edu:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:12 -0600'
+www.bloomsburycollections.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:13 -0600'
+s-blu.github.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2025-09-03 20:04:14 -0600'

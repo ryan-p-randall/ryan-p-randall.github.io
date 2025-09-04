@@ -1,1 +1,2948 @@
---- {}
+---
+https://www.ryanpatrickrandall.com/new-site:
+  https://www.youtube.com/embed/ZFnEhwmpjXI: 1
+  http://jekyllrb.com: 1
+  http://mmistakes.github.io/minimal-mistakes/: 1
+  http://foureyedsoul.tumblr.com: 1
+  http://thelifeguardlibrarian.tumblr.com/tumblarians: 1
+https://www.ryanpatrickrandall.com/test-one:
+  https://www.youtube.com/embed/UnnGXa7WIGQ: false
+  https://www.youtube.com/watch?v=UnnGXa7WIGQ: false
+https://www.ryanpatrickrandall.com/blog/new-directions-in-information-fluency:
+  http://katherineahnberg.wordpress.com/: 1
+  http://www.augustana.edu/x59440.xml: 1
+  http://katherineahnberg.wordpress.com/2014/08/24/bringing-digital-humanities-to-the-desk/: false
+  https://github.com/ryan-p-randall/dhreadyreference: 1
+  https://twitter.com/foureyedsoul: 1
+https://www.ryanpatrickrandall.com/bigfoot-spotting:
+  http://www.bigfootjs.com/: 1
+  http://brettterpstra.com/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/kjG41Izfw6fDssc8Tx3d
+    source: https://www.ryanpatrickrandall.com/bigfoot-spotting
+    target: http://brettterpstra.com/
+  http://opendyslexic.org/: 1
+  http://jekyllrb.com/: false
+  http://www.trevordjones.com/jekyll: 1
+  https://mademistakes.com/articles/going-static/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/WNbaqkzFk5VDfeXt8jgJ
+    source: https://www.ryanpatrickrandall.com/bigfoot-spotting
+    target: https://mademistakes.com/articles/going-static/
+  http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/: 1
+  http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/: 1
+  https://github.com/lemonmade: false
+https://www.ryanpatrickrandall.com/review-of-online-archive-of-california:
+  http://biblicon.org/about: 1
+  http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS: 1
+  http://www.oac.cdlib.org/: 1
+  http://www.cdlib.org/services/access_publishing/dsc/technical.html: 1
+  http://www.cdlib.org/services/access_publishing/dsc/contribute/oai_pmh.html: false
+  http://www.cdlib.org/services/access_publishing/dsc/contribute/docs/GDO.pdf: false
+  http://www.oac.cdlib.org/help/: false
+  http://davidkentrandall.com/: 1
+  http://www.oac.cdlib.org/about/: false
+  http://firstmonday.org/ojs/index.php/fm/article/view/953/874: 1
+  http://www.cdlib.org/services/access_publishing/dsc/oac/: false
+  http://www.cdlib.org/services/access_publishing/dsc/: false
+  http://www.cdlib.org/services/access_publishing/dsc/oac/history.html: false
+https://www.ryanpatrickrandall.com/software-carpentry-workshop-reflections:
+  http://software-carpentry.org/: 1
+  http://software-carpentry.org/lessons.html: false
+  http://ella.slis.indiana.edu/g/asistsc/: 1
+  http://jekyllrb.com/: false
+  http://git-scm.com/: 1
+  http://daringfireball.net/projects/markdown/: 1
+  http://dillinger.io/: 1
+  http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/: 1
+  http://etherpad.org/: 1
+  https://etherpad.mozilla.org/swc-2014-10-06-indiana: 1
+  http://software-carpentry.org/workshops/index.html: false
+  http://www.andrewasher.net/: 1
+https://www.ryanpatrickrandall.com/paper-planned-obsolescence-and-digital-libraries:
+  http://biblicon.org/about: false
+  http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS: false
+  https://libraries.iub.edu/scholars-commons-grand-opening: 1
+  http://libraries.iub.edu/scholars-commons: false
+  http://mcpress.media-commons.org/plannedobsolescence/: 1
+  http://mediacommons.futureofthebook.org/about-mediacommons: 1
+  https://www.worldcat.org/title/publics-and-counterpublics/oclc/47849465: 1
+  http://menus.nypl.org/: 1
+https://www.ryanpatrickrandall.com/critlib-chatty-critical-librarianship-on-twitter:
+  http://hacklibschool.wordpress.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/: 1
+https://www.ryanpatrickrandall.com/how-do-you-take-notes-or-markdown-and-bullet-journals:
+  http://hacklibschool.wordpress.com/2015/01/20/how-do-you-take-notes/: false
+  http://jekyllrb.com/: false
+  https://pages.github.com/: 1
+  http://bulletjournal.com/: 1
+  http://daringfireball.net/projects/markdown/: false
+https://www.ryanpatrickrandall.com/freire-and-critical-librarianship:
+  http://www.hybridpedagogy.com/announcements/mmcp-critical-critical-pedagogy/: 1
+  http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/: false
+  https://www.worldcat.org/title/american-archives-gender-race-and-class-in-visual-culture/oclc/40939988: false
+  https://www.worldcat.org/title/the-body-and-the-archive/oclc/5548108887: false
+  http://www.uchastings.edu/news/articles/2015/01/williams-double-jeopardy-report.php: 1
+  http://code.library.arizona.edu/gots: 1
+  http://www.americanlibrariesmagazine.org/article/guide-side: 1
+  ? http://chronicle.com/blognetwork/theubiquitouslibrarian/2015/01/06/diving-into-critical-pedagogy-an-alterative-view-of-information-literacy/
+  : 1
+  http://tinyurl.com/critlibx: 1
+  https://www.worldcat.org/title/pedagogy-of-the-oppressed/oclc/852728232: false
+https://www.ryanpatrickrandall.com/critlib-makerspaces:
+  https://storify.com/oksveta/critlib-makerspaces: 1
+  http://www.dissentmagazine.org/blog/booked-3-what-exactly-is-neoliberalism-wendy-brown-undoing-the-demos: 1
+  http://tweetdeck.twitter.com/: 1
+  https://twitter.com/oksveta: false
+  http://oksveta.com/: 1
+  https://storify.com/oksveta: false
+  http://tinyurl.com/critlibx: false
+  http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/: false
+  http://www.hybridpedagogy.com/: false
+https://www.ryanpatrickrandall.com/wojnarowicz-on-a-sphere:
+  http://biblicon.org/about: false
+  http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS: false
+  https://www.youtube.com/embed/ezjn1QJqaa4: false
+https://www.ryanpatrickrandall.com/learning-subjectives:
+  http://rhizomatic.net/2015/04/14/learning-subjectives-designing-for-when-you-dont-know-where-youre-going/: 1
+  http://rhizomatic.net/: false
+https://www.ryanpatrickrandall.com/del-hack-del-quirk-your-presentations:
+  http://hacklibschool.wordpress.com/2015/04/06/hack-quirk-your-demonstrations/: false
+https://www.ryanpatrickrandall.com/everything-counts-in-affective-amounts:
+  http://rhizomatic.net/2015/04/22/learning-is-not-a-counting-noun-so-what-should-we-count/: false
+  http://rhizomatic.net/: false
+  http://foundation.zurb.com/: 1
+  http://foundation.zurb.com/docs/: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/master/aqredo: false
+  http://www.git-scm.com/: 1
+  http://chronicle.com/blogs/profhacker/tag/github101: false
+  https://twitter.com/hashtag/arcs20105?src=hash: false
+  https://twitter.com/mfgaede/status/592497291098857472: false
+  "//platform.twitter.com/widgets.js": false
+  http://wcm1.web.rice.edu/open-notebook-history.html: 1
+  https://twitter.com/foureyedsoul: false
+  https://twitter.com/mfgaede: false
+  https://twitter.com/wcaleb: false
+  http://t.co/tPfUgvfMKQ: 1
+  https://twitter.com/uohistlib/status/592502116624674816: false
+https://www.ryanpatrickrandall.com/rhizo15-week-three:
+  http://rhizomatic.net/2015/04/29/week-3-the-myth-of-content/: false
+  http://rhizomatic.net/: false
+  http://arstechnica.com/information-technology/2015/03/google-to-close-google-code-open-source-project-hosting/: 1
+  http://homepages.gac.edu/~fister/: 1
+  http://homepages.gac.edu/~fister/rs.html: false
+https://www.ryanpatrickrandall.com/quick-thoughts-on-method:
+  http://tinyurl.com/critlibx: false
+  https://twitter.com/lnwlk/status/609374412312309762: false
+  https://twitter.com/barnlib/status/609417944817381376: false
+  http://www.celt.iastate.edu/teaching-resources/effective-practice/revised-blooms-taxonomy/: 1
+  http://plato.stanford.edu/entries/critical-theory/: 1
+  http://www.columbia.edu/cu/libraries/inside/units/bibcontrol/osmc/elmborg.pdf: 1
+  https://twitter.com/foureyedsoul: false
+https://www.ryanpatrickrandall.com/reveal-js-hack-library-school:
+  http://hacklibraryschool.com/2015/06/18/presentation-alternatives-reveal/: 1
+  http://lab.hakim.se/reveal-js/: 1
+  http://www.ala.org/acrl/standards/ilframework: 1
+  http://computationalculture.net/article/reflections-on-the-mp3-format: 1
+  https://books.google.com/books?id=o7CZRPZ27TQC&lpg=PT13&pg=PT14: 1
+  https://github.com/ldesgrange/jekyll-static-comments: false
+  https://blog.desgrange.net/2012/06/11/jekyll-installation.html: 1
+  https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/: 1
+  http://htmlcheats.com/reveal-js/reveal-js-tutorial-reveal-js-for-beginners/: 1
+  https://www.worldcat.org/oclc/30668295: false
+  http://www.lionsroar.com/bell-hooks-and-thich-nhat-hanh-on-building-a-community-of-love/: 1
+  http://tricycle.org/magazine/agent-change-an-interview-with-bell-hooks/: 1
+  https://twitter.com/foureyedsoul: false
+  http://ryanpatrickrandall.com/talks/cwi.html: 1
+  https://github.com/hakimel/reveal.js/search?q=screen+reader&type=Issues&utf8=✓: false
+  https://github.com/marcysutton: false
+  http://girldevelopit.github.io/girldevelopit-rdu-access/: 1
+  http://marcysutton.com/web-accessibility-resources/: 1
+  https://storify.com/AlicePrael/intro-to-critlib-part-2: false
+  https://twitter.com/hashtag/critlib?src=hash: false
+  https://twitter.com/foureyedsoul/status/717055097742622722: false
+  "//platform.twitter.com/widgets.js": false
+  https://media.giphy.com/media/POekkUcKs16gg/giphy.gif: 1
+https://www.ryanpatrickrandall.com/critpotato-rhizo15-week-four:
+  http://rhizomatic.net/2015/05/06/week-4-canshould-we-get-rid-of-the-idea-of-dave-how-do-we-teach-rhizomatically/: false
+  http://rhizomatic.net/: false
+  http://www.tinyurl.com/critlibx: 1
+  https://twitter.com/search?f=realtime&q=: false
+  https://www.tumblr.com/search/: 1
+  https://storify.com/foureyedsoul/36th-critlib-twitter-chat-critiquing-critlib: false
+  https://youtu.be/xIni27L3q_k?t=13s: 1
+  https://twitter.com/hashtag/critlib?src=hash: false
+  https://t.co/2mySogkpS7: false
+  https://twitter.com/elliehearts/status/616055543661244416: false
+  "//platform.twitter.com/widgets.js": false
+  https://twitter.com/kshockey04/status/616055242212294656: false
+  http://www.emilydrabinski.com/: 1
+  http://www.jstor.org/stable/10.1086/669547: 1
+  https://twitter.com/search?q=critpotato&src=typd&vertical=default&f=tweets: false
+  https://www.worldcat.org/title/what-is-philosophy/oclc/29255796: false
+  http://www.infed.org/biblio/b-praxis.htm: 1
+  https://www.worldcat.org/title/parasite/oclc/7947695: false
+  http://www.bruno-latour.fr/sites/default/files/P-67: 1
+https://www.ryanpatrickrandall.com/all-hail-cloud-storage:
+  http://hacklibraryschool.com/2015/07/16/cloud-storage-dropbox/: false
+  http://brettterpstra.com/projects/nvalt/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/Sh-YdO0R5MpGAfobC_s3
+    source: https://www.ryanpatrickrandall.com/all-hail-cloud-storage
+    target: http://brettterpstra.com/projects/nvalt/
+  http://www.kungfugrippe.com/post/453204090/q-trick: 1
+  http://bettermess.com/plain-text-primer-nvalt-101/: 1
+  http://omz-software.com/editorial/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-36:
+  http://rlc.radicallibrarianship.org/2015/08/24/radlibchat-1st-september-2015/: 1
+  http://rlc.radicallibrarianship.org/: false
+  http://critlib.org/twitter-chats/: 1
+  http://rlc.radicallibrarianship.org/safer-spaces-policy/: false
+  http://pdxscholar.library.pdx.edu/ulib_fac/152/: 1
+  https://libraryfreedomproject.org/: 1
+  http://www.ils.indiana.edu/people/profile.html?profile_id=86: 1
+  http://www.ils.indiana.edu/people/profile.html?profile_id=5: false
+  http://www.andrewasher.net/: false
+  http://kshockey.github.io/: 1
+  https://www.worldcat.org/title/surveillance-in-the-stacks-the-fbis-library-awareness-program/oclc/21905912: false
+  https://sandstorm.io/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-37:
+  http://critlib.org/information-and-migrant-populations/: false
+  https://storify.com/violetbfox/critlib-9-8-2015: false
+  https://act.eff.org/action/support-tor-and-intellectual-freedom-in-libraries: 1
+  https://www.propublica.org/article/library-support-anonymous-internet-browsing-effort-stops-after-dhs-email: 1
+  https://libraryfreedomproject.org/: false
+  https://twitter.com/flexlibris: false
+  http://www.popsci.com/library-will-vote-on-protectin-user-anonymity: 1
+  http://libraryjuicepress.com/whiteness.php: 1
+  http://litwinbooks.com/series-critical-multiculturalism.php: 1
+  https://www.gsb.stanford.edu/programs/phd/academic-experience/students/l-taylor-phillips: 1
+  https://www.gsb.stanford.edu/faculty-research/faculty/brian-lowery: false
+  https://www.gsb.stanford.edu/insights/why-whites-downplay-their-individual-racial-privileges: false
+  http://www.gsb.stanford.edu/sites/gsb/files/publications/phillipslowery_hardknocklife_2015jesp_0.pdf: false
+  http://www.sciencedirect.com/science/article/pii/S0022103115000852: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-38:
+  ? "//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC"
+  : false
+  https://instagram.com/p/7oUSH3xUW6/: 1
+  "//platform.instagram.com/en_US/embeds.js": false
+  https://instagram.com/p/7wYnimxUU4/: false
+  https://instagram.com/p/7yzjZ6RUY5/: false
+  https://instagram.com/p/70ytCZxUXX/: false
+  https://instagram.com/p/70zD2ORUYG/: false
+  https://instagram.com/p/73jzEqxUTE/: false
+  https://instagram.com/p/8JHtcuRUaO/: false
+  https://instagram.com/p/74O7lKRUQJ/: false
+  https://instagram.com/p/76LJHkxUYJ/: false
+  https://instagram.com/p/7_e2jzxUQj/: false
+  https://instagram.com/p/8Hy5lxRUTz/: false
+  https://instagram.com/p/8HQOpIxURH/: false
+  https://www.worldcat.org/title/information-a-very-short-introduction/oclc/827743552: false
+  https://en.wikipedia.org/wiki/Thing_theory: 1
+  https://www.worldcat.org/title/interpreting-the-crisis-of-culture-in-communication-theory/oclc/5157020409: false
+  https://www.worldcat.org/title/bringing-it-all-back-home-essays-on-cultural-studies/oclc/36074452: false
+  https://www.worldcat.org/title/modern-invention-of-information-discourse-history-and-power/oclc/45136686: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-39:
+  ? "//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC"
+  : false
+  https://instagram.com/p/8HQOpIxURH/: false
+  "//platform.instagram.com/en_US/embeds.js": false
+  http://www.boisepubliclibrary.org/: 1
+  http://library.boisestate.edu/: 1
+  http://library.boisestate.edu/about/colldev.php: false
+  https://www.worldcat.org/title/feminist-pedagogy-for-library-instruction/oclc/847529221: false
+https://www.ryanpatrickrandall.com/this-is-not-a-pipette:
+  http://hacklibraryschool.com/2015/08/13/this-is-not-a-pipette/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-40:
+  http://www.cwidaho.cc: 1
+  https://storify.com/fabrikate/ila-2015: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-41:
+  http://critlib.org/neutrality-and-objectivity-in-scientific-information/: false
+  http://plato.stanford.edu/entries/scientific-objectivity/: false
+  https://storify.com/danibrena/critlib-neutrality-and-objectivity-in-scientific-i: false
+  http://www.inthelibrarywiththeleadpipe.org/2015/lis-diversity/: 1
+  ? https://www.worldcat.org/title/racism-without-racists-color-blind-racism-and-the-persistence-of-racial-inequality-in-america/oclc/841198228
+  : false
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-42:
+  http://acrlog.org/categories/first-year-academic-librarian-experience/: 1
+  http://5by5.tv/b2w/: 1
+  http://www.idahostatesman.com/2015/10/07/4023366/founders-of-boisecodeworks-say.html: 1
+  http://freecodecamp.com: 1
+  http://hackeducation.com/2015/10/15/technoimperialism/: 1
+  https://www.insidehighered.com/blogs/library-babel-fish/library-forking-paths: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-43:
+  http://critlib.org/gender-and-leadership/: false
+  https://storify.com/KShockey04/critlib-10-20-15: false
+  https://www.zotero.org/groups/critlib: 1
+  http://womenoflibraryhistory.tumblr.com: 1
+  http://www.glbtrt.ala.org/reviews/off-the-shelf-1-lgbt-librarianship/: 1
+  https://chrisbourg.wordpress.com/tag/gender/: 1
+  http://vinopal.org/category/gender/: 1
+  http://vinopal.org/2013/12/05/are-we-talking-enough-about-gender-bias-and-discrimination-in-the-library-profession/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-44:
+  https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series: false
+  "//connect.facebook.net/en_US/sdk.js": false
+  https://www.facebook.com/CWILibrary/posts/919061274843143:0: 1
+  https://www.facebook.com/CWILibrary/photos/a.173016252780986.43002.154768854605726/919061274843143/?type=3: false
+  https://www.facebook.com/CWILibrary/: false
+  https://www.facebook.com/CWILibrary/posts/919142651501672: false
+  https://www.worldcat.org/title/agonistics-thinking-the-world-politically/oclc/813931637: false
+  https://www.worldcat.org/title/apostles-of-culture-the-public-librarian-and-american-society-1876-1920/oclc/4529934: false
+  https://www.worldcat.org/title/sorting-things-out-classification-and-its-consequences/oclc/878583923: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-45:
+  http://ir.uiowa.edu/slis_pubs/1/: 1
+  http://www.theadhdnerd.com/ultimate-adhd-guide-time-management/: 1
+  https://theconversation.com/here-are-some-more-reasons-why-liberal-arts-matter-49638: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/WA-2015-week-46-Massumi-and-North:
+  https://lareviewofbooks.org/essay/undigesting-deleuze/: 1
+  https://www.worldcat.org/title/the-idea-of-a-writing-center/oclc/425476890: false
+  http://www.jstor.org/stable/info/10.1086/669547: false
+  https://www.worldcat.org/title/not-just-where-to-click-teaching-students-how-to-think-about-information/oclc/896127188: false
+  http://workingcopyapp.com/: 1
+  http://www.textasticapp.com/iphone.html: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2015-week-47:
+  http://critlib.org/: false
+  http://commons.emich.edu/loexquarterly/vol40/iss3/: 1
+  http://www.jstor.org/stable/4309683: false
+  http://commons.emich.edu/loexquarterly/vol38/iss4/3/: false
+  http://facstaffweb.montevallo.edu/abattista/: 1
+  http://www.curationculture.org/cv: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2015-week-48:
+  https://www.insidehighered.com/blogs/library-babel-fish/cost-doing-more-less: false
+  http://www.transformingamericanlibraries.com/2015/11/we-can-be-heroes.html: 1
+  https://trailheadboise.org/guest-blog-lets-make-something/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2015-week-49:
+  https://placesjournal.org/article/makerspace-towards-a-new-civic-infrastructure/: 1
+  https://placesjournal.org/article/library-as-infrastructure/: false
+  https://undaimonia.wordpress.com/2015/11/19/safe-spaces/: 1
+  http://www.thedemands.org/: 1
+https://www.ryanpatrickrandall.com/critlib-feelings:
+  http://critlib.org/feelings/: false
+  https://en.wikipedia.org/wiki/Carnegie_library: false
+  https://www.worldcat.org/oclc/50285121: false
+  http://www.inthelibrarywiththeleadpipe.org/2014/locating-the-library-in-institutional-oppression/: false
+  https://placesjournal.org/article/library-as-infrastructure/: false
+  https://www.worldcat.org/oclc/548555609: false
+  https://web.archive.org/web/20151204230944/http://culturalstudies.web.unc.edu/resources-2/what-is-cultural-studies/: 1
+  http://hacklibraryschool.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-whaaa:
+  http://hackeducation.com/2014/04/25/domain-of-ones-own-incubator-emory/: false
+  http://hacklibraryschool.com/tag/weekly-roundup/: false
+  http://brettterpstra.com/topic/bookmarks/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/RTe-D5aPcMYeinahl6yn
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-whaaa
+    target: http://brettterpstra.com/topic/bookmarks/
+  http://brettterpstra.com/topic/recap/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/3wHtWNTolPHzDzgTcVZ6
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-whaaa
+    target: http://brettterpstra.com/topic/recap/
+  https://en.wikipedia.org/wiki/Combine_painting: false
+  https://en.wikipedia.org/wiki/Fluxus: false
+  http://www.ucpress.edu/book.php?isbn=9780520228672: 1
+  http://understandingsociety.blogspot.com/2012/11/assemblage-theory.html: 1
+  http://wikis.la.utexas.edu/theory/page/assemblage-theory: 1
+  http://www.scottbot.net/HIAL/?page_id=22226: 1
+  http://wcm1.web.rice.edu/open-notebook-history.html: false
+  http://www.carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-01:
+  http://www.bookstoprisoners.net/: 1
+  http://critlib.org/information-resources-and-incarcerated-people/: false
+  http://pagestoprisoners.org/: 1
+  https://storify.com/catladylib/critlib-information-resources-and-incarcerated-peo: false
+  https://catladylibrarian.wordpress.com/: 1
+  http://www.digitalpedagogylab.com/mooc-mooc-instructional-design/: 1
+  http://nuzzel.com/about: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-02:
+  https://www.worldcat.org/oclc/694396588: false
+  https://scholarblogs.emory.edu/postcolonialstudies/2014/06/20/hegemony-in-gramsci/: 1
+  http://www.inthelibrarywiththeleadpipe.org/2014/locating-the-library-in-institutional-oppression/: false
+  http://www.journals.uchicago.edu/doi/abs/10.1086/602955: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-03:
+  http://berkeleyjournal.org/2016/01/the-case-for-scholarly-reparations/: 1
+  https://www.worldcat.org/oclc/894557414: false
+  https://twitter.com/sparkymonster/: false
+  http://www.wocintechchat.com/blog/wocintechphotos: 1
+  https://t.co/LyaZXV8QOC: false
+  https://twitter.com/hashtag/alamw16?src=hash: false
+  https://twitter.com/sparkymonster/status/686231074150678529: false
+  "//platform.twitter.com/widgets.js": false
+  http://www.wocintechchat.com/: false
+  https://twitter.com/wocintechchat: false
+  http://cecily.info/: 1
+  http://kellymce.tumblr.com/: 1
+  http://cecily.info/2016/01/24/the-compendium-of-lismentalhealth-blog-posts/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-04:
+  https://acluidaho.org/: 1
+  https://libraryfreedomproject.org/: false
+  https://lists.riseup.net/www/subscribe/libraryfreedom: 1
+  https://libraryfreedomproject.org/resources/privacytoolkit: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-05:
+  http://critlib.org/patience-impatience/: false
+  https://storify.com/violetbfox/critlib-patience-impatience: false
+  http://www.digitalpedagogylab.com/hybridped/libguides-pedagogy-to-oppress/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-06:
+  http://boisestate2016.thatcamp.org/: 1
+  http://boisestate2016.thatcamp.org/campers/: false
+  http://guides.boisestate.edu/prf.php?account_id=4254: 1
+  http://thatcamp.org: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-07:
+  http://guides.lib.virginia.edu/vlacrl2014: 1
+  https://theunquietlibrarian.wordpress.com/2016/02/02/helping-students-work-with-informational-text-from-a-z-with-alphaboxes/: 1
+  http://www.heinemann.com/products/E02579.aspx: 1
+  https://atom.io: 1
+  http://bulletjournal.com: false
+  https://guides.github.com/features/mastering-markdown/: 1
+  https://github.com/idleberg/atom-paraiso-dark: false
+  https://github.com/burodepeper/minimal-syntax-dark: false
+  https://atom.io/packages/language-markdown: false
+  https://github.com/burodepeper: false
+  https://atom.io/docs/v1.5.4/hacking-atom-creating-a-theme: false
+  http://www.foldingtext.com: 1
+  http://codeanywhere.com: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-08:
+  http://claps2016.wix.com/home: 1
+  https://storify.com/pumpedlibrarian/critical-librarianship-pedagogy-symposium-2016: false
+  https://drive.google.com/open?id=0B6Obmnl0RQwTWWFXYld0Vkhvcmc: 1
+  https://twitter.com/hashtag/claps2016?src=hash: false
+  https://t.co/11e4fPsMy5: false
+  https://twitter.com/beastlibrarian/status/702889071601807361: false
+  "//platform.twitter.com/widgets.js": false
+  https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38721a22-ed66-4904-bd93-f2953353e7ee: 1
+  https://t.co/D4kNflnsVT: false
+  https://twitter.com/beastlibrarian/status/702895004130279425: false
+  https://twitter.com/kellymce: false
+  https://t.co/1fx9X7QC0H: false
+  https://twitter.com/nope4evr/status/703283050990272512: false
+  https://twitter.com/beastlibrarian: false
+  https://twitter.com/oksveta: false
+  https://twitter.com/CUDJOE70: false
+  https://twitter.com/kevinseeber: false
+  https://twitter.com/foureyedsoul: false
+  https://twitter.com/davehudson123: false
+  https://twitter.com/JessicaCritten: false
+  https://t.co/yPKlE5ToMf: false
+  https://twitter.com/ibeilin/status/703941817864228864: false
+  https://t.co/1AjPWTMHKB: false
+  https://twitter.com/CUDJOE70/status/703390445502492672: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-12:
+  http://librarydayinthelife.pbworks.com/w/page/16941198/FrontPage: 1
+  https://lisedforum.wordpress.com: 1
+  https://twitter.com/derailforum: false
+  https://twitter.com/hashtag/derail2016: false
+  http://bryanbraun.github.io/anchorjs/: 1
+  http://99percentinvisible.org/episode/octothorpe/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-14:
+  https://about.me/courtums: 1
+  http://critlib.org/intro-to-critlib-chat-part-1/: false
+  https://storify.com/AlicePrael/intro-to-critlib-part-2: false
+  https://twitter.com/hashtag/critlib?src=hash: false
+  https://twitter.com/hashtag/CritLAM?src=hash: false
+  https://twitter.com/hsifnihplod/status/717055960972439553: false
+  "//platform.twitter.com/widgets.js": false
+  https://raymmaxx.wordpress.com: 1
+  http://www.ryanpatrickrandall.com/talks/cwi.html:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/www.ryanpatrickrandall.com/webmention/B65NSlPRYKG8EDPTh7t-
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-14
+    target: http://www.ryanpatrickrandall.com/talks/cwi.html
+  https://trailheadboise.org: false
+  https://twitter.com/TrailheadBoise: false
+  https://twitter.com/hashtag/boisemakers?src=hash: false
+  https://t.co/G1KcZttuXd: false
+  https://twitter.com/librarythinking/status/718219540036001793: false
+  https://twitter.com/hashtag/makershowcase?src=hash: false
+  https://t.co/KurLCYx7Gl: false
+  https://twitter.com/TrailheadBoise/status/718218094955610113: false
+  https://twitter.com/makerbot: false
+  https://twitter.com/hashtag/makermilestones?src=hash: false
+  https://t.co/1rB9Xy6bSR: false
+  https://twitter.com/DonovanKayyy/status/718508778325344256: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-15:
+  https://rlc.radicallibrarianship.org/2016/04/07/radlibchat-12th-april-2016/: false
+  http://www.sacbee.com/news/local/article71659992.html: 1
+  https://twitter.com/mchris4duke/status/720660507053723650: false
+  "//platform.twitter.com/widgets.js": false
+  http://thechecafe.blogspot.com/p/about.html: 1
+  https://archive.org/stream/216605-uc-disorientation-guide/216605-uc-disorientation-guide_djvu.txt: 1
+  http://www.campusactivism.org/server-new/uploads/2011_ucsc_disorientation_guide.pdf: 1
+  https://www.indybay.org/uploads/2009/09/26/ucsc-disguide-2009.pdf: 1
+  http://www.campusactivism.org/displaycategory-4.htm: false
+  https://www.worldcat.org/oclc/479117: false
+  https://www.worldcat.org/oclc/52055828: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-16:
+  https://twitter.com/hashtag/SWILA16?src=hash: false
+  https://www.worldcat.org/oclc/548555609: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-17:
+  https://atom.io: false
+  http://karloespiritu.com/blackdoc/: 1
+  http://brettterpstra.com/projects/nvalt/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/hWy_44rNMSWj6sWs2WmG
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-17
+    target: http://brettterpstra.com/projects/nvalt/
+  https://github.com/burodepeper/minimal-syntax-dark: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-18:
+  https://www.worldcat.org/oclc/805057822: false
+  http://critlib.org/emotional-labor/: false
+  https://storify.com/ceprice/critlib-chat-emotional-labor: false
+  https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38721a22-ed66-4904-bd93-f2953353e7ee: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-19:
+  http://sjlseattle.org: 1
+  https://twitter.com/search?f=tweets&vertical=default&q=: false
+  http://muse.jhu.edu/issue/33352: 1
+  http://redlibrarian.github.io/introduction/2016/05/10/public-libraries-history-state.html: 1
+  https://issuesandadvocacy.wordpress.com/2016/04/18/archivessowhite-intro-bibliography/: 1
+  http://www.theguardian.com/books/2016/may/10/theres-nothing-like-it-in-comics-how-love-and-rockets-broke-the-rules: 1
+  https://www.worldcat.org/oclc/805057822: false
+  https://www.worldcat.org/oclc/5547063193: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-27:
+  http://pdxscholar.library.pdx.edu/liw_portland/Presentations/Publications/11/: false
+  http://dx.doi.org/10.1108/RSR-10-2014-0042: 1
+  https://hacklibraryschool.com/2016/07/06/dialogue/: false
+  http://pdxscholar.library.pdx.edu/liw_portland/Presentations/Publications/3/: false
+  http://dx.doi.org/10.1108/RSR-10-2014-0047: false
+  http://digitalcommons.unl.edu/libraryscience/339/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-31:
+  https://librariandesignshare.org/2016/07/22/buttons-for-the-people/: 1
+  http://libguides.libraries.claremont.edu/c.php?g=317475&p=2119611: 1
+  https://veronicaarellanodouglas.com: 1
+  https://infomational.wordpress.com: 1
+  http://crln.acrl.org/content/77/6/283.full.pdf+html: 1
+  https://fonts.google.com/specimen/Alegreya+Sans: 1
+  https://fonts.google.com/specimen/PT+Sans+Narrow: false
+  http://jpswalsh.github.io/academicons/: 1
+  http://fontawesome.io: 1
+  http://www.designkit.org: 1
+  http://idaholibraries.org/conferences/regional-conferences/unconference-registration/: 1
+  https://makerlab.boisestate.edu: 1
+  http://trailheadboise.org/event/office-hours-amy-vecchione/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-32:
+  http://escholarship.org/uc/search?entity=gseis_interactions;volume=1;issue=2: 1
+  http://www.1science.com/oanumbr.html: 1
+  http://scholarworks.umass.edu/jitpc2010/1/: 1
+  http://libraryjuicepress.com/blog/?p=5350: false
+  https://twitter.com/adzebill/status/759226657194516480: false
+  http://critlib.org/ethics-of-digitization/: false
+  http://jekyllrb.com: false
+  https://mademistakes.com:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/SqW_1LVOlggrV0XCZ4R0
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-32
+    target: https://mademistakes.com
+  http://staticman.net: 1
+  https://mmistakes.github.io/minimal-mistakes/: false
+  http://thedesignersrepublic.bigcartel.com/product/sissy-poster-3d: 1
+https://www.ryanpatrickrandall.com/critical-reflection:
+  http://critlib.org/critical-reflection-chat/: false
+  http://davidseah.com/productivity-tools/: 1
+  http://davidseah.com/tag/ghdr/: false
+  http://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/: 1
+  http://bettermess.com/a-plain-text-primer/: false
+  http://programminghistorian.org/lessons/getting-started-with-markdown: 1
+  http://atom.io: false
+  http://omz-software.com/editorial/: false
+  http://criticmarkup.com: 1
+  http://data-lessons.github.io/library-git/: 1
+  http://bulletjournal.com/get-started/: false
+  http://cirillocompany.de/pages/pomodoro-technique/: 1
+  https://youtu.be/CTM9dSlIepQ: false
+  http://pomodoro.ugolandini.com: 1
+  http://growl.info: 1
+  https://www.prowlapp.com: 1
+  https://openbooklibrarian.wordpress.com/2016/12/17/critical-reflection-more-on-teachings-and-tools/: 1
+  https://tricycle.org/magazine/noble-eightfold-path/: false
+  http://www.lionsroar.com/author/bell-hooks/: false
+  https://tricycle.org/magazine/agent-change-an-interview-with-bell-hooks/: false
+  https://www.worldcat.org/oclc/136259: false
+  https://www.worldcat.org/oclc/906010679: false
+  https://www.worldcat.org/oclc/757483928: false
+  https://en.wikipedia.org/wiki/Orientalism: false
+  https://www.worldcat.org/oclc/228493: false
+  https://www.worldcat.org/oclc/35206460: false
+  http://5by5.tv/b2w/3: false
+  https://soundcloud.com/buddhistgeeks/talking-race-love-and: 1
+  http://angelkyodowilliams.com: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2017-week-01:
+  http://critlib.org/critical-reflection-chat/: false
+  http://help.dayoneapp.com/day-one-sync-faq/: 1
+  http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages: false
+  https://medium.com/@craigeley/journaling-with-jekyll-c7065031a33: 1
+  https://about.gitlab.com: 1
+  http://theory.cribchronicles.com/2016/11/30/temporarily-embarrassed-millionaires/: 1
+  http://theory.cribchronicles.com/2017/01/07/antigonish-2-0-the-plan/: false
+  http://digitalcommons.plattsburgh.edu/lis/7/: 1
+  https://bryanalexander.org/2017/01/05/reading-horton-and-freire-into-2017/: 1
+  https://en.wikipedia.org/wiki/Highlander_Research_and_Education_Center: false
+  https://americanlibrariesmagazine.org/2017/01/03/never-neutral-critlib-technology/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2017-week-09:
+  http://crln.acrl.org/content/78/1/20.full: false
+  https://thedesignteam.io/the-type-snob-f221969a884b: 1
+  http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown: false
+  http://programminghistorian.org: false
+  http://pandoc.org/index.html: 1
+  http://www.bibtex.org: 1
+  https://github.com/VukanJ/bibtex-helper: false
+  https://github.com/VukanJ/bibtex-helper/blob/master/snippets/bibtex-snippets.cson: false
+  http://ftp.math.utah.edu/pub/bibnet/bibtex-info.html: 1
+https://www.ryanpatrickrandall.com/my-ala-annual-2018-schedule:
+  https://oasis.sandstorm.io/shared/FtfUzJBeY_PW_tNa-1WPCxD-sONAqiUU9X5ZUvC19Dn: 1
+  https://scholar.social/@foureyedsoul: 1
+  https://twitter.com/foureyedsoul: false
+  http://www.inthelibrarywiththeleadpipe.org/about/: false
+  https://drive.google.com/drive/folders/0B6Obmnl0RQwTWWFXYld0Vkhvcmc?usp=sharing: false
+  https://critlib2017.wordpress.com/program/: 1
+  http://etherpad.org: false
+  https://riseup.net: 1
+  https://www.kexp.org/read/2018/5/10/announcing-public-enemy-album-breakdown/: 1
+  https://www.eventscribe.com/2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380901: 1
+  https://pad.riseup.net/p/ALAAC2018Fri0100pmNewMembers-keep: 1
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=405586: false
+  https://pad.riseup.net/p/ALAAC2018Fri0400pm-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=400110: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352598: false
+  https://pad.riseup.net/p/CAIs6xumpU3Z-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380846: false
+  https://pad.riseup.net/p/hEqgaJDiNPSg-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=353518: false
+  https://pad.riseup.net/p/kK7pf0E4icCG-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352254: false
+  https://pad.riseup.net/p/ALAAC2018Sat230p-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352459: false
+  https://pad.riseup.net/p/ALAAC2018Sat0400pm-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352608: false
+  https://pad.riseup.net/p/ALAAC2018Sun0900am-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352589: false
+  https://pad.riseup.net/p/ALAAC2018Sun1030am-keep: false
+  https://2018.alaannual.org/whats-happening/networking-uncommons: 1
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352249: false
+  https://pad.riseup.net/p/ALAAC2018Sun0230pm-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352251: false
+  https://pad.riseup.net/p/ALAAC2018Sun0400pm-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352471: false
+  https://pad.riseup.net/p/ALAAC2018Sun0400pmNeutrality-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380758: false
+  https://www.facebook.com/events/244714849439515/: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380478: false
+  https://www.facebook.com/events/243039979783985/: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352359: false
+  https://pad.riseup.net/p/ALAAC2018Mon0900am-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352258: false
+  https://pad.riseup.net/p/ALAAC2018Mon1030amLISJobSearch-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352298: false
+  https://pad.riseup.net/p/ALAAC2018Mon1030amAllyshipRace-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352299: false
+  https://pad.riseup.net/p/ALAAC2018Mon1030amOER-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352323: false
+  https://pad.riseup.net/p/ALAAC2018Mon0100pmREADscale-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352236: false
+  https://pad.riseup.net/p/ALAAC2018Mon0400pmCommunity-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380141: false
+  https://pad.riseup.net/p/ALAAC2018Tues1000amClosing-ViolaDavis-keep: false
+https://www.ryanpatrickrandall.com/while-you-are-not-safe-i-am-not-safe:
+  https://www.sciencedirect.com/topics/medicine-and-dentistry/social-model-of-disability: false
+  https://tinyurl.com/lismentalhealth20: false
+  https://twitter.com/sm_osment/status/1231051671469535232?ref_src=twsrc: false
+  https://platform.twitter.com/widgets.js: 1
+  https://www.poetryfoundation.org/poems/49303/howl: 1
+  https://www.poetryfoundation.org/poems/54163/footnote-to-howl: false
+  https://twitter.com/hashtag/ADHD?src=hash&amp;ref_src=twsrc: false
+  https://twitter.com/hashtag/neurodiversesquad?src=hash&amp;ref_src=twsrc: false
+  https://twitter.com/chaotic_kat/status/1169688745387233280?ref_src=twsrc: false
+  https://meredith.wolfwater.com/wordpress/2020/02/18/lismentalhealth-that-time-my-brain-and-my-job-tried-to-kill-me/: 1
+  https://genius.com/Fugazi-bulldog-front-lyrics: 1
+  https://pages.mtu.edu/~jdslack/readings/CSReadings/Hall_Old_and_New_Identities_Ethnicities.pdf: 1
+  https://www.worldcat.org/oclc/1022312889: false
+  https://raincrossunderground.omeka.net/items/show/2: 1
+  http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf: 1
+https://www.ryanpatrickrandall.com/now/now-july-2020:
+  https://infolit-idaho.github.io/infolit-for-everyone/about/: 1
+  https://www1.rebus.community/: 1
+  https://www.rebus.community/c/textbook-success-program/120: 1
+  https://schomj.weebly.com: 1
+  https://maggieappleton.com/garden-history:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/maggieappleton.com/webmention/fTnPgY_aeYnNbY24vHn2
+    source: https://www.ryanpatrickrandall.com/now/now-july-2020
+    target: https://maggieappleton.com/garden-history
+  http://www.ryanpatrickrandall.com/research-notebook/: 1
+  https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu: 1
+  https://tomcritchlow.com/2019/02/17/building-digital-garden/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/i4tQciEAWZeUO1T4b3ZX
+    source: https://www.ryanpatrickrandall.com/now/now-july-2020
+    target: https://tomcritchlow.com/2019/02/17/building-digital-garden/
+  https://mind.miketannenbaum.com: 1
+  https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll: 1
+https://www.ryanpatrickrandall.com/monthly-signal-boost/introducing-monthly-signal-boosts:
+  https://www.ryanpatrickrandall.com/categories/: false
+  https://schomj.weebly.com: false
+  https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C: false
+https://www.ryanpatrickrandall.com/monthly-signal-boost/july-2020-monthly-signal-boost:
+  https://organizingideaspod.wordpress.com/2020/02/28/ep-20-libraries-and-disabilities-with-jessica-schomberg/: 1
+  https://litwinbooks.com/books/beyond-accommodation/: false
+  https://soundcloud.com/thelatinocard/mask-culinity: false
+  https://podcasts.apple.com/us/podcast/ep-6-with-abraham-lateiner-of-freedom-beyond/id1495723247?i=1000466133862: 1
+  https://tricycle.org/trikedaily/recognize-racism/: false
+  http://www.buddhistpeacefellowship.org: 1
+https://www.ryanpatrickrandall.com/sift-links:
+  https://flipgrid.com/93f8f2f7: 1
+  https://libraries.idaho.gov/moss2020/: 1
+  https://hapgood.us/2019/05/12/sift-and-a-check-please-preview/: 1
+  https://www.notion.so/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed: 1
+  https://infodemic.blog: 1
+  https://youtu.be/t4clt0c43X8: false
+  https://docs.google.com/presentation/d/1vyugivoc0ZdnpxSaLJkrCL22LW82HVMyoC4gXNJ6kNQ/edit?usp=sharing: 1
+  https://webliteracy.pressbooks.com: 1
+  https://youtu.be/wFN6XNawUMU: false
+https://www.ryanpatrickrandall.com/monthly-signal-boost/august-2020-monthly-signal-boost:
+  https://www.wakingup.com: 1
+  https://samharris.org: 1
+  http://dotaichi.com: 1
+  https://plumvillage.app: 1
+  https://en.wikipedia.org/wiki/Engaged_Buddhism: false
+  https://plumvillage.app/thich-nhat-hanh/: false
+  https://jukebouncewerk.bandcamp.com/track/love-genius: 1
+  https://jukebouncewerk.bandcamp.com: false
+  https://soundcloud.com/sncd: false
+  https://www.empirednb.com/shows/mathnscience: 1
+  https://johntejada.bandcamp.com/album/time-flex: 1
+  https://johntejada.bandcamp.com: false
+https://www.ryanpatrickrandall.com/now/now-june-2022:
+  https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric: 1
+  https://www.cast.org/impact/universal-design-for-learning-udl: 1
+  https://www.ryanpatrickrandall.com/notes/: false
+  https://www.dendron.so/: 1
+  https://www.ryanpatrickrandall.com/notes/Note-taking/Dendron/beginning-to-use-dendron: false
+https://www.ryanpatrickrandall.com/blips/introducing-blips-and-link-rhizomes:
+  https://indieweb.org/POSSE:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/Jkt3r2KJvuXRwZEHhfqv
+    source: https://www.ryanpatrickrandall.com/blips/introducing-blips-and-link-rhizomes
+    target: https://indieweb.org/POSSE
+  https://davecormier.com/edblog/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2023-week-09:
+  https://wiki.dendron.so/notes/ogIUqY5VDCJP28G3cAJhd/: 1
+  https://www.tandfonline.com/doi/abs/10.1080/09502380500521091: 1
+  https://journals.litwinbooks.com/index.php/jclis/about: 1
+  https://doi.org/10.2307/25007622: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2023-week-10:
+  https://fossandcrafts.org/about/: 1
+  https://fossandcrafts.org/episodes/24-get-organized.html: false
+  https://orgmode.org/: 1
+  https://fossandcrafts.org/episodes/41-learning-emacs.html: false
+  https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree: 1
+  https://wiki.dendron.so/notes/SEASewZSteDK7ry1AshNG/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2023-week-12:
+  https://parksandrecreation.idaho.gov/parks/bruneau-dunes/: 1
+  https://hcommons.social/@ryanrandall/110087018243882320: 1
+  https://www.ridgetorivers.org/trails/interactive-map/: 1
+  https://hcommons.social/@ryanrandall/110087018243882320/embed: false
+  https://hcommons.social/embed.js: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2023-week-17:
+  https://davidseah.com/productivity-tools/: false
+https://www.ryanpatrickrandall.com/now/now-may-2023:
+  https://www.dendron.so/: false
+https://www.ryanpatrickrandall.com/light-mode-in-progress:
+  https://social.pixie.town/@joepie91/110526984317454201: 1
+  https://github.com/mmistakes/minimal-mistakes/discussions/2033: false
+  https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/: 1
+  https://web.archive.org/web/20221127194150/http://www.bigfootjs.com/: false
+  https://littlefoot.js.org/: 1
+https://www.ryanpatrickrandall.com/acwrimo2023:
+  https://www.moma.org/magazine/articles/407: 1
+  https://github.com/ryan-p-randall/some-obsidian-starter-files/blob/main/files/writing-acwrimo-2023.md: false
+  https://raw.githubusercontent.com/ryan-p-randall/some-obsidian-starter-files/main/files/writing-acwrimo-2023.md: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2023-week-49:
+  https://www.youtube.com/watch?v=zQ5kH59_b8s: false
+  https://www.gofundme.com/f/jonmeshia-find-a-stable-future: 1
+  https://fractalecho.substack.com/: 1
+  https://a.gup.pe/u/workingonit: 1
+  https://mas.to/@kissane: 1
+  https://hcommons.social/about: false
+  https://kramdown.gettalong.org/syntax.html: 1
+  https://plausible.io/: 1
+  https://plausible.io/vs-matomo: false
+  https://giscus.app/: 1
+https://www.ryanpatrickrandall.com/notes/new-note-on-a-critical-thinking-formula:
+  ? https://web.archive.org/web/20230807003329/https://www.cla.purdue.edu/academic/english/theory/postmodernism/modules/jamesonpomomainframe.html
+  : false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2023-week-50:
+  https://hcommons.social/@ryanrandall/111519717832942162/embed: false
+  https://hcommons.social/embed.js: false
+  https://zirk.us/@sbarolo: 1
+  https://mastodon.social/@shrewshrew: 1
+  https://zirk.us/@sbarolo/109384456791661494: false
+  https://zirk.us/@sbarolo/109384456791661494/embed: false
+  https://zirk.us/embed.js: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/rearviewmirror-2023:
+  https://raindrop.io/: 1
+  https://github.com/franck-chester/franck-chester.github.io/blob/main/_layouts/tags.html: false
+  https://indieweb.org/bookmark:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/IIO7nr-0JOyVuRwLN1q0
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/rearviewmirror-2023
+    target: https://indieweb.org/bookmark
+  https://mmistakes.github.io/minimal-mistakes/post: false
+  https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb: false
+  https://scatteredquotes.com/oh-arent-you-a-beautiful-boy/: 1
+  https://plausible.io/: false
+  https://plausible.io/vs-matomo: false
+  https://www.hughrundle.net/privacy/: 1
+  https://giscus.app/: false
+  https://openlibrary.org/works/OL489421W/Bird_by_Bird: 1
+  https://indieweb.org/POSSE:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/vT4NMWo8z59sZwA5RvfN
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/rearviewmirror-2023
+    target: https://indieweb.org/POSSE
+  https://bookwyrm.social/user/foureyedsoul: 1
+  https://aworkinglibrary.com/: 1
+  https://dsriseah.com/about/sri/: 1
+  https://www.youtube.com/@ruawilliams505: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/discussions/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-01:
+  https://www.youtube.com/watch?v=nStU3-CK1TA: false
+  https://danielcernst.com/: 1
+  https://hickstro.org/: 1
+  https://theconversation.com/writing-instructors-are-less-afraid-of-students-cheating-with-chatgpt-than-you-might-think-207202: false
+https://www.ryanpatrickrandall.com/observations-on-aaron-swartz-day:
+  https://howcyborgs.chat/@vic/111738751820622723/embed: 1
+  https://en.wikipedia.org/wiki/Aaron_Swartz: false
+  https://netnewswire.com/: 1
+  https://en.wikipedia.org/wiki/Web_feed: false
+  http://www.aaronsw.com/weblog/whowriteswikipedia: 1
+  https://en.wikipedia.org/wiki/Markdown: false
+  https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown: false
+  https://www.inthelibrarywiththeleadpipe.org/: false
+  https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz: false
+  https://archive.org/details/aaronsw: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-02:
+  https://en.wikipedia.org/wiki/Google_Reader: false
+  https://killedbygoogle.com/: 1
+  https://netnewswire.com/: false
+  https://book.micro.blog/microformats/: ''
+  https://home.omg.lol/: 1
+  https://micro.blog/: 1
+  https://memory-alpha.fandom.com/wiki/Portal:Main: 1
+  https://en.wikipedia.org/wiki/Olaudah_Equiano: false
+  https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano: 1
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/: false
+  https://mmistakes.github.io/minimal-mistakes/: false
+  https://webaim.org/techniques/semanticstructure/: 1
+  https://web.archive.org/web/20221127194150/http://www.bigfootjs.com/: false
+  https://littlefoot.js.org/: false
+  https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-03:
+  https://www.youtube.com/watch?v=NERzLlHo-D0: false
+  https://openlibrary.org/works/OL2649214W/NASA_Trek?edition=key: false
+  https://www.versobooks.com/products/1578-nasa-trek: 1
+  https://memory-alpha.fandom.com/wiki/Memory_Alpha:Introduction: false
+  https://memory-alpha.fandom.com/wiki/Memory_Alpha: false
+  https://brianlovin.com/writing/incrementally-correct-personal-websites: 1
+  https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/ethanmarcotte.com/webmention/0S5nGIYYaIt6lGnfUV6M
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-03
+    target: https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/
+  http://colorsafe.co/: 1
+  https://github.com/donnieberg/accessible-color-palette: false
+  https://www.howtocanvas.com/: 1
+  https://exploringaipedagogy.hcommons.org/: 1
+  https://exploringaipedagogy.hcommons.org/about/: false
+  https://en.wikipedia.org/wiki/ELIZA_effect: false
+  https://www.w3.org/WAI/ARIA/apg/: 1
+  https://en.wikipedia.org/wiki/Influenza: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_plugins/bidirectional_links_generator.rb: false
+  https://www.w3.org/WAI/ARIA/apg/patterns/breadcrumb/examples/breadcrumb/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-04:
+  https://www.poetryfoundation.org/poems/45032/fog-56d2245d7b36c: false
+  https://www.cassey.dev/fun-web-resources/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/www.cassey.dev/webmention/5EG3spdlJbUftUEQ11gX
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-04
+    target: https://www.cassey.dev/fun-web-resources/
+  https://ia.net/topics/ai-art-is-the-new-stock-image: 1
+  https://front-end.social/@stephaniewalter: 1
+  https://daverupert.com/2024/01/focus-visible-love/: 1
+  https://stimpunks.org/glossary/dolphining/: 1
+  https://afinestart.me/: 1
+  https://smarimccarthy.is/posts/2024-01-23-json-bad/: 1
+https://www.ryanpatrickrandall.com/photonic-jukebox/acid-jeep-clock-rhythm:
+  https://texasrecordingsunderground.bandcamp.com/album/clock-rhythm: 1
+  https://texasrecordingsunderground.bandcamp.com/track/noise-source: false
+  https://texasrecordingsunderground.bandcamp.com/track/tape-overwrite: false
+  https://texasrecordingsunderground.bandcamp.com/track/syncussion: false
+  https://en.wikipedia.org/wiki/Wipeout_(video_game_series: false
+https://www.ryanpatrickrandall.com/ghdp:
+  https://dsriseah.com/ghdr/term/ghdr/: false
+  https://fractalecho.substack.com/p/a-neurodivergent-writing-guide: false
+  https://www.themesystem.com/: 1
+  https://support.hcommons.org/guides/groups/using-files-and-docs/: 1
+  https://networks.h-net.org/: 1
+  https://jon-e.net/infrastructure/: 1
+  https://aworkinglibrary.com/: false
+  https://www.spopowich.ca/blog: 1
+  https://davidseah.com/virtual-coworking/: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-05:
+  https://www.linkedin.com/in/amy-minervini-b82a0038/: 1
+  https://lcsc.pressbooks.pub/musicinyourwords/: 1
+  https://isu.pressbooks.pub/booky/: 1
+  https://lcsc.pressbooks.pub/musicinyourwords/front-matter/intro/: false
+  https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095758798: 1
+  https://semanticarecords.bandcamp.com/album/dreams-of-the-sentient-city-semantica-41-2: 1
+  https://semanticarecords.bandcamp.com/album/the-sentient-city-awakens-semantica-54-2: false
+  https://semanticarecords.bandcamp.com/album/return-to-the-sentient-city-semantica-69-2: false
+  https://librarian.aedileworks.com/2024/01/18/i-will-dropkick-you-if-you-refer-to-an-llm-as-a-librarian/: 1
+  https://dsriseah.com/ghdr/: false
+  https://publish.obsidian.md/tasks/Queries/Filters: 1
+https://www.ryanpatrickrandall.com/ai-knowing-vs-languaging-cosmospolitanism:
+  https://www.youtube.com/watch?v=gBhUIoFstgc: false
+https://www.ryanpatrickrandall.com/navigating-privacy-issues-with-generative-ai-panel:
+  https://www.youtube.com/watch?v=gBhUIoFstgc: false
+  https://www.youtube-nocookie.com/embed/gBhUIoFstgc?si=EDPUXpnYN9_Nt_YT: 1
+  https://docs.google.com/document/d/1QNS26A2fBBXKXFM8G9dk2fpweTpJudGuGsRNdFGTQGs/edit: false
+  https://www.youtube.com/watch?v=LvZYwaQlJsg: false
+https://www.ryanpatrickrandall.com/now/now-june-2024:
+  https://derekkedziora.com/blog/dynamic-now-page: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-26:
+  https://kfitz.info/expedient/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/kfitz.info/webmention/J-hRKN_GN7TyC8tTO878
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-26
+    target: https://kfitz.info/expedient/
+  https://bookwyrm.social/user/foureyedsoul/lists: false
+  https://jekyllrb.com/docs/variables/: false
+  https://blog.webjeda.com/jekyll-related-posts/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-27:
+  https://slashpages.net/: 1
+  https://www.jstor.org/stable/1354255: false
+  https://www.jstor.org/register?redirectUri=: false
+  https://openlibrary.org/books/OL9498188M/A_Realist_Theory_of_Science_(Radical_Thinkers: false
+  https://www.spopowich.ca/blog/social-theory-of-neutrality: false
+  https://en.wikipedia.org/wiki/Last_Night_(1998_film: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-28:
+  https://www.discogs.com/release/1230705-Unknown-Artist-The-Black-Hole: 1
+  https://thomasrigby.com/posts/a-year-of-weeknotes/: 1
+  https://danilafe.com/blog/blog_microfeatures/: 1
+  https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-29:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://www.justwatch.com/us/tv-show/extraordinary-birder-with-christian-cooper: 1
+  https://en.wikipedia.org/wiki/Psychogeography: false
+  https://en.wikipedia.org/wiki/Bogus_Basin: false
+  https://www.upress.umn.edu/search-grid/?series=forerunners-ideas-first: 1
+  https://www.upress.umn.edu/9781517907808/theory-for-the-world-to-come/: false
+  https://www.upress.umn.edu/9781517904258/shareveillance/: false
+  https://www.upress.umn.edu/9781517908034/spoiler-alert/: false
+  https://www.upress.umn.edu/9780816698516/deep-mapping-the-media-city/: false
+  https://www.upress.umn.edu/9781517907792/learning-versus-the-common-core/: false
+  https://jasonheppler.org/2024/07/15/how-i-use-obsidian/: 1
+  https://jasonheppler.org/about/: false
+  https://obsidian.md/: 1
+  https://blacksmithgu.github.io/obsidian-dataview/: 1
+  https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians: false
+  http://elenarazlogova.org/: 1
+  https://danilafe.com/blog/blog_microfeatures/: false
+  https://webaim.org/techniques/hypertext/hypertext_links: false
+  https://michaeldot.com/Adding-Ability-to-Open-External-Links-in-New-Tab-Minimal-Mistakes-Jekyll/: 1
+  https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA: 1
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/tree/develop/assets/js/plugins/external-link-indicator.js: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-30:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://www.justwatch.com/us/movie/easy-a: false
+  https://jasonheppler.org/2024/07/15/how-i-use-obsidian/: false
+  https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians: false
+  http://elenarazlogova.org/: false
+  https://www.jacky.wtf/essays/2024/not-engaging-with-politics-online/: 1
+  https://tedium.co/2024/07/27/music-industry-cassette-single-cassingle-history/: 1
+  https://berjon.com/ethicswishing/: 1
+  ? https://solarbird.net/blog/2024/07/17/the-long-arc-of-boomer-politics-of-resistance-and-what-millennials-zoomers-can-win-starting-now/
+  : 1
+  https://mastodon.social/@blogdiva/112828235528092192: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-31:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://idahofire.org/: ''
+  https://ghost.org/: 1
+  https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/:
+    link: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-31
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-31
+    target: https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/
+    code: success
+    message: Webmention was successful
+  https://everythingchanges.us/blog/guide-to-consensus-decision-making/: 1
+  https://www.seedsforchange.org.uk/shortconsensus: 1
+  https://www.seedsforchange.org.uk/about: false
+  https://www.inthelibrarywiththeleadpipe.org/: false
+  https://www.bicycling.com/health-nutrition/a60412469/cycling-saddle-pain-women-surgery/: 1
+  https://en.wikipedia.org/wiki/Four-sides_model: false
+  https://en.wikipedia.org/wiki/Pilpul: false
+  https://en.wikipedia.org/wiki/Stigmergy: false
+https://www.ryanpatrickrandall.com/book-notes-elsewhere:
+  https://todon.eu/@jalcine/113165841754837933: 1
+  https://aworkinglibrary.com/: false
+  https://macwright.com/reading/: 1
+  https://sive.rs/book: 1
+  https://tomcritchlow.com/2019/02/17/building-digital-garden/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/Ovu0luM-3-Z9WjfHwo_e
+    source: https://www.ryanpatrickrandall.com/book-notes-elsewhere
+    target: https://tomcritchlow.com/2019/02/17/building-digital-garden/
+  https://tomcritchlow.com/wiki/books/bookshelves/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/udWsBRw8xhndRG9ghIyH
+    source: https://www.ryanpatrickrandall.com/book-notes-elsewhere
+    target: https://tomcritchlow.com/wiki/books/bookshelves/
+  https://tomcritchlow.com/wiki/books/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/vvZIdfCr0wc7rprwViw1
+    source: https://www.ryanpatrickrandall.com/book-notes-elsewhere
+    target: https://tomcritchlow.com/wiki/books/
+  https://tomcritchlow.com/2020/04/15/library-json/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/-tkZd2XVwKXas6umtlI1
+    source: https://www.ryanpatrickrandall.com/book-notes-elsewhere
+    target: https://tomcritchlow.com/2020/04/15/library-json/
+  https://tomcritchlow.com/wiki/books/books-read/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/BCZOvjcPlGCOHEFk3ZiD
+    source: https://www.ryanpatrickrandall.com/book-notes-elsewhere
+    target: https://tomcritchlow.com/wiki/books/books-read/
+  https://maggieappleton.com/library:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/maggieappleton.com/webmention/R3zHp-ZFkdX8wC_NE7Ol
+    source: https://www.ryanpatrickrandall.com/book-notes-elsewhere
+    target: https://maggieappleton.com/library
+  https://maggieappleton.com/antilibrary:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/maggieappleton.com/webmention/r3GELv3dwJ3mvYzLGs9Z
+    source: https://www.ryanpatrickrandall.com/book-notes-elsewhere
+    target: https://maggieappleton.com/antilibrary
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-45:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://espanso.org/: 1
+  https://espanso.org/install/: false
+  https://espanso.org/docs/install/mac/: false
+  https://brew.sh/: 1
+  https://espanso.org/docs/sync/: false
+  https://www.justwatch.com/us/tv-show/goosebumps-2023: false
+  https://www.discogs.com/release/2311750-Various-Dub-Over-Dub-27-Track-Dub-Extravaganza: false
+  https://dubsyndicate.bandcamp.com: 1
+  https://dubsyndicate.bandcamp.com/album/the-pounding-system: false
+  https://on-usound.bandcamp.com/: 1
+  https://boardgamegeek.com/boardgame/36218/dominion: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-46:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://asaobinoue.blogspot.com/p/about.html: 1
+  https://www.youtube.com/watch?v=brPGTewcDYY: false
+  https://www.inthelibrarywiththeleadpipe.org/ai-policy/: false
+  https://www.justwatch.com/us/movie/hot-frosty: false
+  https://www.justwatch.com/us/tv-show/heartstopper: false
+  https://www.librarian.net/stax/5566/the-mining-of-the-public-domain/: 1
+  https://www.fieggen.com/shoelace/: 1
+  https://www.bookforum.com/print/3102/baby-talk-61359: 1
+  https://www.tithibhattacharya.net/social-reproduction-theory: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2024-week-47:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/: 1
+  https://www.justwatch.com/us/movie/interstellar: false
+  https://www.justwatch.com/us/movie/mean-girls: false
+  https://www.justwatch.com/us/movie/mean-girls-2024-0: false
+  https://www.imdb.com/name/nm7635388/?ref_=tt_cst_t_1: 1
+  https://refusinggenai.wordpress.com/: 1
+  https://medium.com/@GregPogorzelski/the-thing-about-the-kobayashi-maru-4d5e1e49993e: false
+  https://memory-alpha.fandom.com/wiki/Kobayashi_Maru_scenario: false
+  https://halperta.com/shalperta: 1
+  https://thomasrigby.com/posts/its-hard-to-give-recognition/: false
+  https://tinylytics.app/: 1
+https://www.ryanpatrickrandall.com/notes/counting-events-with-obsidian-dataview-queries:
+  https://violentfemmes.bandcamp.com/track/add-it-up-2: 1
+  https://violentfemmes.bandcamp.com/track/kiss-off-2: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-01:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://100daystooffload.com/: 1
+  https://challenges.stefanbohacek.com/: 1
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-02:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-03:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://ghost.org/: false
+  https://en.wikipedia.org/wiki/Sturm_und_Drang: false
+  https://projects.kwon.nyc/internet-is-fun/: 1
+  https://web.archive.org/web/20090306080717/http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf: false
+  https://llamalife.co/: 1
+  https://rectangleapp.com/: 1
+https://www.ryanpatrickrandall.com/instructional-design-short-story:
+  https://bsky.app/profile/sarahpinsker.bsky.social/post/3lgceonhhus2b: 1
+  https://www.minorcompositions.info/?p=516: false
+  https://openlibrary.org/works/OL5968295W/In_the_break: false
+https://www.ryanpatrickrandall.com/now/now-may-2025:
+  https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/: false
+  https://pandoc.org/MANUAL.html: false
+  https://citationstyles.org/: 1
+  ? https://raw.githubusercontent.com/ryan-p-randall/ryan-p-randall.github.io/refs/heads/develop/_notes/Reading/Books/okorafor-binti-complete-triology.md
+  : false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-35:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://openlibrary.org/works/OL18635700W/How_to_Take_Smart_Notes: false
+  https://tinmanofficial.bandcamp.com/: 1
+  https://tinmanofficial.bandcamp.com/album/drippingacid: false
+  https://acidtestrecords.bandcamp.com/: 1
+  https://omunit.bandcamp.com/album/in-the-afterworld: 1
+  https://ellanew.com/2025/09/01/ptpl-171-edc-one-page-notebook: 1
+  https://infolit-idaho.github.io/infolit-for-everyone/zines/: false
+  https://tracydurnell.com/2025/08/16/what-to-read-big-questions/:
+    link: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-35
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-35
+    target: https://tracydurnell.com/2025/08/16/what-to-read-big-questions/
+    code: success
+    message: Webmention was successful
+  https://tracydurnell.com/questions/:
+    link: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-35
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-35
+    target: https://tracydurnell.com/questions/
+    code: success
+    message: Webmention was successful
+  https://openlibrary.org/works/OL20242198W/Staying_with_the_Trouble: false
+  https://openlibrary.org/works/OL21665029W/Carrier_Bag_Theory_of_Fiction: false
+  https://www.merriam-webster.com/dictionary/etymon: 1
+  https://www.merriam-webster.com/dictionary/heteroclite: false
+  https://llamalife.co/: false
+  https://github.com/mmistakes/minimal-mistakes/issues/5296: false
+  https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/: false
+https://www.ryanpatrickrandall.com/_posts/2014-09-07-new-directions-in-information-fluency:
+  http://katherineahnberg.wordpress.com/: false
+  http://www.augustana.edu/x59440.xml: false
+  http://katherineahnberg.wordpress.com/2014/08/24/bringing-digital-humanities-to-the-desk/: false
+  https://github.com/ryan-p-randall/dhreadyreference: false
+  https://twitter.com/foureyedsoul: false
+https://www.ryanpatrickrandall.com/_posts/2014-09-07-new-site:
+  https://www.youtube.com/embed/ZFnEhwmpjXI: false
+  http://jekyllrb.com: false
+  http://mmistakes.github.io/minimal-mistakes/: false
+  http://foureyedsoul.tumblr.com: false
+  http://thelifeguardlibrarian.tumblr.com/tumblarians: false
+https://www.ryanpatrickrandall.com/_posts/2014-09-07-test-one:
+  https://www.youtube.com/embed/UnnGXa7WIGQ: false
+  https://www.youtube.com/watch?v=UnnGXa7WIGQ: false
+https://www.ryanpatrickrandall.com/_posts/2014-09-13-bigfoot-spotting:
+  http://www.bigfootjs.com/: false
+  http://brettterpstra.com/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/yA55sJgxa35CB4BemuWq
+    source: https://www.ryanpatrickrandall.com/_posts/2014-09-13-bigfoot-spotting
+    target: http://brettterpstra.com/
+  http://opendyslexic.org/: false
+  http://jekyllrb.com/: false
+  http://www.trevordjones.com/jekyll: false
+  https://mademistakes.com/articles/going-static/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/ewar8XrxEbVUNdmphysI
+    source: https://www.ryanpatrickrandall.com/_posts/2014-09-13-bigfoot-spotting
+    target: https://mademistakes.com/articles/going-static/
+  http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/: false
+  http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/: false
+  https://github.com/lemonmade: false
+https://www.ryanpatrickrandall.com/_posts/2014-09-19-review-of-online-archive-of-california:
+  http://biblicon.org/about: false
+  http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS: false
+  http://www.oac.cdlib.org/: false
+  http://www.cdlib.org/services/access_publishing/dsc/technical.html: false
+  http://www.cdlib.org/services/access_publishing/dsc/contribute/oai_pmh.html: false
+  http://www.cdlib.org/services/access_publishing/dsc/contribute/docs/GDO.pdf: false
+  http://www.oac.cdlib.org/help/: false
+  http://davidkentrandall.com/: false
+  http://www.oac.cdlib.org/about/: false
+  http://firstmonday.org/ojs/index.php/fm/article/view/953/874: false
+  http://www.cdlib.org/services/access_publishing/dsc/oac/: false
+  http://www.cdlib.org/services/access_publishing/dsc/: false
+  http://www.cdlib.org/services/access_publishing/dsc/oac/history.html: false
+https://www.ryanpatrickrandall.com/_posts/2014-10-12-software-carpentry-workshop-reflections:
+  http://software-carpentry.org/: false
+  http://software-carpentry.org/lessons.html: false
+  http://ella.slis.indiana.edu/g/asistsc/: false
+  http://jekyllrb.com/: false
+  http://git-scm.com/: false
+  http://daringfireball.net/projects/markdown/: false
+  http://dillinger.io/: false
+  http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/: false
+  http://etherpad.org/: false
+  https://etherpad.mozilla.org/swc-2014-10-06-indiana: false
+  http://software-carpentry.org/workshops/index.html: false
+  http://www.andrewasher.net/: false
+https://www.ryanpatrickrandall.com/_posts/2014-11-30-paper-planned-obsolescence-and-digital-libraries:
+  http://biblicon.org/about: false
+  http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS: false
+  https://libraries.iub.edu/scholars-commons-grand-opening: false
+  http://libraries.iub.edu/scholars-commons: false
+  http://mcpress.media-commons.org/plannedobsolescence/: false
+  http://mediacommons.futureofthebook.org/about-mediacommons: false
+  https://www.worldcat.org/title/publics-and-counterpublics/oclc/47849465: false
+  http://menus.nypl.org/: false
+https://www.ryanpatrickrandall.com/_posts/2014-12-08-critlib-chatty-critical-librarianship-on-twitter:
+  http://hacklibschool.wordpress.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/: false
+https://www.ryanpatrickrandall.com/_posts/2015-01-20-how-do-you-take-notes-or-markdown-and-bullet-journals:
+  http://hacklibschool.wordpress.com/2015/01/20/how-do-you-take-notes/: false
+  http://jekyllrb.com/: false
+  https://pages.github.com/: false
+  http://bulletjournal.com/: false
+  http://daringfireball.net/projects/markdown/: false
+https://www.ryanpatrickrandall.com/_posts/2015-01-25-freire-and-critical-librarianship:
+  http://www.hybridpedagogy.com/announcements/mmcp-critical-critical-pedagogy/: false
+  http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/: false
+  https://www.worldcat.org/title/american-archives-gender-race-and-class-in-visual-culture/oclc/40939988: false
+  https://www.worldcat.org/title/the-body-and-the-archive/oclc/5548108887: false
+  http://www.uchastings.edu/news/articles/2015/01/williams-double-jeopardy-report.php: false
+  http://code.library.arizona.edu/gots: false
+  http://www.americanlibrariesmagazine.org/article/guide-side: false
+  ? http://chronicle.com/blognetwork/theubiquitouslibrarian/2015/01/06/diving-into-critical-pedagogy-an-alterative-view-of-information-literacy/
+  : false
+  http://tinyurl.com/critlibx: false
+  https://www.worldcat.org/title/pedagogy-of-the-oppressed/oclc/852728232: false
+https://www.ryanpatrickrandall.com/_posts/2015-03-21-critlib-makerspaces:
+  https://storify.com/oksveta/critlib-makerspaces: false
+  http://www.dissentmagazine.org/blog/booked-3-what-exactly-is-neoliberalism-wendy-brown-undoing-the-demos: false
+  http://tweetdeck.twitter.com/: false
+  https://twitter.com/oksveta: false
+  http://oksveta.com/: false
+  https://storify.com/oksveta: false
+  http://tinyurl.com/critlibx: false
+  http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/: false
+  http://www.hybridpedagogy.com/: false
+https://www.ryanpatrickrandall.com/_posts/2015-04-02-wojnarowicz-on-a-sphere:
+  http://biblicon.org/about: false
+  http://www.soic.indiana.edu/graduate/courses/index.html?number=z652&department=ILS: false
+  https://www.youtube.com/embed/ezjn1QJqaa4: false
+https://www.ryanpatrickrandall.com/_posts/2015-04-20-learning-subjectives:
+  http://rhizomatic.net/2015/04/14/learning-subjectives-designing-for-when-you-dont-know-where-youre-going/: false
+  http://rhizomatic.net/: false
+https://www.ryanpatrickrandall.com/_posts/2015-04-23-del-hack-del-quirk-your-presentations:
+  http://hacklibschool.wordpress.com/2015/04/06/hack-quirk-your-demonstrations/: false
+https://www.ryanpatrickrandall.com/_posts/2015-04-28-everything-counts-in-affective-amounts:
+  http://rhizomatic.net/2015/04/22/learning-is-not-a-counting-noun-so-what-should-we-count/: false
+  http://rhizomatic.net/: false
+  http://foundation.zurb.com/: false
+  http://foundation.zurb.com/docs/: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/master/aqredo: false
+  http://www.git-scm.com/: false
+  http://chronicle.com/blogs/profhacker/tag/github101: false
+  https://twitter.com/hashtag/arcs20105?src=hash: false
+  https://twitter.com/mfgaede/status/592497291098857472: false
+  "//platform.twitter.com/widgets.js": false
+  http://wcm1.web.rice.edu/open-notebook-history.html: false
+  https://twitter.com/foureyedsoul: false
+  https://twitter.com/mfgaede: false
+  https://twitter.com/wcaleb: false
+  http://t.co/tPfUgvfMKQ: false
+  https://twitter.com/uohistlib/status/592502116624674816: false
+https://www.ryanpatrickrandall.com/_posts/2015-05-17-rhizo15-week-three:
+  http://rhizomatic.net/2015/04/29/week-3-the-myth-of-content/: false
+  http://rhizomatic.net/: false
+  http://arstechnica.com/information-technology/2015/03/google-to-close-google-code-open-source-project-hosting/: false
+  http://homepages.gac.edu/~fister/: false
+  http://homepages.gac.edu/~fister/rs.html: false
+https://www.ryanpatrickrandall.com/_posts/2015-06-12-quick-thoughts-on-method:
+  http://tinyurl.com/critlibx: false
+  https://twitter.com/lnwlk/status/609374412312309762: false
+  https://twitter.com/barnlib/status/609417944817381376: false
+  http://www.celt.iastate.edu/teaching-resources/effective-practice/revised-blooms-taxonomy/: false
+  http://plato.stanford.edu/entries/critical-theory/: false
+  http://www.columbia.edu/cu/libraries/inside/units/bibcontrol/osmc/elmborg.pdf: false
+  https://twitter.com/foureyedsoul: false
+https://www.ryanpatrickrandall.com/_posts/2015-06-21-reveal-js-hack-library-school:
+  http://hacklibraryschool.com/2015/06/18/presentation-alternatives-reveal/: false
+  http://lab.hakim.se/reveal-js/: false
+  http://www.ala.org/acrl/standards/ilframework: false
+  http://computationalculture.net/article/reflections-on-the-mp3-format: false
+  https://books.google.com/books?id=o7CZRPZ27TQC&lpg=PT13&pg=PT14: false
+  https://github.com/ldesgrange/jekyll-static-comments: false
+  https://blog.desgrange.net/2012/06/11/jekyll-installation.html: false
+  https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/: false
+  http://htmlcheats.com/reveal-js/reveal-js-tutorial-reveal-js-for-beginners/: false
+  https://www.worldcat.org/oclc/30668295: false
+  http://www.lionsroar.com/bell-hooks-and-thich-nhat-hanh-on-building-a-community-of-love/: false
+  http://tricycle.org/magazine/agent-change-an-interview-with-bell-hooks/: false
+  https://twitter.com/foureyedsoul: false
+  http://ryanpatrickrandall.com/talks/cwi.html: false
+  https://github.com/hakimel/reveal.js/search?q=screen+reader&type=Issues&utf8=✓: false
+  https://github.com/marcysutton: false
+  http://girldevelopit.github.io/girldevelopit-rdu-access/: false
+  http://marcysutton.com/web-accessibility-resources/: false
+  https://storify.com/AlicePrael/intro-to-critlib-part-2: false
+  https://twitter.com/hashtag/critlib?src=hash: false
+  https://twitter.com/foureyedsoul/status/717055097742622722: false
+  "//platform.twitter.com/widgets.js": false
+  https://media.giphy.com/media/POekkUcKs16gg/giphy.gif: false
+https://www.ryanpatrickrandall.com/_posts/2015-07-05-critpotato-rhizo15-week-four:
+  http://rhizomatic.net/2015/05/06/week-4-canshould-we-get-rid-of-the-idea-of-dave-how-do-we-teach-rhizomatically/: false
+  http://rhizomatic.net/: false
+  http://www.tinyurl.com/critlibx: false
+  https://twitter.com/search?f=realtime&q=: false
+  https://www.tumblr.com/search/: false
+  https://storify.com/foureyedsoul/36th-critlib-twitter-chat-critiquing-critlib: false
+  https://youtu.be/xIni27L3q_k?t=13s: false
+  https://twitter.com/hashtag/critlib?src=hash: false
+  https://t.co/2mySogkpS7: false
+  https://twitter.com/elliehearts/status/616055543661244416: false
+  "//platform.twitter.com/widgets.js": false
+  https://twitter.com/kshockey04/status/616055242212294656: false
+  http://www.emilydrabinski.com/: false
+  http://www.jstor.org/stable/10.1086/669547: false
+  https://twitter.com/search?q=critpotato&src=typd&vertical=default&f=tweets: false
+  https://www.worldcat.org/title/what-is-philosophy/oclc/29255796: false
+  http://www.infed.org/biblio/b-praxis.htm: false
+  https://www.worldcat.org/title/parasite/oclc/7947695: false
+  http://www.bruno-latour.fr/sites/default/files/P-67: false
+https://www.ryanpatrickrandall.com/_posts/2015-07-17-all-hail-cloud-storage:
+  http://hacklibraryschool.com/2015/07/16/cloud-storage-dropbox/: false
+  http://brettterpstra.com/projects/nvalt/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/tPx3pJnhBDMbyuYxY0t1
+    source: https://www.ryanpatrickrandall.com/_posts/2015-07-17-all-hail-cloud-storage
+    target: http://brettterpstra.com/projects/nvalt/
+  http://www.kungfugrippe.com/post/453204090/q-trick: false
+  http://bettermess.com/plain-text-primer-nvalt-101/: false
+  http://omz-software.com/editorial/: false
+https://www.ryanpatrickrandall.com/_posts/2015-09-05-weekly-assemblage-2015-week-36:
+  http://rlc.radicallibrarianship.org/2015/08/24/radlibchat-1st-september-2015/: false
+  http://rlc.radicallibrarianship.org/: false
+  http://critlib.org/twitter-chats/: false
+  http://rlc.radicallibrarianship.org/safer-spaces-policy/: false
+  http://pdxscholar.library.pdx.edu/ulib_fac/152/: false
+  https://libraryfreedomproject.org/: false
+  http://www.ils.indiana.edu/people/profile.html?profile_id=86: false
+  http://www.ils.indiana.edu/people/profile.html?profile_id=5: false
+  http://www.andrewasher.net/: false
+  http://kshockey.github.io/: false
+  https://www.worldcat.org/title/surveillance-in-the-stacks-the-fbis-library-awareness-program/oclc/21905912: false
+  https://sandstorm.io/: false
+https://www.ryanpatrickrandall.com/_posts/2015-09-13-weekly-assemblage-2015-week-37:
+  http://critlib.org/information-and-migrant-populations/: false
+  https://storify.com/violetbfox/critlib-9-8-2015: false
+  https://act.eff.org/action/support-tor-and-intellectual-freedom-in-libraries: false
+  https://www.propublica.org/article/library-support-anonymous-internet-browsing-effort-stops-after-dhs-email: false
+  https://libraryfreedomproject.org/: false
+  https://twitter.com/flexlibris: false
+  http://www.popsci.com/library-will-vote-on-protectin-user-anonymity: false
+  http://libraryjuicepress.com/whiteness.php: false
+  http://litwinbooks.com/series-critical-multiculturalism.php: false
+  https://www.gsb.stanford.edu/programs/phd/academic-experience/students/l-taylor-phillips: false
+  https://www.gsb.stanford.edu/faculty-research/faculty/brian-lowery: false
+  https://www.gsb.stanford.edu/insights/why-whites-downplay-their-individual-racial-privileges: false
+  http://www.gsb.stanford.edu/sites/gsb/files/publications/phillipslowery_hardknocklife_2015jesp_0.pdf: false
+  http://www.sciencedirect.com/science/article/pii/S0022103115000852: false
+https://www.ryanpatrickrandall.com/_posts/2015-09-19-weekly-assemblage-2015-week-38:
+  ? "//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC"
+  : false
+  https://instagram.com/p/7oUSH3xUW6/: false
+  "//platform.instagram.com/en_US/embeds.js": false
+  https://instagram.com/p/7wYnimxUU4/: false
+  https://instagram.com/p/7yzjZ6RUY5/: false
+  https://instagram.com/p/70ytCZxUXX/: false
+  https://instagram.com/p/70zD2ORUYG/: false
+  https://instagram.com/p/73jzEqxUTE/: false
+  https://instagram.com/p/8JHtcuRUaO/: false
+  https://instagram.com/p/74O7lKRUQJ/: false
+  https://instagram.com/p/76LJHkxUYJ/: false
+  https://instagram.com/p/7_e2jzxUQj/: false
+  https://instagram.com/p/8Hy5lxRUTz/: false
+  https://instagram.com/p/8HQOpIxURH/: false
+  https://www.worldcat.org/title/information-a-very-short-introduction/oclc/827743552: false
+  https://en.wikipedia.org/wiki/Thing_theory: false
+  https://www.worldcat.org/title/interpreting-the-crisis-of-culture-in-communication-theory/oclc/5157020409: false
+  https://www.worldcat.org/title/bringing-it-all-back-home-essays-on-cultural-studies/oclc/36074452: false
+  https://www.worldcat.org/title/modern-invention-of-information-discourse-history-and-power/oclc/45136686: false
+https://www.ryanpatrickrandall.com/_posts/2015-09-26-weekly-assemblage-2015-week-39:
+  ? "//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC"
+  : false
+  https://instagram.com/p/8HQOpIxURH/: false
+  "//platform.instagram.com/en_US/embeds.js": false
+  http://www.boisepubliclibrary.org/: false
+  http://library.boisestate.edu/: false
+  http://library.boisestate.edu/about/colldev.php: false
+  https://www.worldcat.org/title/feminist-pedagogy-for-library-instruction/oclc/847529221: false
+https://www.ryanpatrickrandall.com/_posts/2015-09-29-this-is-not-a-pipette:
+  http://hacklibraryschool.com/2015/08/13/this-is-not-a-pipette/: false
+https://www.ryanpatrickrandall.com/_posts/2015-10-04-weekly-assemblage-2015-week-40:
+  http://www.cwidaho.cc: false
+  https://storify.com/fabrikate/ila-2015: false
+https://www.ryanpatrickrandall.com/_posts/2015-10-11-weekly-assemblage-2015-week-41:
+  http://critlib.org/neutrality-and-objectivity-in-scientific-information/: false
+  http://plato.stanford.edu/entries/scientific-objectivity/: false
+  https://storify.com/danibrena/critlib-neutrality-and-objectivity-in-scientific-i: false
+  http://www.inthelibrarywiththeleadpipe.org/2015/lis-diversity/: false
+  ? https://www.worldcat.org/title/racism-without-racists-color-blind-racism-and-the-persistence-of-racial-inequality-in-america/oclc/841198228
+  : false
+https://www.ryanpatrickrandall.com/_posts/2015-10-18-weekly-assemblage-2015-week-42:
+  http://acrlog.org/categories/first-year-academic-librarian-experience/: false
+  http://5by5.tv/b2w/: false
+  http://www.idahostatesman.com/2015/10/07/4023366/founders-of-boisecodeworks-say.html: false
+  http://freecodecamp.com: false
+  http://hackeducation.com/2015/10/15/technoimperialism/: false
+  https://www.insidehighered.com/blogs/library-babel-fish/library-forking-paths: false
+https://www.ryanpatrickrandall.com/_posts/2015-10-25-weekly-assemblage-2015-week-43:
+  http://critlib.org/gender-and-leadership/: false
+  https://storify.com/KShockey04/critlib-10-20-15: false
+  https://www.zotero.org/groups/critlib: false
+  http://womenoflibraryhistory.tumblr.com: false
+  http://www.glbtrt.ala.org/reviews/off-the-shelf-1-lgbt-librarianship/: false
+  https://chrisbourg.wordpress.com/tag/gender/: false
+  http://vinopal.org/category/gender/: false
+  http://vinopal.org/2013/12/05/are-we-talking-enough-about-gender-bias-and-discrimination-in-the-library-profession/: false
+https://www.ryanpatrickrandall.com/_posts/2015-11-01-weekly-assemblage-2015-week-44:
+  https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series: false
+  "//connect.facebook.net/en_US/sdk.js": false
+  https://www.facebook.com/CWILibrary/posts/919061274843143:0: false
+  https://www.facebook.com/CWILibrary/photos/a.173016252780986.43002.154768854605726/919061274843143/?type=3: false
+  https://www.facebook.com/CWILibrary/: false
+  https://www.facebook.com/CWILibrary/posts/919142651501672: false
+  https://www.worldcat.org/title/agonistics-thinking-the-world-politically/oclc/813931637: false
+  https://www.worldcat.org/title/apostles-of-culture-the-public-librarian-and-american-society-1876-1920/oclc/4529934: false
+  https://www.worldcat.org/title/sorting-things-out-classification-and-its-consequences/oclc/878583923: false
+https://www.ryanpatrickrandall.com/_posts/2015-11-08-weekly-assemblage-2015-week-45:
+  http://ir.uiowa.edu/slis_pubs/1/: false
+  http://www.theadhdnerd.com/ultimate-adhd-guide-time-management/: false
+  https://theconversation.com/here-are-some-more-reasons-why-liberal-arts-matter-49638: false
+https://www.ryanpatrickrandall.com/_posts/2015-11-15-WA-2015-week-46-Massumi-and-North:
+  https://lareviewofbooks.org/essay/undigesting-deleuze/: false
+  https://www.worldcat.org/title/the-idea-of-a-writing-center/oclc/425476890: false
+  http://www.jstor.org/stable/info/10.1086/669547: false
+  https://www.worldcat.org/title/not-just-where-to-click-teaching-students-how-to-think-about-information/oclc/896127188: false
+  http://workingcopyapp.com/: false
+  http://www.textasticapp.com/iphone.html: false
+https://www.ryanpatrickrandall.com/_posts/2015-11-22-wa-2015-week-47:
+  http://critlib.org/: false
+  http://commons.emich.edu/loexquarterly/vol40/iss3/: false
+  http://www.jstor.org/stable/4309683: false
+  http://commons.emich.edu/loexquarterly/vol38/iss4/3/: false
+  http://facstaffweb.montevallo.edu/abattista/: false
+  http://www.curationculture.org/cv: false
+https://www.ryanpatrickrandall.com/_posts/2015-11-29-wa-2015-week-48:
+  https://www.insidehighered.com/blogs/library-babel-fish/cost-doing-more-less: false
+  http://www.transformingamericanlibraries.com/2015/11/we-can-be-heroes.html: false
+  https://trailheadboise.org/guest-blog-lets-make-something/: false
+https://www.ryanpatrickrandall.com/_posts/2015-12-06-wa-2015-week-49:
+  https://placesjournal.org/article/makerspace-towards-a-new-civic-infrastructure/: false
+  https://placesjournal.org/article/library-as-infrastructure/: false
+  https://undaimonia.wordpress.com/2015/11/19/safe-spaces/: false
+  http://www.thedemands.org/: false
+https://www.ryanpatrickrandall.com/_posts/2015-12-13-critlib-feelings:
+  http://critlib.org/feelings/: false
+  https://en.wikipedia.org/wiki/Carnegie_library: false
+  https://www.worldcat.org/oclc/50285121: false
+  http://www.inthelibrarywiththeleadpipe.org/2014/locating-the-library-in-institutional-oppression/: false
+  https://placesjournal.org/article/library-as-infrastructure/: false
+  https://www.worldcat.org/oclc/548555609: false
+  https://web.archive.org/web/20151204230944/http://culturalstudies.web.unc.edu/resources-2/what-is-cultural-studies/: false
+  http://hacklibraryschool.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/: false
+https://www.ryanpatrickrandall.com/_posts/2016-01-09-weekly-whaaa:
+  http://hackeducation.com/2014/04/25/domain-of-ones-own-incubator-emory/: false
+  http://hacklibraryschool.com/tag/weekly-roundup/: false
+  http://brettterpstra.com/topic/bookmarks/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/RyTYKjFAYYkdRrkR-5el
+    source: https://www.ryanpatrickrandall.com/_posts/2016-01-09-weekly-whaaa
+    target: http://brettterpstra.com/topic/bookmarks/
+  http://brettterpstra.com/topic/recap/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/8UwwdajGAXggVqWKXSe2
+    source: https://www.ryanpatrickrandall.com/_posts/2016-01-09-weekly-whaaa
+    target: http://brettterpstra.com/topic/recap/
+  https://en.wikipedia.org/wiki/Combine_painting: false
+  https://en.wikipedia.org/wiki/Fluxus: false
+  http://www.ucpress.edu/book.php?isbn=9780520228672: false
+  http://understandingsociety.blogspot.com/2012/11/assemblage-theory.html: false
+  http://wikis.la.utexas.edu/theory/page/assemblage-theory: false
+  http://www.scottbot.net/HIAL/?page_id=22226: false
+  http://wcm1.web.rice.edu/open-notebook-history.html: false
+  http://www.carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html: false
+https://www.ryanpatrickrandall.com/_posts/2016-01-10-wa-2016-week-01:
+  http://www.bookstoprisoners.net/: false
+  http://critlib.org/information-resources-and-incarcerated-people/: false
+  http://pagestoprisoners.org/: false
+  https://storify.com/catladylib/critlib-information-resources-and-incarcerated-peo: false
+  https://catladylibrarian.wordpress.com/: false
+  http://www.digitalpedagogylab.com/mooc-mooc-instructional-design/: false
+  http://nuzzel.com/about: false
+https://www.ryanpatrickrandall.com/_posts/2016-01-17-wa-2016-week-02:
+  https://www.worldcat.org/oclc/694396588: false
+  https://scholarblogs.emory.edu/postcolonialstudies/2014/06/20/hegemony-in-gramsci/: false
+  http://www.inthelibrarywiththeleadpipe.org/2014/locating-the-library-in-institutional-oppression/: false
+  http://www.journals.uchicago.edu/doi/abs/10.1086/602955: false
+https://www.ryanpatrickrandall.com/_posts/2016-01-24-wa-2016-week-03:
+  http://berkeleyjournal.org/2016/01/the-case-for-scholarly-reparations/: false
+  https://www.worldcat.org/oclc/894557414: false
+  https://twitter.com/sparkymonster/: false
+  http://www.wocintechchat.com/blog/wocintechphotos: false
+  https://t.co/LyaZXV8QOC: false
+  https://twitter.com/hashtag/alamw16?src=hash: false
+  https://twitter.com/sparkymonster/status/686231074150678529: false
+  "//platform.twitter.com/widgets.js": false
+  http://www.wocintechchat.com/: false
+  https://twitter.com/wocintechchat: false
+  http://cecily.info/: false
+  http://kellymce.tumblr.com/: false
+  http://cecily.info/2016/01/24/the-compendium-of-lismentalhealth-blog-posts/: false
+https://www.ryanpatrickrandall.com/_posts/2016-01-31-wa-2016-week-04:
+  https://acluidaho.org/: false
+  https://libraryfreedomproject.org/: false
+  https://lists.riseup.net/www/subscribe/libraryfreedom: false
+  https://libraryfreedomproject.org/resources/privacytoolkit: false
+https://www.ryanpatrickrandall.com/_posts/2016-02-07-wa-2016-week-05:
+  http://critlib.org/patience-impatience/: false
+  https://storify.com/violetbfox/critlib-patience-impatience: false
+  http://www.digitalpedagogylab.com/hybridped/libguides-pedagogy-to-oppress/: false
+https://www.ryanpatrickrandall.com/_posts/2016-02-14-wa-2016-week-06:
+  http://boisestate2016.thatcamp.org/: false
+  http://boisestate2016.thatcamp.org/campers/: false
+  http://guides.boisestate.edu/prf.php?account_id=4254: false
+  http://thatcamp.org: false
+https://www.ryanpatrickrandall.com/_posts/2016-02-14-wa-2016-week-07:
+  http://guides.lib.virginia.edu/vlacrl2014: false
+  https://theunquietlibrarian.wordpress.com/2016/02/02/helping-students-work-with-informational-text-from-a-z-with-alphaboxes/: false
+  http://www.heinemann.com/products/E02579.aspx: false
+  https://atom.io: false
+  http://bulletjournal.com: false
+  https://guides.github.com/features/mastering-markdown/: false
+  https://github.com/idleberg/atom-paraiso-dark: false
+  https://github.com/burodepeper/minimal-syntax-dark: false
+  https://atom.io/packages/language-markdown: false
+  https://github.com/burodepeper: false
+  https://atom.io/docs/v1.5.4/hacking-atom-creating-a-theme: false
+  http://www.foldingtext.com: false
+  http://codeanywhere.com: false
+https://www.ryanpatrickrandall.com/_posts/2016-03-04-wa-2016-week-08:
+  http://claps2016.wix.com/home: false
+  https://storify.com/pumpedlibrarian/critical-librarianship-pedagogy-symposium-2016: false
+  https://drive.google.com/open?id=0B6Obmnl0RQwTWWFXYld0Vkhvcmc: false
+  https://twitter.com/hashtag/claps2016?src=hash: false
+  https://t.co/11e4fPsMy5: false
+  https://twitter.com/beastlibrarian/status/702889071601807361: false
+  "//platform.twitter.com/widgets.js": false
+  https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38721a22-ed66-4904-bd93-f2953353e7ee: false
+  https://t.co/D4kNflnsVT: false
+  https://twitter.com/beastlibrarian/status/702895004130279425: false
+  https://twitter.com/kellymce: false
+  https://t.co/1fx9X7QC0H: false
+  https://twitter.com/nope4evr/status/703283050990272512: false
+  https://twitter.com/beastlibrarian: false
+  https://twitter.com/oksveta: false
+  https://twitter.com/CUDJOE70: false
+  https://twitter.com/kevinseeber: false
+  https://twitter.com/foureyedsoul: false
+  https://twitter.com/davehudson123: false
+  https://twitter.com/JessicaCritten: false
+  https://t.co/yPKlE5ToMf: false
+  https://twitter.com/ibeilin/status/703941817864228864: false
+  https://t.co/1AjPWTMHKB: false
+  https://twitter.com/CUDJOE70/status/703390445502492672: false
+https://www.ryanpatrickrandall.com/_posts/2016-03-30-wa-2016-week-12:
+  http://librarydayinthelife.pbworks.com/w/page/16941198/FrontPage: false
+  https://lisedforum.wordpress.com: false
+  https://twitter.com/derailforum: false
+  https://twitter.com/hashtag/derail2016: false
+  http://bryanbraun.github.io/anchorjs/: false
+  http://99percentinvisible.org/episode/octothorpe/: false
+https://www.ryanpatrickrandall.com/_posts/2016-04-05-wa-2016-week-14:
+  https://about.me/courtums: false
+  http://critlib.org/intro-to-critlib-chat-part-1/: false
+  https://storify.com/AlicePrael/intro-to-critlib-part-2: false
+  https://twitter.com/hashtag/critlib?src=hash: false
+  https://twitter.com/hashtag/CritLAM?src=hash: false
+  https://twitter.com/hsifnihplod/status/717055960972439553: false
+  "//platform.twitter.com/widgets.js": false
+  https://raymmaxx.wordpress.com: false
+  http://www.ryanpatrickrandall.com/talks/cwi.html: false
+  https://trailheadboise.org: false
+  https://twitter.com/TrailheadBoise: false
+  https://twitter.com/hashtag/boisemakers?src=hash: false
+  https://t.co/G1KcZttuXd: false
+  https://twitter.com/librarythinking/status/718219540036001793: false
+  https://twitter.com/hashtag/makershowcase?src=hash: false
+  https://t.co/KurLCYx7Gl: false
+  https://twitter.com/TrailheadBoise/status/718218094955610113: false
+  https://twitter.com/makerbot: false
+  https://twitter.com/hashtag/makermilestones?src=hash: false
+  https://t.co/1rB9Xy6bSR: false
+  https://twitter.com/DonovanKayyy/status/718508778325344256: false
+https://www.ryanpatrickrandall.com/_posts/2016-04-10-wa-2016-week-15:
+  https://rlc.radicallibrarianship.org/2016/04/07/radlibchat-12th-april-2016/: false
+  http://www.sacbee.com/news/local/article71659992.html: false
+  https://twitter.com/mchris4duke/status/720660507053723650: false
+  "//platform.twitter.com/widgets.js": false
+  http://thechecafe.blogspot.com/p/about.html: false
+  https://archive.org/stream/216605-uc-disorientation-guide/216605-uc-disorientation-guide_djvu.txt: false
+  http://www.campusactivism.org/server-new/uploads/2011_ucsc_disorientation_guide.pdf: false
+  https://www.indybay.org/uploads/2009/09/26/ucsc-disguide-2009.pdf: false
+  http://www.campusactivism.org/displaycategory-4.htm: false
+  https://www.worldcat.org/oclc/479117: false
+  https://www.worldcat.org/oclc/52055828: false
+https://www.ryanpatrickrandall.com/_posts/2016-04-17-wa-2016-week-16:
+  https://twitter.com/hashtag/SWILA16?src=hash: false
+  https://www.worldcat.org/oclc/548555609: false
+https://www.ryanpatrickrandall.com/_posts/2016-04-26-wa-2016-week-17:
+  https://atom.io: false
+  http://karloespiritu.com/blackdoc/: false
+  http://brettterpstra.com/projects/nvalt/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/jND52G5S2G4StdGODZkP
+    source: https://www.ryanpatrickrandall.com/_posts/2016-04-26-wa-2016-week-17
+    target: http://brettterpstra.com/projects/nvalt/
+  https://github.com/burodepeper/minimal-syntax-dark: false
+https://www.ryanpatrickrandall.com/_posts/2016-05-05-wa-2016-week-18:
+  https://www.worldcat.org/oclc/805057822: false
+  http://critlib.org/emotional-labor/: false
+  https://storify.com/ceprice/critlib-chat-emotional-labor: false
+  https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38721a22-ed66-4904-bd93-f2953353e7ee: false
+https://www.ryanpatrickrandall.com/_posts/2016-05-08-wa-2016-week-19:
+  http://sjlseattle.org: false
+  https://twitter.com/search?f=tweets&vertical=default&q=: false
+  http://muse.jhu.edu/issue/33352: false
+  http://redlibrarian.github.io/introduction/2016/05/10/public-libraries-history-state.html: false
+  https://issuesandadvocacy.wordpress.com/2016/04/18/archivessowhite-intro-bibliography/: false
+  http://www.theguardian.com/books/2016/may/10/theres-nothing-like-it-in-comics-how-love-and-rockets-broke-the-rules: false
+  https://www.worldcat.org/oclc/805057822: false
+  https://www.worldcat.org/oclc/5547063193: false
+https://www.ryanpatrickrandall.com/_posts/2016-07-06-wa-2016-week-27:
+  http://pdxscholar.library.pdx.edu/liw_portland/Presentations/Publications/11/: false
+  http://dx.doi.org/10.1108/RSR-10-2014-0042: false
+  https://hacklibraryschool.com/2016/07/06/dialogue/: false
+  http://pdxscholar.library.pdx.edu/liw_portland/Presentations/Publications/3/: false
+  http://dx.doi.org/10.1108/RSR-10-2014-0047: false
+  http://digitalcommons.unl.edu/libraryscience/339/: false
+https://www.ryanpatrickrandall.com/_posts/2016-08-07-wa-2016-week-31:
+  https://librariandesignshare.org/2016/07/22/buttons-for-the-people/: false
+  http://libguides.libraries.claremont.edu/c.php?g=317475&p=2119611: false
+  https://veronicaarellanodouglas.com: false
+  https://infomational.wordpress.com: false
+  http://crln.acrl.org/content/77/6/283.full.pdf+html: false
+  https://fonts.google.com/specimen/Alegreya+Sans: false
+  https://fonts.google.com/specimen/PT+Sans+Narrow: false
+  http://jpswalsh.github.io/academicons/: false
+  http://fontawesome.io: false
+  http://www.designkit.org: false
+  http://idaholibraries.org/conferences/regional-conferences/unconference-registration/: false
+  https://makerlab.boisestate.edu: false
+  http://trailheadboise.org/event/office-hours-amy-vecchione/: false
+https://www.ryanpatrickrandall.com/_posts/2016-08-14-wa-2016-week-32:
+  http://escholarship.org/uc/search?entity=gseis_interactions;volume=1;issue=2: false
+  http://www.1science.com/oanumbr.html: false
+  http://scholarworks.umass.edu/jitpc2010/1/: false
+  http://libraryjuicepress.com/blog/?p=5350: false
+  https://twitter.com/adzebill/status/759226657194516480: false
+  http://critlib.org/ethics-of-digitization/: false
+  http://jekyllrb.com: false
+  https://mademistakes.com:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/O2dazE1qprNGSObE8jjF
+    source: https://www.ryanpatrickrandall.com/_posts/2016-08-14-wa-2016-week-32
+    target: https://mademistakes.com
+  http://staticman.net: false
+  https://mmistakes.github.io/minimal-mistakes/: false
+  http://thedesignersrepublic.bigcartel.com/product/sissy-poster-3d: false
+https://www.ryanpatrickrandall.com/_posts/2016-12-18-critical-reflection:
+  http://critlib.org/critical-reflection-chat/: false
+  http://davidseah.com/productivity-tools/: false
+  http://davidseah.com/tag/ghdr/: false
+  http://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/: false
+  http://bettermess.com/a-plain-text-primer/: false
+  http://programminghistorian.org/lessons/getting-started-with-markdown: false
+  http://atom.io: false
+  http://omz-software.com/editorial/: false
+  http://criticmarkup.com: false
+  http://data-lessons.github.io/library-git/: false
+  http://bulletjournal.com/get-started/: false
+  http://cirillocompany.de/pages/pomodoro-technique/: false
+  https://youtu.be/CTM9dSlIepQ: false
+  http://pomodoro.ugolandini.com: false
+  http://growl.info: false
+  https://www.prowlapp.com: false
+  https://openbooklibrarian.wordpress.com/2016/12/17/critical-reflection-more-on-teachings-and-tools/: false
+  https://tricycle.org/magazine/noble-eightfold-path/: false
+  http://www.lionsroar.com/author/bell-hooks/: false
+  https://tricycle.org/magazine/agent-change-an-interview-with-bell-hooks/: false
+  https://www.worldcat.org/oclc/136259: false
+  https://www.worldcat.org/oclc/906010679: false
+  https://www.worldcat.org/oclc/757483928: false
+  https://en.wikipedia.org/wiki/Orientalism: false
+  https://www.worldcat.org/oclc/228493: false
+  https://www.worldcat.org/oclc/35206460: false
+  http://5by5.tv/b2w/3: false
+  https://soundcloud.com/buddhistgeeks/talking-race-love-and: false
+  http://angelkyodowilliams.com: false
+https://www.ryanpatrickrandall.com/_posts/2017-01-08-wa-2017-week-01:
+  http://critlib.org/critical-reflection-chat/: false
+  http://help.dayoneapp.com/day-one-sync-faq/: false
+  http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages: false
+  https://medium.com/@craigeley/journaling-with-jekyll-c7065031a33: false
+  https://about.gitlab.com: false
+  http://theory.cribchronicles.com/2016/11/30/temporarily-embarrassed-millionaires/: false
+  http://theory.cribchronicles.com/2017/01/07/antigonish-2-0-the-plan/: false
+  http://digitalcommons.plattsburgh.edu/lis/7/: false
+  https://bryanalexander.org/2017/01/05/reading-horton-and-freire-into-2017/: false
+  https://en.wikipedia.org/wiki/Highlander_Research_and_Education_Center: false
+  https://americanlibrariesmagazine.org/2017/01/03/never-neutral-critlib-technology/: false
+https://www.ryanpatrickrandall.com/_posts/2017-03-06-wa-2017-week-09:
+  http://crln.acrl.org/content/78/1/20.full: false
+  https://thedesignteam.io/the-type-snob-f221969a884b: false
+  http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown: false
+  http://programminghistorian.org: false
+  http://pandoc.org/index.html: false
+  http://www.bibtex.org: false
+  https://github.com/VukanJ/bibtex-helper: false
+  https://github.com/VukanJ/bibtex-helper/blob/master/snippets/bibtex-snippets.cson: false
+  http://ftp.math.utah.edu/pub/bibnet/bibtex-info.html: false
+https://www.ryanpatrickrandall.com/_posts/2018-06-19-my-ala-annual-2018-schedule:
+  https://oasis.sandstorm.io/shared/FtfUzJBeY_PW_tNa-1WPCxD-sONAqiUU9X5ZUvC19Dn: false
+  https://scholar.social/@foureyedsoul: false
+  https://twitter.com/foureyedsoul: false
+  http://www.inthelibrarywiththeleadpipe.org/about/: false
+  https://drive.google.com/drive/folders/0B6Obmnl0RQwTWWFXYld0Vkhvcmc?usp=sharing: false
+  https://critlib2017.wordpress.com/program/: false
+  http://etherpad.org: false
+  https://riseup.net: false
+  https://www.kexp.org/read/2018/5/10/announcing-public-enemy-album-breakdown/: false
+  https://www.eventscribe.com/2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380901: false
+  https://pad.riseup.net/p/ALAAC2018Fri0100pmNewMembers-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=405586: false
+  https://pad.riseup.net/p/ALAAC2018Fri0400pm-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=400110: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352598: false
+  https://pad.riseup.net/p/CAIs6xumpU3Z-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380846: false
+  https://pad.riseup.net/p/hEqgaJDiNPSg-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=353518: false
+  https://pad.riseup.net/p/kK7pf0E4icCG-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352254: false
+  https://pad.riseup.net/p/ALAAC2018Sat230p-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352459: false
+  https://pad.riseup.net/p/ALAAC2018Sat0400pm-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352608: false
+  https://pad.riseup.net/p/ALAAC2018Sun0900am-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352589: false
+  https://pad.riseup.net/p/ALAAC2018Sun1030am-keep: false
+  https://2018.alaannual.org/whats-happening/networking-uncommons: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352249: false
+  https://pad.riseup.net/p/ALAAC2018Sun0230pm-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352251: false
+  https://pad.riseup.net/p/ALAAC2018Sun0400pm-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352471: false
+  https://pad.riseup.net/p/ALAAC2018Sun0400pmNeutrality-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380758: false
+  https://www.facebook.com/events/244714849439515/: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380478: false
+  https://www.facebook.com/events/243039979783985/: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352359: false
+  https://pad.riseup.net/p/ALAAC2018Mon0900am-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352258: false
+  https://pad.riseup.net/p/ALAAC2018Mon1030amLISJobSearch-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352298: false
+  https://pad.riseup.net/p/ALAAC2018Mon1030amAllyshipRace-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352299: false
+  https://pad.riseup.net/p/ALAAC2018Mon1030amOER-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352323: false
+  https://pad.riseup.net/p/ALAAC2018Mon0100pmREADscale-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352236: false
+  https://pad.riseup.net/p/ALAAC2018Mon0400pmCommunity-keep: false
+  https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=380141: false
+  https://pad.riseup.net/p/ALAAC2018Tues1000amClosing-ViolaDavis-keep: false
+https://www.ryanpatrickrandall.com/_posts/2020-02-23-while-you-are-not-safe-i-am-not-safe:
+  https://www.sciencedirect.com/topics/medicine-and-dentistry/social-model-of-disability: false
+  https://tinyurl.com/lismentalhealth20: false
+  https://twitter.com/sm_osment/status/1231051671469535232?ref_src=twsrc: false
+  https://platform.twitter.com/widgets.js: false
+  https://www.poetryfoundation.org/poems/49303/howl: false
+  https://www.poetryfoundation.org/poems/54163/footnote-to-howl: false
+  https://twitter.com/hashtag/ADHD?src=hash&amp;ref_src=twsrc: false
+  https://twitter.com/hashtag/neurodiversesquad?src=hash&amp;ref_src=twsrc: false
+  https://twitter.com/chaotic_kat/status/1169688745387233280?ref_src=twsrc: false
+  https://meredith.wolfwater.com/wordpress/2020/02/18/lismentalhealth-that-time-my-brain-and-my-job-tried-to-kill-me/: false
+  https://genius.com/Fugazi-bulldog-front-lyrics: false
+  https://pages.mtu.edu/~jdslack/readings/CSReadings/Hall_Old_and_New_Identities_Ethnicities.pdf: false
+  https://www.worldcat.org/oclc/1022312889: false
+  https://raincrossunderground.omeka.net/items/show/2: false
+  http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf: false
+https://www.ryanpatrickrandall.com/now/_posts/2020-06-19-now-july-2020:
+  https://infolit-idaho.github.io/infolit-for-everyone/about/: false
+  https://www1.rebus.community/: false
+  https://www.rebus.community/c/textbook-success-program/120: false
+  https://schomj.weebly.com: false
+  https://maggieappleton.com/garden-history:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/maggieappleton.com/webmention/1yolzpqiUcFd5McOn9PE
+    source: https://www.ryanpatrickrandall.com/now/_posts/2020-06-19-now-july-2020
+    target: https://maggieappleton.com/garden-history
+  http://www.ryanpatrickrandall.com/research-notebook/: false
+  https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu: false
+  https://tomcritchlow.com/2019/02/17/building-digital-garden/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/tMvir0tYOi5y4EQoloU_
+    source: https://www.ryanpatrickrandall.com/now/_posts/2020-06-19-now-july-2020
+    target: https://tomcritchlow.com/2019/02/17/building-digital-garden/
+  https://mind.miketannenbaum.com: false
+  https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll: false
+https://www.ryanpatrickrandall.com/_posts/2020-07-01-introducing-monthly-signal-boosts:
+  https://www.ryanpatrickrandall.com/categories/: false
+  https://schomj.weebly.com: false
+  https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C: false
+https://www.ryanpatrickrandall.com/_posts/2020-07-01-july-2020-monthly-signal-boost:
+  https://organizingideaspod.wordpress.com/2020/02/28/ep-20-libraries-and-disabilities-with-jessica-schomberg/: false
+  https://litwinbooks.com/books/beyond-accommodation/: false
+  https://soundcloud.com/thelatinocard/mask-culinity: false
+  https://podcasts.apple.com/us/podcast/ep-6-with-abraham-lateiner-of-freedom-beyond/id1495723247?i=1000466133862: false
+  https://tricycle.org/trikedaily/recognize-racism/: false
+  http://www.buddhistpeacefellowship.org: false
+https://www.ryanpatrickrandall.com/_posts/2020-07-29-sift-links:
+  https://flipgrid.com/93f8f2f7: false
+  https://libraries.idaho.gov/moss2020/: false
+  https://hapgood.us/2019/05/12/sift-and-a-check-please-preview/: false
+  https://www.notion.so/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed: false
+  https://infodemic.blog: false
+  https://youtu.be/t4clt0c43X8: false
+  https://docs.google.com/presentation/d/1vyugivoc0ZdnpxSaLJkrCL22LW82HVMyoC4gXNJ6kNQ/edit?usp=sharing: false
+  https://webliteracy.pressbooks.com: false
+  https://youtu.be/wFN6XNawUMU: false
+https://www.ryanpatrickrandall.com/_posts/2020-08-31-august-2020-monthly-signal-boost:
+  https://www.wakingup.com: false
+  https://samharris.org: false
+  http://dotaichi.com: false
+  https://plumvillage.app: false
+  https://en.wikipedia.org/wiki/Engaged_Buddhism: false
+  https://plumvillage.app/thich-nhat-hanh/: false
+  https://jukebouncewerk.bandcamp.com/track/love-genius: false
+  https://jukebouncewerk.bandcamp.com: false
+  https://soundcloud.com/sncd: false
+  https://www.empirednb.com/shows/mathnscience: false
+  https://johntejada.bandcamp.com/album/time-flex: false
+  https://johntejada.bandcamp.com: false
+https://www.ryanpatrickrandall.com/now/_posts/2022-06-29-now-june-2022:
+  https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric: false
+  https://www.cast.org/impact/universal-design-for-learning-udl: false
+  https://www.ryanpatrickrandall.com/notes/: false
+  https://www.dendron.so/: false
+  https://www.ryanpatrickrandall.com/notes/Note-taking/Dendron/beginning-to-use-dendron: false
+https://www.ryanpatrickrandall.com/_posts/2023-01-01-introducing-blips-and-link-rhizomes:
+  https://indieweb.org/POSSE:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/KrYScd6pECWIEiwLPiRl
+    source: https://www.ryanpatrickrandall.com/_posts/2023-01-01-introducing-blips-and-link-rhizomes
+    target: https://indieweb.org/POSSE
+  https://davecormier.com/edblog/: false
+https://www.ryanpatrickrandall.com/_posts/2023-03-05-wa-2023-week-09:
+  https://wiki.dendron.so/notes/ogIUqY5VDCJP28G3cAJhd/: false
+  https://www.tandfonline.com/doi/abs/10.1080/09502380500521091: false
+  https://journals.litwinbooks.com/index.php/jclis/about: false
+  https://doi.org/10.2307/25007622: false
+https://www.ryanpatrickrandall.com/_posts/2023-03-12-wa-2023-week-10:
+  https://fossandcrafts.org/about/: false
+  https://fossandcrafts.org/episodes/24-get-organized.html: false
+  https://orgmode.org/: false
+  https://fossandcrafts.org/episodes/41-learning-emacs.html: false
+  https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree: false
+  https://wiki.dendron.so/notes/SEASewZSteDK7ry1AshNG/: false
+https://www.ryanpatrickrandall.com/_posts/2023-03-26-wa-2023-week-12:
+  https://parksandrecreation.idaho.gov/parks/bruneau-dunes/: false
+  https://hcommons.social/@ryanrandall/110087018243882320: false
+  https://www.ridgetorivers.org/trails/interactive-map/: false
+  https://hcommons.social/@ryanrandall/110087018243882320/embed: false
+  https://hcommons.social/embed.js: false
+https://www.ryanpatrickrandall.com/_posts/2023-04-30-wa-2023-week-17:
+  https://davidseah.com/productivity-tools/: false
+https://www.ryanpatrickrandall.com/now/_posts/2023-05-18-now-may-2023:
+  https://www.dendron.so/: false
+https://www.ryanpatrickrandall.com/_posts/2023-06-11-light-mode-in-progress:
+  https://social.pixie.town/@joepie91/110526984317454201: false
+  https://github.com/mmistakes/minimal-mistakes/discussions/2033: false
+  https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/: false
+  https://web.archive.org/web/20221127194150/http://www.bigfootjs.com/: false
+  https://littlefoot.js.org/: false
+https://www.ryanpatrickrandall.com/_posts/2023-10-31-acwrimo2023:
+  https://www.moma.org/magazine/articles/407: false
+  https://github.com/ryan-p-randall/some-obsidian-starter-files/blob/main/files/writing-acwrimo-2023.md: false
+  https://raw.githubusercontent.com/ryan-p-randall/some-obsidian-starter-files/main/files/writing-acwrimo-2023.md: false
+https://www.ryanpatrickrandall.com/_posts/2023-12-09-wa-2023-week-49:
+  https://www.youtube.com/watch?v=zQ5kH59_b8s: false
+  https://www.gofundme.com/f/jonmeshia-find-a-stable-future: false
+  https://fractalecho.substack.com/: false
+  https://a.gup.pe/u/workingonit: false
+  https://mas.to/@kissane: false
+  https://hcommons.social/about: false
+  https://kramdown.gettalong.org/syntax.html: false
+  https://plausible.io/: false
+  https://plausible.io/vs-matomo: false
+  https://giscus.app/: false
+https://www.ryanpatrickrandall.com/_posts/2023-12-11-new-note-on-a-critical-thinking-formula:
+  ? https://web.archive.org/web/20230807003329/https://www.cla.purdue.edu/academic/english/theory/postmodernism/modules/jamesonpomomainframe.html
+  : false
+https://www.ryanpatrickrandall.com/_posts/2023-12-17-wa-2023-week-50:
+  https://hcommons.social/@ryanrandall/111519717832942162/embed: false
+  https://hcommons.social/embed.js: false
+  https://zirk.us/@sbarolo: false
+  https://mastodon.social/@shrewshrew: false
+  https://zirk.us/@sbarolo/109384456791661494: false
+  https://zirk.us/@sbarolo/109384456791661494/embed: false
+  https://zirk.us/embed.js: false
+https://www.ryanpatrickrandall.com/_posts/2023-12-30-rearviewmirror-2023:
+  https://raindrop.io/: false
+  https://github.com/franck-chester/franck-chester.github.io/blob/main/_layouts/tags.html: false
+  https://indieweb.org/bookmark:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/uXZIgg7E0c1Vs6dJ_Uu9
+    source: https://www.ryanpatrickrandall.com/_posts/2023-12-30-rearviewmirror-2023
+    target: https://indieweb.org/bookmark
+  https://mmistakes.github.io/minimal-mistakes/post: false
+  https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb: false
+  https://scatteredquotes.com/oh-arent-you-a-beautiful-boy/: false
+  https://plausible.io/: false
+  https://plausible.io/vs-matomo: false
+  https://www.hughrundle.net/privacy/: false
+  https://giscus.app/: false
+  https://openlibrary.org/works/OL489421W/Bird_by_Bird: false
+  https://indieweb.org/POSSE:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/0p004ERgmH0znikvKdEd
+    source: https://www.ryanpatrickrandall.com/_posts/2023-12-30-rearviewmirror-2023
+    target: https://indieweb.org/POSSE
+  https://bookwyrm.social/user/foureyedsoul: false
+  https://aworkinglibrary.com/: false
+  https://dsriseah.com/about/sri/: false
+  https://www.youtube.com/@ruawilliams505: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/discussions/: false
+https://www.ryanpatrickrandall.com/_posts/2024-01-06-wa-2024-week-01:
+  https://www.youtube.com/watch?v=nStU3-CK1TA: false
+  https://danielcernst.com/: false
+  https://hickstro.org/: false
+  https://theconversation.com/writing-instructors-are-less-afraid-of-students-cheating-with-chatgpt-than-you-might-think-207202: false
+https://www.ryanpatrickrandall.com/_posts/2024-01-11-observations-on-aaron-swartz-day:
+  https://howcyborgs.chat/@vic/111738751820622723/embed: false
+  https://en.wikipedia.org/wiki/Aaron_Swartz: false
+  https://netnewswire.com/: false
+  https://en.wikipedia.org/wiki/Web_feed: false
+  http://www.aaronsw.com/weblog/whowriteswikipedia: false
+  https://en.wikipedia.org/wiki/Markdown: false
+  https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown: false
+  https://www.inthelibrarywiththeleadpipe.org/: false
+  https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz: false
+  https://archive.org/details/aaronsw: false
+https://www.ryanpatrickrandall.com/_posts/2024-01-13-wa-2024-week-02:
+  https://en.wikipedia.org/wiki/Google_Reader: false
+  https://killedbygoogle.com/: false
+  https://netnewswire.com/: false
+  https://book.micro.blog/microformats/: ''
+  https://home.omg.lol/: false
+  https://micro.blog/: false
+  https://memory-alpha.fandom.com/wiki/Portal:Main: false
+  https://en.wikipedia.org/wiki/Olaudah_Equiano: false
+  https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/commits/develop/: false
+  https://mmistakes.github.io/minimal-mistakes/: false
+  https://webaim.org/techniques/semanticstructure/: false
+  https://web.archive.org/web/20221127194150/http://www.bigfootjs.com/: false
+  https://littlefoot.js.org/: false
+  https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/: false
+https://www.ryanpatrickrandall.com/_posts/2024-01-21-wa-2024-week-03:
+  https://www.youtube.com/watch?v=NERzLlHo-D0: false
+  https://openlibrary.org/works/OL2649214W/NASA_Trek?edition=key: false
+  https://www.versobooks.com/products/1578-nasa-trek: false
+  https://memory-alpha.fandom.com/wiki/Memory_Alpha:Introduction: false
+  https://memory-alpha.fandom.com/wiki/Memory_Alpha: false
+  https://brianlovin.com/writing/incrementally-correct-personal-websites: false
+  https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/ethanmarcotte.com/webmention/Z9DVDpCW_pyVeU3A6DE4
+    source: https://www.ryanpatrickrandall.com/_posts/2024-01-21-wa-2024-week-03
+    target: https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/
+  http://colorsafe.co/: false
+  https://github.com/donnieberg/accessible-color-palette: false
+  https://www.howtocanvas.com/: false
+  https://exploringaipedagogy.hcommons.org/: false
+  https://exploringaipedagogy.hcommons.org/about/: false
+  https://en.wikipedia.org/wiki/ELIZA_effect: false
+  https://www.w3.org/WAI/ARIA/apg/: false
+  https://en.wikipedia.org/wiki/Influenza: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_plugins/bidirectional_links_generator.rb: false
+  https://www.w3.org/WAI/ARIA/apg/patterns/breadcrumb/examples/breadcrumb/: false
+https://www.ryanpatrickrandall.com/_posts/2024-01-28-wa-2024-week-04:
+  https://www.poetryfoundation.org/poems/45032/fog-56d2245d7b36c: false
+  https://www.cassey.dev/fun-web-resources/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/www.cassey.dev/webmention/StNMol-FRjeEovUqx82p
+    source: https://www.ryanpatrickrandall.com/_posts/2024-01-28-wa-2024-week-04
+    target: https://www.cassey.dev/fun-web-resources/
+  https://ia.net/topics/ai-art-is-the-new-stock-image: false
+  https://front-end.social/@stephaniewalter: false
+  https://daverupert.com/2024/01/focus-visible-love/: false
+  https://stimpunks.org/glossary/dolphining/: false
+  https://afinestart.me/: false
+  https://smarimccarthy.is/posts/2024-01-23-json-bad/: false
+https://www.ryanpatrickrandall.com/_posts/2024-01-30-acid-jeep-clock-rhythm:
+  https://texasrecordingsunderground.bandcamp.com/album/clock-rhythm: false
+  https://texasrecordingsunderground.bandcamp.com/track/noise-source: false
+  https://texasrecordingsunderground.bandcamp.com/track/tape-overwrite: false
+  https://texasrecordingsunderground.bandcamp.com/track/syncussion: false
+  https://en.wikipedia.org/wiki/Wipeout_(video_game_series: false
+https://www.ryanpatrickrandall.com/_posts/2024-02-02-ghdp:
+  https://dsriseah.com/ghdr/term/ghdr/: false
+  https://fractalecho.substack.com/p/a-neurodivergent-writing-guide: false
+  https://www.themesystem.com/: false
+  https://support.hcommons.org/guides/groups/using-files-and-docs/: false
+  https://networks.h-net.org/: false
+  https://jon-e.net/infrastructure/: false
+  https://aworkinglibrary.com/: false
+  https://www.spopowich.ca/blog: false
+  https://davidseah.com/virtual-coworking/: false
+https://www.ryanpatrickrandall.com/_posts/2024-02-03-wa-2024-week-05:
+  https://www.linkedin.com/in/amy-minervini-b82a0038/: false
+  https://lcsc.pressbooks.pub/musicinyourwords/: false
+  https://isu.pressbooks.pub/booky/: false
+  https://lcsc.pressbooks.pub/musicinyourwords/front-matter/intro/: false
+  https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095758798: false
+  https://semanticarecords.bandcamp.com/album/dreams-of-the-sentient-city-semantica-41-2: false
+  https://semanticarecords.bandcamp.com/album/the-sentient-city-awakens-semantica-54-2: false
+  https://semanticarecords.bandcamp.com/album/return-to-the-sentient-city-semantica-69-2: false
+  https://librarian.aedileworks.com/2024/01/18/i-will-dropkick-you-if-you-refer-to-an-llm-as-a-librarian/: false
+  https://dsriseah.com/ghdr/: false
+  https://publish.obsidian.md/tasks/Queries/Filters: false
+https://www.ryanpatrickrandall.com/_posts/2024-03-31-ai-knowing-vs-languaging-cosmospolitanism:
+  https://www.youtube.com/watch?v=gBhUIoFstgc: false
+https://www.ryanpatrickrandall.com/_posts/2024-04-04-navigating-privacy-issues-with-generative-ai-panel:
+  https://www.youtube.com/watch?v=gBhUIoFstgc: false
+  https://www.youtube-nocookie.com/embed/gBhUIoFstgc?si=EDPUXpnYN9_Nt_YT: false
+  https://docs.google.com/document/d/1QNS26A2fBBXKXFM8G9dk2fpweTpJudGuGsRNdFGTQGs/edit: false
+  https://www.youtube.com/watch?v=LvZYwaQlJsg: false
+https://www.ryanpatrickrandall.com/now/_posts/2024-06-09-now-june-2024:
+  https://derekkedziora.com/blog/dynamic-now-page: false
+https://www.ryanpatrickrandall.com/_posts/2024-07-02-wa-2024-week-26:
+  https://kfitz.info/expedient/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/kfitz.info/webmention/TI6heMok3s0OCcvTBSl4
+    source: https://www.ryanpatrickrandall.com/_posts/2024-07-02-wa-2024-week-26
+    target: https://kfitz.info/expedient/
+  https://bookwyrm.social/user/foureyedsoul/lists: false
+  https://jekyllrb.com/docs/variables/: false
+  https://blog.webjeda.com/jekyll-related-posts/: false
+https://www.ryanpatrickrandall.com/_posts/2024-07-09-wa-2024-week-27:
+  https://slashpages.net/: false
+  https://www.jstor.org/stable/1354255: false
+  https://www.jstor.org/register?redirectUri=: false
+  https://openlibrary.org/books/OL9498188M/A_Realist_Theory_of_Science_(Radical_Thinkers: false
+  https://www.spopowich.ca/blog/social-theory-of-neutrality: false
+  https://en.wikipedia.org/wiki/Last_Night_(1998_film: false
+https://www.ryanpatrickrandall.com/_posts/2024-07-20-wa-2024-week-28:
+  https://www.discogs.com/release/1230705-Unknown-Artist-The-Black-Hole: false
+  https://thomasrigby.com/posts/a-year-of-weeknotes/: false
+  https://danilafe.com/blog/blog_microfeatures/: false
+  https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide: false
+https://www.ryanpatrickrandall.com/_posts/2024-07-21-wa-2024-week-29:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://www.justwatch.com/us/tv-show/extraordinary-birder-with-christian-cooper: false
+  https://en.wikipedia.org/wiki/Psychogeography: false
+  https://en.wikipedia.org/wiki/Bogus_Basin: false
+  https://www.upress.umn.edu/search-grid/?series=forerunners-ideas-first: false
+  https://www.upress.umn.edu/9781517907808/theory-for-the-world-to-come/: false
+  https://www.upress.umn.edu/9781517904258/shareveillance/: false
+  https://www.upress.umn.edu/9781517908034/spoiler-alert/: false
+  https://www.upress.umn.edu/9780816698516/deep-mapping-the-media-city/: false
+  https://www.upress.umn.edu/9781517907792/learning-versus-the-common-core/: false
+  https://jasonheppler.org/2024/07/15/how-i-use-obsidian/: false
+  https://jasonheppler.org/about/: false
+  https://obsidian.md/: false
+  https://blacksmithgu.github.io/obsidian-dataview/: false
+  https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians: false
+  http://elenarazlogova.org/: false
+  https://danilafe.com/blog/blog_microfeatures/: false
+  https://webaim.org/techniques/hypertext/hypertext_links: false
+  https://michaeldot.com/Adding-Ability-to-Open-External-Links-in-New-Tab-Minimal-Mistakes-Jekyll/: false
+  https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io/tree/develop/assets/js/plugins/external-link-indicator.js: false
+https://www.ryanpatrickrandall.com/_posts/2024-07-28-wa-2024-week-30:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://www.justwatch.com/us/movie/easy-a: false
+  https://jasonheppler.org/2024/07/15/how-i-use-obsidian/: false
+  https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians: false
+  http://elenarazlogova.org/: false
+  https://www.jacky.wtf/essays/2024/not-engaging-with-politics-online/: false
+  https://tedium.co/2024/07/27/music-industry-cassette-single-cassingle-history/: false
+  https://berjon.com/ethicswishing/: false
+  ? https://solarbird.net/blog/2024/07/17/the-long-arc-of-boomer-politics-of-resistance-and-what-millennials-zoomers-can-win-starting-now/
+  : false
+  https://mastodon.social/@blogdiva/112828235528092192: false
+https://www.ryanpatrickrandall.com/_posts/2024-08-08-wa-2024-week-31:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://idahofire.org/: ''
+  https://ghost.org/: false
+  https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/:
+    link: https://www.ryanpatrickrandall.com/_posts/2024-08-08-wa-2024-week-31
+    source: https://www.ryanpatrickrandall.com/_posts/2024-08-08-wa-2024-week-31
+    target: https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/
+    code: success
+    message: Webmention was successful
+  https://everythingchanges.us/blog/guide-to-consensus-decision-making/: false
+  https://www.seedsforchange.org.uk/shortconsensus: false
+  https://www.seedsforchange.org.uk/about: false
+  https://www.inthelibrarywiththeleadpipe.org/: false
+  https://www.bicycling.com/health-nutrition/a60412469/cycling-saddle-pain-women-surgery/: false
+  https://en.wikipedia.org/wiki/Four-sides_model: false
+  https://en.wikipedia.org/wiki/Pilpul: false
+  https://en.wikipedia.org/wiki/Stigmergy: false
+https://www.ryanpatrickrandall.com/_posts/2024-09-19-book-notes-elsewhere:
+  https://todon.eu/@jalcine/113165841754837933: false
+  https://aworkinglibrary.com/: false
+  https://macwright.com/reading/: false
+  https://sive.rs/book: false
+  https://tomcritchlow.com/2019/02/17/building-digital-garden/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/h2T-EID5AnGoZGgwZf4b
+    source: https://www.ryanpatrickrandall.com/_posts/2024-09-19-book-notes-elsewhere
+    target: https://tomcritchlow.com/2019/02/17/building-digital-garden/
+  https://tomcritchlow.com/wiki/books/bookshelves/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/-UoCLPHEefJ2SvsrBBLI
+    source: https://www.ryanpatrickrandall.com/_posts/2024-09-19-book-notes-elsewhere
+    target: https://tomcritchlow.com/wiki/books/bookshelves/
+  https://tomcritchlow.com/wiki/books/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/vqRDtihFZlvoPtpKithI
+    source: https://www.ryanpatrickrandall.com/_posts/2024-09-19-book-notes-elsewhere
+    target: https://tomcritchlow.com/wiki/books/
+  https://tomcritchlow.com/2020/04/15/library-json/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/j833IJxtj6mYocgk_b4r
+    source: https://www.ryanpatrickrandall.com/_posts/2024-09-19-book-notes-elsewhere
+    target: https://tomcritchlow.com/2020/04/15/library-json/
+  https://tomcritchlow.com/wiki/books/books-read/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/tomcritchlow.com/webmention/NqoSDg3Hw2Yp5ZJ6OgdB
+    source: https://www.ryanpatrickrandall.com/_posts/2024-09-19-book-notes-elsewhere
+    target: https://tomcritchlow.com/wiki/books/books-read/
+  https://maggieappleton.com/library:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/maggieappleton.com/webmention/y2RniDg3RmmN9KsxuJoG
+    source: https://www.ryanpatrickrandall.com/_posts/2024-09-19-book-notes-elsewhere
+    target: https://maggieappleton.com/library
+  https://maggieappleton.com/antilibrary:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/maggieappleton.com/webmention/lsGiDRZQgRasEExpTjbw
+    source: https://www.ryanpatrickrandall.com/_posts/2024-09-19-book-notes-elsewhere
+    target: https://maggieappleton.com/antilibrary
+https://www.ryanpatrickrandall.com/_posts/2024-11-10-wa-2024-week-45:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://espanso.org/: false
+  https://espanso.org/install/: false
+  https://espanso.org/docs/install/mac/: false
+  https://brew.sh/: false
+  https://espanso.org/docs/sync/: false
+  https://www.justwatch.com/us/tv-show/goosebumps-2023: false
+  https://www.discogs.com/release/2311750-Various-Dub-Over-Dub-27-Track-Dub-Extravaganza: false
+  https://dubsyndicate.bandcamp.com: false
+  https://dubsyndicate.bandcamp.com/album/the-pounding-system: false
+  https://on-usound.bandcamp.com/: false
+  https://boardgamegeek.com/boardgame/36218/dominion: false
+https://www.ryanpatrickrandall.com/_posts/2024-11-20-wa-2024-week-46:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://asaobinoue.blogspot.com/p/about.html: false
+  https://www.youtube.com/watch?v=brPGTewcDYY: false
+  https://www.inthelibrarywiththeleadpipe.org/ai-policy/: false
+  https://www.justwatch.com/us/movie/hot-frosty: false
+  https://www.justwatch.com/us/tv-show/heartstopper: false
+  https://www.librarian.net/stax/5566/the-mining-of-the-public-domain/: false
+  https://www.fieggen.com/shoelace/: false
+  https://www.bookforum.com/print/3102/baby-talk-61359: false
+  https://www.tithibhattacharya.net/social-reproduction-theory: false
+https://www.ryanpatrickrandall.com/_posts/2024-11-24-wa-2024-week-47:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/: false
+  https://www.justwatch.com/us/movie/interstellar: false
+  https://www.justwatch.com/us/movie/mean-girls: false
+  https://www.justwatch.com/us/movie/mean-girls-2024-0: false
+  https://www.imdb.com/name/nm7635388/?ref_=tt_cst_t_1: false
+  https://refusinggenai.wordpress.com/: false
+  https://medium.com/@GregPogorzelski/the-thing-about-the-kobayashi-maru-4d5e1e49993e: false
+  https://memory-alpha.fandom.com/wiki/Kobayashi_Maru_scenario: false
+  https://halperta.com/shalperta: false
+  https://thomasrigby.com/posts/its-hard-to-give-recognition/: false
+  https://tinylytics.app/: false
+https://www.ryanpatrickrandall.com/_posts/2024-12-16-counting-events-with-obsidian-dataview-queries:
+  https://violentfemmes.bandcamp.com/track/add-it-up-2: false
+  https://violentfemmes.bandcamp.com/track/kiss-off-2: false
+https://www.ryanpatrickrandall.com/_posts/2025-01-13-wa-2025-week-01:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://100daystooffload.com/: false
+  https://challenges.stefanbohacek.com/: false
+https://www.ryanpatrickrandall.com/_posts/2025-01-19-wa-2025-week-02:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+https://www.ryanpatrickrandall.com/_posts/2025-01-24-wa-2025-week-03:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://ghost.org/: false
+  https://en.wikipedia.org/wiki/Sturm_und_Drang: false
+  https://projects.kwon.nyc/internet-is-fun/: false
+  https://web.archive.org/web/20090306080717/http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf: false
+  https://llamalife.co/: false
+  https://rectangleapp.com/: false
+https://www.ryanpatrickrandall.com/_posts/2025-01-30-instructional-design-short-story:
+  https://bsky.app/profile/sarahpinsker.bsky.social/post/3lgceonhhus2b: false
+  https://www.minorcompositions.info/?p=516: false
+  https://openlibrary.org/works/OL5968295W/In_the_break: false
+https://www.ryanpatrickrandall.com/now/_posts/2025-05-08-now-may-2025:
+  https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/: false
+  https://pandoc.org/MANUAL.html: false
+  https://citationstyles.org/: false
+  ? https://raw.githubusercontent.com/ryan-p-randall/ryan-p-randall.github.io/refs/heads/develop/_notes/Reading/Books/okorafor-binti-complete-triology.md
+  : false
+https://www.ryanpatrickrandall.com/_posts/2025-09-01-wa-2025-week-35:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://openlibrary.org/works/OL18635700W/How_to_Take_Smart_Notes: false
+  https://tinmanofficial.bandcamp.com/: false
+  https://tinmanofficial.bandcamp.com/album/drippingacid: false
+  https://acidtestrecords.bandcamp.com/: false
+  https://omunit.bandcamp.com/album/in-the-afterworld: false
+  https://ellanew.com/2025/09/01/ptpl-171-edc-one-page-notebook: false
+  https://infolit-idaho.github.io/infolit-for-everyone/zines/: false
+  https://tracydurnell.com/2025/08/16/what-to-read-big-questions/:
+    link: https://www.ryanpatrickrandall.com/_posts/2025-09-01-wa-2025-week-35
+    source: https://www.ryanpatrickrandall.com/_posts/2025-09-01-wa-2025-week-35
+    target: https://tracydurnell.com/2025/08/16/what-to-read-big-questions/
+    code: success
+    message: Webmention was successful
+  https://tracydurnell.com/questions/:
+    link: https://www.ryanpatrickrandall.com/_posts/2025-09-01-wa-2025-week-35
+    source: https://www.ryanpatrickrandall.com/_posts/2025-09-01-wa-2025-week-35
+    target: https://tracydurnell.com/questions/
+    code: success
+    message: Webmention was successful
+  https://openlibrary.org/works/OL20242198W/Staying_with_the_Trouble: false
+  https://openlibrary.org/works/OL21665029W/Carrier_Bag_Theory_of_Fiction: false
+  https://www.merriam-webster.com/dictionary/etymon: false
+  https://www.merriam-webster.com/dictionary/heteroclite: false
+  https://llamalife.co/: false
+  https://github.com/mmistakes/minimal-mistakes/issues/5296: false
+  https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/: false
+https://www.ryanpatrickrandall.com/wiki/ADHDtech/about-ADHD-technologies:
+  https://twitter.com/hashtag/adhdtechnologies?src=hash&amp;ref_src=twsrc: false
+  https://twitter.com/hashtag/criptechnoscience?src=hash&amp;ref_src=twsrc: false
+  https://t.co/k60qoDORBj: false
+  https://twitter.com/AimiHamraie/status/1288515883061645314?ref_src=twsrc: false
+  https://platform.twitter.com/widgets.js: false
+https://www.ryanpatrickrandall.com/about/:
+  https://www.isu.edu/itrc/about-the-itrc/itrc-staff/: false
+  https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/: false
+  http://www.inthelibrarywiththeleadpipe.org/: false
+  https://cwi.edu/: 1
+  http://english.ucr.edu/: 1
+  http://www.rochester.edu/college/vcs/: 1
+  http://www.soic.indiana.edu/graduate/degrees/information-library-science/master-library-science/: false
+  https://www.facebook.com/The-Hydrogen-Jukebox-57513727143/: false
+  http://kucr.org/: 1
+  http://wrur.org/: 1
+  http://raincrossunderground.omeka.net/items/browse?tags=Kiss+Kill+You: false
+  http://raincrossunderground.omeka.net/: false
+  http://critlib.org/: false
+  https://libparlor.com: 1
+  http://hacklibraryschool.com/: false
+https://www.ryanpatrickrandall.com/wiki/ADHDtech/apple-watch-adhd:
+  https://www.dueapp.com: 1
+  https://www.timetimer.com/collections/applications: 1
+  https://apps.apple.com/us/app/watchsmith/id1483088503: 1
+https://www.ryanpatrickrandall.com/blogroll/:
+  https://netnewswire.com/: false
+  https://jacky.wtf/: 1
+  https://tracydurnell.com/:
+    link: https://www.ryanpatrickrandall.com/blogroll/
+    source: https://www.ryanpatrickrandall.com/blogroll/
+    target: https://tracydurnell.com/
+    code: success
+    message: Webmention was successful
+  https://sarajoy.dev/: 1
+  https://rknight.me/blog/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/rknight.me/webmention/O0V9_FRsQWnGB88PBxrx
+    source: https://www.ryanpatrickrandall.com/blogroll/
+    target: https://rknight.me/blog/
+  https://chrismcleod.dev/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/chrismcleod.dev/webmention/CrCL71lQLCJmyz3QEzqW
+    source: https://www.ryanpatrickrandall.com/blogroll/
+    target: https://chrismcleod.dev/
+  https://thomasrigby.com/: false
+  https://daverupert.com/: false
+  https://dsriseah.com/journal/: false
+  https://dsriseah.com/ghdr/: false
+  https://stephaniewalter.design/blog/: 1
+  https://aworkinglibrary.com/: false
+  https://crimethinc.com/: 1
+  https://www.johncoulthart.com/feuilleton/: 1
+  https://justseeds.org/blog/: 1
+  https://thequietus.com/: 1
+  https://kfitz.info/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/kfitz.info/webmention/pgHy11yOjsy-3b-j2DuD
+    source: https://www.ryanpatrickrandall.com/blogroll/
+    target: https://kfitz.info/
+  https://jon-e.net/blog/: false
+  https://superbon.net/: 1
+  https://allthingspedagogical.blogspot.com/: 1
+  https://vic.work/: 1
+  https://radicalscholarship.com/: 1
+  https://www.johnxlibris.com/: 1
+  https://www.librarian.net/: false
+  https://librarian.aedileworks.com/: false
+  https://newsletter.danhon.com/: ''
+  https://erinkissane.com/: 1
+  https://dansinker.com/blog/: 1
+https://www.ryanpatrickrandall.com/talks/capal16:
+  http://conference.capalibrarians.org: 1
+  https://www.worldcat.org/oclc/440662386: false
+  https://www.worldcat.org/oclc/2043617: false
+  https://www.worldcat.org/oclc/10229460: false
+  https://www.worldcat.org/oclc/783155032: false
+  https://www.worldcat.org/oclc/5547387113: false
+  https://www.worldcat.org/oclc/694396588: false
+  https://www.worldcat.org/oclc/5547063193: false
+https://www.ryanpatrickrandall.com/colophon/:
+  http://www.oxforddictionaries.com/us/definition/american_english/colophon: 1
+  http://jekyllrb.com: false
+  https://pages.github.com/: false
+  https://github.com/ryan-p-randall/ryan-p-randall.github.io: false
+  https://mademistakes.com/work/minimal-mistakes-jekyll-theme/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/0hw_lG8jkDPdgnbSZWRl
+    source: https://www.ryanpatrickrandall.com/colophon/
+    target: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+  https://mademistakes.com/work/jekyll-themes/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/Jhdhlv5YrEf2r8LvGF1w
+    source: https://www.ryanpatrickrandall.com/colophon/
+    target: https://mademistakes.com/work/jekyll-themes/
+  https://wordpress.org/: 1
+  https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages: false
+  https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github: false
+  https://mademistakes.com/articles/going-static/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/X5QxjS-Ze1Bz8B0YciEP
+    source: https://www.ryanpatrickrandall.com/colophon/
+    target: https://mademistakes.com/articles/going-static/
+  http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/: false
+  http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/: false
+  http://www.carlboettiger.info/2012/12/30/learning-jekyll.html: false
+  http://wcm1.web.rice.edu/open-notebook-history.html: false
+  https://web.archive.org/web/20161211063913/https://www.trevordjones.com/jekyll: false
+  http://www.bigfootjs.com/: false
+  http://lab.hakim.se/reveal-js/: false
+  https://simplebits.shop/collections/fonts/products/cartridge: 1
+  https://simplebits.shop/: false
+  https://brailleinstitute.org/freefont: 1
+  https://brailleinstitute.org/: false
+  http://fontawesome.io: false
+  http://jpswalsh.github.io/academicons/: false
+  https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb: false
+  https://thenounproject.com/term/blog/4618/: 1
+  https://openlibrary.org/about: false
+  https://www.worldcat.org/: false
+  https://support.jstor.org/hc/en-us/articles/115004760028-How-to-Register-Get-Free-Access-to-Content: 1
+  https://www.markdownguide.org/: 1
+  https://pandoc.org/: false
+  https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown: false
+  http://daringfireball.net/projects/markdown/: false
+  http://fletcherpenney.net/multimarkdown/: 1
+  http://www.bulletjournal.com/: 1
+  https://web.archive.org/web/20090306080717/http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf: false
+  https://github.com/ryan-p-randall/monthly-planning-files: false
+  https://www.omnigroup.com/omnifocus: 1
+  https://obsidian.md/: false
+  https://publish.obsidian.md/tasks/Introduction: false
+  https://code.visualstudio.com/: 1
+  https://atom.io: false
+  https://www.dendron.so/: false
+  https://bujo.mihaiconstantin.com/: 1
+  https://daybreaktheme.com/: 1
+  https://horizontheme.netlify.app/: 1
+  https://atom.io/: false
+  https://atom.io/packages/language-markdown: false
+  https://atom.io/themes/minimal-syntax-dark: false
+  https://atom.io/packages/paraiso-black: false
+  http://thedesignersrepublic.com/: 1
+  http://warp.net/: 1
+https://www.ryanpatrickrandall.com/cv/:
+  https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10: 1
+  https://www.ryanpatrickrandall.com/portfolio/: false
+  http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073: 1
+  http://hdl.handle.net/1802/6053: 1
+  http://hdl.handle.net/1802/8409: false
+  http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/StudentAchievementUnlocked.pdf: false
+  https://www.worldcat.org/title/oxford-encyclopedia-of-american-cultural-and-intellectual-history/oclc/807769162: false
+  http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford: false
+  https://isu.pressbooks.pub/booky/: false
+  https://infolit-idaho.github.io/infolit-for-everyone/: false
+  https://infolit-idaho.github.io/infolit-for-everyone/sift/: false
+  https://infolit-idaho.github.io/infolit-for-everyone/about/: false
+  https://hcommons.org/deposits/item/hc:65889/: 1
+  https://hcommons.org/deposits/item/hc:65891/: false
+  https://qualitymatters.org/qa-resources/resource-center/conference-presentations/opening-door-more-inclusive-and-equitable: 1
+  https://www.youtube.com/watch?v=gBhUIoFstgc: false
+  https://docs.google.com/document/d/1QNS26A2fBBXKXFM8G9dk2fpweTpJudGuGsRNdFGTQGs/edit: false
+  https://docs.google.com/presentation/d/1YcGKZwWk0Jzt4AK0cnYNDiWIor2Z7uEGsyeAvj6_JVY/edit?usp=sharing: false
+  https://docs.google.com/document/d/13KIvGGakJDd5xp1QlWsfQhG42Su9knxtZzMmNWMJXeQ/edit?usp=sharing: false
+  https://events.qualitymatters.org/event/8c32397a-b238-4523-beaa-93d7b4d93856/websitePage:4575682a-7d18-49cf-bfdc-3a1ab7bddf4e: 1
+  https://docs.google.com/presentation/d/1JqVIjDQhL2G_94xW4m85IdaJFTDRhj2m3NKQ6uM26AI/edit?usp=sharing: false
+  https://lsu.edu/hss/wllc/forlanglab/heroes.php: 1
+  https://docs.google.com/presentation/d/1ivuInqMSBssEpQhRr0frs9SdoCcwrAjR_7doz4w_E_8/edit?usp=sharing: false
+  https://docs.google.com/document/d/1klIFV3vrRj4Rre-TDRrXFPNqmmZBfmQce1fENP5oGcU/edit?usp=sharing: false
+  ? https://opened22.sched.com/event/1AmUs/student-scholars-in-action-student-driven-oer-creation-with-librarians-students-and-instructors
+  : 1
+  https://cwidahocc-my.sharepoint.com/:v:/g/personal/amandanida_cwi_edu/EU6tbLoY4ypLnFVF_KqGicYB4n3dIulhj5NuX_dn7QIYgQ?e=oiLePW: 1
+  https://airtable.com/shrRWyInwdxtMsP0w/tblHbY93eXkRM4ATN/viw9HEBCUwQh14Prz/rec5zrdH5dmjzQflP: 1
+  https://libraries.idaho.gov/moss2020/: false
+  https://drive.google.com/file/d/1KH8FzjqsoTHAc44dTxqcyyK_24Jpq2tW/view: false
+  https://flipgrid.com/05bb6128: false
+  https://liw2020.sched.com/event/Zhqm/informing-the-crisis-of-fake-news: 1
+  http://acrlwa.org/2017conference: 1
+  http://ryanpatrickrandall.com/talks/swila2017: false
+  https://www.ryanpatrickrandall.com/talks/capal16/: false
+  https://capalibrarians.org/wp/wp-content/uploads/2016/08/4A_Randall_paper.pdf: 1
+  https://capalibrarians.org/capal-conference-2016/: false
+  http://www.culturalstudiesassociation.org/program15: 1
+  https://hdl.handle.net/2142/78057: false
+  https://lisedsymposium.wordpress.com/refereed-presentations/: 1
+  http://www.slideshare.net/ryanprandall/ryan-lised-symp: 1
+  http://sched.co/233V: 1
+  https://github.com/ryan-p-randall/dhreadyreference: false
+  https://www.inthelibrarywiththeleadpipe.org/: false
+https://www.ryanpatrickrandall.com/elsewhere/:
+  https://hcommons.social/@ryanrandall: false
+  https://bsky.app/profile/ryanpatrickrandall.com: false
+  https://scholar.social/@foureyedsoul: false
+  https://hcommons.org/members/foureyedsoul/: false
+  https://orcid.org/0000-0003-4499-7255: 1
+  http://www.inthelibrarywiththeleadpipe.org/about/editorial-board/ryan-randall/: false
+  https://www.credly.com/users/ryan-randall.95ecfee0: 1
+  https://hacklibschool.wordpress.com/author/ryanprandall/: false
+  https://www.zotero.org/ryanprandall: false
+  https://bookwyrm.social/user/foureyedsoul: false
+  http://goodreads.com/user/show/2077359-ryan: 1
+  https://github.com/ryan-p-randall: false
+https://www.ryanpatrickrandall.com/wiki/Snippets/information-informatics:
+  http://www.worldcat.org/oclc/935873479: false
+https://www.ryanpatrickrandall.com/links-rhizome/:
+  https://davecormier.com/edblog/2008/06/03/rhizomatic-education-community-as-curriculum/: false
+  https://www.ryanpatrickrandall.com/tags/: false
+  https://en.wikipedia.org/wiki/Rhizomatic_learning: false
+  https://en.wikipedia.org/wiki/Rhizome_(philosophy: false
+  https://en.wikipedia.org/wiki/Linktree: false
+https://www.ryanpatrickrandall.com/links/:
+  http://katherineahnberg.wordpress.com/: false
+  http://chrisbourg.wordpress.com/: false
+  http://ils.indiana.edu/faculty/roday/: 1
+  http://www.emilydrabinski.com/: false
+  http://nickoal.com/: 1
+  http://clintonmckay.com/: 1
+  http://researchguides.elac.edu/profile/ErikaMontenegro: 1
+  http://pumpedlibrarian.blogspot.com/: 1
+  http://www.scottbot.net: false
+  http://inromaunce.blogspot.com/p/about-kristi-j-castleberry.html: 1
+  http://ventibelli.wordpress.com/: 1
+  http://annenberg.usc.edu/Faculty/Communication: 1
+  http://tulane.academia.edu/JennieLightweisGoff: 1
+  https://plus.google.com/111076796367017431753/about: 1
+  http://sterneworks.org/: 1
+  https://marcysutton.com: false
+  http://mademistakes.com/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/UDNSRVIoxjUpmvhJB6sS
+    source: https://www.ryanpatrickrandall.com/links/
+    target: http://mademistakes.com/
+  http://fletcherpenney.net: false
+  http://brettterpstra.com:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/brettterpstra.com/webmention/HqmdhZ5rSsQotAwl48zT
+    source: https://www.ryanpatrickrandall.com/links/
+    target: http://brettterpstra.com
+  http://www.merlinmann.com/: 1
+  http://davidseah.com/: false
+  http://progressivelibrariansguild.org/: 1
+  http://www.inthelibrarywiththeleadpipe.org/: false
+  http://hacklibraryschool.com/: false
+https://www.ryanpatrickrandall.com/now/:
+  https://sivers.org/nowff: 1
+  https://derekkedziora.com/blog/dynamic-now-page: false
+https://www.ryanpatrickrandall.com/portfolio/:
+  "//www.slideshare.net/slideshow/embed_code/key/cWLGUlJFicfS0G": false
+  "//www.slideshare.net/ryanprandall/ryan-lised-symp": false
+  "//www.slideshare.net/ryanprandall": false
+  https://lisedsymposium.wordpress.com/refereed-presentations/: false
+  https://www.worldcat.org/oclc/5115699820: false
+  http://books.google.com/books?id=_-lMAgAAQBAJ&lpg=PA166&ots=JNM3at9Hzi&dq=oxford: false
+  http://hdl.handle.net/1802/6053: false
+  http://hdl.handle.net/1802/8409: false
+  http://www.culturalstudiesassociation.org/program15: false
+  http://www.slideshare.net/ryanprandall/ryan-lised-symp: false
+  http://sched.co/233V: false
+  https://github.com/ryan-p-randall/dhreadyreference: false
+  http://hacklibraryschool.com/2015/08/13/this-is-not-a-pipette/: false
+  http://hacklibraryschool.com/2015/07/16/cloud-storage-dropbox/: false
+  http://hacklibraryschool.com/2015/06/18/presentation-alternatives-reveal/: false
+  http://hacklibschool.wordpress.com/2015/04/06/hack-quirk-your-demonstrations/: false
+  http://hacklibschool.wordpress.com/2015/01/20/how-do-you-take-notes/: false
+  http://hacklibschool.wordpress.com/2014/12/08/critlib-chatty-critical-librarianship-on-twitter/: false
+  https://blogs.libraries.iub.edu/et2/2015/03/17/hoosier-hysteria/: 1
+  https://blogs.libraries.iub.edu/et2/2014/11/25/solar-system-comets-and-asteroid-maps/: false
+  https://blogs.libraries.iub.edu/et2/2014/10/30/indiana-statewide-elections-tuesday-november-4th/: false
+  "//www.slideshare.net/slideshow/embed_code/40916646": false
+  "//www.slideshare.net/ryanprandall/2014-indiana-state-elections": false
+  "//www.slideshare.net/slideshow/embed_code/key/NziVfRAoXEKEtZ": false
+  "//www.slideshare.net/ryanprandall/literary-maps-slideshow": false
+  http://raincrossunderground.omeka.net/: false
+  http://omeka.org/: 1
+  http://libraries.iub.edu/guide-bloomington-city-directories: false
+  http://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC3073: false
+https://www.ryanpatrickrandall.com/postroll/:
+  https://wand3r.net/blogroll-slashpage/: 1
+  https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/:
+    link: https://www.ryanpatrickrandall.com/postroll/
+    source: https://www.ryanpatrickrandall.com/postroll/
+    target: https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/
+    code: success
+    message: Webmention was successful
+  https://tedium.co/2024/07/27/music-industry-cassette-single-cassingle-history/: false
+  https://www.jacky.wtf/essays/2024/not-engaging-with-politics-online/: false
+  https://jasonheppler.org/2024/07/15/how-i-use-obsidian/: false
+  https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians: false
+  http://elenarazlogova.org/: false
+  https://jamesg.blog/2024/07/10/the-personal-web/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/jamesg.blog/webmention/dPV3t9z9kkNY39-5MBCp
+    source: https://www.ryanpatrickrandall.com/postroll/
+    target: https://jamesg.blog/2024/07/10/the-personal-web/
+  https://www.johncoulthart.com/feuilleton/2024/06/29/weekend-links-732/: false
+  https://www.anildash.com/2023/06/08/ai-is-unreasonable/: 1
+  https://link.springer.com/article/10.1007/s10676-024-09775-5: 1
+  https://sarajoy.dev/blog/my-church/: false
+  https://tracydurnell.com/2024/06/16/the-injustice-embedded-in-our-infrastructure/:
+    link: https://www.ryanpatrickrandall.com/postroll/
+    source: https://www.ryanpatrickrandall.com/postroll/
+    target: https://tracydurnell.com/2024/06/16/the-injustice-embedded-in-our-infrastructure/
+    code: success
+    message: Webmention was successful
+  https://www.johnxlibris.com/2024/04/befores-and-afters/: false
+  https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/: 1
+  https://kfitz.info/generosity-and-pragmatism/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/kfitz.info/webmention/8EAcBEZLjKUBUHIVhcFE
+    source: https://www.ryanpatrickrandall.com/postroll/
+    target: https://kfitz.info/generosity-and-pragmatism/
+  https://aj-boston.pubpub.org/pub/mtrwtisx/: 1
+  https://olu.online/weeknotes-4-week-24-2024/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/olu.online/webmention/KNIwRgDYMtRATPaDyHvt
+    source: https://www.ryanpatrickrandall.com/postroll/
+    target: https://olu.online/weeknotes-4-week-24-2024/
+  https://quartz.jzhao.xyz/: 1
+  https://bearblog.dev/: 1
+  https://darthmall.net/weblog/2024/twelve-favorite-problems/: 1
+  https://vic.work/51713/my-mental-health-stack-everyday-things-i-use-for-my-mental-health: false
+  https://aworkinglibrary.com/writing/common-future: false
+  https://dsriseah.com/ghdr/2024/0404/: false
+  https://imaginarytext.ca/posts/2023/everything-moo/: 1
+  https://rknight.me/blog/slash-pages/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/rknight.me/webmention/etfyReM4C9drEOHPL3h7
+    source: https://www.ryanpatrickrandall.com/postroll/
+    target: https://rknight.me/blog/slash-pages/
+  https://slashpages.net/: false
+  https://radicalscholarship.com/2024/06/17/what-works-the-wrong-question-for-education-reform/: false
+  https://wand3r.net/postroll/: false
+  https://notes.jeddacp.com/postroll/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/notes.jeddacp.com/webmention/kfW0Foou5ZvZT-E2tXPN
+    source: https://www.ryanpatrickrandall.com/postroll/
+    target: https://notes.jeddacp.com/postroll/
+https://www.ryanpatrickrandall.com/reading/:
+  https://bookwyrm.social/user/foureyedsoul: false
+  https://aworkinglibrary.com/: false
+https://www.ryanpatrickrandall.com/recommended-reading/:
+  https://aprilhathcock.wordpress.com/recommended-reading/: 1
+  http://catassessmentresearch.blogspot.com/2016/02/critlib-and-diversity-related-books.html: 1
+  https://www.worldcat.org/oclc/916066759: false
+  https://www.worldcat.org/oclc/813931637: false
+  https://www.worldcat.org/oclc/886808969: false
+  https://www.worldcat.org/oclc/30668295: false
+  https://www.worldcat.org/oclc/694396588: false
+  https://www.worldcat.org/oclc/908058695: false
+  https://www.worldcat.org/oclc/921850604: false
+  http://liminalities.net/3-3/index.htm: 1
+  http://liminalities.net/edpolicy.htm: false
+  http://sterneworks.org/Sterne--Materiality.pdf: false
+  http://sterneworks.org/text/: false
+  http://superbon.net/: false
+  http://sterneworks.org/keywordjournal.pdf: false
+  http://sterneworks.org/pedagogyofthejobmarket.pdf: false
+  http://sterneworks.org/Sterne-CommunicationAsTechne.pdf: false
+  http://sterneworks.org/academe/: false
+  https://msuweb.montclair.edu/~furrg/pursuits/hallcultstuds.html: 1
+  http://www.journals.uchicago.edu/doi/10.1086/669547: false
+  https://placesjournal.org/article/library-as-infrastructure/: false
+  https://unc.academia.edu/LawrenceGrossberg: 1
+  http://works.bepress.com/michelle_simmons/3/: 1
+  http://digitalcommons.unl.edu/libphilprac/413/: false
+  http://www.comminfolit.org/index.php?journal=cil&page=article&op=view&path: 1
+  http://eprints.qut.edu.au/8867/: 1
+  http://eprints.qut.edu.au/5876/1/5876.pdf: false
+  https://chrisbourg.wordpress.com/2014/10/25/librarianing-to-transgress-closing-keynote-acrl-orwa-2014/: false
+  https://chrisbourg.wordpress.com/2016/01/09/whiteness-social-justice-and-the-future-of-libraries/: false
+https://www.ryanpatrickrandall.com/recommended-readings-critical-librarianship/:
+  https://www.worldcat.org/oclc/30668295: false
+  https://www.worldcat.org/oclc/694396588: false
+  https://www.worldcat.org/oclc/908058695: false
+  https://www.worldcat.org/oclc/921850604: false
+  http://works.bepress.com/michelle_simmons/3/: false
+  http://digitalcommons.unl.edu/libphilprac/413/: false
+  http://www.comminfolit.org/index.php?journal=cil&page=article&op=view&path: false
+  http://eprints.qut.edu.au/8867/: false
+  http://eprints.qut.edu.au/5876/1/5876.pdf: false
+https://www.ryanpatrickrandall.com/recommended-readings-critical-theory/:
+  https://www.worldcat.org/oclc/916066759: false
+  https://www.worldcat.org/oclc/48263748: false
+  https://www.worldcat.org/oclc/813931637: false
+  https://www.worldcat.org/oclc/886808969: false
+  https://www.worldcat.org/oclc/231881313: false
+  https://www.worldcat.org/oclc/40939988: false
+  https://www.worldcat.org/oclc/31656730: false
+  https://www.worldcat.org/oclc/487578360: false
+  http://liminalities.net/3-3/index.htm: false
+  http://liminalities.net/edpolicy.htm: false
+  http://sterneworks.org/Sterne--Materiality.pdf: false
+  http://sterneworks.org/text/: false
+  http://superbon.net/: false
+  http://sterneworks.org/keywordjournal.pdf: false
+  http://sterneworks.org/pedagogyofthejobmarket.pdf: false
+  http://sterneworks.org/Sterne-CommunicationAsTechne.pdf: false
+  http://sterneworks.org/academe/: false
+  http://www.tricycle.com/special-section/agent-change-interview-bell-hooks: 1
+  https://msuweb.montclair.edu/~furrg/pursuits/hallcultstuds.html: false
+  http://www.journals.uchicago.edu/doi/10.1086/669547: false
+  https://placesjournal.org/article/library-as-infrastructure/: false
+  http://www.saic.edu/media/saic/profiles/faculty/shawnsmith/The-Half-of-Whiteness_Jacob-Riis.pdf: 1
+  https://www.worldcat.org/oclc/5548108887: false
+  http://www.inthelibrarywiththeleadpipe.org/2014/locating-the-library-in-institutional-oppression/: false
+  ? http://www.inthelibrarywiththeleadpipe.org/2015/a-critical-take-on-oer-practices-interrogating-commercialization-colonialism-and-content/
+  : false
+  https://unc.academia.edu/LawrenceGrossberg: false
+https://www.ryanpatrickrandall.com/testing/code-copy-button/:
+  https://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html: 1
+https://www.ryanpatrickrandall.com/uses/:
+  https://uses.tech/: 1
+  https://theconversation.com/explainer-what-is-surveillance-capitalism-and-how-does-it-shape-our-economy-119158: false
+  https://www.logitech.com/en-us/products/keyboards/mx-keys-s.920-011558.html: 1
+  https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html: false
+  https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.988-000101.html: 1
+  https://github.com/yorkxin/copy-as-markdown: false
+  https://www.mozilla.org/en-US/firefox/: 1
+  https://getnoir.app/: 1
+  https://www.gitkraken.com/: 1
+  https://iterm2.com/: 1
+  https://code.visualstudio.com/: false
+  https://daybreaktheme.com/: false
+  https://wiki.dendron.so/: false
+  https://apps.apple.com/us/app/toot-for-mastodon/id1229021451?ls=1: false
+  https://mastodon.social/@tootapp: false
+  https://workingcopyapp.com: false
+  https://apps.apple.com/us/app/zotero/id1513554812: false
+  https://genjiapp.com/mac/murasaki/index_en.html: 1
+  https://netnewswire.com/: false
+  https://www.zotero.org/: false
+  https://github.com/tefkah/zotero-night: false
+  https://www.macbartender.com/Bartender5/: 1
+  https://bunchapp.co/: 1
+  https://espanso.org/: false
+  https://sindresorhus.com/lungo: 1
+  https://sindresorhus.com/apps: false
+  https://www.popclip.app/: 1
+  https://rectangleapp.com/: false
+  https://rogueamoeba.com/soundsource/: 1
+  https://jekyllrb.com/: false
+  https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages: false
+  https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github: false
+  https://obsidian.md/: false
+  https://pandoc.org/: false
+  https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown: false
+  https://www.zettlr.com/: 1
+https://www.ryanpatrickrandall.com/assets/js/lunr/lunr-en.js:
+  https://schema.org/CreativeWork: 1
+https://www.ryanpatrickrandall.com/assets/js/lunr/lunr-gr.js:
+  https://schema.org/CreativeWork: false
+https://www.ryanpatrickrandall.com/talks/plugin/markdown/example:
+  https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png: 1
+https://www.ryanpatrickrandall.com/talks/css/theme/:
+  https://github.com/hakimel/reveal.js: false
+  https://github.com/hakimel/reveal.js/blob/master/css/theme/source: false
+  https://github.com/hakimel/reveal.js/blob/master/Gruntfile.js: false
+  https://github.com/hakimel/reveal.js/blob/master/css/theme/template/mixins.scss: false
+  https://github.com/hakimel/reveal.js/blob/master/css/theme/template/settings.scss: false
+  https://github.com/hakimel/reveal.js/blob/master/css/theme/template/theme.scss: false
+https://www.ryanpatrickrandall.com/notes/ADHD-tech/apple-watch-ADHD:
+  https://www.dueapp.com: false
+  https://www.timetimer.com/collections/applications: false
+  https://apps.apple.com/us/app/watchsmith/id1483088503: false
+https://www.ryanpatrickrandall.com/notes/ADHD-tech/about-ADHD-technologies:
+  https://twitter.com/hashtag/adhdtechnologies?src=hash&amp;ref_src=twsrc: false
+  https://twitter.com/hashtag/criptechnoscience?src=hash&amp;ref_src=twsrc: false
+  https://t.co/k60qoDORBj: false
+  https://twitter.com/AimiHamraie/status/1288515883061645314?ref_src=twsrc: false
+  https://platform.twitter.com/widgets.js: false
+https://www.ryanpatrickrandall.com/notes/Snippets/information-informatics:
+  http://www.worldcat.org/oclc/935873479: false
+https://www.ryanpatrickrandall.com/notes/Note-taking/Dendron/literature-notes-dendron:
+  https://www.dendron.so/: false
+  https://www.zotero.org/: false
+  https://takesmartnotes.com/: 1
+https://www.ryanpatrickrandall.com/notes/Technology/VS-Code/daybreak-theme:
+  https://horizontheme.netlify.app/: false
+  https://github.com/jolaleye/horizon-theme-vscode: false
+  https://daybreaktheme.com/: false
+  https://code.visualstudio.com/api/references/theme-color: false
+  https://css-tricks.com/8-digit-hex-codes/: 1
+https://www.ryanpatrickrandall.com/notes/Note-taking/Dendron/beginning-to-use-dendron:
+  https://wiki.dendron.so/: false
+  https://wiki.dendron.so/notes/0QQNklzyOweaOez8E7iTX/: false
+  https://jekyllrb.com/: false
+  https://youtu.be/dW6m4_O0qvQ: false
+  https://egghead.io/lessons/vs-code-download-and-install-a-dendron-workspace: 1
+  https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1/: false
+  https://youtu.be/nfvx8rv77NA: false
+https://www.ryanpatrickrandall.com/notes/Accessibility/math-a11y:
+  http://diagramcenter.org/born-accessible-publishing.html: 1
+  https://soundstudiesblog.com/2012/11/05/review-jonathan-sterne-mp3-the-meaning-of-a-format/: 1
+  https://pressbooks.bccampus.ca/pressbookslatex/part/when-to-use-latex/: 1
+  https://www.latex-project.org/publications/2020-FMi-TUB-tb129mitt-tagpdf.pdf: 1
+  https://developer.mozilla.org/en-US/docs/Web/MathML: false
+  https://www.w3.org/Math/: false
+  https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction: false
+  https://www.w3.org/wiki/Math_Tools: false
+  https://developer.mozilla.org/en-US/docs/Web/MathML/Examples/MathML_Pythagorean_Theorem: false
+  https://github.com/mdn/content/blob/main/files/en-us/web/mathml/examples/mathml_pythagorean_theorem/index.md?plain=1: false
+  https://caniuse.com/?search=mathml: 1
+  https://www.mathjax.org/: 1
+  https://accessibility.psu.edu/math/mathml/: 1
+  "//developer.mozilla.org/en-US/docs/Web/MathML": false
+  https://webdemo.myscript.com/views/math/index.html: 1
+  https://www.wiris.com/en/mathtype/: 1
+  https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML: false
+  https://jekyllrb.com/docs/includes/: false
+  https://networkmanagerguide.pressbooks.com/: 1
+  https://guide.pressbooks.com/: 1
+https://www.ryanpatrickrandall.com/notes/Note-taking/Dendron/task-tracking-in-dendron:
+  https://github.com/ryan-p-randall/monthly-planning-files: false
+  https://wiki.dendron.so/notes/n46dp3fj5cwetdyo777q8at/: false
+  https://wiki.dendron.so/notes/SEASewZSteDK7ry1AshNG/: false
+  https://bujo.mihaiconstantin.com/: false
+  https://www.markdownguide.org/extended-syntax/: false
+  https://bujo.mihaiconstantin.com/guide/syntax-highlighting.html: false
+  https://www.ryanpatrickrandall.com/notes/Note-taking/Dendron/: false
+https://www.ryanpatrickrandall.com/notes/Technology/Social-Media/mastodon-apps:
+  https://octodon.social/@foureyedsoul/13968/embed: 1
+  https://octodon.social/embed.js: false
+  https://itunes.apple.com/us/app/toot/id1229021451?ls=1&mt=8: 1
+  https://mastodon.social/@tootapp: false
+  https://metabolist.org/: 1
+https://www.ryanpatrickrandall.com/notes/Technology/Social-Media/mastodon-settings:
+  https://hcommons.org/members/foureyedsoul/: false
+  https://example.social/@nerdcore: 1
+https://www.ryanpatrickrandall.com/notes/Technology/Jekyll/jekyll-guides:
+  https://mademistakes.com/mastering-jekyll/how-to-link/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/mademistakes.com/webmention/JWQVTTPoVVAGod1i77Wj
+    source: https://www.ryanpatrickrandall.com/notes/Technology/Jekyll/jekyll-guides
+    target: https://mademistakes.com/mastering-jekyll/how-to-link/
+https://www.ryanpatrickrandall.com/notes/Note-taking/Approaches/casey-boyle-something-like-reading-ethics:
+  https://web.archive.org/web/20161026154722/https://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/: false
+https://www.ryanpatrickrandall.com/notes/Note-taking/Approaches/rhetorical-precis:
+  ? https://web.archive.org/web/20210413041712/http://oregonstate.edu/instruct/phl201/modules/rhetorical-precis/sample/peirce_sample_precis_click.html
+  : false
+https://www.ryanpatrickrandall.com/notes/Technology/VS-Code/vs-code-snippets:
+  https://code.visualstudio.com/docs/editor/userdefinedsnippets: false
+  "//`:": false
+  https://en.wikipedia.org/wiki/ISO_8601: false
+  https://xkcd.com/1179/: 1
+  https://jekyllrb.com/docs/posts/: false
+  "//`": false
+  https://wiki.dendron.so/notes/ogIUqY5VDCJP28G3cAJhd/: false
+  https://webaim.org/techniques/tables/data: false
+  https://jekyllrb.com/docs/front-matter/: false
+https://www.ryanpatrickrandall.com/notes/Technology/VS-Code/vs-code-spellcheck-squiggles:
+  https://hcommons.social/@ryanrandall/110098114786311964: false
+  https://marketplace.visualstudio.com/items?itemName=ban.spellright: false
+  https://www.colorhexa.com/: 1
+  https://www.colorhexa.com/color-blend: false
+https://www.ryanpatrickrandall.com/notes/Note-taking/Obsidian/beginning-to-use-obsidian:
+  https://obsidian.md/: false
+  https://publish.obsidian.md/tasks/Introduction: false
+https://www.ryanpatrickrandall.com/notes/Note-taking/Obsidian/obsidian-plugins:
+  https://en.wikipedia.org/wiki/Lint_(software: false
+  https://platers.github.io/obsidian-linter/settings/yaml-rules/: 1
+  https://xkcd.com/1179/: false
+  https://platers.github.io/obsidian-linter/: false
+  https://github.com/platers/obsidian-linter: false
+  https://matthewmeye.rs/: 1
+  https://github.com/mgmeyers/obsidian-style-settings: false
+  https://github.com/chrisgrieser/shimmering-focus/: false
+  https://help.obsidian.md/Plugins/Daily+notes: 1
+  https://github.com/liamcain/obsidian-periodic-notes: false
+  https://github.com/obsidian-tasks-group/obsidian-tasks: false
+  https://publish.obsidian.md/tasks/Introduction: false
+  https://github.com/SilentVoid13/Templater: false
+  https://help.obsidian.md/Plugins/Templates: false
+  https://zachyoung.dev/: 1
+  https://github.com/Zachatoo: false
+https://www.ryanpatrickrandall.com/notes/Note-taking/Obsidian/obsidian-tasks-plugin-patterns:
+  https://github.com/obsidian-tasks-group/obsidian-tasks: false
+  https://publish.obsidian.md/tasks/Introduction: false
+  https://publish.obsidian.md/tasks/Queries/Global+Query: false
+  https://publish.obsidian.md/tasks/Getting+Started/Dates: false
+https://www.ryanpatrickrandall.com/notes/Note-taking/Zotero/zotero-advanced-features:
+  https://www.zotero.org/: false
+  https://forums.zotero.org/discussion/comment/263156/: 1
+  https://raincrossunderground.omeka.net/items/show/3: false
+  https://en.wikipedia.org/wiki/A_Cyborg_Manifesto: false
+  https://github.com/citation-style-language/styles: false
+https://www.ryanpatrickrandall.com/notes/Thinking/critical-thinking-formula:
+  https://plato.stanford.edu/entries/critical-theory/: false
+  ? https://web.archive.org/web/20230807003329/https://www.cla.purdue.edu/academic/english/theory/postmodernism/modules/jamesonpomomainframe.html
+  : false
+https://www.ryanpatrickrandall.com/notes/Technology/Social-Media/mastodon-starting-points:
+  https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/: false
+  https://hcommons.org/members/avincent/: false
+  https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/: 1
+  https://nathanlesage.github.io/academics-on-mastodon/: 1
+https://www.ryanpatrickrandall.com/notes/Writing/fractal-scaffold:
+  https://fractalecho.substack.com/p/a-neurodivergent-writing-guide: false
+  https://fractalecho.substack.com/i/140399156/divergent-tools-for-divergent-minds-in-divergent-times: false
+https://www.ryanpatrickrandall.com/notes/Reading/Lists/exam-list1-topic:
+  https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/: false
+  https://www.isu.edu/media/libraries/english/PhD-Program-Handbook.pdf: false
+  https://openlibrary.org/works/OL46125W/Foundation: false
+  https://openlibrary.org/works/OL20114359W/A_B_C_Three_Short_Novels_The_Jewels_of_Aptor_The_Ballad_of_Beta-2_They_Fly_at_Ciron: false
+  https://openlibrary.org/works/OL56835W/Dhalgren: false
+  https://openlibrary.org/works/OL56833W/Nova: false
+  https://openlibrary.org/books/OL2531465M/White_noise: false
+  https://openlibrary.org/books/OL8898972M/Philip_K._Dick: false
+  https://openlibrary.org/works/OL21967564W/Machinehood: false
+  https://openlibrary.org/works/OL16532040W/The_round_house?mode=all: false
+  https://openlibrary.org/works/OL19649739W/Binti_The_Complete_Trilogy: false
+  https://openlibrary.org/books/OL26854483M/Infomocracy: false
+  https://openlibrary.org/works/OL2636665W/The_Crying_of_Lot_49: false
+  https://openlibrary.org/books/OL6900801M/Gravity: false
+  https://openlibrary.org/works/OL38501W/Snow_Crash: false
+  https://openlibrary.org/works/OL2664054W/Tropic_of_orange: false
+  https://openlibrary.org/works/OL20794423W/Race_After_Technology: false
+  https://openlibrary.org/works/OL8332653W/Race_Nationalism_and_the_State_in_British_and_American_Modernism: false
+  https://openlibrary.org/works/OL221883W/The_modern_invention_of_information: false
+  https://openlibrary.org/books/OL5282804M/The_archaeology_of_knowledge.: false
+  https://openlibrary.org/works/OL10477605W/Les_mots_et_les_choses?edition=key: false
+  https://openlibrary.org/works/OL20720487W/Policing_the_Crisis: false
+  https://openlibrary.org/books/OL374645M/How_we_became_posthuman: false
+  https://openlibrary.org/works/OL1950423W/My_Mother_Was_a_Computer: false
+  https://openlibrary.org/works/OL21696531W/Information_-_a_Reader: false
+  https://openlibrary.org/works/OL21212512W/Overwhelmed: false
+  https://openlibrary.org/works/OL21114005W/Modernist_Informatics: false
+  https://openlibrary.org/works/OL2637775W/The_imperial_archive: false
+  https://openlibrary.org/works/OL5701906W/A_sense_of_wonder: false
+  https://www.jstor.org/stable/4309562: false
+  https://www.jstor.org/stable/43737492: false
+  https://openlibrary.org/works/OL3257500W/Simians_cyborgs_and_women: false
+  https://www.jstor.org/stable/778312: false
+  https://doi.org/10.1080/09502380500521091: false
+  https://www.tandfonline.com/doi/abs/10.1080/09502380500495668: false
+https://www.ryanpatrickrandall.com/notes/Reading/Lists/exam-list2-field:
+  https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/: false
+  https://www.isu.edu/media/libraries/english/PhD-Program-Handbook.pdf: false
+  https://openlibrary.org/books/OL28728693M/Experimental: false
+  http://www.jstor.org/stable/43264539: false
+  https://eprints.bbk.ac.uk/id/eprint/20365/: 1
+  https://muse.jhu.edu/pub/104/article/459333: false
+  https://www.jstor.org/stable/797472: false
+  https://hdl.handle.net/1807/4354: false
+  http://www.jstor.org/stable/23347191: false
+https://www.ryanpatrickrandall.com/notes/Reading/Lists/exam-list3-teaching:
+  https://www.isu.edu/english/graduate-programs/phd-in-english-and-the-teaching-of-english/: false
+  https://www.isu.edu/media/libraries/english/PhD-Program-Handbook.pdf: false
+  https://crln.acrl.org/index.php/crlnews/article/view/16877: false
+  https://digitalcommons.unl.edu/libphilprac/413: false
+  https://pdxscholar.library.pdx.edu/comminfolit/vol14/iss1/7/: false
+  https://escholarship.org/uc/item/4nj0w1mp: false
+  https://doi.org/10.5325/jgeneeduc.68.1-2.0019: false
+  https://wac.colostate.edu/books/perspectives/better/: 1
+  https://wac.colostate.edu/books/perspectives/infolit/: false
+  https://www.bloomsburycollections.com/monograph?docid=b-9781350243958: 1
+  https://wac.colostate.edu/books/perspectives/assessment/: false
+  https://wac.colostate.edu/books/perspectives/situating/: false
+  https://wac.colostate.edu/books/perspectives/winks/: false
+  https://openlibrary.org/books/OL28652610M/Small_Teaching_Online: false
+https://www.ryanpatrickrandall.com/notes/Reading/Lists/internship-ai-list:
+  https://openlibrary.org/books/OL2200182M/Desert_solitaire: false
+  https://openlibrary.org/books/OL25075433M/Oil_on_water: false
+https://www.ryanpatrickrandall.com/notes/Note-taking/Obsidian/obsidian-dataview-plugin-patterns:
+  https://blacksmithgu.github.io/obsidian-dataview/: false
+  https://github.com/s-blu: false
+  https://s-blu.github.io/obsidian_dataview_example_vault/: 1
+  https://s-blu.github.io/basic-dataview-query-builder/: false
+  https://s-blu.github.io/obsidian_dataview_example_vault/20: false
+  https://github.com/liamcain/obsidian-periodic-notes: false
+  "//print": false
