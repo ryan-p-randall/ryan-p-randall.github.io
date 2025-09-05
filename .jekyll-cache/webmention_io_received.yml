@@ -503,3 +503,35 @@
 "/bookmarks/regex101": {}
 "/bookmarks/slash-pages": {}
 "/bookmarks/standford-encyclopedia-of-philosophy": {}
+"/webmentions-test/":
+  '1936403':
+    id: '1936403'
+    uri: https://webmention.rocks/receive/1
+    source: false
+    pubdate: 2025-09-04 22:05:36.000000000 -06:00
+    raw:
+      source: https://webmention.rocks/receive/1/3982e7ce054bb5ef9b30b867b933540f
+      verified: true
+      verified_date: '2025-09-05T04:05:37+00:00'
+      id: 1936403
+      private: false
+      data:
+        author: &1
+          name: Webmention Rocks!
+          url:
+          photo: https://avatars.webmention.io/webmention.rocks/e08155b03da96cb1bdfd161ea24efdfad8d85d06afcee540ec246f1f613eb5a9.png
+        url: https://webmention.rocks/receive/1
+        name: 'Receiver Test #1'
+        content: |-
+          <p>This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the <a href="https://www.w3.org/TR/webmention/#receiving-webmentions">appropriate headers</a>.</p>
+                  <p>If your endpoint returns HTTP 201, then it MUST also return a <code>Location</code> header. If it returns HTTP 200 or 202, then it MUST NOT include a <code>Location</code> header.</p>
+        published: '2025-09-04T21:05:36-07:00'
+        published_ts: 1757045136
+      activity:
+        type: reply
+      target: https://www.ryanpatrickrandall.com/webmentions-test/
+    author: *1
+    type: reply
+    content: |-
+      <p>This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the <a href="https://www.w3.org/TR/webmention/#receiving-webmentions">appropriate headers</a>.</p>
+              <p>If your endpoint returns HTTP 201, then it MUST also return a <code>Location</code> header. If it returns HTTP 200 or 202, then it MUST NOT include a <code>Location</code> header.</p>
