@@ -1,0 +1,14 @@
+{% if page.url != "/" %}
+<h2 id="webmentions" style="margin-top: 1em;">Webmentions</h2>
+    {% webmentions page.url %}
+    {% webmention_likes page.url %}
+<p>
+    <form id="webmention-form" action="https://webmention.io/ryanpatrickrandall.com/webmention" method="POST">
+        <label for="webmention-form">This post accepts <a href="https://en.wikipedia.org/wiki/Webmention">webmentions</a>. If you link to and write about this on your website, you can enter the web address of your post in this field.<br> Mentions will appear below. (But not automatically! As I'm experimenting with Webmentions, I'm still approving them manually, so it might take a few days.)</label>
+            <input id="webmention-source" type="url" autocomplete="url" required="" pattern="^https?:\/\/(.*)" name="source" placeholder="URL/Permalink of your article" class="error" aria-invalid="true">
+            <input id="webmention-submit" type="submit" name="submit" value="Ping me!">
+            <input id="webmention-format" type="hidden" name="format" value="html">
+            <input id="webmention-target" type="hidden" name="target" value="">
+        </form>
+</p>
+{% endif %}
