@@ -225,7 +225,7 @@ webmentions:
   collections:
     - notes
   throttle_lookups:
-    last_week: daily
+#    last_week: daily
     last_month: weekly
     last_year: every 2 weeks
     older: monthly

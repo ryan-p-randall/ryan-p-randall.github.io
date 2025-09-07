@@ -128,7 +128,34 @@
 "/weekly-assemblage/wa-2025-week-03": {}
 "/instructional-design-short-story": {}
 "/now/now-may-2025": {}
-"/weekly-assemblage/wa-2025-week-35": {}
+"/weekly-assemblage/wa-2025-week-35":
+  '1936815':
+    id: '1936815'
+    uri: https://hcommons.social/@ryanrandall/115131994580758550#reblogged-by-113274172980253352
+    source: false
+    pubdate: 2025-09-07 01:20:22.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115131994580758550/113274172980253352
+      verified: true
+      verified_date: '2025-09-07T01:20:22+00:00'
+      id: 1936815
+      private: false
+      data:
+        author: &1
+          name: David's Alter (Algo) Ego
+          url: https://mastodon.social/@colarusso_algo
+          photo: https://avatars.webmention.io/spaces.hcommons.social/b4f9950eb43cacce7888a501f8ab38961c7a454696d4c06ca74cfb65f4e713d4.gif
+        url: https://hcommons.social/@ryanrandall/115131994580758550#reblogged-by-113274172980253352
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-35
+    author: *1
+    type: repost
+    content: ''
 "/_posts/2014-09-07-new-directions-in-information-fluency": {}
 "/_posts/2014-09-07-new-site": {}
 "/_posts/2014-09-07-test-one": {}
@@ -516,7 +543,7 @@
       id: 1936403
       private: false
       data:
-        author: &1
+        author: &2
           name: Webmention Rocks!
           url:
           photo: https://avatars.webmention.io/webmention.rocks/e08155b03da96cb1bdfd161ea24efdfad8d85d06afcee540ec246f1f613eb5a9.png
@@ -530,7 +557,7 @@
       activity:
         type: reply
       target: https://www.ryanpatrickrandall.com/webmentions-test/
-    author: *1
+    author: *2
     type: reply
     content: |-
       <p>This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the <a href="https://www.w3.org/TR/webmention/#receiving-webmentions">appropriate headers</a>.</p>
