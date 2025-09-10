@@ -67,6 +67,7 @@ layout: default
             {% include article_author.html %}
             {% include page__taxonomy.html %}
             {% include page__date.html %}
+            {% include author-profile-brief.html %}
         </footer>
         {% include post_pagination.html %}
         {% include webmentions-incl.html %}
@@ -105,7 +106,7 @@ layout: default
         {% include page-info-source-link-boxes.html %}
         </aside>{% comment %}{% endcomment %}
         </section>
-                
+
         <!-- footer was here -->
                 
         {% if page.share %}{% include social-share.html %}{% endif %}
@@ -197,14 +198,9 @@ layout: default
     </div>
     -->
 </div>
+
 </div>
 <!-- {% endif %}-->
 
 {% endif %}
 </div>
-
-
-
-
-
-

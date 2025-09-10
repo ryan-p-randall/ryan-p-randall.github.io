@@ -224,6 +224,9 @@ webmentions:
   pages: true
   collections:
     - notes
+  templates:
+    likes: _includes/webmentions-likes-custom.html
+    reposts: _includes/webmentions-reposts-custom.html
   throttle_lookups:
 #    last_week: daily
     last_month: weekly

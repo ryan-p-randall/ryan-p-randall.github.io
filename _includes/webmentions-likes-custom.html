@@ -1,0 +1,42 @@
+{%- if html_proofer_ignore == "all" -%}
+{%- assign html_proofer_attr = " data-proofer-ignore" -%}
+{%- endif -%}
+<div class="webmentions webmentions--likes"{{ html_proofer_attr }}>
+  {% if webmentions.size > 0 %}
+    <ul role="list" style="display: inline; list-style: none;">
+      {% for webmention in webmentions %}
+        <li style="list-style-type: none; display: inline;" id="webmention-{{ webmention.id }}" class="webmention webmentions__item webmention--{{ webmention.type }}">
+          <span style="display: inline;" class="h-cite
+            {% unless webmention.author %}webmention--no-author{% endunless %}
+            {% unless webmention.author.photo %}webmention--no-photo{% endunless %}
+            ">
+            {% if webmention.author %}
+            <span class="webmention__author p-author h-card">
+              {% capture author_id %}
+                {% if webmention.author.photo %}
+                  <img
+                    class="webmention__author__photo u-photo"
+                    src="{{ webmention.author.photo }}"
+                    alt=""
+                    {% if webmention.author.name %}
+                    title="{{ webmention.author.name }}"
+                    {% endif %}
+                    >
+                {% endif %}
+              {% endcapture %}
+
+              {% if webmention.author.url %}
+                <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow" style="text-decoration: none;">{{ author_id }}</a>
+              {% else %}
+                {{ author_id }}
+              {% endif %}
+            </span>
+            {% endif %}
+        </span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="webmentions__not-found">No likes have been sent yet!</p>
+  {% endif %}
+</div>

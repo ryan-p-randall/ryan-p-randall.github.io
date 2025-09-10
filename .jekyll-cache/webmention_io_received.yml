@@ -562,5 +562,175 @@
     content: |-
       <p>This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the <a href="https://www.w3.org/TR/webmention/#receiving-webmentions">appropriate headers</a>.</p>
               <p>If your endpoint returns HTTP 201, then it MUST also return a <code>Location</code> header. If it returns HTTP 200 or 202, then it MUST NOT include a <code>Location</code> header.</p>
-"/weekly-assemblage/wa-2025-week-36": {}
+"/weekly-assemblage/wa-2025-week-36":
+  '1937805':
+    id: '1937805'
+    uri: https://hcommons.social/@ryanrandall/115168957670877211#favorited-by-111667063033262293
+    source: false
+    pubdate: 2025-09-08 19:21:39.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115168957670877211/111667063033262293
+      verified: true
+      verified_date: '2025-09-08T19:21:39+00:00'
+      id: 1937805
+      private: false
+      data:
+        author: &3
+          name: Reilly Spitzfaden (they/them)
+          url: https://hachyderm.io/@reillypascal
+          photo: https://avatars.webmention.io/spaces.hcommons.social/3af660ed5ecf66c02f75967e5aeb0e28785ae8f9a38f647978411d6b7c61e28f.jpg
+        url: https://hcommons.social/@ryanrandall/115168957670877211#favorited-by-111667063033262293
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
+    author: *3
+    type: like
+    content: ''
+  '1937806':
+    id: '1937806'
+    uri: https://hcommons.social/@ryanrandall/115168957670877211#reblogged-by-111667063033262293
+    source: false
+    pubdate: 2025-09-08 19:21:40.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115168957670877211/111667063033262293
+      verified: true
+      verified_date: '2025-09-08T19:21:40+00:00'
+      id: 1937806
+      private: false
+      data:
+        author: &4
+          name: Reilly Spitzfaden (they/them)
+          url: https://hachyderm.io/@reillypascal
+          photo: https://avatars.webmention.io/spaces.hcommons.social/3af660ed5ecf66c02f75967e5aeb0e28785ae8f9a38f647978411d6b7c61e28f.jpg
+        url: https://hcommons.social/@ryanrandall/115168957670877211#reblogged-by-111667063033262293
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
+    author: *4
+    type: repost
+    content: ''
+  '1937807':
+    id: '1937807'
+    uri: https://hcommons.social/@ryanrandall/115168957670877211#favorited-by-113608440575949700
+    source: false
+    pubdate: 2025-09-08 19:52:51.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115168957670877211/113608440575949700
+      verified: true
+      verified_date: '2025-09-08T19:52:51+00:00'
+      id: 1937807
+      private: false
+      data:
+        author: &5
+          name: patatas
+          url: https://social.patatas.ca/users/patatas
+          photo: https://avatars.webmention.io/spaces.hcommons.social/b31802c29817453c828fa05cb99d7f0182d76ceab7b10b37d33dd71180f71cbe.jpg
+        url: https://hcommons.social/@ryanrandall/115168957670877211#favorited-by-113608440575949700
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
+    author: *5
+    type: like
+    content: ''
+  '1937736':
+    id: '1937736'
+    uri: https://hcommons.social/@ryanrandall/115168957670877211
+    source: false
+    pubdate: 2025-09-08 07:40:31.000000000 -06:00
+    raw:
+      source: https://brid.gy/post/mastodon/@reillypascal@hachyderm.io/115168957742874953
+      verified: true
+      verified_date: '2025-09-08T13:48:15+00:00'
+      id: 1937736
+      private: false
+      data:
+        author: &6
+          name: Ryan Randall
+          url: https://hcommons.social/@ryanrandall
+          photo: https://avatars.webmention.io/media.hachyderm.io/15e26cd8cedcb9d311bd76c0f774f5e1904724879f98f672f7aef4c8961d3f2e.jpg
+        url: https://hcommons.social/@ryanrandall/115168957670877211
+        name:
+        content: |-
+          <p>A sweetly awkward high school movie, a fun techno compilation, and getting Webmentions to work with <span class="h-card"><a href="https://hachyderm.io/@reillypascal" class="u-url">@<span>reillypascal</span></a></span> 's indirect help — here are last week's <a href="https://hcommons.social/tags/weeknotes">#<span>weeknotes</span></a> </p><p><a href="https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36"><span>https://www.</span><span>ryanpatrickrandall.com/weekly-</span><span>assemblage/wa-2025-week-36</span></a></p><p>**edit** If you boost, like, or publicly reply to this post, that action might display on my blog post.</p>
+          <a class="p-category" href="https://hachyderm.io/tags/weeknotes">weeknotes</a>
+          <a class="u-mention" href="https://hcommons.social/tags/weeknotes"></a>
+          <a href="https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36">Weekly Assemblage for 2025 Week 36</a>
+        published: '2025-09-08T13:40:31+00:00'
+        published_ts: 1757338831
+      activity:
+        type: link
+      target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
+    author: *6
+    type: link
+    content: |-
+      <p>A sweetly awkward high school movie, a fun techno compilation, and getting Webmentions to work with <span class="h-card"><a href="https://hachyderm.io/@reillypascal" class="u-url">@<span>reillypascal</span></a></span> 's indirect help — here are last week's <a href="https://hcommons.social/tags/weeknotes">#<span>weeknotes</span></a> </p><p><a href="https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36"><span>https://www.</span><span>ryanpatrickrandall.com/weekly-</span><span>assemblage/wa-2025-week-36</span></a></p><p>**edit** If you boost, like, or publicly reply to this post, that action might display on my blog post.</p>
+      <a class="p-category" href="https://hachyderm.io/tags/weeknotes">weeknotes</a>
+      <a class="u-mention" href="https://hcommons.social/tags/weeknotes"></a>
+      <a href="https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36">Weekly Assemblage for 2025 Week 36</a>
+  '1937845':
+    id: '1937845'
+    uri: https://hcommons.social/@ryanrandall/115168957670877211#reblogged-by-111924179544779182
+    source: false
+    pubdate: 2025-09-09 04:09:04.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115168957670877211/111924179544779182
+      verified: true
+      verified_date: '2025-09-09T04:09:04+00:00'
+      id: 1937845
+      private: false
+      data:
+        author: &7
+          name: Thejesh GN ⏚ ತೇಜೇಶ್ ಜಿ ಎನ್
+          url: https://social.lol/@thej
+          photo: https://avatars.webmention.io/spaces.hcommons.social/aeac5d35dbf89d42050712b55e6a38c06ea46b3f2edee1ecca5fa94b5f54fc40.png
+        url: https://hcommons.social/@ryanrandall/115168957670877211#reblogged-by-111924179544779182
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
+    author: *7
+    type: repost
+    content: ''
+  '1937880':
+    id: '1937880'
+    uri: https://hcommons.social/@ryanrandall/115168957670877211#reblogged-by-113274172980253352
+    source: false
+    pubdate: 2025-09-09 08:59:15.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115168957670877211/113274172980253352
+      verified: true
+      verified_date: '2025-09-09T08:59:15+00:00'
+      id: 1937880
+      private: false
+      data:
+        author: &8
+          name: David's Alter (Algo) Ego
+          url: https://mastodon.social/@colarusso_algo
+          photo: https://avatars.webmention.io/hcommons.social/49dbd3c0bdbb096fde9207cbec944917dc542f6aab93956aeec1ed11cc269eea.png
+        url: https://hcommons.social/@ryanrandall/115168957670877211#reblogged-by-113274172980253352
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
+    author: *8
+    type: repost
+    content: ''
 "/_posts/2025-09-07-wa-2025-week-36": {}

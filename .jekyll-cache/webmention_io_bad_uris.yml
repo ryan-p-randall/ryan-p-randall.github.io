@@ -1353,8 +1353,8 @@ www.upress.umn.edu:
   last_checked: '2025-09-03 20:00:06 -0600'
 jasonheppler.org:
   state: error
-  attempts: 29
-  last_checked: '2025-09-07 20:02:42 -0600'
+  attempts: 35
+  last_checked: '2025-09-08 20:10:52 -0600'
 obsidian.md:
   state: unsupported
   attempts: 1
