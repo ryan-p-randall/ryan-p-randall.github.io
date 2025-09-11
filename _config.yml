@@ -225,6 +225,7 @@ webmentions:
   collections:
     - notes
   templates:
+    bookmarks: _includes/webmentions-bookmarks-custom.html
     likes: _includes/webmentions-likes-custom.html
     reposts: _includes/webmentions-reposts-custom.html
   throttle_lookups:
