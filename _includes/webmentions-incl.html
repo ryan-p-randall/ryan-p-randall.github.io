@@ -47,7 +47,7 @@
 <h3>Webmention Interactions</h3>
     <div style="display: flex; gap: 1rem; font-size: 1.4em;">
     {% if likes_count > 0 %}
-    <span>{% webmention_count page.url likes %}&nbsp; <img class="emoji" style="vertical-align: baseline;" title=":thumbsup:" alt=":thumbsup:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width="20" height="20"></span>
+    <span>{% webmention_count page.url likes %}&nbsp;<img class="emoji" style="vertical-align: baseline;" title=":thumbsup:" alt=":thumbsup:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width="20" height="20"></span>
     {% endif %}
     {% if reposts_count > 0 %}
     <span>{% webmention_count page.url reposts %}&nbsp;<img class="emoji" style="vertical-align: baseline;" title=":repeat:" alt=":repeat:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f501.png" height="20" width="20"></span>
