@@ -16,26 +16,47 @@
 {% capture likes_count %}{% webmention_count page.url likes %}{% endcapture %}
     {% assign likes_count = likes_count | remove:'<span class="webmention-count" data-webmention-types="likes">' | remove: '</span>' | times:1 %}
 
+{% comment %}
     {% if likes_count > 0 %}
     <h3 id="webmention-likes">{% webmention_count page.url likes %} Webmention Likes</h3>
         {% webmention_likes page.url %}
     {% endif %}
+{% endcomment %}
 
 {% capture reposts_count %}{% webmention_count page.url reposts %}{% endcapture %}
     {% assign reposts_count = reposts_count | remove:'<span class="webmention-count" data-webmention-types="reposts">' | remove: '</span>' | times:1 %}
 
+{% comment %}
     {% if reposts_count > 0 %}
     <h3 id="webmention-reposts">{% webmention_count page.url reposts %} Webmention Reposts</h3>
         {% webmention_reposts page.url %}
     {% endif %}
+{% endcomment %}
 
 {% capture bookmarks_count %}{% webmention_count page.url bookmarks %}{% endcapture %}
     {% assign bookmarks_count = bookmarks_count | remove:'<span class="webmention-count" data-webmention-types="bookmarks">' | remove: '</span>' | times:1 %}
 
+{% comment %}
     {% if bookmarks_count > 0 %}
     <h3 id="webmention-bookmarks">{% webmention_count page.url bookmarks %} Webmention Bookmarks</h3>
         {% webmention_bookmarks page.url %}
     {% endif %}
+{% endcomment %}
+
+{% if bookmarks_count > 0 or likes_count > 0 or reposts_count > 0 %}
+<h3>Webmention Interactions</h3>
+    <div style="display: flex; gap: 1rem; font-size: 1.4em;">
+    {% if likes_count > 0 %}
+    <span>{% webmention_count page.url likes %}&nbsp; <img class="emoji" style="vertical-align: baseline;" title=":thumbsup:" alt=":thumbsup:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width="20" height="20"></span>
+    {% endif %}
+    {% if reposts_count > 0 %}
+    <span>{% webmention_count page.url reposts %}&nbsp;<img class="emoji" style="vertical-align: baseline;" title=":repeat:" alt=":repeat:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f501.png" height="20" width="20"></span>
+    {% endif %}
+    {% if bookmarks_count > 0 %}
+    <span>{% webmention_count page.url bookmarks %}&nbsp;<img class="emoji" style="vertical-align: baseline;" title=":bookmark:" alt=":bookmark:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f516.png" height="20" width="20"></span></span>
+    {% endif %}
+    </div>
+{% endif %}
 
 {% endif %}
 <p>
