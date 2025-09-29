@@ -8,7 +8,7 @@ Several Pages Galore
 <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr); margin-bottom: 1em;">
     <div class="backlink-box">
         <a aria-describedby="blips-desc" href="{{ site.url }}/blips/">Blips</a><br>
-        <div><span id="blips-desc">Hyperlocal microblogging, if you will.</span></div>
+        <div><span id="blips-desc">Hyperlocal microblogging.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="booksmarks-desc" href="{{ site.url }}/bookmarks/">Bookmarks</a><br>
@@ -20,7 +20,7 @@ Several Pages Galore
     </div>
     <div class="backlink-box">
         <a aria-describedby="elsewhere-desc" href="{{ site.url }}/elsewhere/">Elsewhere</a><br>
-        <div><span id="elsewhere-desc">Other places you can find me online.</span></div>
+        <div><span id="elsewhere-desc">Other online places I exist.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="now-desc" href="{{ site.url }}/now/">Now</a><br>
@@ -36,7 +36,7 @@ Several Pages Galore
     </div>
     <div class="backlink-box">
         <a aria-describedby="postroll-desc" href="{{ site.url }}/postroll/">Postroll</a><br>
-        <div><span id="postroll-desc">Other people's blog posts you might also enjoy reading.</span></div>
+        <div><span id="postroll-desc">Other people's posts.</span></div>
     </div>
 <!--    <div class="backlink-box">
         <a aria-describedby="ways-desc" href="{{ site.url }}/ways/">Ways</a><br>
