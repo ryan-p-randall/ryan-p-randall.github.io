@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T17:06:05-6:00
-last_modified_at: 2025-10-03
+last_modified_at: 2025-10-12
 reading: true
 reading-books: true
 excerpt: "Foucault doesn't aspire to making a history of progress toward an objectivity recognizable as current science, but rather to examine how the epistemological field established its conditions of possibility."
@@ -15,7 +15,6 @@ year_read:
 date_read: 
 date_started: 2025-08-31 
 current: true # false
-progress_current: 78
 progress_current: 125
 progress_max: 387
 reading_list01: true
