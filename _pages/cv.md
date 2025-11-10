@@ -200,6 +200,12 @@ I wrote the [SIFT Moves](https://infolit-idaho.github.io/infolit-for-everyone/si
 
 ## Instructional Design & Library Conference Presentations and Panels  
 
+- "No Stupid Questions: An Open Q&A About Open Education".  
+Conference presentation, co-presented with Abbey K. Elder, Beth Daniel Lindsay, Ashley Purvis, and Shannon M. Smith.  
+[*2025 Open Education Conference*](https://opened25.sched.com/event/270Gt), 2025-10-29.  
+- "Open Education 101: A Crash Course".  
+Conference workshop, co-led with Abbey K. Elder, Christina Riehman-Murphy, and Shannon M. Smith.  
+[*2025 Open Education Conference*](https://sched.co/28JmZ), 2025-10-28.  
 - "Opening the Door to a More Inclusive and Equitable Learning Environment with UDL". [slides](https://hcommons.org/deposits/item/hc:65889/), [handout](https://hcommons.org/deposits/item/hc:65891/).  
 **Invited presentation**, co-presented with Kimberly Tomkinson.  
 [*2024 Higher Ed Quality in Action Conference*](https://qualitymatters.org/qa-resources/resource-center/conference-presentations/opening-door-more-inclusive-and-equitable), 2024-05-03.  
