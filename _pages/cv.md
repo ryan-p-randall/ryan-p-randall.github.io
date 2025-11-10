@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2025-05-20
+last_modified_at: 2025-11-09
 toc: true
 toc_sticky: true
 ---
