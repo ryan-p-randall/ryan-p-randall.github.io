@@ -1,6 +1,6 @@
 ---
 date: 2025-03-19T19:35:33-6:00
-last_modified_at: 2025-11-14
+last_modified_at: 2025-11-16
 reading: true
 reading-books: true
 excerpt: "It's the mid-2020s. Climate, economic, and social crises wash over California—even the gated communities."
@@ -15,7 +15,7 @@ year_read:
 date_read: 
 date_started: 2025-11-13
 current: true # false
-progress_current: 61
+progress_current: 126
 progress_max: 368
 reading_list02: true
 fiction: true
