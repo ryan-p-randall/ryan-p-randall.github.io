@@ -10,11 +10,11 @@ toc: true
 featured_pages: true
 ---
 
-I occasionally use [BookWyrm](https://bookwyrm.social/user/foureyedsoul) for sharing what I'm reading, and I love the interactions on there. (This "part of a larger community" feeling is what I've loved about our reading sites like GoodReads in the past as well.)  
+Here's where I track what I've been reading—and occasionally share my public thoughts on works as well.  
 
-Simultaneously, I'm most reliable about tracking my reading here—and I'm still aiming to write more posts that link to these notes, somewhat like Mandy Brown does in her [A Working Library](https://aworkinglibrary.com/) site.  
+As you'll notice, I often read works in parallel. I've done this long before encountering the approach Casey Boyle shares in his […something like a reading ethics…](https://web.archive.org/web/20161026154722/https://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/) ([[casey-boyle-something-like-reading-ethics|my notes]]), but I like his way of thinking about reading enough to highlight it here.  
 
-As you'll notice, I often read works in parallel. For the next couple years, I'll also be heavily prioritizing the things on my Ph.D. exam reading lists.  
+I'll be heavily prioritizing the [reading lists for my Ph.D. qualifying exams](#my-reading-lists), which I'm aiming to take in October of 2026.  
 
 <!-- currently reading -->
 
