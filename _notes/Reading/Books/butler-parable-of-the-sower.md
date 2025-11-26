@@ -1,6 +1,6 @@
 ---
 date: 2025-03-19T19:35:33-6:00
-last_modified_at: 2025-11-23
+last_modified_at: 2025-11-25
 reading: true
 reading-books: true
 excerpt: "It's the mid-2020s. Climate, economic, and social crises wash over California—even the gated communities. Teenage Lauren Olamina knows change is coming, and she intends to shape it."
@@ -15,7 +15,7 @@ year_read:
 date_read: 
 date_started: 2025-11-13
 current: true # false
-progress_current: 196
+progress_current: 279
 progress_max: 368
 reading_list02: true
 fiction: true
