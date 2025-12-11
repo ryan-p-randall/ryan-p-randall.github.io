@@ -33,7 +33,7 @@ Jekyll and GitHub Pages make for a great alternative to [WordPress](https://word
 
 To the Minimal Mistakes theme, I've added [Bigfoot.js](http://www.bigfootjs.com/) for the fancy pop-up footnotes and [Reveal.js](http://lab.hakim.se/reveal-js/#/) for a splendid presentation alternative to PowerPoint or Keynote. 
 
-As of late November, 2023, the <span style="font-family: Cartridge;">heading font is [Cartridge](https://simplebits.shop/collections/fonts/products/cartridge)</span> by [SimpleBits](https://simplebits.shop/) and the <span style="font-family: Atkinson-Hyperlegible;">body text font is [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)</span> by the [Braille Institute](https://brailleinstitute.org/).  
+As of late November, 2023, the <span style="font-family: Cartridge;">heading font</span> is [Cartridge](https://simplebits.shop/collections/fonts/products/cartridge) by [SimpleBits](https://simplebits.shop/) and the body text font is [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) by the [Braille Institute](https://brailleinstitute.org/).  
 
 I use [FontAwesome](http://fontawesome.io) for most of the icons, and James Walsh's [Academicons](http://jpswalsh.github.io/academicons/) to supplement Font Awesome with the Open Access lock, Academia-dot-edu, ORCiD, and Zotero icons.  
 
