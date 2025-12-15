@@ -200,6 +200,9 @@ I wrote the [SIFT Moves](https://infolit-idaho.github.io/infolit-for-everyone/si
 
 ## Instructional Design & Library Conference Presentations and Panels  
 
+- "Developing AI Policies for Publications".  
+**Invited panelist**, with Brittany Paloma Fiedler and Imogen Clarke.  
+[*Library Publishing Coalition*](https://www.youtube.com/watch?v=6I1Dt1zZnZE), 2025-11-20. [LPC Blog announcement](https://librarypublishing.org/upcoming-webinar-on-ai-editorial-policies/).  
 - "No Stupid Questions: An Open Q&A About Open Education".  
 Conference presentation, co-presented with Abbey K. Elder, Beth Daniel Lindsay, Ashley Purvis, and Shannon M. Smith.  
 [*2025 Open Education Conference*](https://opened25.sched.com/event/270Gt), 2025-10-29.  
