@@ -4,8 +4,8 @@ layout: single
 
 <h1>Hi, I'm Ryan.</h1>
 <p>I'm an instructional designer at Idaho State University, a Ph.D. student in English and the Teaching of English, and an academic journal editor.</p>
-<p>Whether as a community college librarian, a college radio d.j., a rhetoric and composition instructor, or the other positions I've held, I help people understand complex ideas and systems, embrace curiosity, and explore new alternatives.</p>
-<p>A better world is possible, and I aim to help make it happen. If you're curious for more details, here's more <a href="{{ site.url}}/about/">about me</a>.</p>
+<p>Whether as a community college librarian, a rhetoric and composition instructor, or the other positions I've held, I help people understand complex ideas and systems, embrace curiosity, and explore alternatives.</p>
+<p>A better world is possible, and I aim to help make it happen. If you're still curious, here's more <a href="{{ '/about/' | relative_url }}">about me</a>.</p>
 <!-- 
 {% include about-me.html %}
 -->
@@ -13,14 +13,14 @@ layout: single
 <h2>Featured Sections</h2>
 
 <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr);"> 
-    <div><a class="btn btn--primary btn--large" aria-describedby="blog-desc" href="{{ site.url }}/posts/">Blog</a><br><span id="blog-desc">Somewhat regular posts.</span></div>
-    <div><a class="btn btn--primary btn--large" aria-describedby="notes-desc" href="{{ site.url }}/notes/">Notes</a><br><span id="notes-desc">My digital garden.</span></div>
-    <div><a class="btn btn--primary btn--large" aria-describedby="reading-desc" href="{{ site.url }}/reading/">Reading</a><br><span id="reading-desc">What I'm reading.</span></div>
-    <div><a class="btn btn--primary btn--large" aria-describedby="bookmarks-desc" href="{{ site.url }}/bookmarks/">Bookmarks</a><br><span id="bookmarks-desc"></span>Annotated links.</span></div>
-    <div><a class="btn btn--primary btn--large" aria-describedby="featured-pages-desc" href="{{ site.url }}/featured-pages/">Featured Pages</a><br><span id="featured-pages-desc">Other pages of note.</span></div>
-    <div><a class="btn btn--primary btn--large" aria-describedby="colophon-desc" href="{{ site.url }}/colophon/">Colophon</a><br><span id="colophon-desc">How I make this site.</span></div>
-    <div><a class="btn btn--primary btn--large" aria-describedby="postroll-desc" href="{{ site.url }}/postroll/">Postroll</a><br><span id="postroll-desc">Other people's posts.</span></div>
-    <div><a class="btn btn--primary btn--large" aria-describedby="uses-desc" href="{{ site.url }}/uses/">Uses</a><br><span id="uses-desc">I use & enthuse.</span></div>
+    <div><a class="btn btn--primary btn--large" aria-describedby="blog-desc" href="{{ '/posts/' | relative_url }}">Blog</a><br><span id="blog-desc">Somewhat regular posts.</span></div>
+    <div><a class="btn btn--primary btn--large" aria-describedby="notes-desc" href="{{ '/notes/' | relative_url }}">Notes</a><br><span id="notes-desc">My digital garden.</span></div>
+    <div><a class="btn btn--primary btn--large" aria-describedby="reading-desc" href="{{ '/reading/' | relative_url }}">Reading</a><br><span id="reading-desc">What I'm reading.</span></div>
+    <div><a class="btn btn--primary btn--large" aria-describedby="bookmarks-desc" href="{{ '/bookmarks/' | relative_url }}">Bookmarks</a><br><span id="bookmarks-desc"></span>Annotated links.</span></div>
+    <div><a class="btn btn--primary btn--large" aria-describedby="featured-pages-desc" href="{{ '/featured-pages/' | relative_url }}">Featured Pages</a><br><span id="featured-pages-desc">Other pages of note.</span></div>
+    <div><a class="btn btn--primary btn--large" aria-describedby="colophon-desc" href="{{ '/colophon/' | relative_url }}">Colophon</a><br><span id="colophon-desc">How I make this site.</span></div>
+    <div><a class="btn btn--primary btn--large" aria-describedby="postroll-desc" href="{{ '/postroll/' | relative_url }}">Postroll</a><br><span id="postroll-desc">Other people's posts.</span></div>
+    <div><a class="btn btn--primary btn--large" aria-describedby="uses-desc" href="{{ '/uses/' | relative_url }}">Uses</a><br><span id="uses-desc">I use & enthuse.</span></div>
 </div>
 
 <h2>Featured Posts</h2>
@@ -30,7 +30,7 @@ layout: single
   <h3 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link" aria-hidden="true"></i></h3>
     <span style="font-size: .7rem;">{% include page__meta.html type=include.type %}</span>
 {% else %}
-  <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+  <h3><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
   <span style="font-size: .7rem;">{% include page__meta.html type=include.type %}</span>
   {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | strip_html | markdownify | truncate: 300 }}</p>{% endif %}
 {% endif %}
@@ -46,7 +46,7 @@ layout: single
     <span style="font-size: .7rem;">{% include page__meta.html type=include.type %}</span>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | strip_html | markdownify | truncate: 300 }}</p>{% endif %}
 {% else %}
-  <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+  <h3><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
   <span style="font-size: .7rem;">{% include page__meta.html type=include.type %}</span>
   {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | strip_html | markdownify | truncate: 300 }}</p>{% endif %}
 {% endif %}

@@ -7,35 +7,35 @@ Several Pages Galore
 
 <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr); margin-bottom: 1em;">
     <div class="backlink-box">
-        <a aria-describedby="blips-desc" href="{{ site.url }}/blips/">Blips</a><br>
+        <a aria-describedby="blips-desc" href="{{ '/blips/' | relative_url }}">Blips</a><br>
         <div><span id="blips-desc">Hyperlocal microblogging.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="booksmarks-desc" href="{{ site.url }}/bookmarks/">Bookmarks</a><br>
+        <a aria-describedby="booksmarks-desc" href="{{ '/bookmarks/' | relative_url }}">Bookmarks</a><br>
         <div><span id="bookmarks-desc">Bookmarks I'd like to share.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="colophone-desc" href="{{ site.url }}/colophon/">Colophon</a><br>
+        <a aria-describedby="colophone-desc" href="{{ '/colophon/' | relative_url }}">Colophon</a><br>
         <div><span id="colophon-desc">Info on how I make this site.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="elsewhere-desc" href="{{ site.url }}/elsewhere/">Elsewhere</a><br>
+        <a aria-describedby="elsewhere-desc" href="{{ '/elsewhere/' | relative_url }}">Elsewhere</a><br>
         <div><span id="elsewhere-desc">Other online places I exist.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="now-desc" href="{{ site.url }}/now/">Now</a><br>
+        <a aria-describedby="now-desc" href="{{ '/now/' | relative_url }}">Now</a><br>
         <div><span id="now-desc">Some things I'm currently doing.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="reading-desc" href="{{ site.url }}/reading/">Reading</a><br>
+        <a aria-describedby="reading-desc" href="{{ '/reading/' | relative_url }}">Reading</a><br>
         <div><span id="reading-desc">What I'm reading at the moment.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="uses-desc" href="{{ site.url }}/uses/">Uses</a><br>
+        <a aria-describedby="uses-desc" href="{{ '/uses/' | relative_url }}">Uses</a><br>
         <div><span id="uses-desc">Some apps and other things I use.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="postroll-desc" href="{{ site.url }}/postroll/">Postroll</a><br>
+        <a aria-describedby="postroll-desc" href="{{ '/postroll/' | relative_url }}">Postroll</a><br>
         <div><span id="postroll-desc">Other people's posts.</span></div>
     </div>
 <!--    <div class="backlink-box">
@@ -53,7 +53,7 @@ Several Pages Galore
     {% for page in featured_pages %}
     {% endfor %}
     <div class="backlink-box">
-        <a href="{{ page.url }}">{{ page.title }}</a><br>
+        <a href="{{ page.url | relative_url }}">{{ page.title }}</a><br>
         <!-- <a class="internal-link"
             href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{
             backlink.title }}</a><br> -->

@@ -2,12 +2,13 @@
 permalink: /elsewhere/
 title: "Elsewhere"
 date: 2022-12-31
-last_modified_at: 2024-01-30
+last_modified_at: 2025-12-28
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"
 toc: true
 featured_pages: true
+author_profile: true
 ---
 Here are some of the places I've [rhizomatically]({{ '/links-rhizome' | relative_url }}) popped up online, around this site and beyond.  
 
@@ -15,6 +16,11 @@ Here are some of the places I've [rhizomatically]({{ '/links-rhizome' | relative
 {: style="font-size: 1.7rem;"}  
 
 <ul class="list-unstyled" role="list">
+<li role="listitem">
+    <a href="{{ '/semi-schematic' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="fas fa-comment-dots" aria-hidden="true" style="margin-right: .5em;"></i>My "Semi-schematic" Newsletter
+    </a>
+</li>
 <li role="listitem">
     <a href="{{ '/posts' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
     <i class="fas fa-comment-dots" aria-hidden="true" style="margin-right: .5em;"></i>My Blog Posts
@@ -35,10 +41,59 @@ Here are some of the places I've [rhizomatically]({{ '/links-rhizome' | relative
     <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>My `/Reading` Page
     </a>
 </li>
+<!--
 <li role="listitem">
     <a href="{{ '/uses' | relative_url }}" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
     <i class="fas fa-book-open" aria-hidden="true" style="margin-right: .5em;"></i>My `/Uses` Page
     </a>
+</li>
+-->
+</ul>
+
+## Professional Presences
+{: style="font-size: 1.7rem;"}  
+
+<ul class="list-unstyled" role="list">
+<li role="listitem">
+    <a href="https://hcommons.org/members/foureyedsoul/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="fas fa-university" aria-hidden="true" style="margin-right: .5em;"></i>Humanities Commons
+    </a>
+</li>
+<li role="listitem">
+    <a href="https://orcid.org/0000-0003-4499-7255" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="ai ai-orcid" aria-hidden="true" style="margin-right: .5em;"></i>ORCID
+    </a>
+</li>
+<li role="listitem">
+    <a href="https://www.linkedin.com/in/ryanprandall/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="fab fa-linkedin" aria-hidden="true" style="margin-right: .5em;"></i>LinkedIn
+    </a>
+</li>
+<li role="listitem">
+    <a href="https://www.credly.com/users/ryan-randall.95ecfee0" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="fas fa-certificate" aria-hidden="true" style="margin-right: .5em;"></i>Quality Matters Certificates
+  </a>
+</li>
+<li role="listitem">
+    <a href="https://go.opened.org/member-only-directory/ryan-randall" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="fas fa-university" aria-hidden="true" style="margin-right: .5em;"></i>Open Education Association
+    </a>
+</li>
+</ul>
+
+## Authoring and Editing  
+{: style="font-size: 1.7rem;"}  
+
+<ul class="list-unstyled" role="list">
+<li role="listitem">
+    <a href="http://www.inthelibrarywiththeleadpipe.org/about/editorial-board/ryan-randall/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="ai ai-open-access" aria-hidden="true" style="margin-right: .5em;"></i>In the Library with the Lead Pipe
+  </a>
+</li>
+<li role="listitem">
+    <a href="https://hacklibschool.wordpress.com/author/ryanprandall/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
+    <i class="fas fa-pencil-alt" aria-hidden="true" style="margin-right: .5em;"></i>Hack Library School Posts
+  </a>
 </li>
 </ul>
 
@@ -56,46 +111,16 @@ Here are some of the places I've [rhizomatically]({{ '/links-rhizome' | relative
     <i class="fa-brands fa-square-bluesky" aria-hidden="true" style="margin-right: .5em;"></i>BlueSky
     </a>
 </li>
+<!--
 <li role="listitem">
     <a href="https://scholar.social/@foureyedsoul" itemprop="sameAs" rel="me nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
     <i class="fab fa-mastodon" aria-hidden="true" style="margin-right: .5em;"></i>Mastodon (At Scholar.Social)
     </a>
 </li>
+-->
 </ul>
 
-## Professional Presences Elsewhere  
-{: style="font-size: 1.7rem;"}  
-
-<ul class="list-unstyled" role="list">
-<li role="listitem">
-    <a href="https://hcommons.org/members/foureyedsoul/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-university" aria-hidden="true" style="margin-right: .5em;"></i>Humanities Commons
-    </a>
-</li>
-<li role="listitem">
-    <a href="https://orcid.org/0000-0003-4499-7255" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="ai ai-orcid" aria-hidden="true" style="margin-right: .5em;"></i>ORCID
-    </a>
-</li>
-<li role="listitem">
-    <a href="http://www.inthelibrarywiththeleadpipe.org/about/editorial-board/ryan-randall/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="ai ai-open-access" aria-hidden="true" style="margin-right: .5em;"></i>In the Library with the Lead Pipe
-  </a>
-</li>
-<li role="listitem">
-    <a href="https://www.credly.com/users/ryan-randall.95ecfee0" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-certificate" aria-hidden="true" style="margin-right: .5em;"></i>Quality Matters Certificates
-  </a>
-</li>
-<li role="listitem">
-    <a href="https://hacklibschool.wordpress.com/author/ryanprandall/" itemprop="sameAs" rel="nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
-    <i class="fas fa-pencil-alt" aria-hidden="true" style="margin-right: .5em;"></i>Hack Library School Posts
-  </a>
-</li>
-
-</ul>
-
-## Shared Reading Elsewhere  
+## Shared Reading
 {: style="font-size: 1.7rem;"}  
 
 <ul class="list-unstyled" role="list">
@@ -104,6 +129,7 @@ Here are some of the places I've [rhizomatically]({{ '/links-rhizome' | relative
     <i class="ai ai-zotero" aria-hidden="true" style="margin-right: .5em;"></i>Zotero
     </a>
 </li>
+<!-- 
 <li role="listitem">
     <a href="https://bookwyrm.social/user/foureyedsoul" itemprop="sameAs" rel="me nofollow noopener noreferrer" class="btn btn--primary btn--x-large" style="display: block;">
     <i class="fas fa-fw fa-book" aria-hidden="true" style="margin-right: .5em;"></i>BookWyrm
@@ -114,9 +140,10 @@ Here are some of the places I've [rhizomatically]({{ '/links-rhizome' | relative
     <i class="fas fa-fw fa-book" aria-hidden="true" style="margin-right: .5em;"></i>Goodreads
     </a>
 </li>
+-->
 </ul>
 
-## Tinkerings Elsewhere  
+## Tinkerings
 {: style="font-size: 1.7rem;"}  
 
 <ul class="list-unstyled" role="list">

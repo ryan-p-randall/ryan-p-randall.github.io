@@ -2,11 +2,6 @@
 layout: archive
 ---
 
-<p>Alternately, you can view: <br>
-<a href="{{ site.baseurl }}/categories/" class="btn btn--primary btn--large">Posts by Category</a> 
-<a href="{{ site.baseurl }}/tags/" class="btn btn--primary btn--large">Posts by Tag</a>
-</p>
-
 {{ content }}
 
 <ul class="taxonomy__index">
@@ -19,6 +14,11 @@ layout: archive
     </li>
   {% endfor %}
 </ul>
+
+<p>Many posts are not categorized. With that caveat, you can browse: <br>
+<a href="{{ site.baseurl }}/tags/" class="btn btn--primary btn--large">Posts by Tag</a>
+<a href="{{ site.baseurl }}/categories/" class="btn btn--primary btn--large">Posts by Category</a> 
+</p>
 
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}

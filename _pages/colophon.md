@@ -1,6 +1,7 @@
 ---
 permalink: /colophon/
 title: "Colophon"
+date: 2014-09-07
 last_modified_at: 2025-05-20
 header: 
   image: /assets/images/pocket-notebooks.jpg
@@ -9,7 +10,9 @@ toc: true
 toc_sticky: true
 featured_pages: true
 author_profile: true
+feedback: true
 comments: true
+webmentions: true
 ---
 
 Colophon  

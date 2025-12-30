@@ -44,13 +44,15 @@ comments:
     theme             : "preferred_color_scheme"
 #    theme                : # "github-light" (default), "github-dark"
 #    issue_term           : # "pathname" (default)
-twitter_username: foureyedsoul
+# twitter_username: foureyedsoul
 github_username: ryan-p-randall
 minimal_mistakes_skin: dark-citrus-sage
 minimal_mistakes_skin_light: light-citrus-sage
 # atom_feed:
 feed:
   path                   : # blank (default) uses feed.xml
+  categories:
+    - semi-schematic
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -147,6 +149,9 @@ collections:
   bookmarks:
     output: true
     permalink: /:collection/:path
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path
 #  posts:
 #    output: true
 
@@ -174,6 +179,7 @@ defaults:
       author_profile: false # true
       breadcrumbs: true
       toc_sticky: true
+      feedback: false # true
   # notes  
   - scope:
       path: "" # "_notes/**/*.md"
