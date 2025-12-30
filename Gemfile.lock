@@ -329,7 +329,7 @@ GEM
     uglifier (4.2.1)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.8.0)
-    uri (1.0.3)
+    uri (1.0.4)
     verbal_expressions (0.1.5)
     webmention (7.0.0)
       http (~> 5.0)
