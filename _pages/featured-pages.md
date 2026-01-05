@@ -11,7 +11,7 @@ Several Pages Galore
         <div><span id="blips-desc">Hyperlocal microblogging.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="booksmarks-desc" href="{{ '/bookmarks/' | relative_url }}">Bookmarks</a><br>
+        <a aria-describedby="booksmarks-desc" href="https://bookmarks.ryanpatrickrandall.com">Bookmarks</a><br>
         <div><span id="bookmarks-desc">Bookmarks I'd like to share.</span></div>
     </div>
     <div class="backlink-box">
