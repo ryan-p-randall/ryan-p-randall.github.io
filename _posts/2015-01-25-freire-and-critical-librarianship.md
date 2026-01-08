@@ -7,6 +7,7 @@ tags: [critlib chats, pedagogy, moocmooc, critical theory, featured]
 published: true
 comments: true
 date: 2015-01-25T23:07:23-05:00
+page-citation-mla: true
 ---
 
 This post is for [Week One](http://www.hybridpedagogy.com/announcements/mmcp-critical-critical-pedagogy/) of [MOOC MOOC: Critical Pedagogy](http://www.hybridpedagogy.com/mooc-mooc-critical-pedagogy/). 

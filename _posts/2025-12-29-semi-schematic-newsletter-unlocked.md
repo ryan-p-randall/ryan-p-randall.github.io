@@ -12,6 +12,7 @@ published: true
 toc: true
 comments:
 notes:
+page-citation-mla: true
 ---
 
 ## Almost Self-Explanatory
