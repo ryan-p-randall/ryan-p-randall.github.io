@@ -49,11 +49,11 @@ comments:
 github_username: ryan-p-randall
 minimal_mistakes_skin: dark-citrus-sage
 minimal_mistakes_skin_light: light-citrus-sage
-# atom_feed:
-feed:
-  path                   : # blank (default) uses feed.xml
-  categories:
-    - semi-schematic
+### atom_feed:
+# feed:
+#  path                   : # blank (default) uses feed.xml
+#  categories:
+#    - semi-schematic
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -100,9 +100,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
+#  - jekyll-feed
 #  - jekyll-webmention_io
 #  - jekyll-algolia
 

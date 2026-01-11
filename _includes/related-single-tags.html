@@ -3,7 +3,7 @@
 <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 {% include page__meta.html type=include.type %}
 <p>
-    {{ post.excerpt }}
+    {{ post.excerpt | markdownify }}
 </p>
 <details class="tags" style="font-size: .9em;"><summary>
     {{ site.data.ui-text[site.locale].tags_label | default: "Tags" }} 
