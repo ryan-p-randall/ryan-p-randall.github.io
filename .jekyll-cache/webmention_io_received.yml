@@ -381,7 +381,154 @@
 "/notes/Writing/fractal-scaffold": {}
 "/notes/Reading/Books/hayles-how-we-became-posthuman": {}
 "/notes/Reading/Books/darby-lang-small-teaching-online": {}
-"/notes/Reading/Lists/exam-list1-topic": {}
+"/notes/Reading/Lists/exam-list1-topic":
+  '1952910':
+    id: '1952910'
+    uri: https://hcommons.social/@ryanrandall/115511739190134264#favorited-by-109299065183297268
+    source: false
+    pubdate: 2025-11-08 12:49:05.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115511739190134264/109299065183297268
+      verified: true
+      verified_date: '2025-11-08T12:49:05+00:00'
+      id: 1952910
+      private: false
+      data:
+        author: &2
+          name: bookandswordblog
+          url: https://scholar.social/@bookandswordblog
+          photo: https://avatars.webmention.io/spaces.hcommons.social/7f9a6c170c5ad0723e6c4436e3cff545df3bffaf6d52f084447d9650ff16886e.jpg
+        url: https://hcommons.social/@ryanrandall/115511739190134264#favorited-by-109299065183297268
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/notes/Reading/Lists/exam-list1-topic
+    author: *2
+    type: like
+    content: ''
+  '1952911':
+    id: '1952911'
+    uri: https://hcommons.social/@ryanrandall/115511739190134264#reblogged-by-113274172980253352
+    source: false
+    pubdate: 2025-11-08 12:49:06.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115511739190134264/113274172980253352
+      verified: true
+      verified_date: '2025-11-08T12:49:06+00:00'
+      id: 1952911
+      private: false
+      data:
+        author: &3
+          name: David's Alter (Algo) Ego
+          url: https://mastodon.social/@colarusso_algo
+          photo: https://avatars.webmention.io/hcommons.social/49dbd3c0bdbb096fde9207cbec944917dc542f6aab93956aeec1ed11cc269eea.png
+        url: https://hcommons.social/@ryanrandall/115511739190134264#reblogged-by-113274172980253352
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/notes/Reading/Lists/exam-list1-topic
+    author: *3
+    type: repost
+    content: ''
+  '1952914':
+    id: '1952914'
+    uri: https://hcommons.social/@ryanrandall/115511739190134264#favorited-by-109476880980439499
+    source: false
+    pubdate: 2025-11-08 12:49:33.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115511739190134264/109476880980439499
+      verified: true
+      verified_date: '2025-11-08T12:49:33+00:00'
+      id: 1952914
+      private: false
+      data:
+        author: &4
+          name: DSri Seah (they/them)
+          url: https://opalstack.social/@dsri
+          photo: https://avatars.webmention.io/spaces.hcommons.social/e9570c9678a860f9a4a064e2376bbc3bab556cf58c42837f61b496e434afba92.png
+        url: https://hcommons.social/@ryanrandall/115511739190134264#favorited-by-109476880980439499
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/notes/Reading/Lists/exam-list1-topic
+    author: *4
+    type: like
+    content: ''
+  '1952907':
+    id: '1952907'
+    uri: https://beige.party/@onekind/115511788479784145
+    source: false
+    pubdate: 2025-11-07 19:46:54.000000000 -07:00
+    raw:
+      source: https://brid.gy/comment/mastodon/@ryanrandall@hcommons.social/115511739190134264/115511788531827038
+      verified: true
+      verified_date: '2025-11-08T12:49:02+00:00'
+      id: 1952907
+      private: false
+      data:
+        author: &5
+          name: Daniel Reeders
+          url: https://beige.party/@onekind
+          photo: https://avatars.webmention.io/spaces.hcommons.social/e6187da13e8171127606290d3930a020c461640ea1d0e4b04d1fee28a58d7d32.jpg
+        url: https://beige.party/@onekind/115511788479784145
+        name:
+        content: <p><span class="h-card"><a href="https://hcommons.social/@ryanrandall"
+          class="u-url">@<span>ryanrandall</span></a></span> When you're done you
+          might find <span class="h-card"><a href="https://old.mermaid.town/@fsvo"
+          class="u-url">@<span>fsvo</span></a></span>'s recent toots on the Foundation
+          series interesting to read. They would make 'hard scifi' fanboys VERY unhappy.</p>
+        published: '2025-11-08T02:46:54+00:00'
+        published_ts: 1762570014
+      activity:
+        type: reply
+      target: https://www.ryanpatrickrandall.com/notes/Reading/Lists/exam-list1-topic
+    author: *5
+    type: reply
+    content: <p><span class="h-card"><a href="https://hcommons.social/@ryanrandall"
+      class="u-url">@<span>ryanrandall</span></a></span> When you're done you might
+      find <span class="h-card"><a href="https://old.mermaid.town/@fsvo" class="u-url">@<span>fsvo</span></a></span>'s
+      recent toots on the Foundation series interesting to read. They would make 'hard
+      scifi' fanboys VERY unhappy.</p>
+  '1952906':
+    id: '1952906'
+    uri: https://opalstack.social/@dsri/115511830271021318
+    source: false
+    pubdate: 2025-11-07 19:57:32.000000000 -07:00
+    raw:
+      source: https://brid.gy/comment/mastodon/@ryanrandall@hcommons.social/115511739190134264/115511830317671791
+      verified: true
+      verified_date: '2025-11-08T12:49:02+00:00'
+      id: 1952906
+      private: false
+      data:
+        author: &6
+          name: DSri Seah (they/them)
+          url: https://opalstack.social/@dsri
+          photo: https://avatars.webmention.io/spaces.hcommons.social/e9570c9678a860f9a4a064e2376bbc3bab556cf58c42837f61b496e434afba92.png
+        url: https://opalstack.social/@dsri/115511830271021318
+        name:
+        content: <p><span class="h-card"><a href="https://hcommons.social/@ryanrandall"
+          class="u-url">@<span>ryanrandall</span></a></span> Ooo, very cool! Hope
+          you post your observations! I recently reread it also</p>
+        published: '2025-11-08T02:57:32+00:00'
+        published_ts: 1762570652
+      activity:
+        type: reply
+      target: https://www.ryanpatrickrandall.com/notes/Reading/Lists/exam-list1-topic
+    author: *6
+    type: reply
+    content: <p><span class="h-card"><a href="https://hcommons.social/@ryanrandall"
+      class="u-url">@<span>ryanrandall</span></a></span> Ooo, very cool! Hope you
+      post your observations! I recently reread it also</p>
 "/notes/Reading/Lists/exam-list2-field": {}
 "/notes/Reading/Lists/exam-list3-teaching": {}
 "/notes/Reading/Articles/turner-ponce-de-leon-discovery-reconsidered": {}
@@ -543,7 +690,7 @@
       id: 1936403
       private: false
       data:
-        author: &2
+        author: &7
           name: Webmention Rocks!
           url:
           photo: https://avatars.webmention.io/webmention.rocks/e08155b03da96cb1bdfd161ea24efdfad8d85d06afcee540ec246f1f613eb5a9.png
@@ -557,7 +704,7 @@
       activity:
         type: reply
       target: https://www.ryanpatrickrandall.com/webmentions-test/
-    author: *2
+    author: *7
     type: reply
     content: |-
       <p>This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the <a href="https://www.w3.org/TR/webmention/#receiving-webmentions">appropriate headers</a>.</p>
@@ -575,7 +722,7 @@
       id: 1937805
       private: false
       data:
-        author: &3
+        author: &8
           name: Reilly Spitzfaden (they/them)
           url: https://hachyderm.io/@reillypascal
           photo: https://avatars.webmention.io/spaces.hcommons.social/3af660ed5ecf66c02f75967e5aeb0e28785ae8f9a38f647978411d6b7c61e28f.jpg
@@ -587,7 +734,7 @@
       activity:
         type: like
       target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
-    author: *3
+    author: *8
     type: like
     content: ''
   '1937806':
@@ -602,7 +749,7 @@
       id: 1937806
       private: false
       data:
-        author: &4
+        author: &9
           name: Reilly Spitzfaden (they/them)
           url: https://hachyderm.io/@reillypascal
           photo: https://avatars.webmention.io/spaces.hcommons.social/3af660ed5ecf66c02f75967e5aeb0e28785ae8f9a38f647978411d6b7c61e28f.jpg
@@ -614,7 +761,7 @@
       activity:
         type: repost
       target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
-    author: *4
+    author: *9
     type: repost
     content: ''
   '1937807':
@@ -629,7 +776,7 @@
       id: 1937807
       private: false
       data:
-        author: &5
+        author: &10
           name: patatas
           url: https://social.patatas.ca/users/patatas
           photo: https://avatars.webmention.io/spaces.hcommons.social/b31802c29817453c828fa05cb99d7f0182d76ceab7b10b37d33dd71180f71cbe.jpg
@@ -641,7 +788,7 @@
       activity:
         type: like
       target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
-    author: *5
+    author: *10
     type: like
     content: ''
   '1937736':
@@ -656,7 +803,7 @@
       id: 1937736
       private: false
       data:
-        author: &6
+        author: &11
           name: Ryan Randall
           url: https://hcommons.social/@ryanrandall
           photo: https://avatars.webmention.io/media.hachyderm.io/15e26cd8cedcb9d311bd76c0f774f5e1904724879f98f672f7aef4c8961d3f2e.jpg
@@ -672,7 +819,7 @@
       activity:
         type: link
       target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
-    author: *6
+    author: *11
     type: link
     content: |-
       <p>A sweetly awkward high school movie, a fun techno compilation, and getting Webmentions to work with <span class="h-card"><a href="https://hachyderm.io/@reillypascal" class="u-url">@<span>reillypascal</span></a></span> 's indirect help — here are last week's <a href="https://hcommons.social/tags/weeknotes">#<span>weeknotes</span></a> </p><p><a href="https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36"><span>https://www.</span><span>ryanpatrickrandall.com/weekly-</span><span>assemblage/wa-2025-week-36</span></a></p><p>**edit** If you boost, like, or publicly reply to this post, that action might display on my blog post.</p>
@@ -691,7 +838,7 @@
       id: 1937845
       private: false
       data:
-        author: &7
+        author: &12
           name: Thejesh GN ⏚ ತೇಜೇಶ್ ಜಿ ಎನ್
           url: https://social.lol/@thej
           photo: https://avatars.webmention.io/spaces.hcommons.social/aeac5d35dbf89d42050712b55e6a38c06ea46b3f2edee1ecca5fa94b5f54fc40.png
@@ -703,7 +850,7 @@
       activity:
         type: repost
       target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
-    author: *7
+    author: *12
     type: repost
     content: ''
   '1937880':
@@ -718,7 +865,7 @@
       id: 1937880
       private: false
       data:
-        author: &8
+        author: &13
           name: David's Alter (Algo) Ego
           url: https://mastodon.social/@colarusso_algo
           photo: https://avatars.webmention.io/hcommons.social/49dbd3c0bdbb096fde9207cbec944917dc542f6aab93956aeec1ed11cc269eea.png
@@ -730,7 +877,46 @@
       activity:
         type: repost
       target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
-    author: *8
+    author: *13
     type: repost
     content: ''
+  '1941744':
+    id: '1941744'
+    uri: https://artlung.com
+    source: false
+    pubdate: 2025-09-23 14:27:32.000000000 +00:00
+    raw:
+      source: https://artlung.com/likes/2db29c56ea953d7cb1709c9ba613b4fe
+      verified: true
+      verified_date: '2025-09-23T14:27:32+00:00'
+      id: 1941744
+      private: false
+      data:
+        author: &14
+          name: Joe Crawford
+          url:
+          photo: https://avatars.webmention.io/artlung.com/a0b5bad7e1082e08dc5e72e7f4760d40596782e04895da8b740023e7c1904d15.jpg
+        url: https://artlung.com
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      rels:
+        canonical: https://artlung.com/likes/2db29c56ea953d7cb1709c9ba613b4fe
+      target: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2025-week-36
+    author: *14
+    type: like
+    content: ''
 "/_posts/2025-09-07-wa-2025-week-36": {}
+"/new-directions-in-information-fluency": {}
+"/semi-schematic/semi-schematic-newsletter-unlocked": {}
+"/testing-new-rss-feed-system": {}
+"/feed/semi-schematic.xml": {}
+"/feed-semi-schematic.xsl": {}
+"/feed.xml": {}
+"/feed.xsl": {}
+"/semi-schematic/": {}
+"/notes/Reading/Books/melville-moby-dick": {}
+"/notes/Reading/Books/brown-green-essentials-of-instructional-design": {}

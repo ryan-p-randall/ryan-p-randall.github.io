@@ -102,8 +102,8 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
+  - jekyll-webmention_io
 #  - jekyll-feed
-#  - jekyll-webmention_io
 #  - jekyll-algolia
 
 author:
@@ -236,7 +236,7 @@ webmentions:
     likes: _includes/webmentions-likes-custom.html
     reposts: _includes/webmentions-reposts-custom.html
   throttle_lookups:
-#    last_week: daily
+    last_week: daily
     last_month: weekly
     last_year: every 2 weeks
     older: monthly
@@ -251,3 +251,17 @@ webmentions:
       policy: retry
       retry_delay: [ 1, 12, 48, 120 ]
       max_retries: 5
+#    whitelist:
+#    blacklist:
+#      - "^www.bigfootjs.com/"
+#      - "^bookmarks.ryanpatrickrandall.com/"
+#      - "^etherpad.mozilla.org/"
+#      - "^jekyllrb.com/"
+#      - "^flipgrid.com/"
+#      - "^libraries.iub.edu/"
+#      - "^github.com/"
+#      - "^goodreads.com/"
+#      - "^storify.com/"
+#      - "^web.archive.org/"
+#      - "^wikipedia.org/"
+#      - "^youtube.com/"
