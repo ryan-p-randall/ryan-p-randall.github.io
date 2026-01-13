@@ -346,7 +346,6 @@ DEPENDENCIES
   github-pages
   github-pages-unscramble
   jekyll-algolia
-  jekyll-feed
   jekyll-gist
   jekyll-include-cache
   jekyll-paginate

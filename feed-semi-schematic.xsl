@@ -136,8 +136,8 @@
   </xsl:template>
 
   <xsl:template match="atom:feed">
-    <h1><xsl:value-of select="atom:title"/>'s Web Feed Preview</h1>
-    <p>This RSS feed provides the latest posts from <xsl:value-of select="atom:title"/>'s blog.
+    <h1><xsl:value-of select="atom:title"/>'s Semi-schematic Newsletter Feed Preview</h1>
+    <p>This RSS feed provides the latest posts from my Semi-schematic newsletter, where I sketch out ideas on learning, teaching, instructional design, human uses of information, &amp; etc.
 
     <a class="head_link" target="_blank">
       <xsl:attribute name="href">
