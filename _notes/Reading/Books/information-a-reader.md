@@ -1,6 +1,6 @@
 ---
 date: 2025-03-15T15:01:37-6:00
-last_modified_at: 2026-01-18
+last_modified_at: 2026-01-19
 reading: true
 reading-books: true
 excerpt: "A humanistic introduction to the concept of information in historical, literary, and cultural studies."
@@ -11,11 +11,11 @@ work_author: 'Edited by Eric Hayot, Anatoly Detwyler, and Lea Pao.'
 work_author_sort: "Hayot, Eric, Anatoly Detwyler, and Lea Pao"
 work_link: 'https://openlibrary.org/works/OL21696531W/Information_-_a_Reader'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-01-19
 date_started: 2025-03-11
-current: true # false
-progress_current: 341
+current: false # true
+progress_current: 393
 progress_max: 393
 reading_list01: true
 genre: [theory, book] # fiction novel article practice pedagogy criticism
