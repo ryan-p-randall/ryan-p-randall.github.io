@@ -10,11 +10,23 @@ toc: true
 featured_pages: true
 ---
 
-Here's where I track what I've been reading—and occasionally share my public thoughts on works as well.  
+Here's where I track what I've been reading—and occasionally share my public thoughts, too. As you'll notice, I typically read works in parallel.[^boyle]
 
-As you'll notice, I often read works in parallel. I've done this long before encountering the approach Casey Boyle shares in his […something like a reading ethics…](https://web.archive.org/web/20161026154722/https://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/) ([[casey-boyle-something-like-reading-ethics|my notes]]), but I like his way of thinking about reading enough to highlight it here.  
+[^boyle]: I've done this long before encountering the approach Casey Boyle shares in his […something like a reading ethics…](https://web.archive.org/web/20161026154722/https://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/) ([[casey-boyle-something-like-reading-ethics|my notes]])—and I like his ways of thinking about reading enough to highlight his approach here!  
 
 I'll be heavily prioritizing the [reading lists for my Ph.D. qualifying exams](#my-reading-lists), which I'm aiming to take in October of 2026.  
+
+<details id="about-this-reading-log"><summary><h2 id="about-this-reading-log">About This Reading Log</h2></summary>
+<div markdown="1">
+I first built this reading log system in 2023, when I realized I wanted my own little alternative to corporate-owned platforms. You might consider [BookWyrm](https://bookwyrm.social/) if you're interested in something similarly non-corporate, but more social and less DIY.  
+
+I'll occasionally add works that I read before 2023 when I realize I might want to refer to them on here.  
+
+This reading log system uses a separate Markdown note for each work, with relevant information like the page count and the dates when I started & finished. The tools that build this site, [Jekyll](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) and [Liquid](https://shopify.github.io/liquid/), take that information and create the sections you see below, as well as individual pages for each work.  
+
+As of 2026-01-20, I'm considering writing up a "How did I do this?" guide in the next couple months.
+</div>
+</details>
 
 <!-- currently reading -->
 
@@ -113,7 +125,7 @@ I'll be heavily prioritizing the [reading lists for my Ph.D. qualifying exams](#
 ## Previously Read  
 
 {% assign reading_notes_all = site.notes | where:"reading","true" | sort_natural: "title" %}
-{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2022" | sort: "year_read" | group_by:"year_read" %}
+{% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2000" | sort: "year_read" | group_by:"year_read" %}
 {% for year in reading_notes_by_year reversed %}
 {% assign yearly_items_sorted = year.items | sort_natural: "title" %}
 <details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>

@@ -912,7 +912,493 @@
 "/_posts/2025-09-07-wa-2025-week-36": {}
 "/new-directions-in-information-fluency": {}
 "/semi-schematic/semi-schematic-newsletter-unlocked": {}
-"/testing-new-rss-feed-system": {}
+"/testing-new-rss-feed-system":
+  '1967804':
+    id: '1967804'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-110683367912134300
+    source: false
+    pubdate: 2026-01-13 20:50:11.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/110683367912134300
+      verified: true
+      verified_date: '2026-01-13T20:50:11+00:00'
+      id: 1967804
+      private: false
+      data:
+        author: &15
+          name: hansup
+          url: https://mastodon.hansup.be/@hans
+          photo: https://avatars.webmention.io/hcommons.social/49dbd3c0bdbb096fde9207cbec944917dc542f6aab93956aeec1ed11cc269eea.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-110683367912134300
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *15
+    type: like
+    content: ''
+  '1967805':
+    id: '1967805'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109845196783553831
+    source: false
+    pubdate: 2026-01-13 20:50:18.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/109845196783553831
+      verified: true
+      verified_date: '2026-01-13T20:50:18+00:00'
+      id: 1967805
+      private: false
+      data:
+        author: &16
+          name: Else, Someone
+          url: https://mastodon.acm.org/@nobody
+          photo: https://avatars.webmention.io/spaces.hcommons.social/fc3d635654b1af291af09eb0939585b349aae3c011aeff5ad39ffe2254f80f6b.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109845196783553831
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *16
+    type: like
+    content: ''
+  '1967806':
+    id: '1967806'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-111715439149538222
+    source: false
+    pubdate: 2026-01-13 20:50:22.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/111715439149538222
+      verified: true
+      verified_date: '2026-01-13T20:50:22+00:00'
+      id: 1967806
+      private: false
+      data:
+        author: &17
+          name: butterfish
+          url: https://glammr.us/@butterfish
+          photo: https://avatars.webmention.io/spaces.hcommons.social/18bf138f4fda59e17d42ce004d02f73f8300391a7bf016ccfc9a5d1a6033f766.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-111715439149538222
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *17
+    type: like
+    content: ''
+  '1967807':
+    id: '1967807'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-114326699832225478
+    source: false
+    pubdate: 2026-01-13 20:50:25.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/114326699832225478
+      verified: true
+      verified_date: '2026-01-13T20:50:25+00:00'
+      id: 1967807
+      private: false
+      data:
+        author: &18
+          name: Geoff Wozniak
+          url: https://masto.hackers.town/@GeoffWozniak
+          photo: https://avatars.webmention.io/spaces.hcommons.social/1c6747fc296cd97a5d63e359c36d1b677070859c0b7cbf34423d737feb050d97.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-114326699832225478
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *18
+    type: like
+    content: ''
+  '1967808':
+    id: '1967808'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-112241448699713762
+    source: false
+    pubdate: 2026-01-13 20:50:44.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/112241448699713762
+      verified: true
+      verified_date: '2026-01-13T20:50:44+00:00'
+      id: 1967808
+      private: false
+      data:
+        author: &19
+          name: somcak
+          url: https://beige.party/@somcak
+          photo: https://avatars.webmention.io/spaces.hcommons.social/975b75f385d553185c1c75fcf8022ed6757947944d752aec2e540c5a2bb340aa.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-112241448699713762
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *19
+    type: like
+    content: ''
+  '1967809':
+    id: '1967809'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109302869587285893
+    source: false
+    pubdate: 2026-01-13 20:50:46.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/109302869587285893
+      verified: true
+      verified_date: '2026-01-13T20:50:46+00:00'
+      id: 1967809
+      private: false
+      data:
+        author: &20
+          name: rusty congaree
+          url: https://scholar.social/@rusty
+          photo: https://avatars.webmention.io/spaces.hcommons.social/3acd71c12074ed9199d412729ca2219f74dfe3d66b8601e0bf7b668b83955083.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109302869587285893
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *20
+    type: like
+    content: ''
+  '1967810':
+    id: '1967810'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109802695423642245
+    source: false
+    pubdate: 2026-01-13 20:50:59.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/109802695423642245
+      verified: true
+      verified_date: '2026-01-13T20:50:59+00:00'
+      id: 1967810
+      private: false
+      data:
+        author: &21
+          name: Sam
+          url: https://glammr.us/@Sam_winn
+          photo: https://avatars.webmention.io/spaces.hcommons.social/796fdfb43e1325381e443a558041e9cfbee7ac3161871f41f8f335fd6ec43228.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109802695423642245
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *21
+    type: like
+    content: ''
+  '1967811':
+    id: '1967811'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109305279253657139
+    source: false
+    pubdate: 2026-01-13 20:51:09.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/109305279253657139
+      verified: true
+      verified_date: '2026-01-13T20:51:09+00:00'
+      id: 1967811
+      private: false
+      data:
+        author: &22
+          name: Jeff MacKinnon
+          url: https://bluenoser.me/@Jeff
+          photo: https://avatars.webmention.io/spaces.hcommons.social/9d99363d7c6613f49592632b8bc303e2638c0d994b98d5fc46c1db29d90fcd5b.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109305279253657139
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *22
+    type: like
+    content: ''
+  '1967812':
+    id: '1967812'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-111177321157336985
+    source: false
+    pubdate: 2026-01-13 20:51:19.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/111177321157336985
+      verified: true
+      verified_date: '2026-01-13T20:51:19+00:00'
+      id: 1967812
+      private: false
+      data:
+        author: &23
+          name: miyo
+          url: https://turtleisland.social/@miyotehew
+          photo: https://avatars.webmention.io/spaces.hcommons.social/9e44dd09c6e9524767e4be053e35cd912f507cb40ee37edb9df820019538c6e9.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-111177321157336985
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *23
+    type: like
+    content: ''
+  '1967813':
+    id: '1967813'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-110209727941798262
+    source: false
+    pubdate: 2026-01-13 20:51:19.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115885340351756480/110209727941798262
+      verified: true
+      verified_date: '2026-01-13T20:51:19+00:00'
+      id: 1967813
+      private: false
+      data:
+        author: &24
+          name: Tim Lavoie
+          url: https://cosocial.ca/@tim_lavoie
+          photo: https://avatars.webmention.io/spaces.hcommons.social/7ce5cb48cae56b739cc1ebab4b62acf5de8de2dec6f8f3321d9795a637c779b7.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-110209727941798262
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *24
+    type: repost
+    content: ''
+  '1967814':
+    id: '1967814'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-113274172980253352
+    source: false
+    pubdate: 2026-01-13 20:51:27.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115885340351756480/113274172980253352
+      verified: true
+      verified_date: '2026-01-13T20:51:27+00:00'
+      id: 1967814
+      private: false
+      data:
+        author: &25
+          name: David's Alter (Algo) Ego
+          url: https://mastodon.social/@colarusso_algo
+          photo: https://avatars.webmention.io/hcommons.social/49dbd3c0bdbb096fde9207cbec944917dc542f6aab93956aeec1ed11cc269eea.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-113274172980253352
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *25
+    type: repost
+    content: ''
+  '1967815':
+    id: '1967815'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-111177321157336985
+    source: false
+    pubdate: 2026-01-13 20:51:29.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115885340351756480/111177321157336985
+      verified: true
+      verified_date: '2026-01-13T20:51:29+00:00'
+      id: 1967815
+      private: false
+      data:
+        author: &26
+          name: miyo
+          url: https://turtleisland.social/@miyotehew
+          photo: https://avatars.webmention.io/spaces.hcommons.social/9e44dd09c6e9524767e4be053e35cd912f507cb40ee37edb9df820019538c6e9.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-111177321157336985
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *26
+    type: repost
+    content: ''
+  '1967816':
+    id: '1967816'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-109303272290234324
+    source: false
+    pubdate: 2026-01-13 20:51:52.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115885340351756480/109303272290234324
+      verified: true
+      verified_date: '2026-01-13T20:51:52+00:00'
+      id: 1967816
+      private: false
+      data:
+        author: &27
+          name: alcinnz
+          url: https://floss.social/@alcinnz
+          photo: https://avatars.webmention.io/spaces.hcommons.social/ea9f9b923530ba4c7c2ce42a8703f160aa3534788226da787f480e6e94c9abb1.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-109303272290234324
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *27
+    type: repost
+    content: ''
+  '1967817':
+    id: '1967817'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-113827316110566492
+    source: false
+    pubdate: 2026-01-13 20:51:54.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115885340351756480/113827316110566492
+      verified: true
+      verified_date: '2026-01-13T20:51:54+00:00'
+      id: 1967817
+      private: false
+      data:
+        author: &28
+          name: May Likes Toronto
+          url: https://beige.party/@mayintoronto
+          photo: https://avatars.webmention.io/spaces.hcommons.social/ee032b7b34aa5da7dff1884caecbfcf9a2194b9516daa3ac49e160103c7a9c7a.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-113827316110566492
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *28
+    type: repost
+    content: ''
+  '1967818':
+    id: '1967818'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109305604710447774
+    source: false
+    pubdate: 2026-01-13 20:52:04.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/109305604710447774
+      verified: true
+      verified_date: '2026-01-13T20:52:04+00:00'
+      id: 1967818
+      private: false
+      data:
+        author: &29
+          name: Nelson
+          url: https://jawns.club/@skyfaller
+          photo: https://avatars.webmention.io/spaces.hcommons.social/60058566749e0789b1702a8fb4ba210ec87a294f8347020cf0a8144ee764c32f.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109305604710447774
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *29
+    type: like
+    content: ''
+  '1967984':
+    id: '1967984'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109303425876104448
+    source: false
+    pubdate: 2026-01-15 00:51:38.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/109303425876104448
+      verified: true
+      verified_date: '2026-01-15T00:51:38+00:00'
+      id: 1967984
+      private: false
+      data:
+        author: &30
+          name: SlightlyCyberpunk
+          url: https://mastodon.slightlycyberpunk.com/@admin
+          photo: https://avatars.webmention.io/spaces.hcommons.social/1a4e1b354b6dc3533a18a120845960a8a00ab8e11e1c3c2d7392ff186bb1e7ab.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109303425876104448
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *30
+    type: like
+    content: ''
+  '1967985':
+    id: '1967985'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-109316963996748648
+    source: false
+    pubdate: 2026-01-15 00:51:39.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/115885340351756480/109316963996748648
+      verified: true
+      verified_date: '2026-01-15T00:51:39+00:00'
+      id: 1967985
+      private: false
+      data:
+        author: &31
+          name: Bill Sharpe Gadfly
+          url: https://techhub.social/@OhMrBill
+          photo: https://avatars.webmention.io/spaces.hcommons.social/1cf30baf714dadbc3ac3cad15aa6b3f9b1fa3fd07fe873e3219b359b5b2f86a3.jpg
+        url: https://hcommons.social/@ryanrandall/115885340351756480#reblogged-by-109316963996748648
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *31
+    type: repost
+    content: ''
+  '1968961':
+    id: '1968961'
+    uri: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109333321936334301
+    source: false
+    pubdate: 2026-01-20 03:09:07.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/115885340351756480/109333321936334301
+      verified: true
+      verified_date: '2026-01-20T03:09:07+00:00'
+      id: 1968961
+      private: false
+      data:
+        author: &32
+          name: Melissa
+          url: https://mastodon.ie/@mtechman
+          photo: https://avatars.webmention.io/spaces.hcommons.social/593ec1df4efbe63c7553204fd2b17b8d42c236964cd3978783e9141e3abf1253.png
+        url: https://hcommons.social/@ryanrandall/115885340351756480#favorited-by-109333321936334301
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/testing-new-rss-feed-system
+    author: *32
+    type: like
+    content: ''
 "/feed/semi-schematic.xml": {}
 "/feed-semi-schematic.xsl": {}
 "/feed.xml": {}
@@ -920,3 +1406,4 @@
 "/semi-schematic/": {}
 "/notes/Reading/Books/melville-moby-dick": {}
 "/notes/Reading/Books/brown-green-essentials-of-instructional-design": {}
+"/notes/Reading/Books/parker-how-to-interpret-literature": {}

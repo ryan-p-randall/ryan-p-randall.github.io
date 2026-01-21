@@ -231,13 +231,14 @@ webmentions:
   pages: true
   collections:
     - notes
+  js: false
   templates:
     bookmarks: _includes/webmentions-bookmarks-custom.html
     likes: _includes/webmentions-likes-custom.html
     reposts: _includes/webmentions-reposts-custom.html
   throttle_lookups:
     last_week: daily
-    last_month: weekly
+    last_month: daily
     last_year: every 2 weeks
     older: monthly
   max_attempts: 5
@@ -253,15 +254,15 @@ webmentions:
       max_retries: 5
 #    whitelist:
 #    blacklist:
-#      - "^www.bigfootjs.com/"
-#      - "^bookmarks.ryanpatrickrandall.com/"
-#      - "^etherpad.mozilla.org/"
-#      - "^jekyllrb.com/"
-#      - "^flipgrid.com/"
-#      - "^libraries.iub.edu/"
-#      - "^github.com/"
-#      - "^goodreads.com/"
-#      - "^storify.com/"
-#      - "^web.archive.org/"
-#      - "^wikipedia.org/"
-#      - "^youtube.com/"
+#      - "^https://jekyllrb.com/"
+#      - "^https://flipgrid.com/"
+#      - "^https://storify.com/"
+#      - "www.bigfootjs.com/"
+#      - "bookmarks.ryanpatrickrandall.com/"
+#      - "etherpad.mozilla.org/"
+#      - "libraries.iub.edu/"
+#      - "github.com/"
+#      - "goodreads.com/"
+#      - "web.archive.org/"
+#      - "wikipedia.org/"
+#      - "youtube.com/"
