@@ -69,6 +69,10 @@ sidebar:
                 {% else %}
                 Started: Not yet started
             {% endif %}
+            {% if page.genre %}<br />
+            Genre: {{ page.genre | array_to_sentence_string }}
+            {% else %}
+            {% endif %}
         {% endif %}
 
         {% comment %}
