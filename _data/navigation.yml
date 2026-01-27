@@ -6,6 +6,8 @@ main:
 #    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Portfolio"
+    url: /id-portfolio/
   - title: "Blog"
     url: /posts/
   - title: "Notes"

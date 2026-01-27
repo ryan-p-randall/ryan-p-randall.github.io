@@ -19,4 +19,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "github-pages-unscramble"
   gem "jekyll-webmention_io"
+  gem 'jekyll-tagories', '~> 0.1.0'
 end

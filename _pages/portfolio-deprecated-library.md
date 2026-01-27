@@ -1,9 +1,10 @@
 ---
-permalink: /portfolio/
-title: "Portfolio"
-last_modified_at: 2015-10-10 11:30
+permalink: /portfolio-deprecated-library/
+title: "Portfolio (Deprecated, library)"
+last_modified_at: 2026-01-21T19:47:36-6:00
 tags: [projects and papers]
 toc: true
+published: false
 ---
 
 Here are some of the more library-related things I've done. This is current as of 2015-10-10. My full [cv is available here](/cv/).  

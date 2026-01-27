@@ -103,6 +103,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-webmention_io
+  - jekyll-tagories
 #  - jekyll-feed
 #  - jekyll-algolia
 
@@ -150,9 +151,9 @@ collections:
   bookmarks:
     output: true
     permalink: /:collection/:path
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path
+  id-portfolio:
+    output: true
+    permalink: /:collection/:path
 #  posts:
 #    output: true
 
@@ -203,6 +204,17 @@ defaults:
       # toc: false # true
       # toc_sticky: false # true
       author_profile: false # true
+  # id-portfolio
+  - scope:
+      path: ""
+      type: id-portfolio
+    values:
+      layout: single
+      author_profile: false # true
+      breadcrumbs: true
+      toc: true
+      toc_sticky: true
+      feedback: false # true
 
 category_archive:
   type: liquid
