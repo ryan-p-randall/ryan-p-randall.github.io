@@ -29,7 +29,7 @@ I created a single-session learning experience that breezily introduces accessib
 <figure style="max-width: 600px;">
     <img
         src="/assets/images/booky-carmen.png"
-        alt="Screenshot with two sentences of text: Let's try an online icebreaker for learning this interface. Your mission, should you choose to accept it, is as follows. Below the text is an image of Carmen Sandiego looking fabulous and daring." />
+        alt="Screenshot with two sentences of text: Let's try an online icebreaker for learning this interface. Your mission, should you choose to accept it, is as follows. Below the text is an image of Carmen Sandiego looking fabulous and daring."/>
     <figcaption>Snippet from the tutorial's introduction.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ I created a single-session learning experience that breezily introduces accessib
 
 ### Brief History
 
-I initially designed this tutorial for students in Liza Long's English 2011, Literary Analysis course. Realizing that the experience went well due to a sense of playful experimentation, I named it with a nod to the submarine [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface). Soon after, I began offering this learning experience to faculty and staff at the College of Western Idaho, then to those at other Idaho institutions.  
+I initially designed this tutorial for students in Liza Long's English 211: Literary Analysis course. Realizing that the experience went well due to a sense of playful experimentation, I named it with a nod to the submarine [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface). Soon after, I began offering this learning experience to faculty and staff at the College of Western Idaho, then to those at other Idaho institutions.  
 
 Building on their feedback and my observations of what could be improved, I revised elements of the tutorial. I also added explanatory content for tutorial facilitators and chapters with example participant names.  
 
@@ -45,13 +45,13 @@ Then I [published the tutorial](https://isu.pressbooks.pub/booky/) with a Creati
 
 ### Scenario
 
-Liza Long, then a professor at the College of Western Idaho, was beginning to create an open educational resource on literary analysis with students in her [English 211, Literary Analysis course](https://web.archive.org/web/20220205132615/https://cwi.edu/news/news-room/english-students-experience-world-publishing-firsthand). She had previously done similar ["renewable assignments"](https://flexible.learning.ubc.ca/news-events/renewable-assignments-student-work-adding-value-to-the-world/) in a different digital platform, and wanted her student groups to write directly in the Pressbooks environment.  
+Liza Long, then a professor at the College of Western Idaho, was beginning to create an open educational resource on literary analysis with students in her [English 211, Literary Analysis course](https://cwi.edu/news/news-room/english-students-experience-world-publishing-firsthand). She had previously done similar ["renewable assignments"](https://flexible.learning.ubc.ca/news-events/renewable-assignments-student-work-adding-value-to-the-world/) in a different digital platform, and wanted her student groups to write directly in the Pressbooks environment.  
 
 ### Analysis
 
 #### Learner Analysis
 
-First I analyzed what the ENGL 2011 students would likely be able to do. Although they almost certainly would never have used Pressbooks itself, that platform was based off of Wordpress. Thus, Pressbooks's rich text environment shares its design and behavior with many of the most frequently-used tools on the web.  
+First I analyzed what the ENGL 211 students would likely be able to do. Although they almost certainly would never have used Pressbooks itself, that platform was based off of Wordpress. Thus, Pressbooks's rich text environment shares its design and behavior with many of the most frequently-used tools on the web.  
 
 Second, I analyzed what harms students could do. The permissions they'd receive in Pressbooks would only let each individual student write, alter, or delete what they themselves wrote. Therefore, it wasn't necessary to warn them about their responsibility to other authors or to get into the features available to user roles beyond author, such as editor or administrator features that professors or staff might have.  
 
