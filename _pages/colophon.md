@@ -34,7 +34,9 @@ Jekyll and GitHub Pages make for a great alternative to [WordPress](https://word
 
 ### Fonts, Plugins, and Other Theme Customizations  
 
-To the Minimal Mistakes theme, I've added [Bigfoot.js](http://www.bigfootjs.com/) for the fancy pop-up footnotes and [Reveal.js](http://lab.hakim.se/reveal-js/#/) for a splendid presentation alternative to PowerPoint or Keynote. 
+In January 2026 I added one of Andy Carolan's delightful ["Made By a Human" buttons](https://ko-fi.com/s/4662b19f61) to the site footer. Do yourself a favor and peruse similarly playful illustrations in [Andy's portfolio](https://www.andycarolan.com/).  
+
+As of January 2026, I've also minimally adapted code for suggested citations from [code shared on GitHub](https://github.com/scholarslab/scholarslab.github.io/blob/main/_layouts/post.html#L35-L56) by the wonderful people at the [UVA Library's Scholars' Lab](https://scholarslab.lib.virginia.edu/).  
 
 As of late November, 2023, the <span style="font-family: Cartridge;">heading font</span> is [Cartridge](https://simplebits.shop/collections/fonts/products/cartridge) by [SimpleBits](https://simplebits.shop/) and the body text font is [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) by the [Braille Institute](https://brailleinstitute.org/).  
 
@@ -43,6 +45,8 @@ I use [FontAwesome](http://fontawesome.io) for most of the icons, and James Wals
 I've also added (and lightly customized) Maxime Vaillancourt's [Bidirectional links generator](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_plugins/bidirectional_links_generator.rb) to make bidirectional links work in my [Notes/Digital Garden]({% link _notes/index.html %}). (The customizations allow the wikilink brackets pattern to work from posts as well as notes and pages.)  
 
 The favicon (the little ellipsis in a speech bubble) is ["Blog" by Scott Lewis](https://thenounproject.com/term/blog/4618/), available with a CC BY-3.0 license from the Noun Project. I <strike>chopped and screwed</strike> cropped and shrank it into the favicon format.  
+
+To the Minimal Mistakes theme, I've added [Bigfoot.js](http://www.bigfootjs.com/) for the fancy pop-up footnotes and [Reveal.js](http://lab.hakim.se/reveal-js/#/) for a splendid presentation alternative to PowerPoint or Keynote.  
 
 ## Link Conventions
 
