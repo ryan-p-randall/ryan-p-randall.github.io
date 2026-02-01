@@ -14,7 +14,7 @@ webmentions: false
 
 Everything on this site is written by me, without any use of "AI" technologies.  
 
-I have indeed been organically typing **em-dashes** since at least [this 2014 post](https://web.archive.org/web/20150131211510/http://ryan-p-randall.github.io/software-carpentry-workshop-reflections/), which features no fewer than 3 of them! I'm pretty sure I learned the keyboard input from [Butterick's Practical Typograph](https://practicaltypography.com/hyphens-and-dashes.html).  
+I have indeed been organically typing **em-dashes** since at least [this 2014 post](https://web.archive.org/web/20150131211510/http://ryan-p-randall.github.io/software-carpentry-workshop-reflections/), which features no fewer than 3 of them! I'm pretty sure I learned the keyboard input from [Butterick's Practical Typography](https://practicaltypography.com/hyphens-and-dashes.html).  
 
 If I do include AI-generated content on this site, I will be fully transparent about **what** content was AI-generated, **why** I've chosen to do so, as well as **how** I did so (i.e. which tool and the specific prompt that produced whatever I post here). I'll also **update this page**, similar to how the TV show [Parker Lewis Can't Lose](https://en.wikipedia.org/wiki/Parker_Lewis_Can%27t_Lose) changed its name for the final season.  
 
