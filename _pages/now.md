@@ -22,10 +22,12 @@ As of June 2024, I've adopted Derek Kedziora's very clever [dynamic now page](ht
 And as of January 2026, I further adapted Derek Kedziora's Liquid code after realizing that on my site, this page was displaying the content of the oldest Now post rather than the newest.  
 
 Here's that relevant Liquid code, as of 2026-01-31:
+{% raw %}
 ```liquid
 {% assign now_posts = site.categories.now %}
 {{ now_posts.last.content }}
 ```
+{% endraw %}
 
 ## The Long `/Now`  
 
