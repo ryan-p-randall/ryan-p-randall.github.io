@@ -1,5 +1,6 @@
 ---
 permalink: /feed/semi-schematic.xml
+feed_posts_limit: 20
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="/feed-semi-schematic.xsl" type="text/xsl"?>
@@ -17,7 +18,9 @@ permalink: /feed/semi-schematic.xml
  </author>
  <rights type="text">Copyright © {{ site.time | date: "%Y" }} {{ site.author }}. All rights reserved.</rights>
 
- {% for post in site.posts %}
+{% assign posts_limit = page.feed_posts_limit %}
+
+ {% for post in site.posts limit: posts_limit %}
     {% if post.categories contains "semi-schematic" %}
     <entry{% if post.lang %}{{" "}}xml:lang="{{ post.lang }}"{% endif %}>
       {% assign post_title = post.title | smartify | strip_html | normalize_whitespace | xml_escape %}

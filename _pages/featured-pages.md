@@ -3,72 +3,45 @@ permalink: /featured-pages/
 title: "Featured Pages"
 ---
 
-Several Pages Galore
-
 <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(2, 0.5fr); margin-bottom: 1em;">
     <div class="backlink-box">
-        <a aria-describedby="blips-desc" href="{{ '/blips/' | relative_url }}">Blips</a><br>
-        <div><span id="blips-desc">Hyperlocal microblogging.</span></div>
+        <a aria-describedby="booksmarks-desc" href="https://bookmarks.ryanpatrickrandall.com">Bookmarks</a><br>
+        <div><span id="bookmarks-desc">Resources worth sharing.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="booksmarks-desc" href="https://bookmarks.ryanpatrickrandall.com">Bookmarks</a><br>
-        <div><span id="bookmarks-desc">Bookmarks I'd like to share.</span></div>
+        <a aria-describedby="id-portfolio-desc" href="{{ '/id-portfolio/' | relative_url }}">ID Portfolio</a><br>
+        <div><span id="id-portfolio-desc">Instructional design reflections.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="colophone-desc" href="{{ '/colophon/' | relative_url }}">Colophon</a><br>
-        <div><span id="colophon-desc">Info on how I make this site.</span></div>
+        <div><span id="colophon-desc">How I make this site.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="elsewhere-desc" href="{{ '/elsewhere/' | relative_url }}">Elsewhere</a><br>
-        <div><span id="elsewhere-desc">Other online places I exist.</span></div>
+        <div><span id="elsewhere-desc">Other places I exist online.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="now-desc" href="{{ '/now/' | relative_url }}">Now</a><br>
-        <div><span id="now-desc">Some things I'm currently doing.</span></div>
+        <div><span id="now-desc">What I'm doing.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="reading-desc" href="{{ '/reading/' | relative_url }}">Reading</a><br>
-        <div><span id="reading-desc">What I'm reading at the moment.</span></div>
+        <div><span id="reading-desc">What I'm reading.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="uses-desc" href="{{ '/uses/' | relative_url }}">Uses</a><br>
-        <div><span id="uses-desc">Some apps and other things I use.</span></div>
+        <div><span id="uses-desc">Apps and other things I use.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="postroll-desc" href="{{ '/postroll/' | relative_url }}">Postroll</a><br>
         <div><span id="postroll-desc">Other people's posts.</span></div>
     </div>
-<!--    <div class="backlink-box">
-        <a aria-describedby="ways-desc" href="{{ site.url }}/ways/">Ways</a><br>
-        <div><span id="ways-desc">Ways I do things (and you might too).</span></div>
-    </div>
--->
-<!-- 
     <div class="backlink-box">
-        <a aria-describedby="PAGE-desc" href="{{ site.url }}/…/"></a><br>
-        <div><span id="PAGE-desc"></span></div>
+        <a aria-describedby="slashes-desc" href="{{ '/slashes/' | relative_url }}">Slashes</a><br>
+        <div><span id="slashes-desc">My `/slash` pages.</span></div>
     </div>
--->
-    {% comment %}{% assign featured_pages = site.pages | where: 'featured_pages','true' %}
-    {% for page in featured_pages %}
-    {% endfor %}
     <div class="backlink-box">
-        <a href="{{ page.url | relative_url }}">{{ page.title }}</a><br>
-        <!-- <a class="internal-link"
-            href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{
-            backlink.title }}</a><br> -->
-        <div style="font-size: 0.9em">{{ page.quip | markdownify | truncatewords: 20 }}</div> <!-- initially was backlink.excerpt | strip_html | truncatewords: 20 -->
+        <a aria-describedby="ai-desc" href="{{ '/ai/' | relative_url }}">AI</a><br>
+        <div><span id="ai-desc">My approach to AI.</span></div>
     </div>
-    {% endcomment %}
 </div>
-{% comment %}
-{% assign main_pages = site.pages | where: 'main_pages','true' %}
-{% for page in main_pages %}
-    <div><a class="btn btn--primary btn--large>
-<!-- 
-  <li >
-    <a href="{{ page.url }}">{{ page.title }}</a>
-  </li>
--->
-{% endfor %}
-{% endcomment %}

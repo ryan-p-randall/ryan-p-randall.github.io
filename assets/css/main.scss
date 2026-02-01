@@ -208,3 +208,47 @@ h1, h2, h3, h4, h5, h6 {
 .social-icons .fa-mastodon-square {
 /*! color: #2b90d9; */ 
 color: unset !important; }
+
+.footer-links-container {
+    display: block;
+    text-align: center;
+}
+
+/*
+.footer-links-container a {
+    text-decoration: underline;
+    color: #fb802f;
+}
+
+.footer-links-container a {
+    color: #fc9959;
+}
+
+.footer-links-container a:visited {
+    color: #c96626;
+}
+*/
+
+.footer-buttons-container img {
+    max-height: 31px;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+/*
+.footer-buttons-container {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fill, minmax(88px, 1fr));
+    grid-column-gap: 10px;
+}
+*/
+
+.footer-buttons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+}
