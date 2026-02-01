@@ -18,13 +18,15 @@ Here are some particularly noteworthy changes.[^not-semver]
 
 ## 2026
 
+- 2026-02-01: Added conditional MLA citation to pages, not just posts. Refined the `/ai` page a bit.  
 - 2026-01-31:  
     - Added this changelog page, an [`/ai` page](/ai/), and a [`slashes` page](/slashes/).
     - Changed the [`/now` page](/now/) code.
-    - Changed the sitewide footer section (adding a few links, a couple buttons, and a Website Carbon link).
+    - Changed the sitewide footer section (adding 3 links & 2 buttons, having made sure the styling could accommodate many more).
     - Changed the Liquid code that generates the RSS/Atom feeds to limit each to only include the most recent 20 posts.  
 - 2026-01-26: Added [ID Portfolio page](/id-portfolio/) and four project retrospectives. Add Jekyll-Tagories plug-in.  
 - 2026-01-11: Styled the RSS/Atom feeds.  
+- 2026-01-07: Add conditional citations (in MLA style) to pages & posts, minimally adapted from [code shared on GitHub](https://github.com/scholarslab/scholarslab.github.io/blob/main/_layouts/post.html#L35-L56) by the awesome folks at the [UVA Library's Scholars' Lab](https://scholarslab.lib.virginia.edu/).  
 - 2026-01-03: Add [Shaarli](https://github.com/shaarli/Shaarli)-based [Bookmarks](https://bookmarks.ryanpatrickrandall.com/) section.  
 
 ## 2025
