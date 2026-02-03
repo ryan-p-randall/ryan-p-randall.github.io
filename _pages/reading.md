@@ -1,8 +1,9 @@
 ---
 permalink: /reading/
 title: "A Reading Log"
-# date: 2023-01-10
-# last_modified_at: 2023-02-01
+date: 2023-01-10
+last_modified_at: 2026-02-01
+excerpt: "What I've been reading"
 # header: 
 #  image: /assets/images/pocket-notebooks.jpg
 #  image_description: "ryan's pocket notebooks"

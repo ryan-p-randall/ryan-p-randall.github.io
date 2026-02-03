@@ -242,3 +242,13 @@ h1,h2,h3,h4,h5,h6 {
 .social-icons .fa-mastodon-square {
   /*! color: #2b90d9; */ 
   color: unset !important; }
+
+img.emoji {
+    height: 1em;
+    width: 1em;
+}
+
+.sidebar img.emoji {
+  width:1em;
+  height:1em;
+}
