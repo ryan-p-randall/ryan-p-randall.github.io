@@ -265,14 +265,15 @@ webmentions:
       retry_delay: [ 1, 12, 48, 120 ]
       max_retries: 5
 #    whitelist:
-#    blacklist:
-#      - "^https://jekyllrb.com/"
-#      - "^https://flipgrid.com/"
-#      - "^https://storify.com/"
-#      - "www.bigfootjs.com/"
+    blacklist:
+      - "^https://jekyllrb.com/"
+      - "^https://flipgrid.com/"
+      - "^https://storify.com/"
+      - "^libraries.iub.edu/"
+      - "^libraryfreedomproject.org/"
+      - "^www.bigfootjs.com/"
 #      - "bookmarks.ryanpatrickrandall.com/"
 #      - "etherpad.mozilla.org/"
-#      - "libraries.iub.edu/"
 #      - "github.com/"
 #      - "goodreads.com/"
 #      - "web.archive.org/"

@@ -73,6 +73,33 @@ sidebar:
             Genre: {{ page.genre | array_to_sentence_string }}
             {% else %}
             {% endif %}
+
+
+        {% elsif page.watching %}
+          <h2 id="watching-details">Watching Details</h2>
+          <p>{% if page.movies %} :film_projector: &ldquo;{{ page.title }}&rdquo;{% endif %}
+            {% if page.theater %} :performing_arts: <strong>{{ page.title }}</strong>{% endif %}
+            {% if page.tv %} :tv: <strong>{{ page.title }}</strong>{% endif %}
+            {% if page.work_link %}| 
+                {% if page.access == "oa" %}<i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
+                {% if page.access == "paywalled" %}:closed_lock_with_key:{% endif %}
+                {% if page.access == "web" %}<i class="fas fa-globe" aria-hidden="true"></i><span class="sr-only">general web link</span>{% endif %}
+                <a href="{{ page.work_link }}">{{ page.work_link_text }}</a>
+            {% endif %}<br />
+            {% if page.work_author %}By: {{ page.work_author }}<br />{% endif %}
+            {% if page.year_watched %}
+                Watched: {{ page.year_watched }}<br />
+                {% elsif page.year_started %}Started: {{ page.year_started }}<br />
+            {% endif %}
+            {% if page.progress_current %}Amount watched: {{ page.progress_current }} of {{ page.progress_max }} {% if page.reading-articles or page.reading-books %}pages {% elsif page.reading-lists %}works {% endif %}</p>
+                <label for="watching-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="watching-progress" value="{{ page.progress_current }}" max="{{ page.progress_max }}">{{ page.progress_current }} </progress>
+                {% else %}
+                Started: Not yet started
+            {% endif %}
+            {% if page.genre %}<br />
+            Genre: {{ page.genre | array_to_sentence_string }}
+            {% else %}
+            {% endif %}
         {% endif %}
 
         {% comment %}

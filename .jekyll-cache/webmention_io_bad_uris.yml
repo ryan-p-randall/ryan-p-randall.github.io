@@ -37,8 +37,8 @@ twitter.com:
   last_checked: '2025-09-03 19:54:07 -0600'
 www.bigfootjs.com:
   state: failure
-  attempts: 10
-  last_checked: '2026-01-20 18:21:35 -0700'
+  attempts: 11
+  last_checked: '2026-02-03 14:19:47 -0700'
 opendyslexic.org:
   state: unsupported
   attempts: 1
@@ -117,8 +117,8 @@ www.andrewasher.net:
   last_checked: '2025-09-03 19:54:28 -0600'
 libraries.iub.edu:
   state: failure
-  attempts: 10
-  last_checked: '2026-01-20 18:21:28 -0700'
+  attempts: 11
+  last_checked: '2026-02-03 14:19:46 -0700'
 mcpress.media-commons.org:
   state: unsupported
   attempts: 1
@@ -173,8 +173,8 @@ tinyurl.com:
   last_checked: '2025-09-03 19:54:48 -0600'
 storify.com:
   state: failure
-  attempts: 10
-  last_checked: '2026-01-20 18:21:29 -0700'
+  attempts: 11
+  last_checked: '2026-02-03 14:19:40 -0700'
 www.dissentmagazine.org:
   state: unsupported
   attempts: 3
@@ -337,8 +337,8 @@ pdxscholar.library.pdx.edu:
   last_checked: '2025-09-03 19:55:39 -0600'
 libraryfreedomproject.org:
   state: failure
-  attempts: 10
-  last_checked: '2026-01-20 18:21:34 -0700'
+  attempts: 11
+  last_checked: '2026-02-03 14:19:45 -0700'
 www.ils.indiana.edu:
   state: unsupported
   attempts: 1
@@ -393,8 +393,8 @@ www.boisepubliclibrary.org:
   last_checked: '2025-09-03 19:55:57 -0600'
 library.boisestate.edu:
   state: failure
-  attempts: 10
-  last_checked: '2026-01-20 18:21:34 -0700'
+  attempts: 11
+  last_checked: '2026-02-03 14:19:46 -0700'
 www.cwidaho.cc:
   state: unsupported
   attempts: 1
@@ -545,8 +545,8 @@ catladylibrarian.wordpress.com:
   last_checked: '2025-09-03 19:56:40 -0600'
 www.digitalpedagogylab.com:
   state: failure
-  attempts: 10
-  last_checked: '2026-01-20 18:21:34 -0700'
+  attempts: 11
+  last_checked: '2026-02-03 14:19:46 -0700'
 nuzzel.com:
   state: unsupported
   attempts: 1
@@ -973,8 +973,8 @@ www.buddhistpeacefellowship.org:
   last_checked: '2025-09-03 19:58:44 -0600'
 flipgrid.com:
   state: failure
-  attempts: 10
-  last_checked: '2026-01-20 18:21:49 -0700'
+  attempts: 11
+  last_checked: '2026-02-03 14:19:47 -0700'
 libraries.idaho.gov:
   state: unsupported
   attempts: 1
@@ -1829,8 +1829,8 @@ sivers.org:
   last_checked: '2025-09-03 20:02:53 -0600'
 blogs.libraries.iub.edu:
   state: failure
-  attempts: 10
-  last_checked: '2026-01-20 18:21:50 -0700'
+  attempts: 11
+  last_checked: '2026-02-03 14:19:47 -0700'
 omeka.org:
   state: unsupported
   attempts: 1
