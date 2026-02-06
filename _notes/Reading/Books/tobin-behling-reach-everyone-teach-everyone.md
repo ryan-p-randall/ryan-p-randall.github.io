@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T21:59:43-6:00
-last_modified_at: 2026-02-02
+last_modified_at: 2026-02-05
 reading: true
 reading-books: true
 excerpt: "Tobin and Behling detail how UDL can help increase access for a wide range of learners in higher education."
@@ -15,7 +15,7 @@ year_read:
 date_read: 
 date_started: 2026-01-27
 current: true # false
-progress_current: 98
+progress_current: 143
 progress_max: 312
 # reading_list01: true
 # reading_list02: true

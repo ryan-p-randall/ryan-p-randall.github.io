@@ -57,9 +57,9 @@ I first built a reading log system in 2023, when I realized I wanted my own litt
 <ol>
 {% for item in yearly_items_sorted %}
 <li>
-    {% if item.movies %} :film_projector:{% endif %}
-    {% if item.theater %} :performing_arts:{% endif %}
-    {% if item.tv %} :tv:{% endif %}
+    {% if item.movies == true %} :film_projector:{% endif %}
+    {% if item.theater == true %} :performing_arts:{% endif %}
+    {% if item.tv == true %} :tv:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}</a>
     {% if item.status == ":seedling:" %}:seedling:{% endif %}{% if item.status == ":herb:" %}:herb:{% endif %}{% if item.status == ":evergreen_tree:" %}:evergreen_tree:{% endif %}<br>
     {{ item.excerpt | markdownify }}

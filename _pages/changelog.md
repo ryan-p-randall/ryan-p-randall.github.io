@@ -18,6 +18,7 @@ Here are some particularly noteworthy changes.[^not-semver]
 
 ## 2026
 
+- 2026-02-05: Added a [`/watching` page](/watching/), refined relevant pages in the [notes section](/notes/Watching/), and added enough relevant items to test it all out.  
 - 2026-02-01: Added conditional MLA citation to pages, not just posts. Refined the `/ai` page a bit.  
 - 2026-01-31:  
     - Added this changelog page, an [`/ai` page](/ai/), and a [`slashes` page](/slashes/).
