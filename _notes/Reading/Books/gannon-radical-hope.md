@@ -15,7 +15,7 @@ year_read:
 date_read: 
 date_started: 2026-02-07
 current: true # false
-progress_current: 9
+progress_current: 11
 progress_max: 180
 # reading_list01: true
 # reading_list02: true

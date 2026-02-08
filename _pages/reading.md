@@ -31,7 +31,7 @@ As of 2026-01-20, I'm considering writing up a "How did I do this?" guide in the
 
 <!-- currently reading -->
 
-{% assign reading_current = site.notes | where:"current","true" | sort: "date_started" %}
+{% assign reading_current = site.notes | where:"reading","true" | where:"current","true" | sort: "date_started" %}
 {% if reading_current.size > 0 %}
 <details open id="currently-reading"><summary><h2 id="currently-reading">Currently Reading</h2></summary>
 <div>
