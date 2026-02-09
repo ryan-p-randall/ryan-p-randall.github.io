@@ -33,8 +33,8 @@ title: "Featured Pages"
         <div><span id="uses-desc">Apps and other things I use.</span></div>
     </div>
     <div class="backlink-box">
-        <a aria-describedby="postroll-desc" href="{{ '/postroll/' | relative_url }}">Postroll</a><br>
-        <div><span id="postroll-desc">Other people's posts.</span></div>
+        <a aria-describedby="watching-desc" href="{{ '/watching/' | relative_url }}">Watching</a><br>
+        <div><span id="watching-desc">What I've been watching.</span></div>
     </div>
     <div class="backlink-box">
         <a aria-describedby="slashes-desc" href="{{ '/slashes/' | relative_url }}">Slashes</a><br>

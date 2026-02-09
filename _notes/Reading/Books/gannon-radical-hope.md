@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T21:47:45-6:00
-last_modified_at:
+last_modified_at: 2026-02-08
 reading: true
 reading-books: true
 excerpt: "Gannon argues that teaching, when done effectively, is by definition emancipatory and hopeful."
@@ -15,7 +15,7 @@ year_read:
 date_read: 
 date_started: 2026-02-07
 current: true # false
-progress_current: 11
+progress_current: 109
 progress_max: 180
 # reading_list01: true
 # reading_list02: true
