@@ -60,3 +60,14 @@ My approach to "AI" technologies, as with other tools, is to situate them within
 Promising alternatives are already being created and used by people like the [FOSS Academic](https://fossacademic.tech/about.html), as well as ecologically-inclined or [permacomputing-inspired](https://100r.co/site/permacomputing_101.html) groups like the [Hundred Rabbits](https://100r.co/site/about.html) collective or [Low←Tech Magazine](https://solar.lowtechmagazine.com/).  
 
 While those approaches vary, they share a common theme of attention to the material costs of computing and to liberating tech users from influences that seek to undermine their own intentions.  
+
+## `/ai` Pages
+
+Just as I love seeing [`/colophon`](/colophon/) pages detailing how people make their sites, I'm thrilled to see `/ai` pages become a common convention.  
+
+Here's a wide range in terms of both how the authors engage with AI tools and how they describe their approaches:  
+- [Andrew Heiss](https://www.andrewheiss.com/ai/)  
+- [Cassidy Williams](https://cassidoo.co/ai/)  
+- [Derek Sivers](https://sive.rs/ai)  
+- [Robb Knight](https://rknight.me/ai/)  
+- [Sarah K. Winnicki](https://www.skwinnicki.com/single-post/i-would-be-so-ashamed-to-use-generative-ai-here-s-why)  
