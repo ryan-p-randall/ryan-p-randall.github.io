@@ -21,7 +21,7 @@ reading_list01: true
 # reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Olson, Hope A. “The Power to Name: Representation in Library Catalogs.” <em>Signs</em>, vol. 26, no. 3, 2001, pp. 639–668. (29 pp.)'
 bib_order: 1

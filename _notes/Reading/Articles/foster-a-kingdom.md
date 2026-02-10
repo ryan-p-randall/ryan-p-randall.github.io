@@ -21,7 +21,7 @@ progress_max: 22
 reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: 'Foster, Tim. <a href="https://muse.jhu.edu/pub/104/article/459333">“‘A Kingdom of a Thousand Princes but No Kings’: The Postsuburban Network in Douglas Coupland’s Microserfs.”</a> <em>Western American Literature</em> vol. 46, no. 3, 2011, pp. 302–324. <em>Project Muse</em>. (22 pp.)'
 bib_order: 1

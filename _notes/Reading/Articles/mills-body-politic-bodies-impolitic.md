@@ -21,7 +21,7 @@ progress_max: 24
 reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: 'Mills, Charles W. <a href="http://www.jstor.org/stable/23347191">“Body Politic, Bodies Impolitic.”</a> The Body and the State: How the State Controls and Protects the Body, Part 1, special issue of <em>Social Research</em> vol. 78, no. 2, summer 2011, pp. 583–606. <em>JSTOR</em>. (24 pp.)'
 bib_order: 6

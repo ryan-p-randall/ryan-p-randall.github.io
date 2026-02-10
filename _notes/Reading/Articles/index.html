@@ -16,7 +16,7 @@ title: "Article Notes"
 {% endunless %}
 
 <h2 id="all">All my notes on articles I've read</h2>
-{% assign reading-articles_notes_all = site.notes | where:"reading-articles","true" | where:"reading-status","finished" | sort: "title" %}
+{% assign reading-articles_notes_all = site.notes | where:"reading-articles","true" | where:"reading_status","finished" | sort: "title" %}
 {% if reading-articles_notes_all.size > 0 %}
 <ul>
     {% for item in reading-articles_notes_all %}

@@ -21,7 +21,7 @@ progress_max: 22
 # reading_list02: true
 reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Boyle, Casey. “Writing and Rhetoric and/as Posthuman Practice.” <em>College English</em>, vol. 78, no. 6, 2016, pp. 532–54. (22 pp.)'
 bib_order: 3

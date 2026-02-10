@@ -34,7 +34,7 @@ In putting together the list, the themes of the built environment and spatial/so
 <ol>
 {% for item in exam_list2_fiction %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -70,7 +70,7 @@ In putting together the list, the themes of the built environment and spatial/so
 <ol>
 {% for item in exam_list2_theory_books %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -98,7 +98,7 @@ T C Original
 <ol>
 {% for item in exam_list2_articles_batch01 %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -118,7 +118,7 @@ T C Original
 <ol>
 {% for item in exam_list2_articles_batch02 %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}

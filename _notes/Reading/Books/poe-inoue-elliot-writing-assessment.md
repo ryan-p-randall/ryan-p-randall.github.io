@@ -2,7 +2,7 @@
 date: 2025-05-19T21:31:12-6:00
 last_modified_at:
 reading: true
-reading-books: true
+reading_books: true
 # excerpt: "."
 status: ':herb:'
 published: true # false
@@ -15,12 +15,12 @@ year_read:
 date_read: 
 # date_started: 
 current: false # true
+reading_status: # 'started' 'finished'
 progress_current: 0
 progress_max: 429
 # reading_list01: true
 # reading_list02: true
 reading_list03: true
-reading-status: # 'started' 'finished'
 genre: [theory, book] # fiction theory book novel article practice pedagogy criticism
 group: [cil] # pid
 citation: 'Poe, Mya, Asao B. Inoue, and Norbert Elliot, editors. <a href="https://wac.colostate.edu/books/perspectives/assessment/"><em>Writing Assessment, Social Justice, and the Advancement of Opportunity</em></a>. WAC Clearinghouse, 2018. (429 pp., workUnit1 + workUnit1.)'

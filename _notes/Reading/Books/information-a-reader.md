@@ -2,7 +2,7 @@
 date: 2025-03-15T15:01:37-6:00
 last_modified_at: 2026-01-19
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "A humanistic introduction to the concept of information in historical, literary, and cultural studies."
 status: ':herb:'
 published: true # false
@@ -15,11 +15,11 @@ year_read: 2026
 date_read: 2026-01-19
 date_started: 2025-03-11
 current: false # true
+reading_status: 'finished' # 'started'
 progress_current: 393
 progress_max: 393
 reading_list01: true
 genre: [theory, book] # fiction novel article practice pedagogy criticism
-reading-status: "started"
 citation: '<a href="https://openlibrary.org/works/OL21696531W/Information_-_a_Reader"><em>Information: A Reader</em></a>. Edited by Eric Hayot, Anatoly Detwyler, and Lea Pao. Columbia UP, 2021. (408 pp. workUnit1 + workUnit1.)'
 bib_order: 9
 ---

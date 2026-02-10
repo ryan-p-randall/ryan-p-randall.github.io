@@ -2,7 +2,7 @@
 date: 2025-03-19T19:35:33-6:00
 last_modified_at: 2025-12-07
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "It's the mid-2020s. Climate, economic, and social crises wash over California—even the gated communities. Teenage Lauren Olamina knows change is coming, and she intends to shape it."
 status: ':herb:'
 published: true
@@ -15,12 +15,12 @@ year_read: 2025
 date_read: 2025-12-07
 date_started: 2025-11-13
 current: false # true
+reading_status: 'finished' # 'started'
 progress_current: 368
 progress_max: 368
 reading_list02: true
 fiction: true
 genre: [fiction, book, novel] # theory 
-reading-status: 'finished' # 'started'
 citation: "———. <em>Parable of the Sower</em>. 1993. Grand Central Publishing, 2023. (368 pp. workUnit1.)"
 bib_order: 2
 ---

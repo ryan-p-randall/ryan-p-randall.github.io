@@ -21,7 +21,7 @@ progress_max: 24
 reading_list02: true
 # reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: 'Ermarth, Elizabeth Deeds. “Agency in the Discursive Condition.” <em>History and Theory</em> vol. 40, no. 4, 2001, pp. 34–58. (24 pp.)'
 bib_order: 3

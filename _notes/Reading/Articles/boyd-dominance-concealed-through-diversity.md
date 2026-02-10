@@ -21,7 +21,7 @@ progress_max: 21
 # reading_list02: true
 reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Boyd, Dwight. “Dominance Concealed Through Diversity: Implications of Inadequate Perspectives on Cultural Pluralism.” <em>Harvard Educational Review</em>, vol. 66, no. 3, 1996, pp. 609–630. (21 pp.)'
 bib_order: 2

@@ -37,7 +37,7 @@ One strategy for depicting information systems and epistemological experiences h
 <ol>
 {% for item in exam_list1_fiction %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -68,7 +68,7 @@ One strategy for depicting information systems and epistemological experiences h
 <ol>
 {% for item in exam_list1_theory %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -97,7 +97,7 @@ One strategy for depicting information systems and epistemological experiences h
 <ol>
 {% for item in exam_list1_articles_batch01 %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -117,7 +117,7 @@ One strategy for depicting information systems and epistemological experiences h
 <ol>
 {% for item in exam_list1_articles_batch02 %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}

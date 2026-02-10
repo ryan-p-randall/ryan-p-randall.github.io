@@ -2,7 +2,7 @@
 date: 2025-12-18T20:06:31-6:00
 last_modified_at: 2026-01-15
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "This textbook provides an overview of the core elements, principles, and practices of instructional design without emphasizing any single model."
 status: ':herb:'
 published: true # false
@@ -15,12 +15,12 @@ year_read:
 date_read: 
 date_started: 2025-12-18
 current: true # false
+reading_status: 'started' # 'finished'
 progress_current: 169
 progress_max: 278
 # reading_list01: true
 # reading_list02: true
 # reading_list03: true
-reading-status: 'started' # 'started' 'finished'
 genre: [instructional design, book] # fiction theory book novel article practice pedagogy criticism
 # citation: ''
 # bib_order: 

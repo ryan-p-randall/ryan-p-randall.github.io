@@ -21,7 +21,7 @@ progress_max: 12
 # reading_list02: true
 reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Moll, Ellen. <a href="https://doi.org/10.5325/jgeneeduc.68.1-2.0019">“Citizen Epistemology and Interdisciplinary, Inclusive Curriculum.”</a> <em>The Journal of General Education</em>, vol. 68, no. 1–2, 2020, pp. 19–31. (12 pp.)'
 bib_order: 5

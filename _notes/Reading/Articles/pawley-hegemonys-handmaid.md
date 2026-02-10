@@ -21,7 +21,7 @@ progress_max: 21
 # reading_list02: true
 reading_list03: true
 batch: batch03
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Pawley, Christine. “Hegemony’s Handmaid? The Library and Information Studies Curriculum from a Class Perspective.” <em>Library Quarterly</em>, vol. 68, no. 2, 1998, pp. 123–44. (21 pp.)'
 bib_order: 2

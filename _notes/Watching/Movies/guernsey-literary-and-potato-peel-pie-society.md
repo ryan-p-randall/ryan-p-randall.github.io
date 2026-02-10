@@ -16,10 +16,10 @@ year_started: 2022
 date_watched: 2022-03-18
 # date_started: 
 current: false # true
+watching_status: 'finished'
 progress_current: 100
 progress_max: 100
 # watching_list01: true
-watching-status: # 'started' 'finished'
 genre: [drama, international] # sci-fi, k-drama, romcom, art, documentary 
 # group: [a] # b
 citation: ''

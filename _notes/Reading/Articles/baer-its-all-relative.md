@@ -21,7 +21,7 @@ progress_max: 25
 # reading_list02: true
 reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Baer, Andrea. <a href="https://crln.acrl.org/index.php/crlnews/article/view/16877">“It’s All Relative? Post-truth Rhetoric, Relativism, and Teaching on ‘Authority as Constructed and Contextual.’”</a> <em>College & Research Libraries News</em>, vol. 79, no. 2, 2018, pp. 72–97. (25 pp.)'
 bib_order: 1

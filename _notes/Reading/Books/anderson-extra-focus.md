@@ -2,7 +2,7 @@
 date: 2024-12-28
 last_modified_at: 2024-12-29
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "Anderson's _Extra Focus_ provides a truly 'quick start' guide to dealing with ADHD as an adult, with useful ways to reframe situations and find motivation."
 status: ":herb:"
 published: true
@@ -15,8 +15,8 @@ year_read: 2024
 date_read: 2024-12-29
 date_started: 2024-12-28
 current: false
+reading_status: "finished"
 progress_current: 159
 progress_max: 159
-reading-status: "finished"
 genre: [practice, book] # fiction novel article practice criticism
 ---

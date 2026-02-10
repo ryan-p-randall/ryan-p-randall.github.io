@@ -2,7 +2,7 @@
 date: 2024-03-09
 last_modified_at: 2024-05-10
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "Darby and Lang offer a wealth of small interventions one can make to improve the experiences of online learners and teachers. I definitely recommend this for anyone who teaches online."
 status: ":herb:"
 published: true
@@ -15,11 +15,11 @@ year_read: 2024
 date_read: 2024-05-10
 date_started: 2024-03-07
 current: false
+reading_status: "finished"
 progress_current: 252
 progress_max: 252
 genre: [practice, book] # fiction novel article practice criticism
 reading_list03: true
-reading-status: "finished"
 group: [pid]
 citation: 'Darby, Flower and James M. Lang. <a href="https://openlibrary.org/books/OL28652610M/Small_Teaching_Online"><em>Small Teaching Online: Applying Learning Science in Online Classes</em></a>. Jossey-Bass, 2019. (252 pp., workUnit1.)'
 bib_order: 2

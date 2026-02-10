@@ -21,7 +21,7 @@ reading_list01: true
 # reading_list02: true
 # reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Haraway, Donna. “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century.” pp. 149-–181. <a href="https://openlibrary.org/works/OL3257500W/Simians_cyborgs_and_women"><em>Simians, Cyborgs, and Women: The Reinvention of Nature</em></a>. Routledge, 1991. (32 pp.)'
 bib_order: 4

@@ -16,7 +16,7 @@ year_read: 2023
 date_read: 2023-01-20
 date_started: 2023-01-19
 current: false
-reading-status: "finished"
+reading_status: "finished"
 progress_current: 10
 progress_max: 10
 ---

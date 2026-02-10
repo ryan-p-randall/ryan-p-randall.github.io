@@ -2,7 +2,7 @@
 date: 2025-03-20T18:30:30-6:00
 last_modified_at:
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "."
 status: ':herb:'
 published: true # false
@@ -15,11 +15,11 @@ year_read:
 date_read: 
 # date_started: 
 current: false # true
+reading_status: 'yet net started' # 'finished'
 progress_current: 0
 progress_max: 259
 genre: [practice, pedagogy, book] # fiction novel article practice criticism
 reading_list03: true
-reading-status: 'yet net started' # 'finished'
 citation: 'Lang, James M. <em>Small Teaching: Everyday Lessons from the Science of Learning</em>. 2nd ed., Jossey-Bass, 2021. (288 pp., workUnit1.)'
 group: [pid]
 bib_order: 12

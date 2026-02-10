@@ -21,7 +21,7 @@ progress_max: 17
 reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: 'Yúdice, George. “The Privatization of Culture.” <em>Social Text</em> no. 59, 1999, pp. 17–34. (17 pp.)'
 bib_order: 7

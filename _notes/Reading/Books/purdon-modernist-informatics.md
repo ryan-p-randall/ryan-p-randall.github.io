@@ -2,7 +2,7 @@
 date: 2023-01-31
 last_modified_at: 2023-11-02T19:08:02-6:00
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "Purdon examines modernist fiction to trace how writers experienced information culture as a disturbing interruption and governmental intrusion."
 status: ":herb:"
 published: true
@@ -15,11 +15,11 @@ year_read: 2023
 date_read: 2023-11-02
 date_started: 2022-11-02
 current: false
+reading_status: "finished"
 progress_current: 224
 progress_max: 224
 genre: [theory, book] # fiction novel article practice criticism
 reading_list01: true
-reading-status: "finished"
 citation: 'Purdon, James. <a href="https://openlibrary.org/works/OL21114005W/Modernist_Informatics"><em>Modernist Informatics: Literature, Information, and the State</em></a>. Oxford UP, 2016. (224 pp. workUnit1.)'
 bib_order: 11
 ---

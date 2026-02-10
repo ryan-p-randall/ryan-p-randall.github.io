@@ -21,7 +21,7 @@ progress_max: 26
 # reading_list02: true
 reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Honma, Todd. <a href="https://escholarship.org/uc/item/4nj0w1mp">“Trippin’ over the color line: the invisibility of race in library and information studies.”</a> <em>InterActions: UCLA Journal of Education and Information Studies</em>. vol. 1, no. 2, 2004, np. (26 pp.)'
 bib_order: 3

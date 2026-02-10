@@ -2,7 +2,7 @@
 date: 2025-04-28T22:04:54-6:00
 last_modified_at: 2025-05-04
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "Binti leaves her homeworld for Oomza University and grows in unexpected ways."
 status: ':herb:'
 published: true
@@ -15,11 +15,11 @@ year_read: 2025
 date_read: 2025-05-04
 date_started: 2025-04-28
 current: false # true
+reading_status: 'finished'
 progress_current: 358
 progress_max: 358
 genre: [fiction, book, novel] # fiction novel article practice criticism
 reading_list01: true
-reading-status: 'finished'
 citation: 'Okorafor, Nnedi. <a href="https://openlibrary.org/works/OL19649739W/Binti_The_Complete_Trilogy"><em>Binti: The Complete Trilogy</em></a>. Daw Books, 2020. (358 pp. workUnit1.)'
 bib_order: 9
 ---

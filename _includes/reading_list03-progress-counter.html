@@ -4,7 +4,7 @@
         <a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list3-teaching.html">Exam List 3: Composition and Information Literacy, Pedagogy and Instructional Design
         </a></h4>-->
         {% assign reading_list03 = site.notes | where:"reading_list03","true" %}
-        {% assign reading_list03_finished = reading_list03 | where: "reading-status","finished" %}
+        {% assign reading_list03_finished = reading_list03 | where: "reading_status","finished" %}
         {% assign reading_list03_note = site.notes | where:"title","Exam List 3: Composition and Information Literacy, Pedagogy and Instructional Design" %}
         {% comment %}
         <p>

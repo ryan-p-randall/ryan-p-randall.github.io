@@ -21,7 +21,7 @@ reading_list01: true
 # reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Wark, McKenzie. <a href="https://www.tandfonline.com/doi/abs/10.1080/09502380500495668">“Information Wants to Be Free (But Is Everywhere In Chains).”</a> <em>Cultural Studies</em>, vol. 20, nos. 2–3, 2006. (18 pp.)'
 bib_order: 5

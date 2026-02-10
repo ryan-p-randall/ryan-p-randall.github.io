@@ -21,7 +21,7 @@ reading_list01: true
 # reading_list02: true
 # reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Daston, Lorraine. “Objectivity and the Escape from Perspective.” <em>Social Studies of Science</em> vol. 22, pp. 597–618. <em>SAGE</em>. (21 pp.)'
 bib_order: 3

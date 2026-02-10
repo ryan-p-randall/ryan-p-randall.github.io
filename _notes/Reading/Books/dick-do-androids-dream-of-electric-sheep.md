@@ -2,7 +2,7 @@
 date: 2024-05-12T16:10:52-6:00
 last_modified_at: 2024-05-22
 reading: true
-reading-books: true
+reading_books: true
 excerpt: 'Rick Deckard is a bounty hunter searching for escaped androids in a radioactive Northern California where social status is measured by caring for live animals, as an indicator of empathy.'
 status: ':herb:'
 published: true
@@ -15,11 +15,11 @@ year_read: 2024
 date_read: 2024-05-22
 date_started: 2024-05-12
 current: false
+reading_status: "finished"
 progress_current: 177
 progress_max: 177
 genre: [fiction, book, novel] # fiction novel article practice criticism
 reading_list01: true
-reading-status: "finished"
 citation: 'Dick, Philip K. <em>Do Androids Dream of Electric Sheep?</em> 1968. <a href="https://openlibrary.org/books/OL8898972M/Philip_K._Dick"><em>Four Novels of the 1960s</em></a>. The Library of America, 2007, pp. 435&ndash;608. (177 pp. workUnit1.)'
 bib_order: 6
 ---

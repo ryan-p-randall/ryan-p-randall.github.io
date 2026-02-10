@@ -21,7 +21,7 @@ progress_max: 21
 # reading_list02: true
 reading_list03: true
 batch: batch03
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Sloniowski, Lisa. “Affective labor, resistance, and the academic librarian.” <em>Library Trends</em>, vol. 64, no. 4, 2016, pp. 645–666. (21 pp.)'
 bib_order: 5

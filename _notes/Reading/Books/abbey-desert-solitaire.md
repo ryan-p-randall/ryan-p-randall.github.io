@@ -2,7 +2,7 @@
 date: 2025-02-24T20:30:29-6:00
 last_modified_at: 2025-03-09
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "The author describes his experiences serving for three seasons as a park ranger in southeastern Utah."
 status: ':herb:'
 published: true # false
@@ -15,9 +15,10 @@ year_read: 2025
 date_read: 2025-03-09
 date_started: 2025-02-24 
 current: false # true
+reading_status: 'finished' # 'started'
 progress_current: 269
 progress_max: 269
 genre: [fiction, novel, book] # fiction article practice criticism
 internship-ai-list: true
-reading-status: "finished"
+reading_status: "finished"
 ---

@@ -21,7 +21,7 @@ progress_max: 16
 # reading_list02: true
 reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Kapitzke, Cushla. “(In)formation literacy: a positivist epistemology and a politics of outformation.” <em>Educational Theory</em>, vol. 53, no. 1, 2003, pp. 37–53. (16 pp.)'
 bib_order: 4

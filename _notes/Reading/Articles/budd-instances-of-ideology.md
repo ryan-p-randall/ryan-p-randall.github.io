@@ -21,7 +21,7 @@ reading_list01: true
 # reading_list02: true
 # reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Budd, John M. <a href="https://www.jstor.org/stable/4309562">“Instances of Ideology in Discursive Practice: Implications for Library and Information Science.”</a> <em>The Library Quarterly</em> vol 71, no 4, 2001, pp. 498–517. <em>JSTOR</em>. (20 pp.)'
 bib_order: 1

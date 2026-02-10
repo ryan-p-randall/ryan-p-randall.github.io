@@ -2,7 +2,7 @@
 date: 2025-05-15T20:45:43-6:00
 last_modified_at:
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "."
 status: ':herb:'
 published: true # false
@@ -15,12 +15,12 @@ year_read:
 date_read: 
 # date_started: 
 current: false # true
+reading_status: # 'started' 'finished'
 progress_current: 0
 progress_max: 352
 # reading_list01: true
 reading_list02: true
 # reading_list03: true
-reading-status: # 'started' 'finished'
 genre: [fiction, book, novel] # theory
 citation: 'Dos Passos, John. <em>42nd Parallel</em>. 1930. Mariner Books, 2000. (352 pp. workUnit1.)'
 bib_order: 6

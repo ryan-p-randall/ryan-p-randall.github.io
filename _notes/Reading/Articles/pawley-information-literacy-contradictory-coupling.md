@@ -21,7 +21,7 @@ progress_max: 30
 # reading_list02: true
 reading_list03: true
 batch: batch03
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: '———. “Information literacy: a contradictory coupling.” <em>The Library Quarterly: Information, Community, Policy</em>, vol. 73, no. 4, 2003, pp. 422–452. (30 pp.)'
 bib_order: 3

@@ -21,7 +21,7 @@ progress_max: 14
 reading_list02: true
 # reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: '———. “Beyond ‘The Subject’: Individuality in the Discursive Condition.” <em>New Literary Theory</em> vol. 31, no. 3, 2000, pp. 405–419. (14 pp.)'
 bib_order: 4

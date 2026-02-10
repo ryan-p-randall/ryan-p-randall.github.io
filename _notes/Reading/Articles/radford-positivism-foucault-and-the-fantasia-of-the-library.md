@@ -21,7 +21,7 @@ reading_list01: true
 # reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Radford, Gary P. “Positivism, Foucault, and the Fantasia of the Library: Conceptions of Knowledge and the Modern Library Experience.” <em>The Library Quarterly: Information, Community, Policy</em>, vol. 62, no. 4, Oct. 1992, pp. 408–424. (16 pp.)'
 bib_order: 2

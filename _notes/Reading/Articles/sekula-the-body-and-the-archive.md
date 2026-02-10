@@ -21,7 +21,7 @@ reading_list01: true
 # reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Sekula, Allan. <a href="https://www.jstor.org/stable/778312">“The Body and the Archive.”</a> <em>October</em>, vol. 39, winter 1986, pp. 3–64. <em>JSTOR</em>. (62 pp.)'
 bib_order: 3

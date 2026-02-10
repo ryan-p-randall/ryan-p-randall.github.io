@@ -21,7 +21,7 @@ progress_max: 14
 # reading_list02: true
 reading_list03: true
 batch: batch03
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Simmons, Michelle Holschuh. “Librarians as disciplinary discourse mediators: using genre theory to move toward critical information literacy.” <em>portal: Libraries and the Academy</em>, vol. 5, no. 3, 2005, pp. 297–311. (14 pp.)'
 bib_order: 4

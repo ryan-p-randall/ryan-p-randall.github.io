@@ -19,7 +19,7 @@ current: false # true
 progress_current: 100
 progress_max: 100
 # watching_list01: true
-watching-status: 'finished' # 'started'
+watching_status: 'finished' # 'started'
 genre: [musical] # 
 # group: [a] # b
 citation: ''

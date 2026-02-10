@@ -21,7 +21,7 @@ progress_max: 27
 reading_list02: true
 # reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: 'Calhoun, Jamie. <a href="http://www.jstor.org/stable/43264539">“Reimagining the Self: Maxine Hong Kingston’s ‘Tripmaster Monkey: His Fake Book.’”</a> <em>The Journal of the Midwest Modern Language Association</em> vols. 46/47, nos. 2/1, Fall 2013–Spring 2014, pp. 37--53. _JSTOR_. (27 pp.)'
 bib_order: 2

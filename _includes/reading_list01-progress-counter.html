@@ -4,7 +4,7 @@
     <a href="{{ site.baseurl}}/notes/Reading/Lists/exam-list1-topic.html">Exam List 1: Information Control and Making Meaning in Modern/Postmodern Texts
     </a></h4>-->
     {% assign reading_list01 = site.notes | where:"reading_list01","true" %}
-    {% assign reading_list01_finished = reading_list01 | where: "reading-status","finished" %}
+    {% assign reading_list01_finished = reading_list01 | where: "reading_status","finished" %}
     {% assign reading_list01_note = site.notes | where:"title","Exam List 1: Information Control and Making Meaning in Modern/Postmodern Texts" %}
     {% comment %}
     <p>
@@ -31,7 +31,7 @@
     </a></h4>
 <p>
     {% assign reading_list01 = site.notes | where:"reading_list01","true" %}
-    {% assign reading_list01_finished = reading_list01 | where: "reading-status","finished" %}
+    {% assign reading_list01_finished = reading_list01 | where: "reading_status","finished" %}
     {{ reading_list01.size }} total books in this list.
     {{ reading_list01_finished.size }} books finished in this list.
 </p>

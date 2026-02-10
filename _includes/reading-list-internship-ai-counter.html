@@ -5,7 +5,7 @@
   </a></h4>
 <p>
   {% assign reading_list_internship_ai = site.notes | where:"internship-ai-list","true" %}
-  {% assign reading_list_internship_ai_finished = reading_list_internship_ai | where: "reading-status","finished" %}
+  {% assign reading_list_internship_ai_finished = reading_list_internship_ai | where: "reading_status","finished" %}
   {% assign reading_list_internship_ai_list_note = site.notes | where:"title","Internship AI List" %}
   {{ reading_list_internship_ai.size }} total books in this list.
   {{ reading_list_internship_ai_finished.size }} books finished in this list.

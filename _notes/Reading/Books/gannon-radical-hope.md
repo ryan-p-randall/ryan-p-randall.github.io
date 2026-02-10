@@ -2,7 +2,7 @@
 date: 2025-05-19T21:47:45-6:00
 last_modified_at: 2026-02-09
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "Gannon argues that teaching, when done effectively, is by definition emancipatory and hopeful."
 status: ':herb:'
 published: true # false
@@ -15,12 +15,12 @@ year_read: 2026
 date_read: 2026-02-09
 date_started: 2026-02-07
 current: false # true
+reading_status: 'finished' # 'started'
 progress_current: 166
 progress_max: 166
 # reading_list01: true
 # reading_list02: true
 reading_list03: true
-reading-status: 'started' # 'finished'
 genre: [theory, book] # fiction theory book novel article practice pedagogy criticism
 group: [pid] # cil
 citation: 'Gannon, Kevin M. <em>Radical Hope: A Teaching Manifesto</em>. WVU Press, 2020. (180 pp., workUnit1.)'

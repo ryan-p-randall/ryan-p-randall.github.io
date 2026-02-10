@@ -21,7 +21,7 @@ progress_max: 33
 reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: 'Foucault, Michel. “Panopticism.” <em>Discipline & Punish</em>. 1975. Translated by Alan Sheridan, 2nd ed., Vintage, 1995. pp. 195–228. (33 pp.)'
 bib_order: 2

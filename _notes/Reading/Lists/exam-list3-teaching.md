@@ -33,7 +33,7 @@ The works on this list largely fall into two categories. The first category, com
 <ol>
 {% for item in exam_list3_articles_batch01 %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -53,7 +53,7 @@ The works on this list largely fall into two categories. The first category, com
 <ol>
 {% for item in exam_list3_articles_batch02 %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -73,7 +73,7 @@ The works on this list largely fall into two categories. The first category, com
 <ol>
 {% for item in exam_list3_articles_batch03 %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -94,7 +94,7 @@ The works on this list largely fall into two categories. The first category, com
 <ol>
 {% for item in exam_list3_cil %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}
@@ -122,7 +122,7 @@ The works on this list largely fall into two categories. The first category, com
 <ol>
 {% for item in exam_list3_pid %}
 <li>
-{% if item.reading-status == "finished" %}:ballot_box_with_check: {% endif %}
+{% if item.reading_status == "finished" %}:ballot_box_with_check: {% endif %}
 {{ item.citation }} (<a href="{{ site.baseurl }}{{ item.url }}">My public notes</a>.)
 </li>
 {% endfor %}

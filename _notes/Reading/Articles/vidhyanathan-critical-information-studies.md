@@ -21,7 +21,7 @@ reading_list01: true
 # reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Vidhyanathan, Siva. <a href="https://doi.org/10.1080/09502380500521091">“Afterword: Critical Information Studies: A Bibliographic Manifesto.”</a> <em>Cultural Studies</em>, vol. 20, nos. 2&ndash;3, 2006, pp. 292–315. (24 pp.)'
 bib_order: 4

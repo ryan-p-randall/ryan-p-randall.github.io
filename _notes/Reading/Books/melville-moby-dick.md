@@ -2,7 +2,7 @@
 date: 2025-12-14T20:14:33-6:00
 last_modified_at: 2026-02-02
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "Our anonymous narrator gets bored and joins a whaling expedition. I'm sure it'll end well!"
 status: ':herb:'
 published: true # false
@@ -15,10 +15,10 @@ year_read:
 date_read: 
 date_started: 2026-01-01
 current: true # false
+reading_status: 'started' # 'finished'
 progress_current: 336
 progress_max: 427
 genre: [fiction, book, novel] # fiction theory book novel article practice pedagogy criticism
-reading-status: 'started' # 'finished'
 ---
 
 I'm reading this in January 2026, as part of the [2026 Month of Dick 🐋](https://bsky.app/profile/jacobharr.is/post/3magtsxttus2m) group read on Bluesky.  

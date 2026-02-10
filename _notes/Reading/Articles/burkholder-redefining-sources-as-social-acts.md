@@ -21,7 +21,7 @@ progress_max: 11
 # reading_list02: true
 reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Burkholder, Joel M. <a href="https://digitalcommons.unl.edu/libphilprac/413">“Redefining Sources as Social Acts: Genre Theory in Information Literacy Instruction.”</a> <em>Library Philosophy and Practice</em>, 2010, pp. 1–11. (11 pp.)'
 bib_order: 5

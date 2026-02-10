@@ -19,7 +19,7 @@ current: false # true
 progress_current: 0
 progress_max: 
 # watching_list01: true
-watching-status: # 'started' 'finished'
+watching_status: # 'started' 'finished'
 genre: [] # sci-fi, k-drama, romcom, art, documentary 
 # group: [a] # b
 citation: ''

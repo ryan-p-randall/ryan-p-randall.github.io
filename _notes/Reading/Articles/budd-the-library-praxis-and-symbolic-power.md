@@ -21,7 +21,7 @@ progress_max: 13
 # reading_list02: true
 reading_list03: true
 batch: batch01
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Budd, John M. “The Library, Praxis, and Symbolic Power.” <em>The Library Quarterly: Information, Community, Policy</em>, vol. 73, no. 1, 2003, pp. 19–32. (13 pp.)'
 bib_order: 4

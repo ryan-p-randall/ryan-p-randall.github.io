@@ -21,7 +21,7 @@ progress_max: 79
 reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: 'Gross, Ariela J. <a href="https://www.jstor.org/stable/797472">“Litigating Whiteness: Trials of Racial Determination in the Nineteenth-Century South.”</a> <em>The Yale Law Journal</em> vol. 198, no. 1, 1998, pp. 109–188. <em>JSTOR</em>. (79 pp.)'
 bib_order: 3

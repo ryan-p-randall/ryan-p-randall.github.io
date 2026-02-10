@@ -21,7 +21,7 @@ progress_max: 9
 # reading_list02: true
 reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article, criticism] # fiction theory book novel article practice pedagogy criticism
 citation: 'Gerolami, Natasha. “The library assemblage: creative institutions in an information society.” <em>Journal of Documentation</em>, vol. 71, no. 1, 2015, pp. 165–174. (9 pp.)'
 bib_order: 2

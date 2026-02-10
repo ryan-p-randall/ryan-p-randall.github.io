@@ -39,7 +39,7 @@ notes-folder-path: "/notes/Reading/"
     <div>
     <ol>
     {% for item in reading_notes_all %}
-        {% if item.reading-books == true or item.reading-articles == true %}
+        {% if item.reading_books == true or item.reading-articles == true %}
             {% include item-list-link.html %}
         {% endif %}
     {% endfor %}
@@ -62,7 +62,7 @@ notes-folder-path: "/notes/Reading/"
 {% for item in year_sort_title %}
 <li>
     {% if item.reading-articles %} :page_facing_up:{% endif %}
-    {% if item.reading-books %} :green_book:{% endif %}
+    {% if item.reading_books %} :green_book:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}
     {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
     {% if item.access == "paywalled" %} :closed_lock_with_key:{% endif %}

@@ -21,7 +21,7 @@ progress_max:
 reading_list02: true
 # reading_list03: true
 batch: batch02
-reading-status: # 'started' 'finished'
+reading_status: # 'started' 'finished'
 genre: [theory, article] # fiction novel article practice pedagogy criticism
 citation: 'Hutcheon, Linda. <a href="https://hdl.handle.net/1807/4354">“Discourse, Power, Ideology: Humanism and Postmodernism.”</a> <em>Postmodernism and Contemporary Fiction</em>, ed. Edmund J. Smyth, 1991, pp. 105–122. <em>TSpace</em>. (17 pp.)'
 bib_order: 4

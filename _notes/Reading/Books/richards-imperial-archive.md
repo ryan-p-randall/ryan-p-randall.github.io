@@ -2,7 +2,7 @@
 date: 2025-01-10T19:45:41-6:00
 last_modified_at: 2025-01-25
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "Thomas Richards analyses the ways in which the Victorian organization of knowledge was enlisted into the service of the British Empire."
 status: ':herb:'
 published: true
@@ -15,11 +15,11 @@ year_read: 2025
 date_read: 2025-01-25
 date_started: 2025-01-10
 current: false # true
+reading_status: "finished"
 progress_current: 179
 progress_max: 179
 genre: [theory, book] # fiction novel article practice criticism
 reading_list01: true
-reading-status: "finished"
 citation: 'Richards, Thomas. <a href="https://openlibrary.org/works/OL2637775W/The_imperial_archive"><em>The Imperial Archive: Knowledge and the Fantasy of Empire</em></a>. Verso, 1993. (179 pp. workUnit1.)'
 bib_order: 12
 ---
