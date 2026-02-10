@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T21:47:45-6:00
-last_modified_at: 2026-02-08
+last_modified_at: 2026-02-09
 reading: true
 reading-books: true
 excerpt: "Gannon argues that teaching, when done effectively, is by definition emancipatory and hopeful."
@@ -11,12 +11,12 @@ work_author: 'Kevin M. Gannon'
 work_author_sort: 'Gannon, Kevin M.'
 work_link: 'https://openlibrary.org/books/OL29831141M/Radical_Hope'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-02-09
 date_started: 2026-02-07
-current: true # false
-progress_current: 109
-progress_max: 180
+current: false # true
+progress_current: 166
+progress_max: 166
 # reading_list01: true
 # reading_list02: true
 reading_list03: true
