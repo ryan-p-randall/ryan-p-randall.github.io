@@ -1,6 +1,6 @@
 ---
 date: 2026-02-04T20:20:57-6:00
-last_modified_at:
+last_modified_at: 2026-02-13
 watching: true
 tv: true
 excerpt: "Starfleet's Benjamin Sisko manages a space station near a stable wormhole in Bajoran space."

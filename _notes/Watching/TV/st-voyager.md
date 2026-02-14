@@ -1,6 +1,6 @@
 ---
 date: 2026-02-08T21:18:45-6:00
-last_modified_at:
+last_modified_at: 2026-02-13
 watching: true
 tv: true
 excerpt: "A Starfleet ship finds itself on the far side of the galaxy and endeavors to return home… even though 'home' is 75 years away at maximum warp speed."

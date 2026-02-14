@@ -15,8 +15,8 @@ year_watched: 2023
 date_watched: 2023-08-07
 date_started: 2023-08-07
 current: false # true
-progress_current: 100
-progress_max: 100
+progress_current: 1
+progress_max: 1
 # watching_list01: true
 watching_status: # 'started' 'finished'
 genre: [bollywood, musical] # sci-fi, k-drama, romcom, art, documentary 
