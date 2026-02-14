@@ -1,6 +1,6 @@
 ---
 date: 2026-02-08T21:24:24-6:00
-last_modified_at:
+last_modified_at: 2026-02-13
 watching: true
 tv: true
 excerpt: "There's an all-new USS Enterprise, and its crew is still exploring new worlds."
@@ -16,11 +16,11 @@ year_started: 2022
 date_watched: 2023-05-06
 date_started: 2022-11-01
 current: false # true
-progress_current: 0
-progress_max: 
+progress_current: 100
+progress_max: 100
 # watching_list01: true
 watching_status: # 'started' 'finished'
-genre: [] # sci-fi, k-drama, romcom, art, documentary 
+genre: [sci-fi] # sci-fi, k-drama, romcom, art, documentary 
 # group: [a] # b
 citation: ''
 # bib_order: 

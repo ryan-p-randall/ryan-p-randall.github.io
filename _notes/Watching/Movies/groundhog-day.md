@@ -16,8 +16,8 @@ year_started: 2026
 date_watched: 2026-01-31
 date_started: 2026-01-31
 current: false # true
-progress_current: 100
-progress_max: 100
+progress_current: 1
+progress_max: 1
 # watching_list01: true
 watching_status: 'finished' # 'started'
 genre: [time-travel, comedy] # sci-fi, k-drama, romcom, art, documentary 

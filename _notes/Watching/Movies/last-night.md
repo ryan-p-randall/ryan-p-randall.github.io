@@ -16,8 +16,8 @@ year_started: 2024
 date_watched: 2024-07-01
 date_started: 2024-07-01
 current: false # true
-progress_current: 100
-progress_max: 100
+progress_current: 1
+progress_max: 1
 # watching_list01: true
 watching_status: 'finished' # 'started' 'finished'
 genre: [sci-fi, arthouse] # sci-fi, k-drama, romcom, art, documentary 

@@ -1,6 +1,6 @@
 ---
 date: 2026-02-04T19:59:26-6:00
-last_modified_at:
+last_modified_at: 2026-02-13
 watching: true
 tv: true
 # excerpt: "."
@@ -17,8 +17,8 @@ year_started: 2025
 date_started: 2025-12-13
 date_watched: 
 current: true # false
-progress_current: 55
-progress_max: 100
+progress_current: 155
+progress_max: 101
 # watching_list01: true
 watching_status: 'started' # 'finished'
 genre: [] # sci-fi, k-drama, romcom, art, documentary 

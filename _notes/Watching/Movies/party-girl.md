@@ -15,8 +15,8 @@ year_watched: 2022
 date_watched: 2022-04-16
 date_started: 2022-04-16
 current: false # true
-progress_current: 100
-progress_max: 100
+progress_current: 1
+progress_max: 1
 # watching_list01: true
 watching_status: 'started' # 'finished'
 genre: [library workers] # sci-fi, k-drama, romcom, art, documentary 

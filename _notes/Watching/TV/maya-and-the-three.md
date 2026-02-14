@@ -1,6 +1,6 @@
 ---
 date: 2026-02-08T21:42:36-6:00
-last_modified_at:
+last_modified_at: 2026-02-13
 watching: true
 tv: true
 excerpt: "A warrior princess recruits three legendary fighters to help save the world of gods and humans."
