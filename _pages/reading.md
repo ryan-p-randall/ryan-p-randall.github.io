@@ -127,13 +127,14 @@ As of 2026-01-20, I'm considering writing up a "How did I do this?" guide in the
 
 {% assign reading_notes_all = site.notes | where:"reading","true" | sort_natural: "title" %}
 {% assign reading_notes_by_year = reading_notes_all | where_exp:"item", "item.year_read > 2000" | sort: "year_read" | group_by:"year_read" %}
-{% for year in reading_notes_by_year reversed %}
-{% assign yearly_items_sorted = year.items | sort_natural: "title" %}
-<details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
-<div>
-<ol>
-{% for item in yearly_items_sorted %}
-<li>
+{% assign reversed_years = reading_notes_by_year | reverse %}
+{% for year in reversed_years limit:2 %}
+  {% assign yearly_items_sorted = year.items | sort_natural: "title" %}
+  <details open id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
+  <div>
+  <ol>
+  {% for item in yearly_items_sorted %}
+  <li>
     {% if item.reading-articles %} :page_facing_up:{% endif %}
     {% if item.reading_books %} :green_book:{% endif %}
     {% if item.list%} :memo:{% endif %}
@@ -142,9 +143,30 @@ As of 2026-01-20, I'm considering writing up a "How did I do this?" guide in the
     {% if item.access == "paywalled" %}:closed_lock_with_key:{% endif %}
     {% if item.status == ":seedling:" %}:seedling:{% endif %}{% if item.status == ":herb:" %}:herb:{% endif %}{% if item.status == ":evergreen_tree:" %}:evergreen_tree:{% endif %}<br>
     {{ item.excerpt | markdownify }}
-</li>
+  </li>
+  {% endfor %}
+  </ol>
+  </div>
+  </details>
 {% endfor %}
-</ol>
-</div>
-</details>
+{% for year in reversed_years offset:2 %}
+  {% assign yearly_items_sorted = year.items | sort_natural: "title" %}
+  <details id="{{ year.name }}"><summary><h3 id="{{year.name}}">{{ year.name }}</h3></summary>
+  <div>
+  <ol>
+  {% for item in yearly_items_sorted %}
+  <li>
+    {% if item.reading-articles %} :page_facing_up:{% endif %}
+    {% if item.reading_books %} :green_book:{% endif %}
+    {% if item.list%} :memo:{% endif %}
+    <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}
+    {% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
+    {% if item.access == "paywalled" %}:closed_lock_with_key:{% endif %}
+    {% if item.status == ":seedling:" %}:seedling:{% endif %}{% if item.status == ":herb:" %}:herb:{% endif %}{% if item.status == ":evergreen_tree:" %}:evergreen_tree:{% endif %}<br>
+    {{ item.excerpt | markdownify }}
+  </li>
+  {% endfor %}
+  </ol>
+  </div>
+  </details>
 {% endfor %}
