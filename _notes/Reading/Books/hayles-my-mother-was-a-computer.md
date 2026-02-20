@@ -1,9 +1,9 @@
 ---
 date: 2025-05-19T17:11:52-6:00
-last_modified_at: 2026-02-16
+last_modified_at: 2026-02-19
 reading: true
 reading_books: true
-# excerpt: "."
+excerpt: "Hayles provides new ways of discussing how code relates to speech and writing, as well as how our conceptions of works or texts relate to human subjects and identities."
 status: ':herb:'
 published: true # false
 title: 'My Mother Was a Computer: Digital Subjects and Literary Texts'
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-02-14
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 97
+progress_current: 117
 progress_max: 288
 reading_list01: true
 # reading_list02: true
