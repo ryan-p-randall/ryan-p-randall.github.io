@@ -5,3 +5,14 @@
 {% if page.last_modified_at %}
   <div class="page__date "><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time class="dt-published" datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: date_format }}</time></div>
 {% endif %}
+{% if document.read_time %}
+  <div class="page__meta-readtime"><strong><i class="far fa-fw fa-clock" aria-hidden="true"></i></strong>
+    {% if words < words_per_minute %}
+      {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+    {% elsif words == words_per_minute %}
+      1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+    {% else %}
+        {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+    {% endif %}
+  </div>
+{% endif %}

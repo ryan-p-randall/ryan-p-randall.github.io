@@ -32,7 +32,7 @@ masthead_title:
 og_image: /assets/images/pocket-notebooks-og-card.jpg
 # breadcrumbs: true  
 # enable_copy_code_button: true
-words_per_minute: 200  
+words_per_minute: 230  
 date_format: "%Y-%m-%d"
 comments:  
   provider: "giscus" # "utterances"
@@ -167,7 +167,7 @@ defaults:
       author_profile: false # true
       breadcrumbs: true
       comments: true
-      read_time: false
+      read_time: true # false
       related: true
       share: false
       show_date: true
@@ -180,6 +180,8 @@ defaults:
       layout: single
       author_profile: false # true
       breadcrumbs: true
+      comments: true
+      read_time: true # false
       toc_sticky: true
       feedback: false # true
   # notes  
@@ -190,6 +192,7 @@ defaults:
       layout: note
       author_profile: false # true
       comments: true
+      read_time: true # false
       toc: true
       toc_sticky: true
       sidebar:
@@ -212,6 +215,7 @@ defaults:
       layout: single
       author_profile: false # true
       breadcrumbs: true
+      read_time: true # false
       toc: true
       toc_sticky: true
       feedback: false # true
