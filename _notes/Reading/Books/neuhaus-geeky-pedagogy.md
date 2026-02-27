@@ -1,22 +1,22 @@
 ---
 date: 2025-05-19T21:58:42-6:00
-last_modified_at:
+last_modified_at: 2026-02-26
 reading: true
 reading_books: true
-# excerpt: "."
+excerpt: "Neuhaus encourages faculty to embrace their inner nerd and critically reflect on how to translate their scholarly expertise into authentic student learning."
 status: ':herb:'
 published: true # false
 title: 'Geeky Pedagogy: A Guide for Intellectuals, Introverts, and Nerds Who Want to Be Effective Teachers'
 work_author: 'Jessamyn Neuhaus'
 work_author_sort: 'Neuhaus, Jessamyn'
-# work_link: ''
-work_link_text: ''
+work_link: 'https://openlibrary.org/books/OL27875446M/Geeky_Pedagogy'
+work_link_text: 'OpenLibrary'
 year_read: 
 date_read: 
-# date_started: 
-current: false # true
-reading_status: # 'started' 'finished'
-progress_current: 0
+date_started: 2026-02-26
+current: true # false
+reading_status: 'started' # 'finished'
+progress_current: 1
 progress_max: 264
 # reading_list01: true
 # reading_list02: true
