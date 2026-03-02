@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T21:58:42-6:00
-last_modified_at: 2026-02-28
+last_modified_at: 2026-03-01
 reading: true
 reading_books: true
 excerpt: "Neuhaus encourages faculty to embrace their inner nerd and critically reflect on how to translate their scholarly expertise into authentic student learning."
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-02-26
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 91
+progress_current: 129
 progress_max: 264
 # reading_list01: true
 # reading_list02: true
