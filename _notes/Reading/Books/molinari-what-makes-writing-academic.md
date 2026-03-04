@@ -13,10 +13,10 @@ work_link: 'https://www.bloomsburycollections.com/monograph?docid=b-978135024395
 work_link_text: 'Bloomsbury'
 year_read: 
 date_read: 
-# date_started: 
-current: false # true
-reading_status: # 'started' 'finished'
-progress_current: 0
+date_started: 2026-03-03
+current: true # false
+reading_status: 'started' # 'finished'
+progress_current: 7
 progress_max: 198
 # reading_list01: true
 # reading_list02: true
