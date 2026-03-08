@@ -7,6 +7,7 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "activesupport", ">= 4.1.11"
 gem "webrick"
+gem "nokogiri", ">=1.19.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
