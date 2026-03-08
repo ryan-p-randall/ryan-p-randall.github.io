@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-03-03
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 63
+progress_current: 101
 progress_max: 204
 # reading_list01: true
 # reading_list02: true
