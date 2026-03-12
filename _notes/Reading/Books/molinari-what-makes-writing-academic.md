@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T21:24:09-6:00
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-11
 reading: true
 reading_books: true
 excerpt: "Molinari proposes a critical realist approach to academic writing, arguing that academicness emerges from social and historical practices rather than conventions or formal attributes."
@@ -11,12 +11,12 @@ work_author: 'Julia Molinari'
 work_author_sort: 'Molinari, Julia'
 work_link: 'https://www.bloomsburycollections.com/monograph?docid=b-9781350243958'
 work_link_text: 'Bloomsbury'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-03-11
 date_started: 2026-03-03
-current: true # false
-reading_status: 'started' # 'finished'
-progress_current: 152
+current: false # true
+reading_status: 'finished' # 'started'
+progress_current: 204
 progress_max: 204
 # reading_list01: true
 # reading_list02: true

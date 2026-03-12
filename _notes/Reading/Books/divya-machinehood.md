@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T16:26:23-6:00
-last_modified_at:
+last_modified_at: 2026-03-11
 reading: true
 reading_books: true
 # excerpt: "."
@@ -13,10 +13,10 @@ work_link: 'https://openlibrary.org/works/OL21967564W/Machinehood'
 work_link_text: 'OpenLibrary'
 year_read: 
 date_read: 
-# date_started: 
-current: false # true
-reading_status: # 'started' 'finished'
-progress_current: 0
+date_started: 2026-03-11
+current: true # false
+reading_status: 'started' # 'finished'
+progress_current: 16
 progress_max: 416
 reading_list01: true
 # reading_list02: true
