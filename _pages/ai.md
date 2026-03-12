@@ -2,7 +2,7 @@
 permalink: /ai/
 title: 'How I Do—and Mostly Do Not—Use "AI" Tools'
 date: 2026-01-31
-last_modified_at: 2026-01-31
+last_modified_at: 2026-03-11
 toc: true
 author_profile: true
 feedback: true
@@ -71,3 +71,4 @@ Here's a wide range in terms of both how the authors engage with AI tools and ho
 - [Derek Sivers](https://sive.rs/ai)  
 - [Robb Knight](https://rknight.me/ai/)  
 - [Sarah K. Winnicki](https://www.skwinnicki.com/single-post/i-would-be-so-ashamed-to-use-generative-ai-here-s-why)  
+- [Sean Boots](https://sboots.ca/2026/03/11/generative-ai-vegetarianism/)  
