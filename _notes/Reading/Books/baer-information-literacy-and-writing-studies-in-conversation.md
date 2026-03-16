@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T21:05:28-6:00
-last_modified_at:
+last_modified_at: 2026-03-15
 reading: true
 reading_books: true
 # excerpt: "."
@@ -9,14 +9,14 @@ published: true # false
 title: 'Information Literacy and Writing Studies in Conversation: Reenvisioning Library-Writing Program Connections'
 work_author: 'Andrea Baer'
 work_author_sort: 'Baer, Andrea'
-# work_link: ''
-work_link_text: ''
+work_link: 'https://openlibrary.org/works/OL32490773W/Information_literacy_and_writing_studies_in_conversation'
+work_link_text: 'OpenLibrary'
 year_read: 
 date_read: 
-# date_started: 
-current: false # true
-reading_status: # 'started' 'finished'
-progress_current: 0
+date_started: 2026-03-15
+current: true # false
+reading_status: 'started' # 'finished'
+progress_current: 2
 progress_max: 202
 # reading_list01: true
 # reading_list02: true

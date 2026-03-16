@@ -3,7 +3,7 @@ date: 2025-05-19T16:26:23-6:00
 last_modified_at: 2026-03-14
 reading: true
 reading_books: true
-# excerpt: "."
+excerpt: "Welga Ramírez, and her WAI companion Por Qué, attempt to find out who is behind the Machinehood's threats before they cause more harm."
 status: ':herb:'
 published: true # false
 title: 'Machinehood'
@@ -11,12 +11,12 @@ work_author: 'S.B. Divya'
 work_author_sort: 'Divya, S.B.'
 work_link: 'https://openlibrary.org/works/OL21967564W/Machinehood'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-03-15
 date_started: 2026-03-11
-current: true # false
-reading_status: 'started' # 'finished'
-progress_current: 225
+current: false # true
+reading_status: 'finished' # 'started'
+progress_current: 416
 progress_max: 416
 reading_list01: true
 # reading_list02: true
