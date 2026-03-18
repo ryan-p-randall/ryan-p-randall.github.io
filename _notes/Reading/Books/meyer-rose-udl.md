@@ -1,8 +1,8 @@
 ---
 date: 2026-03-17T15:48:20-6:00
-last_modified_at:
+last_modified_at: 2026-03-17
 reading: true
-reading-books: true
+reading_books: true
 excerpt: "Universal Design for Learning (UDL) aims to help educators create learning experiences that increase outcomes for all learners."
 status: ':herb:'
 published: true # false
@@ -15,12 +15,12 @@ year_read:
 date_read: 
 date_started: 2026-03-01
 current: true # false
-progress_current: 75
+reading_status: 'started' # 'finished'
+progress_current: 115
 progress_max: 214
 # reading_list01: true
 # reading_list02: true
 # reading_list03: true
-reading-status: # 'started' 'finished'
 genre: [pedagogy, book] # fiction theory book novel article practice pedagogy criticism
 # group: [pid] # cil
 citation: ''

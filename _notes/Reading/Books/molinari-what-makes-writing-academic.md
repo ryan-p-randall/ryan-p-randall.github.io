@@ -21,7 +21,7 @@ progress_max: 204
 # reading_list01: true
 # reading_list02: true
 reading_list03: true
-genre: [theory, book] # fiction theory book novel article practice pedagogy criticism
+genre: [pedagogy, theory, book] # fiction theory book novel article practice pedagogy criticism
 group: [cil] # pid
 citation: 'Molinari, Julia. <a href="https://www.bloomsburycollections.com/monograph?docid=b-9781350243958"><em>What Makes Writing Academic: Rethinking Theory for Practice</em></a>. Bloomsbury Academic, 2022. (198 pp., workUnit1.)'
 bib_order: 10
