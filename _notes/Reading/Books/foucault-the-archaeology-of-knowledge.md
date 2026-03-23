@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T17:03:50-6:00
-last_modified_at:
+last_modified_at: 2026-03-22
 reading: true
 reading_books: true
 # excerpt: "."
@@ -13,10 +13,10 @@ work_link: 'https://openlibrary.org/books/OL5282804M/The_archaeology_of_knowledg
 work_link_text: 'OpenLibrary'
 year_read: 
 date_read: 
-# date_started: 
-current: false # true
-reading_status: # 'started' 'finished'
-progress_current: 0
+date_started: 2026-03-22
+current: true # false
+reading_status: 'started' # 'finished'
+progress_current: 5
 progress_max: 237
 reading_list01: true
 # reading_list02: true

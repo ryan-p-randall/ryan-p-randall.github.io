@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T21:05:28-6:00
-last_modified_at: 2026-03-21
+last_modified_at: 2026-03-22
 reading: true
 reading_books: true
 excerpt: "Baer argues that recent developments in librarianship and composition instruction evidence increasing convergence between the fields, likely improving results for students."
@@ -11,12 +11,12 @@ work_author: 'Andrea Baer'
 work_author_sort: 'Baer, Andrea'
 work_link: 'https://openlibrary.org/works/OL32490773W/Information_literacy_and_writing_studies_in_conversation'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-03-22
 date_started: 2026-03-15
-current: true # false
-reading_status: 'started' # 'finished'
-progress_current: 87
+current: false # false
+reading_status: 'finished' # 'started'
+progress_current: 191
 progress_max: 191
 # reading_list01: true
 # reading_list02: true
