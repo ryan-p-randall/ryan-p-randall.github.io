@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T17:03:50-6:00
-last_modified_at: 2026-03-22
+last_modified_at: 2026-03-23
 reading: true
 reading_books: true
 # excerpt: "."
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-03-22
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 5
+progress_current: 23
 progress_max: 237
 reading_list01: true
 # reading_list02: true

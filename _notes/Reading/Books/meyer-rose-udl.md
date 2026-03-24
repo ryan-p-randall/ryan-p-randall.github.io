@@ -13,7 +13,7 @@ work_link: 'https://openlibrary.org/books/OL60906188M/Universal_Design_for_Learn
 work_link_text: 'OpenLibrary'
 year_read: 
 date_read: 
-date_started: 2026-03-01
+date_started: 2026-02-18
 current: true # false
 reading_status: 'started' # 'finished'
 progress_current: 131
