@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.2.3)
+    activesupport (7.2.3.1)
       base64
       benchmark (>= 0.3)
       bigdecimal
@@ -10,7 +10,7 @@ GEM
       drb
       i18n (>= 1.6, < 2)
       logger (>= 1.4.2)
-      minitest (>= 5.1)
+      minitest (>= 5.1, < 6)
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
     addressable (2.8.9)
@@ -287,9 +287,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (6.0.2)
-      drb (~> 2.0)
-      prism (~> 1.5)
+    minitest (5.27.0)
     multi_json (1.19.1)
     mutex_m (0.3.0)
     net-http (0.9.1)
@@ -304,7 +302,6 @@ GEM
     openssl (3.3.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    prism (1.9.0)
     progressbar (1.13.0)
     public_suffix (5.1.1)
     racc (1.8.1)
