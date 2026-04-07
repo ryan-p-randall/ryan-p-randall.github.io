@@ -1,6 +1,6 @@
 {% if page.page-citation-mla == true or page.categories contains "semi-schematic" %}
     <div class="citation-box">
-    <h2 id="cite">Cite this post:</h2>
+    <h2 id="cite" style="margin: 0em;">Cite this post:</h2>
     <p style="margin-bottom: 0em;">{{ site.citation_name }} &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on
 	<script>
 		<!--
@@ -17,5 +17,6 @@
 		-->
 	</script>.
     </p>
+    <!-- <button class="copy-citation-button" style="display: inline-block; padding: 0.5rem 1rem;">Copy MLA Citation to Clipboard</button> -->
     </div>
 {% endif %}
