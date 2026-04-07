@@ -168,6 +168,7 @@ defaults:
       author_profile: false # true
       breadcrumbs: true
       comments: true
+      page-citation-mla: true
       read_time: true # false
       related: true
       share: false
@@ -182,6 +183,7 @@ defaults:
       author_profile: false # true
       breadcrumbs: true
       comments: true
+    #  page-citation-mla: true
       read_time: true # false
       toc_sticky: true
       feedback: false # true
@@ -193,6 +195,7 @@ defaults:
       layout: note
       author_profile: false # true
       comments: true
+      page-citation-mla: true
       read_time: true # false
       toc: true
       toc_sticky: true

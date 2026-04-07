@@ -1,6 +1,7 @@
 {% if page.page-citation-mla == true or page.categories contains "semi-schematic" %}
+    <div class="citation-box">
     <h2 id="cite">Cite this post:</h2>
-    <p>{{ site.citation_name }} &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on
+    <p style="margin-bottom: 0em;">{{ site.citation_name }} &ldquo;{{ page.title }}&rdquo;. Published {{ page.date | date: "%B %d, %Y" }}. <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>. Accessed on
 	<script>
 		<!--
 		var now = new Date();
@@ -16,4 +17,5 @@
 		-->
 	</script>.
     </p>
+    </div>
 {% endif %}
