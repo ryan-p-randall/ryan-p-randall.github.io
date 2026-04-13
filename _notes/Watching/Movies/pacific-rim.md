@@ -9,7 +9,7 @@ published: true # false
 title: 'Pacific Rim'
 # work_author: ''
 # work_author_sort: ''
-# work_link: ''
+work_link: 'https://www.imdb.com/title/tt1663662/'
 work_link_text: 'IMDB'
 year_watched: 2025
 year_started: 2025
@@ -20,6 +20,7 @@ progress_current: 100
 progress_max: 100
 # watching_list01: true
 genre: [sci-fi, monster movie, hopepunk] # sci-fi, k-drama, romcom, art, documentary 
+tags: [sci-fi, monsters, hopepunk]
 # group: [a] # b
 citation: ''
 # bib_order: 

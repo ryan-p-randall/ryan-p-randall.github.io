@@ -20,6 +20,7 @@ progress_current: 1
 progress_max: 1
 # watching_list01: true
 genre: [] # sci-fi, k-drama, romcom, art, documentary 
+tags: [romcom]
 # group: [a] # b
 citation: ''
 # bib_order: 

@@ -20,6 +20,7 @@ progress_current: 100
 progress_max: 100
 # watching_list01: true
 genre: [] # sci-fi, k-drama, romcom, art, documentary 
+tags: [k-drama, musical, animated, fantasy, monsters]
 # group: [a] # b
 citation: ''
 # bib_order: 
