@@ -1,9 +1,9 @@
 ---
 date: 2025-05-19T17:03:50-6:00
-last_modified_at: 2026-04-12
+last_modified_at: 2026-04-13
 reading: true
 reading_books: true
-# excerpt: "."
+excerpt: "In this work, Foucault works toward a new method of historical analysis that examines 'statements' within their own level, examining discursive formations rather than histories of ideas or truths."
 status: ':herb:'
 published: true # false
 title: 'The Archaeology of Knowledge'
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-03-22
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 126
+progress_current: 141
 progress_max: 237
 reading_list01: true
 # reading_list02: true
