@@ -1,6 +1,6 @@
 ---
 date: 2026-03-17T15:48:20-6:00
-last_modified_at: 2026-03-18
+last_modified_at: 2026-04-14
 reading: true
 reading_books: true
 excerpt: "Universal Design for Learning (UDL) aims to help educators create learning experiences that increase outcomes for all learners."
@@ -11,12 +11,12 @@ work_author: 'Anne Meyer and David H. Rose'
 work_author_sort: 'Meyer, Anne and David H. Rose'
 work_link: 'https://openlibrary.org/books/OL60906188M/Universal_Design_for_Learning'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-04-14
 date_started: 2026-02-18
-current: true # false
-reading_status: 'started' # 'finished'
-progress_current: 131
+current: false
+reading_status: 'finished' # 'started'
+progress_current: 214
 progress_max: 214
 # reading_list01: true
 # reading_list02: true
