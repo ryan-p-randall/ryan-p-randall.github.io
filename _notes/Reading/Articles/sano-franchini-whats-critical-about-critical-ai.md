@@ -22,7 +22,7 @@ progress_max: 18
 # reading_list02: true
 # reading_list03: true
 # batch: batch03
-genre: [theory, article, criticism] fiction theory book novel article practice pedagogy criticism
-citation: ''
-bib_order: 
+genre: [theory, article, criticism]
+# citation: ''
+# bib_order: 
 ---
