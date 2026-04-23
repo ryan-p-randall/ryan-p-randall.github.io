@@ -104,7 +104,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-webmention_io
-  - jekyll-tagories
+#  - jekyll-tagories
 #  - jekyll-feed
 #  - jekyll-algolia
 
