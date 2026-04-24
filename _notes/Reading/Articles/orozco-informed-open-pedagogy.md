@@ -2,7 +2,7 @@
 date: 2026-04-12T18:57:43-6:00
 last_modified_at:
 reading: true
-reading-articles: true
+reading_articles: true
 excerpt: "Orozco reminds readers that it is unethical to expect students to produce open work before students understand the implications of open practice, then provides examples lessons and projects she has used in her own course."
 status: ':herb:'
 published: true # false

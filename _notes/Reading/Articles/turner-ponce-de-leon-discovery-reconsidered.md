@@ -2,7 +2,7 @@
 date: 2024-05-01
 last_modified_at: 
 reading: true
-reading-articles: true
+reading_articles: true
 excerpt: "This article provides an up-to-date interpretation of primary and secondary accounts of Ponce de León's travels to Florida."
 status: ":herb:"
 published: true

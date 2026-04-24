@@ -52,7 +52,7 @@ sidebar:
           {% include reading_list03-progress-counter.html %}
         {% elsif page.reading %}
           <h2 id="reading-details">Reading Details</h2>
-          <p>{% if page.reading-articles %} :page_facing_up: &ldquo;{{ page.title }}&rdquo;{% endif %}
+          <p>{% if page.reading_articles %} :page_facing_up: &ldquo;{{ page.title }}&rdquo;{% endif %}
             {% if page.reading_books %} :book: <strong>{{ page.title }}</strong>{% endif %}
             {% if page.work_link %}| 
                 {% if page.access == "oa" %}<i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
@@ -64,7 +64,7 @@ sidebar:
             {% if page.date_started %}
                 Started: {{ page.date_started }}
                 {% if page.date_read %}<br />Finished: {{ page.date_read }}{% endif %}<br />
-                Amount read: {{ page.progress_current }} of {{ page.progress_max }} {% if page.reading-articles or page.reading_books %}pages {% elsif page.reading-lists %}works {% endif %}</p>
+                Amount read: {{ page.progress_current }} of {{ page.progress_max }} {% if page.reading_articles or page.reading_books %}pages {% elsif page.reading-lists %}works {% endif %}</p>
                 <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="reading-progress" value="{{ page.progress_current }}" max="{{ page.progress_max }}">{{ page.progress_current }} pages</progress>
                 {% else %}
                 Started: Not yet started
@@ -91,7 +91,7 @@ sidebar:
                 Watched: {{ page.year_watched }}<br />
                 {% elsif page.year_started %}Started: {{ page.year_started }}<br />
             {% endif %}
-            {% if page.progress_current %}Amount watched: {{ page.progress_current }} of {{ page.progress_max }} {% if page.reading-articles or page.reading_books %}pages {% elsif page.reading-lists %}works {% endif %}</p>
+            {% if page.progress_current %}Amount watched: {{ page.progress_current }} of {{ page.progress_max }} {% if page.reading_articles or page.reading_books %}pages {% elsif page.reading-lists %}works {% endif %}</p>
                 <label for="watching-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label> <progress id="watching-progress" value="{{ page.progress_current }}" max="{{ page.progress_max }}">{{ page.progress_current }} </progress>
                 {% else %}
                 Started: Not yet started

@@ -2,7 +2,7 @@
 date: 2025-05-19T22:53:23-6:00
 last_modified_at: 2026-04-12
 reading: true
-reading-articles: true
+reading_articles: true
 excerpt: 'Recounting the conflicting discursive histories of "information" and "literacy", Pawley argues that librarianship needs to center more critical analysis of how knowledge and meaning are made when readers make sense of decontextualized information within intersecting systems of power relations.'
 status: ':herb:'
 published: true # false

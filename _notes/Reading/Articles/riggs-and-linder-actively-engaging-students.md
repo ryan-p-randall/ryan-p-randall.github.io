@@ -2,7 +2,7 @@
 date: 2023-02-01
 last_modified_at: 2023-02-01
 reading: true
-reading-articles: true
+reading_articles: true
 reading-type: "article"
 excerpt: "Abstract: This paper suggests a three-pronged approach for conceptualizing active learning in the online asynchronous class: the creation of an architecture of engagement in the online classroom, the use of web-based tools in addition to the learning management system, and a re-imagining of discussion boards as interactive spaces."
 status: ":herb:"

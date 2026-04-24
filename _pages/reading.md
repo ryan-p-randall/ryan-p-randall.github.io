@@ -38,7 +38,7 @@ As of 2026-01-20, I'm considering writing up a "How did I do this?" guide in the
     {% for item in reading_current reversed %}
 <article>
     <h3>
-    {% if item.reading-articles %} :page_facing_up:{% endif %}
+    {% if item.reading_articles %} :page_facing_up:{% endif %}
     {% if item.reading_books %} :green_book:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}
     </a>{% if item.access == "oa" %} <a href="{{ page.work_link }}">{{ page.work_link_text }}</a><i class="ai ai-open-access" aria-hidden="true"></i><span class="sr-only">open access</span>{% endif %}
@@ -135,7 +135,7 @@ As of 2026-01-20, I'm considering writing up a "How did I do this?" guide in the
   <ol>
   {% for item in yearly_items_sorted %}
   <li>
-    {% if item.reading-articles %} :page_facing_up:{% endif %}
+    {% if item.reading_articles %} :page_facing_up:{% endif %}
     {% if item.reading_books %} :green_book:{% endif %}
     {% if item.list%} :memo:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}
@@ -156,7 +156,7 @@ As of 2026-01-20, I'm considering writing up a "How did I do this?" guide in the
   <ol>
   {% for item in yearly_items_sorted %}
   <li>
-    {% if item.reading-articles %} :page_facing_up:{% endif %}
+    {% if item.reading_articles %} :page_facing_up:{% endif %}
     {% if item.reading_books %} :green_book:{% endif %}
     {% if item.list%} :memo:{% endif %}
     <a href="{{ item.url }}">{{ item.title }}</a> by {{ item.work_author }}

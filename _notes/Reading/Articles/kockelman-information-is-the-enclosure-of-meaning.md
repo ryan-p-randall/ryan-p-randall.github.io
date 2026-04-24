@@ -2,7 +2,7 @@
 date: 2026-04-12T18:26:05-6:00
 last_modified_at:
 reading: true
-reading-articles: true
+reading_articles: true
 excerpt: "Largely framed as an intervention in misunderstandings of Donald MacKay's accounts of information, Kockelman offers the ideas of Charles Sanders Peirce as a better source of the ideas that literary or aesthetics scholars seem to want from MacKay."
 status: ':herb:'
 published: true # false

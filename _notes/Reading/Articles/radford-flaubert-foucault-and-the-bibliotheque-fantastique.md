@@ -2,7 +2,7 @@
 date: 2026-04-12T18:44:13-6:00
 last_modified_at:
 reading: true
-reading-articles: true
+reading_articles: true
 excerpt: "Radford uses Foucault, Barthes, and other examples of literary criticism, to offer alternative accounts of the modern library experience than the dominant positivist epistemology."
 status: ':herb:'
 published: true # false

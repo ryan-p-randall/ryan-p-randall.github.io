@@ -2,7 +2,7 @@
 date: 2026-04-12T18:15:30-6:00
 last_modified_at: 2026-04-12
 reading: true
-reading-articles: true
+reading_articles: true
 excerpt: "Pangrazio's brief editorial reminds readers of Paolo Freire's assertion that literacy involves reading the world and its relations of power, not merely words. Unfortunately, most current 'AI literacy' approaches merely provide instrumental instruction on how to use AI rather than helping learners question the social structures its use promotes."
 status: ':herb:'
 published: true # false

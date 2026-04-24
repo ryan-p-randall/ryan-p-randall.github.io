@@ -2,7 +2,7 @@
 date: 2025-05-19T22:23:50-6:00
 last_modified_at:
 reading: true
-reading-articles: true
+reading_articles: true
 # excerpt: "."
 status: ':herb:'
 published: true # false
