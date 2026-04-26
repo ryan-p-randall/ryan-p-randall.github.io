@@ -1,0 +1,3278 @@
+---
+nocite: "[@*]"
+
+comment: 
+# Bibliography for Ryan's exam lists and afterwards, with structure indicated in comments
+# When in doubt, refer to:
+#   - https://pandoc.org/MANUAL.html#citations
+#   - https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+#   - https://docs.citationstyles.org/en/stable/primer.html
+# For CSL Yaml, all titles should be in sentence case: https://pandoc.org/MANUAL.html#capitalization-in-titles
+# Protect words that should not be converted to title case using this syntax: Spin wave dispersion on the <span class="nocase">nm</span> scale
+# In CSL YAML databases, pandoc parses Markdown: https://pandoc.org/MANUAL.html#specifying-bibliographic-data
+# YAML files aren't elegant to work with in terms of folding & such, so [Better Comments](https://github.com/aaron-bond/better-comments) in VS Code makes it much easier to quickly find sections.
+
+references:
+
+- list: exam-list-01
+## Exam List 01
+## Information Control and Making Meaning in Modern/Postmodern Texts
+
+- sublist: exam-list-01-fiction
+### EL01 Fiction
+
+- id: asimovFoundation
+  type: book
+  title: Foundation
+  author:
+  - family: Asimov
+    given: Isaac
+  issued: 1991
+  original-date: 1951
+  page: 320
+  publisher: Spectra
+  isbn:
+  copy-provenance:
+
+- id: delanyBalladB2
+  type: book
+  title: The ballad of Beta-2
+  author:
+  - family: Delany
+    given: Samuel R.
+  container-author:
+  - family: Delany
+    given: Samuel R.
+  container-title: "A, B, C: Three short novels"
+  issued: 2015
+  original-date: 1965
+  original-publisher: Ace Books
+  original-publisher-full: Ace Books, Inc.
+  page: 172--262
+  publisher: Vintage Books
+  publisher-place: New York
+  isbn: 9781101911426
+  copy-provenance:
+
+- id: delanyDhalgren
+  type: book
+  title: Dhalgren
+  author:
+  - family: Delany
+    given: Samuel R.
+  issued: 2015
+  original-date: 1974
+  number-of-pages: 801
+  publisher: Vintage Books
+  isbn:
+  copy-provenance:
+
+- id: delanyNova
+  type: book
+  title: Nova
+  author:
+  - family: Delany
+    given: Samuel R.
+  issued: 2002
+  original-date: 1968
+  number-of-pages: 241
+  publisher: Vintage Books
+  isbn:
+  copy-provenance:
+
+- id: delilloWhiteNoise
+  type: book
+  title: White noise
+  author:
+  - family: DeLillo
+    given: Don
+  issued: 1986
+  number-of-pages: 326
+  publisher: Penguin
+  isbn: 0-14-007702-2
+  copy-provenance: "I've had it probably since undergrad? I clearly started it once upon a time but didn't finish it. My own marginalia was there from starting it at least once before reading it now in 2025."
+
+- id: dickDoAndroidsDream
+  type: book
+  title: Do androids dream of electric sheep?
+  author:
+  - family: Dick
+    given: Philip K.
+  container-title: Four novels of the 1960s
+  issued: 2007
+  number-of-pages: 177
+  original-date: 1968
+  page: 435--608
+  publisher: Library of America
+  publisher-full: The Library of America
+  isbn:
+  copy-provenance:
+
+- id: divyaMachinehood
+  type: book
+  title: Machinehood
+  author:
+  - family: Divya
+    given: S. B.
+  issued: 2022
+  number-of-pages: 416
+  publisher: Gallery / Saga Press
+  isbn:
+  copy-provenance:
+
+- id: erdrichRoundHouse
+  type: book
+  title: The round house
+  author:
+  - family: Erdrich
+    given: Louise
+  issued: 2013
+  number-of-pages: 321
+  publisher: Harper Perennial
+  isbn:
+  copy-provenance:
+
+- id: okoraforBinti
+  type: book
+  title: Binti
+  author:
+  - family: Okorafor
+    given: Nnedi
+  container-title: "Binti: The complete trilogy"
+  issued: 2020
+  number-of-pages: 56
+  original-date: 2015
+  page: 1--56
+  publisher: DAW Books
+  publisher-place: New York
+  isbn: 9780756416935
+  copy-provenance:
+
+- id: okoraforBintiHome
+  type: book
+  title: "Binti: Home"
+  author:
+  - family: Okorafor
+    given: Nnedi
+  container-title: "Binti: The complete trilogy"
+  issued: 2020
+  number-of-pages: 106
+  original-date: 2017
+  page: 99--204
+  publisher: DAW Books
+  publisher-place: New York
+  isbn: 9780756416935
+  copy-provenance:
+
+- id: okoraforBintiSF
+  type: book
+  title: "Binti: Sacred fire"
+  author:
+  - family: Okorafor
+    given: Nnedi
+  container-title: "Binti: The complete trilogy"
+  issued: 2020
+  number-of-pages: 34
+  original-date: 2019
+  page: 61--95
+  publisher: DAW Books
+  publisher-place: New York
+  isbn: 9780756416935
+  copy-provenance:
+
+- id: okoraforBintiNM
+  type: book
+  title: "Binti: The night masquerade"
+  author:
+  - family: Okorafor
+    given: Nnedi
+  container-title: "Binti: The complete trilogy"
+  issued: 2020
+  number-of-pages: 147
+  original-date: 2018
+  page: 209--356
+  publisher: DAW Books
+  publisher-place: New York
+  isbn: 9780756416935
+  copy-provenance:
+
+- id: olderInfomocracy
+  type: book
+  title: Infomocracy
+  author:
+  - family: Older
+    given: Malka
+  issued: 2017
+  number-of-pages: 400
+  publisher: Tordotcom
+  isbn:
+  copy-provenance:
+
+- id: pynchonCryingLot49
+  type: book
+  title: "The crying of lot 49"
+  author:
+  - family: Pynchon
+    given: Thomas
+  issued: 2006
+  original-date: 1966
+  number-of-pages: 160
+  publisher: Harper Perennial
+  isbn:
+  copy-provenance:
+
+- id: pynchonGravitysRainbow
+  type: book
+  title: "Gravity's rainbow"
+  author:
+  - family: Pynchon
+    given: Thomas
+  issued: 2000
+  original-date: 1973
+  number-of-pages: 776
+  publisher: Penguin
+  isbn:
+  copy-provenance:
+
+- id: stephensonSnowCrash
+  type: book
+  title: Snow crash
+  author:
+  - family: Stephenson
+    given: Neal
+  issued: 2000
+  original-date: 1992
+  number-of-pages: 440
+  publisher: Del Rey
+  isbn:
+  copy-provenance:
+
+- id: yamashitaTropicOfOrange
+  type: book
+  title: Tropic of orange
+  author:
+  - family: Yamashita
+    given: Karen Tei
+  issued: 1997
+  number-of-pages: 270
+  publisher: Coffee House Press
+  isbn:
+  copy-provenance:
+
+# - comment:  
+- sublist: el01-theory-books
+### EL01 Theory
+
+- id: benjaminRaceAfterTechnology
+  type: book
+  title: "Race after technology: Abolitionist tools for the New Jim Code"
+  title-short: Race after technology
+  author:
+  - family: Benjamin
+    given: Ruha
+  issued: 2019
+  number-of-pages: 285
+  publisher: Polity
+  isbn:
+  copy-provenance:
+
+- id: chuRaceNSModernism
+  type: book
+  title: "Race, nationalism, and the state in British and American Modernism"
+  author:
+  - family: Chu
+    given: Patricia E.
+  issued: 2006
+  number-of-pages: 196
+  publisher: Cambridge UP
+  publisher-full: Cambridge University Press
+  isbn:
+  copy-provenance:
+
+- id: dayModernInventInfo
+  type: book
+  title: "The modern invention of information: discourse, history, and power"
+  title-short: "The modern invention of information"
+  author:
+  - family: Day
+    given: Ronald E.
+  issued: 2001
+  number-of-pages: 152
+  publisher: Southern IL UP
+  publisher-full: Southern Illinois University Press
+  isbn:
+  copy-provenance:
+
+- id: foucaultArchKnowledge
+  type: book
+  title: "The archaeology of knowledge"
+  author:
+  - family: Foucault
+    given: Michel
+  translator:
+  - family:
+    given:
+  issued: 1972
+  original-date: 1969
+  original-language: fr
+  original-title: L'archéologie du savoir
+  original-publisher: Éditions Gallimard
+  number-of-pages: 237
+  publisher: Pantheon
+  isbn:
+  copy-provenance:
+
+- id: foucaultOrderThings
+  type: book
+  title: "The order of things: An archaeology of the human sciences"
+  title-short: The order of things
+  author:
+  - family: Foucault
+    given: Michel
+  translator:
+  - family:
+    given:
+  issued: 1994
+  original-date: 1966
+  original-language: fr
+  original-title: Les Mots et les choses
+  original-publisher: Éditions Gallimard
+  number-of-pages: 387
+  publisher: Vintage Books
+  isbn: 0-679-75335-4
+  copy-provenance:
+
+- id: hallPolicingCrisis
+  type: book
+  title: "Policing the crisis: Mugging, the state, and law and order"
+  title-short: Policing the Crisis
+  author:
+  - family: Hall
+    given: Stuart
+  - family: Critcher
+    given: Chas
+  - family: Jefferson
+    given: Tony
+  - family: Clarke
+    given: John
+  - family: Roberts
+    given: Brian
+  edition: 2
+  issued: 2013
+  original-date: 1978
+  number-of-pages: 472
+  publisher: Bloomsbury Publishing
+  isbn:
+  copy-provenance:
+
+- id: haylesHowWe
+  type: book
+  title: "How we became posthuman: Virtual bodies in cybernetics, literature, and informatics"
+  title-short: "How we became posthuman"
+  author:
+  - family: Hayles
+    given: N. Katherine
+  issued: 1999
+  number-of-pages: 350
+  publisher: U of Chicago P
+  publisher-full: University of Chicago Press
+  isbn:
+  copy-provenance:
+
+- id: haylesMyMother
+  title: "My mother was a computer: Digital subjects and literary texts"
+  title-short: My mother was a computer
+  type: book
+  author:
+  - family: Hayles
+    given: N. Katherine
+  issued: 2005
+  number-of-pages: 288
+  publisher: U of Chicago P
+  publisher-full: University of Chicago Press
+  isbn:
+  copy-provenance:
+
+- id: hayotInfoReader
+  type: book
+  title: "Information: A reader"
+  title-short: Information
+  editor:
+  - family: Hayot
+    given: Eric
+  - family: Detwyler
+    given: Anatoly
+  - family: Pao
+    given: Lea
+  issued: 2021
+  number-of-pages: 408
+  publisher: Columbia UP
+  publisher-full: Columbia University Press
+  publisher-place: New York
+  isbn: 9780231186216
+  copy-provenance:
+
+- id: leeOverwhelmed
+  type: book
+  title: "Overwhelmed: Literature, aesthetics, and the Nineteenth-Century Information Revolution"
+  title-short: Overwhelmed
+  author:
+  - family: Lee
+    given: Maurice S.
+  issued: 2019
+  number-of-pages: 277
+  publisher: Princeton UP
+  publisher-full: Princeton University Press
+  isbn:
+  copy-provenance:
+
+- id: purdonModInfo
+  type: book
+  title: "Modernist informatics: Literature, information, and the state"
+  title-short: Modernist informatics
+  author:
+  - family: Purdon
+    given: James
+  issued: 2016
+  number-of-pages: 224
+  publisher: Oxford UP
+  publisher-full: Oxford University Press
+  isbn:
+  copy-provenance:
+
+- id: richardsImperialArchive
+  type: book
+  title: "The imperial archive: Knowledge and the fantasy of empire"
+  title-short: The imperial archive
+  author:
+  - family: Richards
+    given: Thomas
+  issued: 1993
+  number-of-pages: 179
+  publisher: Verso
+  isbn:
+  copy-provenance:
+
+- id: tuckerSense
+  type: book
+  title: "A sense of wonder: Samuel R. Delany, race, identity, and difference"
+  title-short: "A sense of wonder"
+  author:
+  - family: Tucker
+    given: Jeffrey Allen
+  issued: 2004
+  number-of-pages: 344
+  publisher: Wesleyan UP  
+  publisher-full: Wesleyan University Press
+  accessed: 2024-04-10
+  isbn:
+  copy-provenance:
+
+# - comment:  
+- sublist: el01-theory-articles
+## EL01 Theory Articles
+
+### Batch One (workUnit01)
+
+- id: buddInstancesIdeology
+  type: article-journal
+  title: "Instances of ideology in discursive practice: Implications for library and information science"
+  title-short: Instances of ideology in discursive practice
+  author:
+  - family: Budd
+    given: John M.
+  container-title: "The Library Quarterly: Information, Community, Policy"
+  container-title-short: "The library quarterly"
+  issued:
+  - year: 2001
+    season:
+    month: 10
+    day:
+  issue: 4
+  number-of-pages: 20
+  page: 498--517
+  source: JSTOR
+  url: https://www.jstor.org/stable/4309562
+  volume: 71
+  accessed: 2024-03-10
+
+- id: colatrellaInformationNovel
+  type: article-journal
+  title: "Information in the novel and the novel as information system: Charles Dickens's 'Little Dorrit' and Margaret Drabble's 'radiant way' trilogy"
+  title-short: "Information in the novel and the novel as information system"
+  author:
+  - family: Colatrella
+    given: Carol
+  container-title: "Information & Culture"
+  issued: 2015
+  issue: 3
+  volume: 50
+  number-of-pages: 33
+  page: 339--371
+  publisher: U of Texas P
+  publisher-full: University of Texas Press
+  url: "https://www.jstor.org/stable/43737492"
+  accessed: 2024-04-10
+
+- id: dastonObjectivityEscape
+  type: article-journal
+  title: "Objectivity and the escape from perspective"
+  container-title: "Social Studies of Science: An International Review of Research in the Social Dimensions of Science and Technology"
+  author:
+  - family: Daston
+    given: Lorraine
+  issn: 0306-3127
+  issued: 1992
+  issue: 4
+  volume: 22
+  number-of-pages: 22
+  page: 597--618
+  publisher: Sage Publications
+  publisher-full: Sage Publications, Ltd
+  url: "https://www.jstor.org/stable/285456"
+
+- id: harawayCyborgManifesto
+  type: chapter
+  title: "A Cyborg Manifesto: Science, technology, and socialist-feminism in the late Twentieth Century"
+  container-title: "Simians, Cyborgs, and Women: The Reinvention of Nature"
+  author:
+  - family: Haraway
+    given: Donna J.
+  isbn: 978-0-415-90387-5
+  issued: 1991
+  number-of-pages: 32
+  page: 149--181
+  original-date: 1985
+  original-publisher: Socialist Review 
+  original-title: "Manifesto for cyborgs: science. technology, and socialist feminism in the 1980s"
+  original-publisher-full: "_Socialist Review_, vol. 80, 1985, pp. 65--108"
+  publisher: Routledge
+  publisher-full: 
+  url:
+
+- id: harawaySituatedKnowledges
+  type: chapter
+  title: "Situated knowledges: The science question in feminism and the privilege of partial perspective"
+  container-title: "Simians, Cyborgs, and Women: The Reinvention of Nature"
+  author:
+  - family: Haraway
+    given: Donna J.
+  isbn: 978-0-415-90387-5
+  issued: 1991
+  number-of-pages: 18
+  page: 183--201
+  original-date: 1985
+  original-publisher: Feminist Studies
+  original-title: "Situated knowledges: the science question in feminism as the site of discourse on the privilege pof partial perspective"
+  original-publisher-full: "Feminist Studies, vol. 14, no. 3, 1988, pp. 575--99."
+  publisher: Routledge
+  publisher-full: 
+  url:
+
+## EL01 Theory Articles
+
+### Batch Two (workUnit01)
+
+- id: olsonPowerToName
+  type: article-journal
+  title: "The power to name: representation in library catalogs"
+  title-short: "The power to name"
+  author:
+  - family: Olson
+    given: Hope A.
+  container-title: "Signs: journal of women in culture and society"
+  container-title-short: Signs
+  issued:
+  - year: 2001
+    season:
+    month:
+    day:
+  volume: 26
+  issue: 3
+  number-of-pages: 29
+  page: 639--668
+  issn: 0097-9740
+  eissn:
+  publisher: University of Chicago
+  source: EBSCOHost
+  doi:
+  url:
+  accessed: 2024-04-09
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-10-23 22:01:54-6:00
+  date-modified:
+
+- id: radfordPositivismFoucault
+  type: article-journal
+  title: "Positivism, Foucault, and the fantasia of the library: conceptions of knowledge and the modern library experience"
+  title-short: "Positivism, Foucault, and the fantasia of the library"
+  author:
+  - family: Radford
+    given: Gary P.
+  container-title: "The Library Quarterly: information, community, policy"
+  container-title-short: The library quarterly
+  volume-title:
+  original-date:
+  issued:
+  - year: 1992
+  #  season:
+    month: 10
+  #  day:
+  volume: 62
+  issue: 4
+  number-of-pages: 16
+  page: 408--424
+  issn: 0024-2519
+  # eissn:
+  publisher: University of Chicago Press
+  source: JSTOR
+  # doi:
+  url: https://www.jstor.org/stable/4308741
+  accessed: 2026-04-22
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-10-23 22:21:49-6:00
+  date-modified:
+
+- id: sekulaBodyAndArchive
+  type: article-journal
+  title: "The Body and the archive"
+  # title-short:
+  author:
+  - family: Sekula
+    given: Allan
+  container-title: October
+  volume-title:
+  original-date:
+  issued:
+  - year: 1986
+    season: 4
+    month:
+    day:
+  volume: 39
+  # issue:
+  number-of-pages: 62
+  page: 3--64
+  issn: 0162-2870
+  # eissn:
+  publisher: MIT Press
+  source: JSTOR
+  # doi:
+  url: https://www.jstor.org/stable/778312
+  accessed: 2025-11-06
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-10-23 22:25:55-6:00
+  date-modified:
+
+- id: vidhyanathanCriticalInfoStudies
+  type: article-journal
+  title: "Afterword: Critical Information Studies: A Bibliographic Manifesto"
+  title-short: "Critical Information Studies"
+  author:
+  - family: Vidhyanathan
+    given: Siva
+  container-title: Cultural Studies
+  volume-title:
+  original-date:
+  issued:
+  - year: 2006
+    season:
+    month: "March/May"
+    day:
+  volume: 20
+  issue: "2/3"
+  number-of-pages: 24
+  page: 292--315
+  issn: 0950-2386
+  # eissn: 1466-4348
+  publisher: Routledge Taylor & Francis Group
+  source: EBSCOhost
+  doi: 10.1080/09502380500521091
+  url:
+  accessed:
+  license:
+  note:  # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-10-23 22:28:04-6:00
+  date-modified:
+
+- id: warkInformationWants
+  type: article-journal
+  title: "Information wants to be free (but is everywhere in chains)"
+  # title-short:
+  author:
+  - family: Wark
+    given: McKenzie
+  container-title: Cultural Studies
+  volume-title:
+  original-date:
+  issued:
+  - year: 2006
+    season:
+    month: "March/May"
+    day:
+  volume: 20
+  issue: "2/3"
+  number-of-pages: 19
+  page: 165--183
+  issn: 0950-2386
+  # eissn: 1466-4348
+  publisher: Routledge Taylor & Francis Group
+  source: EBSCOhost
+  doi: 10.1080/09502380500495668
+  url: http://www.tandfonline.com/doi/abs/10.1080/09502380500495668
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-10-23 22:29:38-6:00
+  date-modified:
+
+# - comment:  
+- list: exam-list-02
+## EL02
+
+## Mobility, Agency, & Surveillance in 20th & 21st Century American Literature
+
+- sublist: el02-fiction
+### EL02 Fiction
+
+- id: butlerKindred
+  type: book
+  title: Kindred
+  author:
+  - family: Butler
+    given: Octavia
+  issued: 2004
+  original-date: 1979
+  number-of-pages: 287
+  publisher: Beacon Press
+  isbn:
+  copy-provenance:
+
+- id: butlerParableSower
+  title: Parable of the sower
+  type: book
+  author:
+  - family: Butler
+    given: Octavia
+  issued: 2019
+  original-date: 1993
+  number-of-pages: 368
+  publisher: Grand Central Publishing
+  isbn:
+  copy-provenance:
+
+- id: butlerParableTalents
+  type: book
+  title: Parable of the talents
+  author:
+  - family: Butler
+    given: Octavia
+  issued: 2019
+  original-date: 1998
+  number-of-pages: 448
+  publisher: Grand Central Publishing
+  isbn:
+  copy-provenance:
+
+- id: couplandGenX
+  type: book
+  title: "Generation X: Tales for an accelerated culture"
+  title-short: Generation X
+  author: 
+  - family: Coupland
+    given: Douglas
+  issued: 1991
+  number-of-pages: 192
+  publisher: St. Martin's Press
+  isbn:
+  copy-provenance:
+
+- id: couplandMicroserfs
+  type: book
+  title: Microserfs
+  author:
+  - family: Coupland
+    given: Douglas
+  issued: 2008
+  number-of-pages: 400
+  publisher: Harper Perennial
+  isbn:
+  copy-provenance:
+
+- id: dp42ndP
+  type: book
+  title: 42nd Parallel
+  author:
+  - family: Dos Passos
+    given: John
+  issued: 2000
+  number-of-pages: 352
+  original-date: 1930
+  publisher: Mariner Books
+  isbn:
+  copy-provenance:
+
+- id: dp1919
+  type: book
+  title: 1919
+  author:
+  - family: Dos Passos
+    given: John
+  issued: 2000
+  number-of-pages: 400
+  original-date: 1932
+  publisher: Mariner Books
+  isbn:
+  copy-provenance:
+
+- id: dpBigMoney
+  type: book
+  title: The big money
+  author:
+  - family: Dos Passos
+    given: John
+  issued: 2000
+  number-of-pages: 464
+  original-date: 1936
+  publisher: Mariner Books
+  isbn:
+  copy-provenance:
+
+- id: himesIfHeHollers
+  type: book
+  title: "If he hollers, let him go"
+  author:
+  - family: Himes
+    given: Chester
+  issued: 2002
+  original-date: 1947
+  number-of-pages: 224
+  publisher: Da Capo Press
+  isbn:
+  copy-provenance:
+
+- id: lewisBabbitt
+  type: book
+  title: Babbitt
+  author:
+  - family: Lewis
+    given: Sinclair
+  issued: 1992
+  original-date: 1922
+  number-of-pages: 334
+  publisher: Signet Classic
+  publisher-place: New York
+  isbn:
+  copy-provenance:
+
+- id: kingstonTripmasterMonkey
+  type: book
+  title: "Tripmaster monkey: His fake book"
+  title-short: Tripmaster monkey
+  author:
+  - family: Kingston
+    given: Maxine Hong
+  issued: 1990
+  number-of-pages: 352
+  publisher: Vintage Books
+  isbn:
+  copy-provenance:
+
+- id: mosleyDevilBlueDress
+  type: book
+  title: Devil in a blue dress
+  author:
+  - family: Mosley
+    given: Walter
+  issued: 2002
+  number-of-pages: 218
+  original-date: 1990
+  original-publisher: W.W. Norton
+  original-publisher-full: W.W. Norton & Company, Inc.
+  page: 45--263
+  publisher: Washington Square Press
+  publisher-place: New York
+  isbn: 0743451791
+  copy-provenance:
+
+- id: okadaNoNoBoy
+  type: book
+  title: No-No boy
+  author:
+  - family: Okada
+    given: John
+  issued: 1979
+  note: First paperback edition published 1976 by the Combined Asian American Resources Project
+  number-of-pages: 260
+  original-date: 1957
+  original-publisher: Charles E. Tuttle
+  page: 1--251
+  publisher: U of WA P
+  publisher-full: University of Washington Press
+  publisher-place: Seattle
+  isbn: 0295955252
+  copy-provenance:
+
+- id: vonnegutSlaughterhouse5
+  type: book
+  title: "Slaughterhouse-Five: Or, the Children's Crusade: A duty-dance with death"
+  title-short: Slaughterhouse-Five
+  author:
+  - family: Vonnegut
+    given: Kirk
+  issued: 1994
+  original-date: 1969
+  number-of-pages: 240
+  publisher: Modern Library
+  isbn:
+  copy-provenance:
+
+- id: wojnarowiczCloseKnives
+  type: book
+  title: "Close to the knives: A memoir of disintegration"
+  title-short: Close to the knives
+  author:
+  - family: Wojnarowicz
+    given: David
+  issued: 1991
+  number-of-pages: 288
+  publisher: Vintage Books
+  isbn:
+  copy-provenance:
+
+- id: wrightNativeSon
+  type: book
+  title: Native son
+  author:
+  - family: Wright
+    given: Richard
+  issued: 2005
+  original-date: 1940
+  note: The Restored Text Established by the Library of America
+  number-of-pages: 430
+  original-publisher: Harper & Brothers
+  publisher: Harper Perennial Modern Classics
+  publisher-place: New York
+  isbn: 9780060837563
+  copy-provenance:
+
+# - comment:  
+- sublist: el02-tc
+### EL02 Theory & Criticism  
+
+- sublist: el02-tc-books
+#### EL02 T&C Books  
+
+- id: cecireExperimental
+  type: book
+  title: "Experimental: American literature and the aesthetics of knowledge"
+  title-short: Experimental
+  author:
+  - family: Cecire
+    given: Natalia
+  issued: 2019
+  number-of-pages: 293
+  publisher: Johns Hopkins UP
+  publisher-full: Johns Hopkins University Press
+  isbn:
+  copy-provenance:
+
+- id: denningCulturalFront
+  type: book
+  title: "The Cultural Front: The laboring of American culture in the Twentieth Century"
+  title-short: The Cultural Front
+  author:
+  - family: Denning
+    given: Michael
+  issued: 1998
+  number-of-pages: 556
+  publisher: Verso
+  isbn:
+  copy-provenance:
+
+- id: foleyRadicalRep
+  type: book
+  title: "Radical representations: Politics and form in U.S. proletarian fiction, 1929--1941"
+  title-short: Radical representations
+  author:
+  - family: Foley
+    given: Barbara
+  issued: 1993
+  number-of-pages: 459
+  publisher: Duke UP
+  publisher-full: Duke University Press
+  isbn:
+  copy-provenance:
+
+- id: jamesonPostmodernism
+  type: book
+  title: Postmodernism, or, the cultural logic of late capitalism
+  author:
+  - family: Jameson
+    given: Fredric
+  issued: 1991
+  number-of-pages: 438
+  publisher: Duke UP
+  publisher-full: Duke University Press
+  isbn:
+  copy-provenance:
+
+- id: jurcaWhiteDiaspora
+  type: book
+  title: "White diaspora: The suburb and the Twentieth-Century American Novel"
+  title-short: White diaspora
+  author:
+  - family: Jurca
+    given: Catherine
+  issued: 2001
+  number-of-pages: 238
+  publisher: Princeton UP
+  publisher-full: Princeton University Press
+  isbn:
+  copy-provenance:
+
+- id: millerNovelPolice
+  type: book
+  title: The novel and the police
+  author:
+  - family: Miller
+    given: D.A.
+  issued: 1989
+  number-of-pages: 240
+  publisher: U of California P
+  publisher-full: University of California Press
+  isbn:
+  copy-provenance:
+
+- id: morrisonPlaying
+  type: book
+  title: "Playing in the dark: Whiteness and the literary imagination"
+  title-short: Playing in the dark
+  author:
+  - family: Morrison
+    given: Toni
+  edition: 1
+  issued: 2019
+  number-of-pages: 91
+  original-date: 1992
+  publisher: Vintage Books
+  isbn:
+  copy-provenance: I bought & read in approximately 2025
+
+- id: rothsteinColorOfLaw
+  type: book
+  title: "The color of law: A forgotten history of how our government segregated America"
+  title-short: The color of law
+  author:
+  - family: Rothstein
+    given: Richard
+  issued: 2017
+  number-of-pages: 342
+  publisher: Liveright Publishing
+  publisher-full: Liveright Publishing Corporation
+  isbn:
+  copy-provenance:
+
+- id: sojaPomoGeographies
+  type: book
+  title: "Postmodern geographies: The reassertion of space in critical social theory"
+  title-short: Postmodern geographies
+  author:
+  - family: Soja
+    given: Edward W.
+  issued: 1989
+  number-of-pages: 266
+  publisher: Verso
+  isbn:
+  copy-provenance:
+
+# - comment:  
+- sublist: el02-tc-articles
+#### EL02 T&C Articles
+
+##### EL02 T&C Articles Batch01
+
+- id: appiahIsThePost
+  author:
+  - family: Appiah 
+    given: Kwame Anthony
+  title: "Is the Post- in Postmodernism the Post- in Postcolonial?"
+  date-added: 2025-03-30 16:34:38-6:00
+  issued: 1991
+  container-title: Critical Inquiry
+  volume: 17
+  number: 2
+  issue: Winter
+  number-of-pages: 21
+  page: 336--357
+  publisher: U of Chicago P
+  publisher-full: The University of Chicago Press
+  source: JSTOR
+  url: http://www.jstor.org/stable/1343840
+  accessed: 2024-04-10
+
+- id: calhounReimagining
+  type: article-journal
+  title: "Reimagining the self: Maxine Hong Kingston's 'Tripmaster Monkey: His Fake Book'"
+  title-short: Reimagining the self
+  author:
+  - family: Calhoun
+    given: Jamie
+  container-title: The Journal of the Midwest Modern Language Association
+  issued:  
+    - year: 2013 # Fall 2013 - Spring 2014
+      season: 3
+    - year: 2014
+      season: 1 # found this format via this Github issue: https://github.com/retorquere/zotero-better-bibtex/issues/860
+  volume: 46/47
+  issue: 2/1
+  number-of-pages: 17
+  page: 34--53
+  issn: 07425562
+  eissn: 21626294
+  publisher: Midwestern Modern Language Association
+  source: JSTOR
+  doi:
+  url: http://www.jstor.org/stable/43264539
+  accessed: 2021-09-24 20:21:29-6:00
+  license:
+  date-added: 2025-04-04 20:23:39-6:00
+  date-modified:
+
+- id: ermarthAgencyDiscursive
+  type: article-journal
+  title: Agency in the discursive condition
+  title-short:
+  author:
+  - family: Ermarth
+    given: Elizabeth Deeds
+  container-title: History and Theory
+  volume-title: Agency after Modernism
+  issued: 2001
+  volume: 40
+  issue: 4
+  number-of-pages: 24
+  page: 34--58
+  issn: 1468-2303
+  eissn: 14682303
+  publisher: Wesleyan U
+  publisher-full: Wesleyan University
+  source: JSTOR
+  doi: 
+  url: https://www.jstor.org/stable/2677986
+  accessed:
+  license:
+  date-added: 2025-04-04 20:45:40-6:00
+  date-modified:
+
+- id: ermarthBeyondTheSubject
+  type: article-journal
+  title: "Beyond 'The Subject': Individuality in the discursive condition"
+  title-short: "Beyond 'The Subject'"
+  author:
+  - family: Ermarth
+    given: Elizabeth Deeds
+  container-title: New Literary History
+  volume-title: Philosophical and Rhetorical Inquiries
+  issued: 2000
+  volume: 31
+  issue: 3
+  number-of-pages: 14
+  page: 405--419
+  issn: 1080-661X
+  eissn:
+  publisher: Johns Hopkins UP
+  publisher-full: Johns Hopkins University Press
+  source: JSTOR
+  doi: 
+  url: https://www.jstor.org/stable/20057612
+  accessed:
+  license:
+  date-added: 2025-04-04 20:54:33-6:00
+  date-modified:
+
+- id: eveSiliconValleyNovel
+  type: article-journal
+  title: "The Silicon Valley novel"
+  title-short:
+  author:
+  - family: Eve
+    given: Martin Paul
+  - family: Street
+    given: Joe
+  container-title: "Literature & History"
+  volume-title:
+  issued: 2018
+  volume: 28
+  issue: 1
+  number-of-pages: 16
+  page: 81--97
+  issn:
+  eissn:
+  publisher:
+  source: "BIROn: Birkbeck Institutional Research Online"
+  doi:
+  url: https://eprints.bbk.ac.uk/id/eprint/20365/
+  accessed:
+  license:
+  date-added: 2025-04-07 22:03:30-6:00
+  date-modified:
+
+# - comment:
+##### EL02 T&C Articles Batch02
+
+- id: foucaultPanopticism
+  type: chapter
+  title: Panopticism
+  title-short:
+  author:
+  - family: Foucault
+    given: Michel
+  translator:
+  - family: Sheridan
+    given: Alan
+  container-title: "Discipline and punish: The Birth of the prison" # MLA fig. 2.0 shows that ampersands should be converted to the word 'and'
+  original-date: 1975
+  original-language: fr
+  issued:
+  - year: 1995
+    season:
+    month:
+    day:
+  number-of-pages: 34
+  page: 195--228
+  isbn: "0-679-75255-2"
+  publisher: Vintage Books
+  source:
+  accessed:
+  copy-provenance: "Ryan's, owned since undergrad."
+  date-added: 2025-04-09 22:25:40-6:00
+  date-modified:
+
+- id: fosterKingdom
+  type: article-journal
+  title: "'A kingdom of a thousand princes but no kings': The postsuburban network in Douglas Coupland's _Microserfs_"
+  title-short:
+  author:
+  - family: Foster
+    given: Tim
+  container-title: Western American Literature
+  volume-title: "Special Issue: Western Suburbia"
+  issued:
+  - year: 2001
+    season: 3
+    month:
+    day:
+  volume: 46
+  issue: 3
+  number-of-pages:
+  page: 302--324
+  issn:
+  eissn: 1948-7142
+  publisher: U of Nebraska P
+  publisher-full: University of Nebraska Press
+  source: Project MUSE
+  doi: https://doi.org/10.1353/wal.2011.0063
+  url:
+  accessed:
+  license:
+  date-added: 2025-04-09 22:26:27-6:00
+  date-modified:
+
+- id: grossLitigatingWhiteness
+  type: article-journal
+  title: "Litigating whiteness: Trials of racial determination in the Nineteenth-Centure South"
+  title-short: "Litigating whiteness"
+  author:
+  - family: Gross
+    given: "Ariela J."
+  container-title: The Yale Law Journal
+  issued:
+  - year: 1998
+    season:
+    month: 10
+    day:
+  volume: 108
+  issue: 1
+  number-of-pages: 80
+  page: 109--188
+  issn: 00440094
+  eissn:
+  publisher: "Yale Law Journal"
+  publisher-full: "The Yale Law Journal Company, Inc."
+  source: JSTOR
+  doi: https://doi.org/10.2307/797472
+  url: https://www.jstor.org/stable/797472
+  accessed:
+  license:
+  date-added: 2025-04-09 22:35:21-6:00
+  date-modified:
+
+- id: hutcheonDiscoursePowerIdeology
+  type: chapter
+  chapter-number: 6
+  title: "Discourse, power, ideology: Humanism and postmodernism"
+  title-short: "Discourse, power, ideology"
+  author:
+  - family: Hutcheon
+    given: Linda
+  container-title: Postmodernism and contemporary fiction
+  editor:
+    - family: Smyth
+      given: "Edmund J."
+  volume-title:
+  issued:
+  - year: 1991
+    season:
+    month:
+    day:
+  number-of-pages: 18
+  page: 105--122
+  issn:
+  eissn:
+  publisher: "B.T. Batsford"
+  publisher-full: "B.T. Batsford Ltd."
+  source: TSpace
+  doi:
+  url: http://hdl.handle.net/1807/4354
+  accessed:
+  license:
+  date-added: 2025-04-09 22:41:06-6:00
+  date-modified:
+
+- id: lipsitzPossessiveInvestmentWhiteness
+  type: article-journal
+  title: "The possessive investment in whiteness: Racialized social democracy and the 'white' problem in American studies"
+  title-short: "The Possessive Investment in Whiteness"
+  author:
+  - family: Lipsitz
+    given: George
+  container-title: American Quarterly
+  issued:
+  - year: 1995
+    season:
+    month: 9
+    day:
+  volume: 47
+  issue: 3
+  number-of-pages: 19
+  page: 369--387
+  issn: 00030678
+  eissn: 10806490
+  publisher: Johns Hopkins UP
+  publisher-full: The Johns Hopkins University Press
+  source: JSTOR
+  doi: https://doi.org/10.2307/2713291
+  url: https://www.jstor.org/stable/2713291
+  accessed:
+  license:
+  date-added: 2025-04-10 23:33:46-6:00
+  date-modified:
+
+- id: millsBodyPolitic
+  type: article-journal
+  title: Body politic, bodies impolitic
+  author:
+  - family: Mills
+    given: "Charles W."
+  container-title: Social Research
+  volume-title: "The body and the state: How the state controls and protects the body, Part 1"
+  issued:
+  - year: 2011
+    season: 2
+    month:
+    day:
+  volume: 78
+  issue: 2
+  number-of-pages: 24
+  page: 583--606
+  issn: 0037783X
+  eissn: 1944768X
+  publisher: Johns Hopkins UP
+  publisher-full: The Johns Hopkins University Press
+  source: JSTOR
+  doi:
+  url: https://www.jstor.org/stable/23347191
+  accessed:
+  license:
+  date-added: 2025-04-10 23:41:08-6:00
+  date-modified:
+
+- id: yúdicePrivatizationCulture
+  type: article-journal
+  title: "The privatization of culture"
+  author:
+  - family: Yúdice
+    given: George
+  container-title: Social Text
+  issued: 
+  - year: 1999
+    season: 02
+  volume:
+  issue: 59
+  number-of-pages: 18
+  page: 17--34
+  issn: 01642472
+  eissn: 15271951
+  publisher: Duke UP
+  publisher-full: Duke University Press
+  source: JSTOR
+  doi:
+  url: https://www.jstor.org/stable/466694
+  accessed:
+  license:
+  date-added: 2025-04-07 22:56:53-6:00
+  date-modified:
+
+# - comment:  
+- list: el03-teaching
+## EL03
+
+## Composition and Information Literacy, Pedagogy and Instructional Design
+
+- sublist: el03-infolit-articles
+
+### EL03 Articles  
+
+#### EL03 Article Batch01  
+
+- id: baerItsAllRelative
+  type: article-journal
+  title: "It's all relative? Post-truth rhetoric, relativism, and teaching on 'Authority as constructed and contextual'"
+  title-short: "It's all relative?"
+  author:
+  - family: Baer
+    given: Andrea
+  container-title: "College and Research Libraries News"
+  container-title-short: "C&RL"
+  issued:
+  - year: 2018
+    season:
+    month:
+    day:
+  volume: 79
+  issue: 2
+  number-of-pages: 26
+  page: 72--97
+  issn:
+  eissn: 2150-6698
+  publisher: "Association of College and Research Libraries"
+  source:
+  doi: https://doi.org/10.5860/crln.79.2.72
+  url: https://crln.acrl.org/index.php/crlnews/article/view/16877
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-11 16:12:11-6:00
+  date-modified:
+
+- id: boydDominanceConcealed
+  type: article-journal
+  title: "Dominance concealed through diversity: Implications of inadequate perspectives on cultural pluralism"
+  title-short: "Dominance concealed through diversity"
+  author:
+  - family: Boyd
+    given: Dwight
+  container-title: Harvard Educational Review
+  issued:
+  - year: 1996
+    season: 03
+    month: # 09 described in online interface as 1 September, but in the PDF it's the Fall issue
+    day: # 01 
+  volume: 66
+  issue: 3
+  number-of-pages: 22
+  page: 609--630
+  issn:
+  eissn: 1943-5045
+  publisher: Harvard Education P
+  publisher-full: Harvard Education Press
+  source:
+  doi: https://doi.org/10.17763/haer.66.3.312nvrk4682w5145  
+  url:
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-11 16:19:10-6:00
+  date-modified:
+
+- id: boyleWritingRhetoricPosthumanPractice
+  type: article-journal
+  title: "Writing and rhetoric and/as posthuman practice"
+  title-short:
+  author:
+  - family: Boyle
+    given: Casey
+  container-title: College English
+  issued:
+  - year: 2016
+    season:
+    month: 07
+    day:
+  volume: 78
+  issue: 06
+  number-of-pages: 23
+  page: 532--554
+  issn:
+  eissn: 21618178
+  publisher: National Council of Teachers of English
+  source: JSTOR
+  doi:
+  url: https://www.jstor.org/stable/44075143
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-11 16:32:51-6:00
+  date-modified:
+
+- id: buddLibraryPraxisSymbolicPower
+  type: article-journal
+  title: "The library, praxis, and symbolic power"
+  title-short:
+  author:
+  - family: Budd
+    given: "John M."
+  container-title: "The Library Quarterly: Information, Community, Policy"
+  container-title-short: "The Library Quarterly"
+  issued:
+  - year: 2003
+    season:
+    month: 01
+    day:
+  volume: 73
+  issue: 1
+  number-of-pages: 14
+  page: 19--32
+  issn:
+  eissn: 1549652X
+  publisher: U of Chicago P
+  publisher-full: The University of Chicago Press
+  source: JSTOR
+  doi:
+  url: https://www.jstor.org/stable/4309618
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-11 16:40:39-6:00
+  date-modified:
+
+- id: burkholderRedefiningSources
+  type: article-journal
+  title: "Redefining sources as social acts: Genre theory in information literacy instruction"
+  title-short: "Redefining sources as social acts"
+  author:
+  - family: Burkholder
+    given: "Joel M."
+  container-title: Library Philosophy and Practice
+  issued:
+  - year: 2010
+    season:
+    month: 09
+    day: 30
+  volume:
+  issue:
+  number-of-pages: 11
+  page: 1--11
+  eissn: 1522-0222
+  publisher: U Libraries of the U of Nebraska-Lincoln
+  publisher-full: University Libraries of the University of Nebraska—Lincoln
+  source: "DigitalCommons@University of Nebraska - Lincoln"
+  doi:
+  url: https://digitalcommons.unl.edu/libphilprac/413
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-11 16:59:50-6:00
+  date-modified:
+
+# - comment:  
+#### EL03 Article Batch02
+
+- id: cookeCriticalLibraryInstructionPedagogicalTool
+  type: article-journal
+  title: Critical library instruction as a pedagogical tool
+  title-short:
+  author:
+  - family: Cooke
+    given: "Nicole A."
+  container-title: Communications in Information Literacy
+  issued:
+  - year: 2020
+    season:
+    month:
+    day:
+  volume: 14
+  issue: 1
+  number-of-pages: 11
+  page: 86--96
+  issn:
+  eissn: 1933-5954
+  publisher: Communications in Information Literacy # independently published
+  source: PDXScholar
+  doi:
+  url: https://archives.pdx.edu/ds/psu/33125
+  accessed:
+  license: "CC BY-NC-SA 4.0"
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-11 17:13:22-6:00
+  date-modified:
+
+- id: gerolamiLibraryAssemblage
+  type: article-journal
+  title: "The library assemblage: Creative institutions in an information society"
+  title-short: "The library assemblage"
+  author:
+  - family: Gerolami
+    given: Natasha
+  container-title: Journal of Documentation
+  issued:
+  - year: 2015
+    season:
+    month: # 01
+    day: # 12
+  volume: 71
+  issue: 1
+  number-of-pages: 10
+  page: 165--174
+  issn: 0022-0418
+  eissn:
+  publisher: Emerald Group Publishing
+  publisher-full: Emerald Group Publishing Limited
+  source:
+  doi: http://dx.doi.org/10.1108/JD-09-2013-0120
+  url:
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-11 20:44:47-6:00
+  date-modified:
+
+- id: honmaTrippinOverTheColorLine
+  type: article-journal
+  title: "Trippin' over the color line: The invisibility of race in library and information studies"
+  title-short: "Trippin' over the color line"
+  author:
+  - family: Honma
+    given: Todd
+  container-title: "InterActions: UCLA Journal of Education and Information Studies"
+  container-title-short: InterActions
+  issued:
+  - year: 2004
+    season:
+    month:
+    day:
+  volume: 1
+  issue: 2
+  number-of-pages: 27
+  page:
+  issn:
+  eissn: 1548-3320
+  publisher: UCLA Graduate School of Education and Information Studies
+  source:
+  doi: https://doi.org/10.5070/D412000540
+  url: https://escholarship.org/uc/item/4nj0w1mp
+  accessed:
+  license: CC BY
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-11 20:50:30-6:00
+  date-modified:
+
+- id: kapitzkeInFormationLiteracy
+  type: article-journal
+  title: "(In)formation literacy: a positivist epistemology and a politics of (out)formation"
+  title-short: "(In)formation literacy"
+  author:
+  - family: Kapitzke
+    given: Cushla
+  container-title: Educational theory
+  issued:
+  - year: 2003
+    season: 4
+    month:
+    day:
+  volume: 53
+  issue: 1
+  number-of-pages: 17
+  page: 37--53
+  issn:
+  eissn: 1741-5446
+  publisher: U of IL
+  publisher-full: University of Illinois
+  source: QUT ePrints
+  doi:
+  url: https://eprints.qut.edu.au/5876/
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-12 14:36:20-6:00
+  date-modified:
+
+- id: mollCitizenEpistemology
+  type: article-journal
+  title: "Citizen epistemology and interdisciplinary, inclusive curriculum"
+  author:
+  - family: Moll
+    given: Ellen
+  container-title: "Journal of general education"
+# this longer title is in the journal's front matter but doesn't seem to actually be used anywhere when referring to the journal?: container-title: "Journal of general education: A curriculum commons of the Humanities and Sciences"
+  issued:
+  - year: 2019
+  volume: 68
+  issue: 1--2
+  number-of-pages: 13
+  page: 19--31
+  issn:
+  eissn: 15272060
+  publisher: Penn State UP
+  publisher-full: Penn State University Press
+  source: JSTOR
+  doi:
+  url: https://www.jstor.org/stable/10.5325/jgeneeduc.68.1-2.0019
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-12 14:47:51-6:00
+  date-modified:
+
+# - comment:  
+#### EL03 Article Batch03
+
+- id: patinInterruptingEpistemicide
+  type: article-journal
+  title: "Interrupting epistemicide: A practical framework for naming, identifying, and ending epistemic injustice in the information professions"
+  title-short: "Interrupting epistemicide"
+  author:
+  - family: Patin
+    given: Beth
+  - family: Sebastian
+    given: Melinda
+  - family: Yeon
+    given: Jieun
+  - family: Bertolini
+    given: Danielle
+  - family: Grimm
+    given: Alexandra
+  container-title: Journal of the association for information science and technology
+  container-title-short: JASIST
+  volume-title: "Special Issue: Paradigm shift in the field of information"
+  issued:
+  - year: 2021
+    season:
+    month: 10
+    day:
+  volume: 72
+  issue: 10
+  number-of-pages:
+  page: 1306--1318
+  issn:
+  eissn: 2330-1643
+  publisher: Association for Information Science and Technology
+  source:
+  doi: https://doi.org/10.1002/asi.24479
+  url:
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-12 15:21:06-6:00
+  date-modified:
+
+- id: pawleyHegemony'sHandmaid
+  type: article-journal
+  title: "Hegemony's handmaid? The library and information studies curriculum from a class perspective"
+  title-short: "Hegemony's handmaid?"
+  author:
+  - family: Pawley
+    given: Christine
+  container-title: "The Library Quarterly: Information, Community, Policy"
+  container-title-short: "The Library Quarterly"
+  issued:
+  - year: 1998
+    season:
+    month: 04
+    day:
+  volume: 68
+  issue: 2
+  number-of-pages: 22
+  page: 123--144
+  issn:
+  eissn: 1549652X
+  publisher: U of Chicago P
+  publisher-full: The University of Chicago Press
+  source: JSTOR
+  doi:
+  url: https://www.jstor.org/stable/4309200
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-12 15:44:18-6:00
+  date-modified:
+
+- id: pawleyInformationLiteracyContradictoryCoupling
+  type: article-journal
+  title: "Information literacy: A contradictory coupling"
+  author:
+  - family: Pawley
+    given: Christine
+  container-title: "The Library Quarterly: Information, Community, Policy"
+  container-title-short: "The Library Quarterly"
+#  volume-title:
+  issued:
+  - year: 2033
+    season:
+    month: 10
+    day:
+  volume: 73
+  issue: 4
+  number-of-pages: 31
+  page: 422--452
+  issn: 0024-2519
+  eissn: 1549652X
+  publisher: U of Chicago P
+  publisher-full: The University of Chicago Press
+  source: JSTOR
+  doi:
+  url: https://www.jstor.org/stable/4309685
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-12 16:29:29-6:00
+  date-modified:
+
+- id: simmonsLibrariansMediators
+  type: article-journal
+  title: "Librarians as disciplinary discourse mediators: using genre theory to move toward critical information literacy"
+  title-short: "Librarians as disciplinary discourse mediators"
+  author:
+  - family: Simmons
+    given: Michelle Holschuh
+  translator:
+  - family:
+    given:
+  container-title: '<span class="nocase">portal</span>: Libraries and the academy'
+  volume-title:
+  issued:
+  - year: 2005
+    season:
+    month:
+    day:
+  volume: 5
+  issue: 3
+  number-of-pages: 15
+  page: 297--311
+  issn:
+  eissn: 1530-7131
+  publisher: Johns Hopkins UP 
+  publisher-full: Johns Hopkins University Press
+  source: "Project MUSE"
+  doi: https://dx.doi.org/10.1353/pla.2005.0041
+#  url: http://muse.jhu.edu/journals/pla/summary/v005/5.3simmons.html
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-12 16:33:26-6:00
+  date-modified:
+
+- id: sloniowskiAffectiveLabor
+  type: article-journal
+  title: Affective labor, resistance, and the academic librarian
+  author:
+  - family: Sloniowski
+    given: Lisa
+  editor:
+  - family: Drabinski
+    given: Emily
+  - family: Keilty
+    given: Patrick
+  container-title: Library trends
+  volume-title: Reconfiguring race, gender, and sexuality
+  issued:
+  - year: 2016
+    season: 1
+    month:
+    day:
+  volume: 64
+  issue: 4
+  number-of-pages: 22
+  page: 645--666
+  issn:
+  eissn: 1559-0682
+  publisher: Johns Hopkins UP 
+  publisher-full: Johns Hopkins University Press
+  source: Project MUSE
+  doi: https://dx.doi.org/10.1353/lib.2016.0013
+  url: 
+  accessed:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-12 20:34:42-6:00
+  date-modified:
+
+- sublist: el03-infolit-books
+### EL03 Books
+#### EL03 Composition and Information Literacy Books
+
+- id: baerInfoLitWritingStudiesConversation
+  type: book
+  title: "Information Literacy and Writing Studies in conversation: Reenvisioning Library-Writing Program connections"
+  title-short: "Information Literacy and Writing Studies in conversation"
+  author:
+  - family: Baer
+    given: Andrea
+  issued:
+  - year: 2016
+  publisher: Library Juice Press
+  publisher-place:
+  isbn:
+  number-of-pages: 202
+  url:
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-15 17:53:35-6:00
+  date-modified:
+
+- id: bergstromCallingBullshit
+  type: book
+  title: "Calling bullshit: The art of skepticism in a data-driven world"
+  title-short: "Calling bullshit"
+  author:
+  - family: Bergstrom
+    given: Carl T.
+  - family: West
+    given: Jevin D.
+  issued:
+  - year: 2021
+    season:
+    month:
+    day:
+  publisher: Random House
+  publisher-place:
+  isbn:
+  number-of-pages: 336
+  url:
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-15 17:56:32-6:00
+  date-modified:
+
+- id: caulfieldVerified
+  type: book
+  title: "Verified: How to think straight, get duped less, and make better decisions about what to believe online"
+  title-short: "Verified"
+  author:
+  - family: Caulfield
+    given: Mike
+  - family: Wineburg
+    given: Sam
+  issued:
+  - year: 2023
+    season:
+    month:
+    day:
+  publisher: U of Chicago P 
+  publisher-full: University of Chicago Press
+  publisher-place:
+  isbn:
+  number-of-pages: 280
+  url:
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-15 17:58:05-6:00
+  date-modified:
+
+- id: cicchinoBetterPractices
+  type: book
+  title: "Better practices: Exploring the teaching of writing in online and hybrid spaces"
+  title-short: "Better practices"
+  collection-title: Perspectives on writing
+  author:
+  - family: Cicchino
+    given: Amy
+  - family: Hicks
+    given: Troy
+  collection-editor:
+  - family: Rice
+    given: Rich
+  - family: Rifenburg
+    given: J. Michael
+  issued:
+  - year: 2024
+    month: 03
+    day: 19
+  publisher: WAC Clearinghouse 
+  publisher-full: The WAC Clearinghouse; University Press of Colorado
+  publisher-place: Fort Collins, Colorado
+  medium: ePub
+  isbn: 978-1-64215-225-8
+  doi: https://doi.org/10.37514/PER-B.2024.2241
+  number-of-pages: 500 # 487 numbered, outside of intro
+  url: https://wac.colostate.edu/books/perspectives/better/
+  accessed:
+  copy-provenance:
+  license: CC BY-NC-ND 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-15 17:59:22-6:00
+  date-modified:
+
+- id: dangeloInfoLitAcrossDisciplines
+  type: book
+  title: "Information literacy: Research and collaboration across disciplines"
+  title-short: "Information literacy"
+  collection-title: Perspectives on writing
+  editor:
+  - family: D'Angelo
+    given: Barbara J.
+  - family: Jamieson
+    given: Sandra
+  - family: Maid
+    given: Barry
+  - family: Walker
+    given: Janice R.
+  collection-editor:
+  - family: McLeod
+    given: Susan H.
+  - family: Rice
+    given: Rich
+  issued:
+  - year: 2016
+    month: 09
+    day: 29
+  publisher: WAC Clearinghouse 
+  publisher-full: The WAC Clearinghouse; University Press of Colorado
+  publisher-place: Fort Collins, Colorado
+  medium: ePub
+  isbn: 978-1-64215-084-1
+  doi: https://doi.org/10.37514/PER-B.2016.0834
+  number-of-pages: 464 # 436 numbered, outside of intro stuff
+  url: https://doi.org/10.37514/PER-B.2016.0834
+  accessed:
+  copy-provenance:
+  license: CC BY-NC-ND 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-16 21:34:12-6:00
+  date-modified:
+
+- id: cioffiTheImaginativeArgument
+  type: book
+  title: "The imaginative argument: A practical manifesto for writers"
+  title-short: "The imaginative argument"
+  author:
+  - family: Cioffi
+    given: Frank L.
+  edition: 2
+  issued:
+  - year: 2018
+    month:
+    day:
+  publisher: Princeton UP 
+  publisher-full: Princeton University Press
+  publisher-place: Princeton, NJ
+  isbn: 978-0-691-17445-7
+  number-of-pages: 357
+  url:
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-16 21:47:46-6:00
+  date-modified:
+
+- id: cohnSkimDiveSurface
+  type: book
+  title: "Skim, dive, surface: Teaching digital reading"
+  title-short: "Skim, dive, surface"
+  author:
+  - family: Cohn
+    given: Jenae
+  issued:
+  - year: 2021
+    season:
+    month:
+    day:
+  publisher: WV UP 
+  publisher-full: West Virginia University Press
+  publisher-place:
+  isbn:
+  number-of-pages: 288
+  url:
+  accessed:
+#  copy-provenance: need to decide if I want Apple Ebook or paperback
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-16 22:06:57-6:00
+  date-modified:
+
+- id: haiderParadoxesOfMedia
+  type: book
+  title: "Paradoxes of media and information literacy: The crisis of information"
+  title-short: "Paradoxes of media and information literacy"
+  author:
+  - family: Haider
+    given: Jutter
+  - family: Sundin
+    given: Olof
+  issued:
+  - year: 2022
+    season:
+    month:
+    day:
+  publisher: Routledge
+  publisher-place:
+  isbn:
+  number-of-pages: 153
+  url:
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-16 22:17:25-6:00
+  date-modified:
+
+- id: kellnerCriticalMediaLiteracy
+  type: book
+  title: "The critical media literacy guide: Engaging media and transforming education"
+  title-short: "The critical media literacy guide"
+  collection-title: Brill Guides to Scholarship in Education
+  collection-number: 2
+  author:
+  - family: Kellner
+    given: Douglas
+  - family: Share
+    given: Jeff
+  issued:
+  - year: 2019
+    season:
+    month:
+    day:
+  publisher: Brill
+  publisher-place:
+  isbn:
+  number-of-pages: 126
+  url:
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-16 22:19:14-6:00
+  date-modified:
+
+- id: molinariWhatMakesWritingAcademic
+  type: book
+  title: "What makes writing academic: Rethinking theory for practice"
+  title-short: "What makes writing academic"
+  author:
+  - family: Molinari
+    given: Julia
+  issued:
+  - year: 2022
+    season:
+    month:
+    day:
+  publisher: Bloomsbury Academic
+  publisher-place:
+  isbn:
+  number-of-pages: 198
+  url:
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-20 20:56:30-6:00
+  date-modified:
+
+- id: poeWritingAssessmentSocialJustice
+  type: book
+  title: "Writing assessment, social justice, adn the advancement of opportunity"
+  collection-title: Perspectives on writing
+  editor:
+  - family: Poe
+    given: Maya
+  - family: Inoue
+    given: "Asao B."
+  - family: Elliot
+    given: Norbert
+  collection-editor:
+  - family: McLeod
+    given: "Susan H."
+  - family: Rice
+    given: Rich
+  issued:
+  - year: 2018
+    month: 02
+    day: 10
+  publisher: WAC Clearinghouse
+  publisher-full: The WAC Clearinghouse; University Press of Colorado
+  publisher-place: Fort Collins, Colorado
+  medium: ePub
+  isbn: 978-1-64215-016-2
+  number-of-pages: 438
+  url: https://wac.colostate.edu/books/perspectives/assessment/
+  accessed:
+  copy-provenance:
+  license: CC BY-NC-ND 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-20 20:57:48-6:00
+  date-modified:
+
+- id: ruleSituatingWritingProcesses
+  type: book
+  title: "Situating writing processes"
+  title-short: Situating writing processes
+  collection-title: Perspectives on writing
+  author:
+  - family: Rule
+    given: Hannah J.
+  collection-editor:
+  - family: McLeod
+    given: "Susan H."
+  - family: Rice
+    given: Rich
+  issued:
+  - year: 2019
+    season:
+    month: 08
+    day: 12
+  publisher: WAC Clearinghouse
+  publisher-full: The WAC Clearinghouse; University Press of Colorado
+  publisher-place: Fort Collins, Colorado
+  medium: ePub
+  isbn: 978-1-64215-020-9
+  number-of-pages: 182
+  url: https://wac.colostate.edu/books/perspectives/situating/
+  doi: 10.37514/PER-B.2019.0193
+  accessed:
+  copy-provenance:
+  license: CC BY-NC-ND 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-23 22:06:39-6:00
+  date-modified:
+
+- id: starkeWritingInKnowledgeSocieties
+  type: book
+  title: Writing in knowledge societies
+  collection-title: Perspectives on writing
+  editor:
+  - family: Starke-Meyerring
+    given: Doreen
+  - family: Paré
+    given: Anthony
+  - family: Artemeva
+    given: Natasha
+  - family: Horne
+    given: Miriam
+  - family: Yousoubova
+    given: Larissa
+  collection-editor:
+  - family: McLeod
+    given: Susan H.
+  issued:
+  - year: 2011
+    month: 11
+    day: 23
+  publisher: WAC Clearinghouse
+  publisher-full: The WAC Clearinghouse; University Press of Colorado
+  publisher-place: Fort Collins, Colorado
+  medium: ePub
+  isbn: 978-0-97270-238-6 
+  url: https://wac.colostate.edu/books/perspectives/situating/
+  doi: 10.37514/PER-B.2019.0193
+  number-of-pages: 452
+  accessed:
+  copy-provenance:
+  license: CC BY-NC-ND 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-23 22:14:49-6:00
+  date-modified:
+
+- sublist: el03-instruction-books
+#### EL03 Pedagogy and Instructional Design Books
+
+- id: beanEngagingIdeas
+  type: book
+  title: "Engaging ideas: The professor's guide to integrating writing, critical thinking, and active learning in the classroom"
+  title-short: Engaging ideas
+  author:
+  - family: Bean
+    given: John C.
+  edition: 2
+  original-date:
+  issued:
+  - year: 2011
+    season:
+    month:
+    day:
+  publisher: Jossey-Bass
+  publisher-place:
+  # medium: print
+  isbn:
+  url:
+  doi:
+  number-of-pages: 360
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-23 22:38:26-6:00
+  date-modified:
+
+- id: darbySmallTeachingOnline
+  type: book
+  title: "Small teaching online: Applying learning science in online classes"
+  title-short: Small teaching online
+  author:
+  - family: Darby
+    given: Flower
+  - family: Lang
+    given: James M.
+  issued:
+  - year: 2019
+    season:
+    month:
+    day:
+  publisher: Jossey-Bass
+  publisher-place:
+  # medium: print
+  isbn:
+  url:
+  doi:
+  number-of-pages: 252
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-23 22:39:53-6:00
+  date-modified:
+
+- id: dujardinTeachingTheLiteratureSurveyCourse
+  type: book
+  title: "Teaching the literature survey course: New strategies for college faculty"
+  title-short: Teaching the literature survey course
+  editor:
+  - family: Dujardin
+    given: Gwynn
+  - family: Lang
+    given: James M.
+  - family: Staunton
+    given: John A.
+  issued:
+  - year: 2018
+    season:
+    month:
+    day:
+  publisher: WV UP
+  publisher-full: West Virginia University Press
+  publisher-place:
+  # medium:
+  isbn:
+  url:
+  doi:
+  number-of-pages: 2018
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-23 22:41:12-6:00
+  date-modified:
+
+- id: gannonRadicalHope
+  type: book
+  title: "Radical hope: A teaching manifesto"
+  title-short: Radical hope
+  author:
+  - family: Gannon
+    given: "Kevin M."
+  issued:
+  - year: 2020
+    season:
+    month:
+    day:
+  publisher: WV UP
+  publisher-full: West Virginia University Press
+  publisher-place:
+  # medium:
+  isbn:
+  url:
+  doi:
+  number-of-pages: 180
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-23 22:43:08-6:00
+  date-modified:
+
+- id: germanoSyllabus
+  type: book
+  title: "Syllabus: The remarkable, unremarkable document that changes everything"
+  title-short: Syllabus
+  author:
+  - family: Germano
+    given: William
+  - family: Nicholls
+    given: Kit
+  issued:
+  - year: 2020
+    season:
+    month:
+    day:
+  publisher: Princeton UP
+  publisher-full: Princeton University Press
+  publisher-place:
+  # medium:
+  isbn:
+  # url:
+  doi:
+  number-of-pages: 204
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-23 22:44:17-6:00
+  date-modified:
+
+- id: girouxCounternarratives
+  type: book
+  title: "Counternarratives: Cultural Studies and critical pedagogies in postmodern spaces"
+  title-short: Counternarratives
+  author:
+  - family: Giroux
+    given: Henry A.
+  issued:
+  - year: 1996
+    season:
+    month:
+    day:
+  publisher: Routledge
+  publisher-place:
+  # medium:
+  # isbn:
+  # url:
+  # doi:
+  number-of-pages: 208
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-23 22:45:27-6:00
+  date-modified:
+
+- id: goodellLearningEngineeringToolkit
+  type: book
+  title: "Learning engineering toolkit: Evidence-based practices from the learning sciences, instructional design, and beyond"
+  title-short: "Learning engineering toolkit"
+  editor:
+  - family: Goodell
+    given: Jim
+  - family: Kolodner
+    given: Janet
+  issued:
+  - year: 2022
+  #  season:
+  #  month:
+  #  day:
+  publisher: Routledge
+  publisher-place:
+  # medium: print
+  # isbn:
+  # url:
+  # doi:
+  number-of-pages: 438
+  # accessed:
+  # copy-provenance:
+  # license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-24 20:18:52-6:00
+  # date-modified:
+
+- id: hayotHumanistReason
+  type: book
+  title: "Humanist reason: A history. An argument. A plan."
+  title-short: Humanist reason
+  author:
+  - family: Hayot
+    given: Eric
+  issued:
+  - year: 2021
+    season:
+    month:
+    day:
+  publisher: Columbia UP
+  publisher-full: Columbia University Press
+  publisher-place: New York
+  # medium: print
+  isbn: 978231197854
+  url:
+  doi:
+  number-of-pages: 218
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-24 20:20:46-6:00
+  date-modified:
+
+- id: hooksTeachingCriticalThinking
+  type: book
+  title: "Teaching critical thinking: practice wisdom"
+  title-short: Teaching critical thinking
+  author:
+  - family: <span class='nocase'>hooks</span>
+    given: <span class='nocase'>bell</span>
+  issued:
+  - year: 2010
+    season:
+    month:
+    day:
+  publisher: Routledge
+  publisher-place:
+  # medium: print
+  # isbn:
+  # url:
+  # doi:
+  number-of-pages: 198
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-24 20:21:53-6:00
+  date-modified:
+
+- id: hooksTeachingToTransgress
+  type: book
+  title: "Teaching to transgress: education as the practice of freedom"
+  title-short: "Teaching to transgress"
+  author:
+  - family: <span class='nocase'>hooks</span>
+    given: <span class='nocase'>bell</span>
+  issued:
+  - year: 1994
+    season:
+    month:
+    day:
+  publisher: Routledge
+  publisher-place:
+  # medium: print
+  # isbn:
+  # url:
+  # doi:
+  number-of-pages: 224
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-24 20:23:15-6:00
+  date-modified:
+
+- id: kernahanTeachingAboutRace
+  type: book
+  title: "Teaching about race and racism in the college classroom: Notes from a white professor"
+  title-short: "Teaching about race and racism in the college classroom"
+  author:
+  - family: Kernahan
+    given: Cyndi
+  issued:
+  - year: 2019
+    month:
+    day:
+  publisher: WV UP
+  publisher-full: West Virginia University Press
+  publisher-place:
+  # medium:
+  isbn:
+  url:
+  doi:
+  number-of-pages: 228
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-25 19:35:14-6:00
+  date-modified:
+
+- id: langSmallTeaching
+  type: book
+  title: "Small teaching: Everday lessons from the science of learning"
+  title-short: "Small teaching"
+  author:
+  - family: Lang
+    given: James M.
+  edition: 2
+  original-date:
+  original-publisher:
+  original-publisher-place:
+  issued:
+  - year: 2021
+    season:
+    month:
+    day:
+  publisher: Jossey-Bass
+  publisher-full:
+  publisher-place:
+  # medium: print
+  isbn:
+  url:
+  doi:
+  number-of-pages: 288
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-25 21:24:56-6:00
+  date-modified:
+
+- id: neuhausGeekyPedagogy
+  type: book
+  title: "Geeky pedagogy: A guide for intellectuals, introverts, and nerds who want to be effective teachers"
+  title-short: "Geeky pedagogy"
+  author:
+  - family: Neuhaus
+    given: Jessamyn
+  issued:
+  - year: 2019
+    season:
+    month:
+    day:
+  publisher: WV UP
+  publisher-full: West Virginia University Press
+  publisher-place:
+  # medium:
+  isbn:
+  url:
+  doi:
+  number-of-pages: 264
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-25 21:26:07-6:00
+  date-modified:
+
+- id: tobinReachEveryone
+  type: book
+  title: "Reach everyone, teach everyone: Universal design for learning in higher education"
+  title-short: "Reach everyone, teach everyone"
+  author:
+  - family: Tobin
+    given: Thomas J.
+  - family: Behling
+    given: Kirsten T.
+  issued:
+  - year: 2018
+    season:
+    month:
+    day:
+  publisher: WV UP
+  publisher-full: West Virginia University Press
+  publisher-place:
+  # medium:
+  isbn:
+  url:
+  doi:
+  number-of-pages: 312
+  accessed:
+  copy-provenance:
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2025-04-25 21:27:40-6:00
+  date-modified:
+
+- list: dearth-of-the-author
+## Dearth of the Author
+
+- sublist: dearth-articles
+### Dearth of the Author articles
+
+- id: benderDangersOfStochasticParrots
+  type: article-journal
+  title: "On the dangers of stochastic parrots: can language models be too big? 🦜"
+  title-short: On the dangers of stochastic parrots
+  author:
+  - family: Bender
+    given: Emily M.
+  - family: Gebru
+    given: Timnit
+  - family: McMillan-Major
+    given: Angelina
+  - family: Shmitchell
+    given: Shmargaret
+  container-title: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
+  # volume-title:
+  original-date:
+  issued:
+  - year: 2021
+    # season:
+    month: 03
+    day: 01
+  volume:
+  issue:
+  number-of-pages: 14
+  page: 610--623
+  issn: 9781450383097
+  eissn:
+  publisher: Association for Computing Machinery
+  source:
+  doi: 10.1145/3442188.3445922
+  url: https://dl.acm.org/doi/10.1145/3442188.3445922
+  accessed:
+  license: CC BY 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-26 00:10:46-6:00
+  date-modified:
+
+- id: buschmanInfoLitNewLits
+  type: article-journal
+  title: Information literacy, "new" literacies, and literacy
+  # title-short:
+  author:
+  - family: Buschman
+    given: John
+  container-title: "The library quarterly: information, community, policy"
+  container-title-short: The library quarterly
+  volume-title:
+  original-date:
+  issued:
+  - year: 2009
+    # season:
+    month: 1
+    # day:
+  volume: 79
+  issue: 1
+  number-of-pages: 25
+  page: 95--118
+  issn: 0024-2519
+  eissn:
+  publisher: The University of Chicago Press
+  source:
+  doi: 10.1086/593375
+  url: https://www.jstor.org/stable/10.1086/593375
+  accessed: 2026-04-19
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 22:01:29-6:00
+  date-modified:
+
+- id: furnerInfoSciIsNeither
+  type: article-journal
+  title: Information science is neither
+  # title-short:
+  author:
+  - family: Furner
+    given: Jonathan
+  # translator:
+  # - family:
+  #   given:
+  container-title: Library Trends
+  volume-title: Exploring philosophies of information
+  editor:
+  - family: Herold
+    given: Ken
+  # original-date:
+  issued:
+  - year: 2015
+    # season:
+    # month:
+    # day:
+  volume: 63
+  issue: 3
+  number-of-pages: 16
+  page: 362--377
+  issn: 0024-2594
+  # eissn:
+  publisher: "Johns Hopkins University Press and the Graduate School of Library and Information Science, University of Illinois at Urbana-Champaign"
+  source: 
+  doi: 10.1353/lib.2015.0009
+  url: https://hdl.handle.net/2142/89820
+  accessed: 2026-03-24
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 21:18:57-6:00
+  date-modified:
+
+- id: gebruTESCREAL
+  type: article-journal
+  title: 'The <span class="nocase">TESCREAL</span> bundle: eugenics and the promise of utopia through artificial general intelligence'
+  title-short: 'The <span class="nocase">TESCREAL</span> bundle'
+  author:
+  - family: Gebru
+    given: Timnit
+  - family: Torres
+    given: "Émile P."
+  container-title: First Monday
+  # volume-title:
+  # original-date:
+  issued:
+  - year: 2024
+    season:
+    month: 04
+    day: 14
+  volume: 29
+  issue: 4
+  number-of-pages: 42
+  # page:
+  # issn:
+  eissn: 1396-0466
+  # publisher:
+  # source:
+  doi: "10.5210/fm.v29i4.13636"
+  url: "https://firstmonday.org/ojs/index.php/fm/article/view/13636"
+  # accessed:
+  # license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 16:53:06-6:00
+  date-modified:
+
+- id: hicksChatGPTisBullshit
+  type: article-journal
+  title: ChatGPT is bullshit
+  # title-short:
+  author:
+  - family: Hicks
+    given: Michael Tosen
+  - family: Humphries
+    given: James
+  - family: Slater
+    given: Joe
+  container-title: Ethics and Information Technology
+  volume-title: "Large Language Models: A Philosophical Reckoning"
+  # original-date:
+  issued:
+  - year: 2024
+    # season:
+    month: 06
+    day: 08
+  volume: 26
+  issue: 2
+  number-of-pages: 10
+  number: 38 # "number" here is "article number"
+  # issn:
+  eissn: 1572-8439
+  publisher: 
+  source: Springer
+  doi: 10.1007/s10676-024-09775-5
+  url: https://doi.org/10.1007/s10676-024-09775-5
+  accessed: 2026-04-19
+  license: CC BY 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 16:29:30-6:00
+  date-modified:
+
+- id: kockelmanInformationIsEnclosure
+  type: article-journal
+  title: "Information is the enclosure of meaning: cybernetics, semiotics, and alternative theories of information"
+  title-short: Information is the enclosure of meaning
+  author:
+  - family: Kockelman
+    given: Paul
+  container-title: Language & Communication
+  volume-title:
+  original-date:
+  issued:
+  - year: 2013
+    # season:
+    month: 03
+    day: 01
+  volume: 33
+  issue: 2
+  number-of-pages: 13
+  page: 115--127
+  issn: 0271-5309
+  eissn:
+  publisher: Elsevier
+  source: ScienceDirect
+  doi: 10.1016/j.langcom.2013.01.002
+  url: https://www.sciencedirect.com/science/article/pii/S0271530913000116
+  accessed: 2026-03-12
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 20:27:37-6:00
+  date-modified:
+
+- id: sano-franchiniWhatsCritical
+  type: paper-conference
+  title: What's "Critical" about "Critical AI"? A recommitment to humanistic inquiry in the ostensible march to hyper-automation
+  title-short: What's "Critical" about "Critical AI"?
+  author:
+  - family: Sano-Franchini
+    given: Jennifer
+  container-title: The Proceedings of the Computers and Writing Conference, 2025
+  volume-title:
+  editor:
+    - family: Andrews
+      given: Christopher D. M.
+    - family: Kalodner-Martin
+      given: Elena
+    - family: O'Connell
+      given: Nicole
+    - family: Wang
+      given: Hua
+    - family: Wilkes
+      given: Lydia
+    - family: Woods
+      given: Charles
+  original-date:
+  event-title: "Computers & Writing 2025: Agency & Authorship"
+  event-place: University of Georgia
+  issued:
+  - year: 2026
+    # season:
+    month: 02
+    day: 21
+  volume:
+  issue:
+  number-of-pages: 14
+  page: 5--18
+  issn: 2643-7376
+  eissn:
+  publisher: The WAC Clearinghouse
+  publisher-place: Fort Collins, Colorado
+  source:
+  doi: https://doi.org/10.37514/PCW-B.2026.2883.2.01
+  url: https://wacclearinghouse.org/repository/professional/conferences/collections/cw2025/
+  accessed: 2025-03-28
+  license: CC BY-NC-SA 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 17:23:24-6:00
+  date-modified:
+
+- id: sealeEnlightenmentNeolibInfoLit
+  type: article-journal
+  title: Enlightenment, neoliberalism, and information literacy
+  # title-short:
+  author:
+  - family: Seale
+    given: Maura
+  # translator:
+  # - family:
+  #  given:
+  container-title: Canadian journal of academic librarianship
+  volume-title:
+  # original-date:
+  issued:
+  - year: 2016
+    # season:
+    month: 01
+    day: 28
+  volume: 1
+  # issue:
+  number-of-pages: 12
+  page: 80--91
+  issn: 2369-937X
+  eissn:
+  publisher:
+  source:
+  doi: "https://doi.org/10.33137/cjal-rcbu.v1.24308"
+  url:
+  accessed:
+  license: "CC BY-NC"
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 16:18:12-6:00
+  date-modified:
+
+- id: seaverAlgorithmsAsCulture
+  type: article-journal
+  title: "Algorithms as culture: some tactics for the ethnography of algorithmic systems"
+  title-short: Algorithms as culture
+  author:
+  - family: Seaver
+    given: Nick
+  container-title: Big Data & Society
+  volume-title: Algorithms in culture
+  editor:
+  - family: Ames
+    given: Morgan G.
+  - family: Oakes
+    given: Jason
+  - family: Mazzotti
+    given: Massimo
+  - family: Fourcade
+    given: Marion
+  - family: Gano
+    given: Gretchen
+  original-date:
+  issued:
+  - year: 2017
+    # season:
+    month: 12
+    day:  01
+  volume: 4
+  issue: 2
+  number-of-pages: 12
+  page: 1--12
+  issn: 2053-9517
+  # eissn:
+  publisher: SAGE Publications Ltd
+  source: SAGE Journals
+  doi: 10.1177/2053951717738104
+  url: https://doi.org/10.1177/2053951717738104
+  accessed: 2026-04-10
+  license: CC BY 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 20:57:12-6:00
+  date-modified:
+
+- id: slaterAgainstAI
+  type: article-journal
+  title: 'Against <span class="no case">AI</span>: critical refusal in the library'
+  title-short: 'Against <span class="no case">AI</span>'
+  author:
+  - family: Slater
+    given: 'Kailyn "Kay"'
+  container-title: Library Trends
+  volume-title: '<span class="nocase">Generative AI and Libraries</span>: applications and ethics, Part II'
+  editor:
+    - family: Wong
+      given: "Melissa A."
+  # original-date:
+  issued:
+  - year: 2025
+    # season: 05
+    month: 05
+    # day:
+  volume: 73
+  issue: 4
+  number-of-pages: 22
+  page: 588--608
+  issn: 1559-0682
+  # eissn:
+  publisher: Johns Hopkins University Press
+  source: '<span class="nocase">Project MUSE</span'
+  doi: https://doi.org/10.1353/lib.2025.a968497
+  url: https://muse.jhu.edu/article/968497
+  accessed: 2025-11-11
+  license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 14:18:44-6:00
+  date-modified:
+
+- id: tewellDecadeCriticalInfoLit
+  type: article-journal
+  title: "A decade of critical information literacy: a review of the literature"
+  title-short: A decade of critical information literacy
+  author:
+  - family: Tewell
+    given: Eamon
+  container-title: Communications in Information Literacy
+  # volume-title:
+  # original-date:
+  issued:
+  - year: 2015
+    # season:
+    month: 06
+    day: 25
+  volume: 9
+  issue: 1
+  number-of-pages: 21
+  page: 24--43
+  issn: 1933-5954
+  # eissn:
+  publisher: PDXScholar
+  # source:
+  doi: 10.15760/comminfolit.2015.9.1.174
+  url: http://archives.pdx.edu/ds/psu/22378
+  accessed: 2026-04-19
+  license: CC BY-NC-SA 4.0
+  # note: # longer note, for annotated bibs
+  # annote: # shorter note
+  date-added: 2026-04-19 20:51:42-6:00
+  date-modified:
+
+- id: withornCriticalOnline
+  type: article-journal
+  title: "Critical online library instruction: opportunities and challenges"
+  title-short: Critical online library instruction
+  author:
+  - family: Withorn
+    given: Tessa
+  container-title: Communications in Information Literacy
+  # volume-title:
+  # original-date:
+  issued:
+  - year: 2023
+    # season:
+    month: 12
+    day: 14
+  volume: 17
+  issue: 2
+  number-of-pages: 22
+  page: 332--352
+  issn: 1933-5954
+  # eissn:
+  publisher: PDXScholar
+  # source:
+  doi: 10.15760/comminfolit.2023.17.2.2
+  url: https://pdxscholar.library.pdx.edu/comminfolit/vol17/iss2/2
+  accessed: 2024-05-24
+  license: CC BY-NC-SA 4.0
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 20:45:45-6:00
+  date-modified:
+
+- sublist: dearth-books
+### Dearth of the Author books
+
+- id: hayotElementsAcademicStyle
+  type: book
+  title: "The elements of academic style: writing for the humanities"
+  title-short: The elements of academic style
+  author:
+  - family: Hayot
+    given: Eric
+  # translator:
+  # - family:
+  #  given:
+  # editor:
+  # - family:
+  #  given:
+  # edition:
+  # original-date:
+  # original-language:
+  # original-publisher:
+  # original-publisher-place:
+  issued:
+  - year: 2014
+  #  season:
+  #  month:
+  #  day:
+  publisher: Columbia University Press
+  # publisher-full:
+  # publisher-place:
+  medium:
+  isbn: 978-0-231-16801-4
+  # url:
+  # doi:
+  number-of-pages: 246
+  # accessed:
+  copy-provenance: "I've had this since Levay's seminar on graduate school."
+  # license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 15:33:03-6:00
+  # date-modified:
+
+- id: mccloudUnderstandingComics
+  type: book
+  title: "Understanding comics: the invisible art"
+  title-short: Understanding comics
+  author:
+  - family: McCloud
+    given: Scott
+  editor:
+  - family: Martin
+    given: Mark
+  # edition:
+  original-date: 1993
+  # original-language:
+  original-publisher: Kitchen Sink Press
+  # original-publisher-place:
+  issued:
+  - year: 1994
+    # season:
+    # month:
+    # day:
+  publisher: HarperPerennial
+  # publisher-full:
+  # publisher-place:
+  medium:
+  isbn: 0-06-097625-X
+  # url:
+  # doi:
+  number-of-pages: 216
+  # accessed:
+  # copy-provenance: "I've had this since Axelrod's comics / postmodernism seminar at UCR."
+  # license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 15:24:12-6:00
+  # date-modified:
+
+- id: popowichConfronting
+  type: book
+  title: "Confronting the democratic discourse of librarianship: a Marxist approach"
+  title-short: "Confronting the democratic discourse of librarianship"
+  author:
+  - family: Popowich
+    given: Sam
+  issued:
+  - year: 2019
+  publisher: Library Juice Press
+  # publisher-full:
+  publisher-place: Sacramento, CA
+  # medium:
+  isbn: 9781634000871
+  # url:
+  # doi:
+  number-of-pages: 322
+  # accessed:
+  copy-provenance: ""
+  # license:
+  note: # longer note, for annotated bibs
+  annote: # shorter note
+  date-added: 2026-04-19 16:23:15-6:00
+  date-modified:
+
+---
