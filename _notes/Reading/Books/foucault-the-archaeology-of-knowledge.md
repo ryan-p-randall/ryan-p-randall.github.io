@@ -11,12 +11,12 @@ work_author: 'Michel Foucault'
 work_author_sort: 'Foucault, Michel'
 work_link: 'https://openlibrary.org/books/OL5282804M/The_archaeology_of_knowledge'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-04-26
 date_started: 2026-03-22
-current: true # false
-reading_status: 'started' # 'finished'
-progress_current: 220
+current: false # true
+reading_status: 'finished' # 'started'
+progress_current: 237
 progress_max: 237
 reading_list01: true
 # reading_list02: true
