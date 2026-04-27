@@ -1,6 +1,6 @@
 ---
 date: 2026-04-12T19:53:57-6:00
-last_modified_at:
+last_modified_at: 2026-04-12
 watching: true
 movies: true
 excerpt: "The K-Pop girl group HUNTR/X are secretly—yep, you guessed it—demon hunters."
@@ -19,8 +19,7 @@ watching_status: 'finished'
 progress_current: 100
 progress_max: 100
 # watching_list01: true
-genre: [] # sci-fi, k-drama, romcom, art, documentary 
-tags: [k-drama, musical, animated, fantasy, monsters]
+genre: [k-drama, musical, animated, fantasy, monsters] # sci-fi, k-drama, romcom, art, documentary k
 # group: [a] # b
 citation: ''
 # bib_order: 

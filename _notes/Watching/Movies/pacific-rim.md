@@ -19,8 +19,7 @@ watching_status: 'finished'
 progress_current: 100
 progress_max: 100
 # watching_list01: true
-genre: [sci-fi, monster movie, hopepunk] # sci-fi, k-drama, romcom, art, documentary 
-tags: [sci-fi, monsters, hopepunk]
+genre: [sci-fi, monsters, hopepunk] # sci-fi, k-drama, romcom, art, documentary 
 # group: [a] # b
 citation: ''
 # bib_order: 
