@@ -11,7 +11,7 @@ title: 'The West Wing'
 # work_author_sort: 'Sorkin, Aaron'
 work_link: 'https://www.imdb.com/title/tt0200276/'
 work_link_text: 'IMDB'
-currently_watching: true
+currently_watching: false
 year_watched: 2026
 year_started: 2025
 date_started: 2025-12-13
