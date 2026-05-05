@@ -1,6 +1,6 @@
 ---
 date: 2025-05-18T19:06:02-6:00
-last_modified_at: 2026-05-01
+last_modified_at: 2026-05-04
 reading: true
 reading_books: true
 excerpt: 'Jameson situates the term "postmodernism" across the cultural landscape, as well as within historical and critical narratives.'
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-04-26
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 80
+progress_current: 140
 progress_max: 438
 # reading_list01: true
 reading_list02: true

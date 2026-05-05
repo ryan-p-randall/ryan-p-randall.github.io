@@ -16,8 +16,8 @@ date_watched:
 date_started: 2026-05-03
 year_started: 2026
 currently_watching: true
-progress_current: 0
-progress_max: 
+progress_current: 4
+progress_max: 72
 # watching_list01: true
 watching-status: 'started' # 'finished'
 genre: [teen-drama] # sci-fi, k-drama, romcom, art, documentary 

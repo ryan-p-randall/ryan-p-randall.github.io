@@ -17,7 +17,7 @@ date_started: 2026-05-01
 year_started: 2026
 currently_watching: true
 progress_current: 2
-progress_max: 10
+progress_max: 20
 # watching_list01: true
 watching-status: 'started' # 'finished'
 genre: [sci-fi] # sci-fi, k-drama, romcom, art, documentary 
@@ -25,3 +25,5 @@ genre: [sci-fi] # sci-fi, k-drama, romcom, art, documentary
 citation: ''
 # bib_order: 
 ---
+
+A second season has been announced, so I'm including those in the number of how many episodes exist.  
