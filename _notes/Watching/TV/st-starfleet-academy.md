@@ -1,6 +1,6 @@
 ---
 date: 2026-05-01T23:45:29-6:00
-last_modified_at: 2026-05-02
+last_modified_at: 2026-05-10
 watching: true
 tv: true
 excerpt: "The first set of cadets to enter Starfleet Academy after the Burn work toward becoming Starfleet officers."
@@ -16,7 +16,7 @@ date_watched:
 date_started: 2026-05-01
 year_started: 2026
 currently_watching: true
-progress_current: 2
+progress_current: 4
 progress_max: 20
 # watching_list01: true
 watching-status: 'started' # 'finished'
