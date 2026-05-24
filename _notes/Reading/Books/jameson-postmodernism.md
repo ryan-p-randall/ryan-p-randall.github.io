@@ -1,6 +1,6 @@
 ---
 date: 2025-05-18T19:06:02-6:00
-last_modified_at: 2026-05-21
+last_modified_at: 2026-05-23
 reading: true
 reading_books: true
 excerpt: 'Jameson situates the term "postmodernism" across the cultural landscape, as well as within historical and critical narratives.'
@@ -11,12 +11,12 @@ work_author: 'Frederic Jameson'
 work_author_sort: "Jameson, Frederic"
 work_link: 'https://openlibrary.org/books/OL1874239M/Postmodernism_or_The_cultural_logic_of_late_capitalism'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-05-23
 date_started: 2026-04-26
-current: true # false
-reading_status: 'started' # 'finished'
-progress_current: 391
+current: false
+reading_status: 'finished'
+progress_current: 438
 progress_max: 438
 # reading_list01: true
 reading_list02: true

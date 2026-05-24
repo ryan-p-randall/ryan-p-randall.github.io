@@ -1,22 +1,22 @@
 ---
 date: 2025-05-18T20:14:03-6:00
-last_modified_at:
+last_modified_at: 2026-05-23
 reading: true
 reading_books: true
-excerpt: "."
+excerpt: "Soja describes how social theory has overdeveloped its historical analyses and subordinated its spatial ones."
 status: ':herb:'
 published: true # false
 title: 'Postmodern Geographies: The Reassertion of Space in Critical Social Theory'
 work_author: 'Edward W. Soja'
 work_author_sort: 'Soja, Edward W.'
-# work_link: ''
-work_link_text: ''
+work_link: 'https://www.versobooks.com/products/1263-postmodern-geographies'
+work_link_text: 'Verso'
 year_read: 
 date_read: 
-# date_started: 
-current: false # true
-reading_status: # 'started' 'finished'
-progress_current: 0
+date_started: 2026-05-23
+current: true
+reading_status: 'started' # 'finished'
+progress_current: 28
 progress_max: 266
 # reading_list01: true
 reading_list02: true
