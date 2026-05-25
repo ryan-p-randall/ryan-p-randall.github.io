@@ -1,6 +1,6 @@
 ---
 date: 2025-05-18T20:14:03-6:00
-last_modified_at: 2026-05-23
+last_modified_at: 2026-05-24
 reading: true
 reading_books: true
 excerpt: "Soja describes how social theory has overdeveloped its historical analyses and subordinated its spatial ones."
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-05-23
 current: true
 reading_status: 'started' # 'finished'
-progress_current: 28
+progress_current: 79
 progress_max: 266
 # reading_list01: true
 reading_list02: true
