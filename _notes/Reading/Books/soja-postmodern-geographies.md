@@ -1,6 +1,6 @@
 ---
 date: 2025-05-18T20:14:03-6:00
-last_modified_at: 2026-06-08
+last_modified_at: 2026-06-09
 reading: true
 reading_books: true
 excerpt: "Soja describes how social theory has overdeveloped its historical analyses and subordinated its spatial ones."
@@ -11,12 +11,12 @@ work_author: 'Edward W. Soja'
 work_author_sort: 'Soja, Edward W.'
 work_link: 'https://www.versobooks.com/products/1263-postmodern-geographies'
 work_link_text: 'Verso'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-06-09
 date_started: 2026-05-23
-current: true
-reading_status: 'started' # 'finished'
-progress_current: 208
+current: false # true
+reading_status: 'finished'
+progress_current: 266
 progress_max: 266
 # reading_list01: true
 reading_list02: true

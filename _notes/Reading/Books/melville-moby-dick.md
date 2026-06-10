@@ -1,6 +1,6 @@
 ---
 date: 2025-12-14T20:14:33-6:00
-last_modified_at: 2026-02-13
+last_modified_at: 2026-06-09
 reading: true
 reading_books: true
 excerpt: "Our anonymous narrator gets bored and joins a whaling expedition. I'm sure it'll end well!"
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-01-01
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 344
+progress_current: 347
 progress_max: 427
 genre: [fiction, book, novel] # fiction theory book novel article practice pedagogy criticism
 ---
