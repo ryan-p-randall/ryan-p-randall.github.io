@@ -48,7 +48,9 @@ As of 2026-01-20, I'm considering writing up a "How did I do this?" guide in the
     Started: {{ item.date_started }}<br />
     -->
     Last updated: {{ item.last_modified_at }}<br />
-    Amount read: {{ item.progress_current }} of {{ item.progress_max }} pages</p>
+    {% assign item_p_c = item.progress_current | times: 1.0 %} <!-- use `times: 1.0` to make these floats, not integers, so the percentage doesn't always become 0 due to integer division; see https://shopify.github.io/liquid/filters/divided_by/ for more -->
+    {% assign item_p_m = item.progress_max | times: 1.0 %}
+    Amount read: {{ item.progress_current }} of {{ item.progress_max }} pages, or {{ item_p_c | divided_by: item_p_m | times: 100.0 | round }}% </p>
     <label for="reading-progress" style="margin-top: -1.4em; margin-bottom: 0em;">Progress:</label><progress id="reading-progress" value="{{ item.progress_current }}" max="{{ item.progress_max }}">{{ item.progress_current }} pages</progress>
 </article>
     {% endfor %}
