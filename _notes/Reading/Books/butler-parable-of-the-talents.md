@@ -1,6 +1,6 @@
 ---
 date: 2025-03-19T19:52:24-6:00
-last_modified_at: 2026-06-09
+last_modified_at: 2026-06-10
 reading: true
 reading_books: true
 excerpt: "Five years after Olamina started Acorn, the Earthseed community, and the newest threat seems to be rising fascism."
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-06-09
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 18
+progress_current: 167
 progress_max: 448
 reading_list02: true
 fiction: true
