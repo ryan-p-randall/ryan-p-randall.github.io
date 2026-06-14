@@ -1,6 +1,6 @@
 ---
 date: 2026-05-04T09:30:44-6:00
-last_modified_at: 2026-06-11
+last_modified_at: 2026-06-13
 watching: true
 tv: true
 excerpt: "Veronica's dad is a private investigator in a small, ocean-side California town without a middle class. She's working to solve mysteries of her own."
@@ -11,15 +11,15 @@ title: 'Veronica Mars'
 # work_author_sort: ''
 work_link: 'https://en.wikipedia.org/wiki/Veronica_Mars'
 work_link_text: 'Wikipedia'
-year_watched: 
-date_watched: 
+year_watched: 2026
+date_watched: 2026-06-13
 date_started: 2026-05-03
 year_started: 2026
-currently_watching: true
-progress_current: 68
+currently_watching: false
+progress_current: 72
 progress_max: 72
 # watching_list01: true
-watching-status: 'started' # 'finished'
+watching-status: 'finished'
 genre: [teen-drama] # sci-fi, k-drama, romcom, art, documentary 
 # group: [a] # b
 citation: ''
