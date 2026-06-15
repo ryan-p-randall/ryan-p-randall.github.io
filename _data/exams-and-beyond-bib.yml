@@ -776,10 +776,11 @@ references:
     given: Octavia
   issued: 2019
   original-date: 1998
-  number-of-pages: 448
+  number-of-pages: 406
   publisher: Grand Central Publishing
   isbn:
   copy-provenance:
+  # 448 total pages in the physical book, but after page 406 the remainder are an interview and reading group guide. I'm not completely sure the preferred way to handle this in CSL or MLA at the moment (i.e. as of 2026-06-15).
 
 - id: couplandGenX
   type: book

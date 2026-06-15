@@ -17,7 +17,7 @@ date_started: 2026-06-09
 current: true # false
 reading_status: 'started' # 'finished'
 progress_current: 323
-progress_max: 448
+progress_max: 406
 reading_list02: true
 fiction: true
 genre: [fiction, book, novel] # theory
