@@ -18,6 +18,7 @@ Here are some particularly noteworthy changes.[^not-semver]
 
 ## 2026
 
+- 2026-06-10: Added reading percentages to [my `/reading` page](/reading/) and reading notes.  
 - 2026-02-05: Added a [`/watching` page](/watching/), refined relevant pages in the [notes section](/notes/Watching/), and added enough relevant items to test it all out.  
 - 2026-02-01: Added conditional MLA citation to pages, not just posts. Refined the `/ai` page a bit.  
 - 2026-01-31:  
