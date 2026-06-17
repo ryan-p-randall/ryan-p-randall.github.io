@@ -1,6 +1,6 @@
 ---
 date: 2025-03-19T19:52:24-6:00
-last_modified_at: 2026-06-15
+last_modified_at: 2026-06-16
 reading: true
 reading_books: true
 excerpt: "Five years after Olamina started Acorn, the Earthseed community, and the newest threat seems to be rising fascism."
@@ -11,12 +11,12 @@ work_author: 'Octavia E. Butler'
 work_author_sort: "Butler, Octavia E."
 work_link: 'https://openlibrary.org/books/OL28924805M/Parable_of_the_Talents'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-06-16
 date_started: 2026-06-09
-current: true # false
-reading_status: 'started' # 'finished'
-progress_current: 346
+current: false
+reading_status: 'finished'
+progress_current: 406
 progress_max: 406
 reading_list02: true
 fiction: true
