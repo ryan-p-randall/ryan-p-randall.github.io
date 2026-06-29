@@ -2413,6 +2413,10 @@ https://www.ryanpatrickrandall.com/colophon/:
   https://atom.io/packages/paraiso-black: false
   http://thedesignersrepublic.com/: 1
   http://warp.net/: 1
+  https://ko-fi.com/s/4662b19f61: false
+  https://www.andycarolan.com/: false
+  https://github.com/scholarslab/scholarslab.github.io/blob/main/_layouts/post.html: false
+  https://scholarslab.lib.virginia.edu/: false
 https://www.ryanpatrickrandall.com/cv/:
   https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10: 1
   https://www.ryanpatrickrandall.com/portfolio/: false
@@ -2623,6 +2627,10 @@ https://www.ryanpatrickrandall.com/reading/:
   https://bookwyrm.social/user/foureyedsoul: false
   https://aworkinglibrary.com/: false
   https://web.archive.org/web/20161026154722/https://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/: false
+  https://bookwyrm.social/: false
+  https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages: false
+  https://shopify.github.io/liquid/: false
+  https://shopify.github.io/liquid/filters/divided_by/: false
 https://www.ryanpatrickrandall.com/recommended-reading/:
   https://aprilhathcock.wordpress.com/recommended-reading/: 1
   http://catassessmentresearch.blogspot.com/2016/02/critlib-and-diversity-related-books.html: 1
@@ -3081,3 +3089,59 @@ https://www.ryanpatrickrandall.com/feed.xsl:
   https://feedrabbit.com/: false
 https://www.ryanpatrickrandall.com/notes/Reading/Books/melville-moby-dick:
   https://bsky.app/profile/jacobharr.is/post/3magtsxttus2m: false
+https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2026-week-05:
+  https://en.wikipedia.org/wiki/ISO_week_date: false
+  https://people.pledge.party/: false
+  https://ko-fi.com/andycarolan/shop: false
+  https://webaim.org/resources/contrastchecker/: false
+  https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/: false
+  https://www.imdb.com/title/tt0745699/?ref_=ttep_ep_13: false
+  https://jacobharr.is/: false
+  https://www.merriam-webster.com/dictionary/duppy: false
+  https://tinmanofficial.bandcamp.com/album/hidden-acid: false
+  https://llamalife.co/: false
+  https://focusapp.io/: false
+  https://www.focumon.com/: false
+  https://www.focumon.com/trainers/Sage_Escri_lY1D: false
+  https://www.focumon.com/about: false
+  https://www.focumon.com/on/habitica: false
+https://www.ryanpatrickrandall.com/now/now-february-2026:
+  https://youtu.be/6I1Dt1zZnZE?si=yVrd8Af9TKOsfDGV: false
+  https://www.opened.org/posts/2026/accessibility-title-ii-and-open-education: false
+  https://naacp.org/campaigns/stop-dirty-data-centers: false
+  https://www.scientificamerican.com/article/ai-is-entering-health-care-and-nurses-are-being-asked-to-trust-it/: false
+  https://bookmarks.ryanpatrickrandall.com: false
+  https://www.focumon.com/trainers/Sage_Escri_lY1D: false
+https://www.ryanpatrickrandall.com/ai/:
+  https://web.archive.org/web/20150131211510/http://ryan-p-randall.github.io/software-carpentry-workshop-reflections/: false
+  https://practicaltypography.com/hyphens-and-dashes.html: false
+  https://en.wikipedia.org/wiki/Parker_Lewis_Can: false
+  https://en.wikipedia.org/wiki/Desire_path: false
+  http://hdl.handle.net/1802/6053: false
+  http://hdl.handle.net/1802/8409: false
+  https://refusal.blog/learning-objectives/: false
+  https://safiyaunoble.com/: false
+  https://www.ruhabenjamin.com/: false
+  https://naacp.org/campaigns/stop-dirty-data-centers: false
+  https://naacp.org/know-issues/environmental-climate-justice: false
+  https://sterneworks.org/: false
+  https://www.robertwgehl.org/: false
+  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=788984: false
+  https://fossacademic.tech/about.html: false
+  https://100r.co/site/permacomputing_101.html: false
+  https://100r.co/site/about.html: false
+  https://solar.lowtechmagazine.com/: false
+  https://www.andrewheiss.com/ai/: false
+  https://cassidoo.co/ai/: false
+  https://sive.rs/ai: false
+  https://rknight.me/ai/: false
+  https://www.skwinnicki.com/single-post/i-would-be-so-ashamed-to-use-generative-ai-here-s-why: false
+  https://sboots.ca/2026/03/11/generative-ai-vegetarianism/: false
+https://www.ryanpatrickrandall.com/changelog/:
+  https://semver.org/: false
+  https://github.com/scholarslab/scholarslab.github.io/blob/main/_layouts/post.html: false
+  https://scholarslab.lib.virginia.edu/: false
+  https://github.com/shaarli/Shaarli: false
+  https://bookmarks.ryanpatrickrandall.com/: false
+https://www.ryanpatrickrandall.com/slashes/:
+  https://slashpages.net/: false

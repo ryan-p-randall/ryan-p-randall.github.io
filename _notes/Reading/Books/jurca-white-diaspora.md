@@ -1,6 +1,6 @@
 ---
 date: 2025-05-18T19:09:07-6:00
-last_modified_at: 2026-06-23
+last_modified_at: 2026-06-28
 reading: true
 reading_books: true
 excerpt: "Jurca finds an emphasis on the suburb under siege, a place where the fortunate tend to see themselves as powerless. The suburban novel consistently casts property owners living in communities of their choosing as dispossessed people, a fantasy of victimization misunderstanding white flight as a white diaspora."
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-06-16
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 76
+progress_current: 133
 progress_max: 238
 # reading_list01: true
 reading_list02: true
