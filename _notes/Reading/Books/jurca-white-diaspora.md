@@ -1,6 +1,6 @@
 ---
 date: 2025-05-18T19:09:07-6:00
-last_modified_at: 2026-06-28
+last_modified_at: 2026-06-30
 reading: true
 reading_books: true
 excerpt: "Jurca finds an emphasis on the suburb under siege, a place where the fortunate tend to see themselves as powerless. The suburban novel consistently casts property owners living in communities of their choosing as dispossessed people, a fantasy of victimization misunderstanding white flight as a white diaspora."
@@ -11,12 +11,12 @@ work_author: 'Catherine Jurca'
 work_author_sort: 'Jurca, Catherine'
 work_link: 'https://openlibrary.org/works/OL7798194W/White_diaspora'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-06-30
 date_started: 2026-06-16
-current: true # false
-reading_status: 'started' # 'finished'
-progress_current: 133
+current: false # true
+reading_status: 'finished'
+progress_current: 238
 progress_max: 238
 # reading_list01: true
 reading_list02: true
