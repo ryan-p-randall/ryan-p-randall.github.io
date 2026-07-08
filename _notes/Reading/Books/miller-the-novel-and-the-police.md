@@ -1,6 +1,6 @@
 ---
 date: 2025-05-18T19:12:15-6:00
-last_modified_at: 2026-07-03
+last_modified_at: 2026-07-07
 reading: true
 reading_books: true
 excerpt: "Miller explores how novels represent disparate techniques of social discipline, as well as habituating their reader-subject to policing work."
@@ -15,7 +15,7 @@ year_read:
 date_read: 
 date_started: 2026-07-01
 current: true # false
-progress_current: 61
+progress_current: 75
 reading_status: 'started' # 'finished'
 progress_max: 240 
 # reading_list01: true
