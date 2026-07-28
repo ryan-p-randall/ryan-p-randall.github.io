@@ -264,6 +264,9 @@ webmentions:
   max_attempts: 5
   cache_bad_uris_for: 5
   bad_uri_policy:
+    default:
+      policy: retry
+      max_attempts: 5
     unsupported:
       policy: ban
     error:
@@ -285,8 +288,11 @@ webmentions:
       - "^http://library.boisestate.edu/"
       - "^http://www.bigfootjs.com/"
       - "^http://www.digitalpedagogylab.com/"
-      - "^https://platform.twitter.com/"
       - "^https://platform.instagram.com/"
+      - "^https://platform.twitter.com/"
+      - "^https://*.twitter.com/"
+      - "^https://*.instagram.com/"
+      - "^https://*.facebook.net/"
 #      - "bookmarks.ryanpatrickrandall.com/"
 #      - "etherpad.mozilla.org/"
 #      - "github.com/"
