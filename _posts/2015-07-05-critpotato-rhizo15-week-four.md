@@ -33,7 +33,7 @@ The most striking thing to me about the recent chat was how different participan
 In any event, one of my favorite components was [when people stopped being <del>polite </del> chatty and started being real](https://youtu.be/xIni27L3q_k?t=13s "Yep, that's an MTV Real World allusion.").  
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a>, raise your hand if you&#39;ve read Friere. (Not just summary) <a href="https://t.co/2mySogkpS7">https://t.co/2mySogkpS7</a></p>&mdash; ellie (@elliehearts) <a href="https://twitter.com/elliehearts/status/616055543661244416">July 1, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The other striking thing was how the participants ended up gauging shared experience/attributes. Much as we conversed by using a particular intermediary—the `#critlib` string—we also appealed to [employment types of the moderators](https://twitter.com/kshockey04/status/616055242212294656), to having read any Freire in order to see who had any pedagogical theory background, and to having read any Foucault. Since the online introductions are brief, there's little chance to quickly learn the deeper background of the participants. I'm having a hard time imagining a twitter chat where people wrote up more detailed bios on other webpages and then linked to them instead of just using a couple tweets or the twitter bio, since that doesn't really scale.   
 

@@ -285,6 +285,8 @@ webmentions:
       - "^http://library.boisestate.edu/"
       - "^http://www.bigfootjs.com/"
       - "^http://www.digitalpedagogylab.com/"
+      - "^https://platform.twitter.com/"
+      - "^https://platform.instagram.com/"
 #      - "bookmarks.ryanpatrickrandall.com/"
 #      - "etherpad.mozilla.org/"
 #      - "github.com/"

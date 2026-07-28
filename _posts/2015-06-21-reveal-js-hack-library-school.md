@@ -44,7 +44,7 @@ As for Reveal.js itself, the [issues for this framework](https://github.com/haki
 
 Or as I said in today's [#critlib chat](https://storify.com/AlicePrael/intro-to-critlib-part-2), #critlib is a process. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many comm coll students have mobile devices w/o laptops @ home. Need to make slides more screenreader accessible now. <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a> is a process!</p>&mdash; Ryan P. Randall (@foureyedsoul) <a href="https://twitter.com/foureyedsoul/status/717055097742622722">April 4, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many comm coll students have mobile devices w/o laptops @ home. Need to make slides more screenreader accessible now. <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a> is a process!</p>&mdash; Ryan P. Randall (@foureyedsoul) <a href="https://twitter.com/foureyedsoul/status/717055097742622722">April 4, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 If there's one "should" statement I feel comfortable making, it's that we should continually try to do better, collectively and individually. Part of doing better involves, to the degree individually possible, being willing to point out our own mistakes and how we're improving what we've done.  
 

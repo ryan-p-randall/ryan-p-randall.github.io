@@ -13,6 +13,6 @@ quip: "Microblogging, right here."
 
 Blog posts, but smaller. "Microblogging," if you will.  
 
-{% for post in site.categories.blips %}
+{% for post in site.categories.blips reversed %}
     {% include archive-single.html type=page.entries_layout %}
 {% endfor %}

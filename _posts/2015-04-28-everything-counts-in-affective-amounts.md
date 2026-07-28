@@ -43,12 +43,12 @@ Affect isn't quite countable, as it's not discrete. It rapidly varies in intensi
 Franny Gaede started an excellent Twitter discussion on "what a lab notebook for the humanities would look like":  
 
 <blockquote class="twitter-tweet" lang="en"><p>I’m still super interested in what a lab notebook for the humanities would look like… what tools could we build or adapt? <a href="https://twitter.com/hashtag/arcs20105?src=hash">#arcs20105</a></p>&mdash; Franny Gaede (@mfgaede) <a href="https://twitter.com/mfgaede/status/592497291098857472">April 27, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 …which led John Russell to share an illuminating post on [open humanities notebooks](http://wcm1.web.rice.edu/open-notebook-history.html), particularly history notebooks, by W. Caleb McDaniel.
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/foureyedsoul">@foureyedsoul</a> <a href="https://twitter.com/mfgaede">@mfgaede</a> <a href="https://twitter.com/wcaleb">@wcaleb</a> writes about this very thing for history: <a href="http://t.co/tPfUgvfMKQ">http://t.co/tPfUgvfMKQ</a></p>&mdash; John Russell (@uohistlib) <a href="https://twitter.com/uohistlib/status/592502116624674816">April 27, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 Although W. Caleb McDaniel doesn't discuss Git's potential in explicitly rhizomatic terms, his post makes clear many of the ways that Git helps document the messy process of assembling thoughts, evidence, discoveries, language, guiding questions, argumentative writing, and the other things that go into and get edited out of <del>humanities </del>writing.
 
