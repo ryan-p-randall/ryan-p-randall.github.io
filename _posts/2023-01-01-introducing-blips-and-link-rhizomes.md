@@ -18,7 +18,7 @@ Blog posts feel to me like they should involve a few paragraphs, and probably sh
 
 Therefore, I'm trying out this separate category of posts, for things that can be as off-the-cuff as Jekyll allows, including multiple a day. Let's see where this takes us!  
 
-I've also reflecting on the fact that I've added a fair number of things in the notes section since 2020, which is the last time I wrote a blog post—and so to RSS feedss, nothing has happened in that whole time. So I'm thinking I might also start making a new blogpost whenever I add a note, or at least make round-up posts of "these are recently added notes." Either of these mean that notes will show up in RSS feeds once, but not automatically re-appear with each revision. 
+I've also reflecting on the fact that I've added a fair number of things in the notes section since 2020, which is the last time I wrote a blog post—and so to RSS feeds, nothing has happened in that whole time. So I'm thinking I might also start making a new blogpost whenever I add a note, or at least make round-up posts of "these are recently added notes." Either of these mean that notes will show up in RSS feeds once, but not automatically re-appear with each revision. 
 
 ### Link Rhizomes  
 
