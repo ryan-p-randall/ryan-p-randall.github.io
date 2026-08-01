@@ -1216,3 +1216,59 @@
 "/assets/js/lunr/lunr-en.js": {}
 "/assets/js/lunr/lunr-gr.js": {}
 "/assets/js/lunr/lunr-store.js": {}
+"/blaugust2026":
+  '2015050':
+    id: '2015050'
+    uri: https://hcommons.social/@ryanrandall/117004272678500289#favorited-by-116020158904968708
+    source: false
+    pubdate: 2026-07-31 05:25:33.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/117004272678500289/116020158904968708
+      verified: true
+      verified_date: '2026-07-31T05:25:33+00:00'
+      id: 2015050
+      private: false
+      data:
+        author: &38
+          name: Christina Hendricks
+          url: https://cosocial.ca/@chendricks
+          photo: https://avatars.webmention.io/spaces.hcommons.social/6c44fce8eca41032a2ec175aa5d829cdb9cb84669d1ba35e2a92436030392169.jpg
+        url: https://hcommons.social/@ryanrandall/117004272678500289#favorited-by-116020158904968708
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/blaugust2026
+    author: *38
+    type: like
+    content: ''
+  '2015302':
+    id: '2015302'
+    uri: https://hcommons.social/@ryanrandall/117004272678500289#favorited-by-109326066817074781
+    source: false
+    pubdate: 2026-08-01 09:34:10.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/117004272678500289/109326066817074781
+      verified: true
+      verified_date: '2026-08-01T09:34:10+00:00'
+      id: 2015302
+      private: false
+      data:
+        author: &39
+          name: Juhis
+          url: https://mastodon.world/@hamatti
+          photo: https://avatars.webmention.io/spaces.hcommons.social/4681b01a570ac17b6a3f8ec557578ff027e45fe9d79e5af6b39145bcece82dda.jpg
+        url: https://hcommons.social/@ryanrandall/117004272678500289#favorited-by-109326066817074781
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/blaugust2026
+    author: *39
+    type: like
+    content: ''
+"/reginnings": {}

@@ -119,7 +119,7 @@ https://www.ryanpatrickrandall.com/everything-counts-in-affective-amounts:
   http://chronicle.com/blogs/profhacker/tag/github101: false
   https://twitter.com/hashtag/arcs20105?src=hash: false
   https://twitter.com/mfgaede/status/592497291098857472: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   http://wcm1.web.rice.edu/open-notebook-history.html: 1
   https://twitter.com/foureyedsoul: false
   https://twitter.com/mfgaede: false
@@ -162,7 +162,7 @@ https://www.ryanpatrickrandall.com/reveal-js-hack-library-school:
   https://storify.com/AlicePrael/intro-to-critlib-part-2: 1
   https://twitter.com/hashtag/critlib?src=hash: false
   https://twitter.com/foureyedsoul/status/717055097742622722: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   https://media.giphy.com/media/POekkUcKs16gg/giphy.gif: 1
 https://www.ryanpatrickrandall.com/critpotato-rhizo15-week-four:
   http://rhizomatic.net/2015/05/06/week-4-canshould-we-get-rid-of-the-idea-of-dave-how-do-we-teach-rhizomatically/: false
@@ -175,7 +175,7 @@ https://www.ryanpatrickrandall.com/critpotato-rhizo15-week-four:
   https://twitter.com/hashtag/critlib?src=hash: false
   https://t.co/2mySogkpS7: false
   https://twitter.com/elliehearts/status/616055543661244416: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   https://twitter.com/kshockey04/status/616055242212294656: false
   http://www.emilydrabinski.com/: 1
   http://www.jstor.org/stable/10.1086/669547: 1
@@ -224,10 +224,10 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week
   http://www.gsb.stanford.edu/sites/gsb/files/publications/phillipslowery_hardknocklife_2015jesp_0.pdf: false
   http://www.sciencedirect.com/science/article/pii/S0022103115000852: 1
 https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-38:
-  ? "https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC"
+  ? https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC
   : false
   https://instagram.com/p/7oUSH3xUW6/: 1
-  "https://platform.instagram.com/en_US/embeds.js": false
+  https://platform.instagram.com/en_US/embeds.js: false
   https://instagram.com/p/7wYnimxUU4/: false
   https://instagram.com/p/7yzjZ6RUY5/: false
   https://instagram.com/p/70ytCZxUXX/: false
@@ -245,10 +245,10 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week
   https://www.worldcat.org/title/bringing-it-all-back-home-essays-on-cultural-studies/oclc/36074452: false
   https://www.worldcat.org/title/modern-invention-of-information-discourse-history-and-power/oclc/45136686: false
 https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-39:
-  ? "https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC"
+  ? https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC
   : false
   https://instagram.com/p/8HQOpIxURH/: false
-  "https://platform.instagram.com/en_US/embeds.js": false
+  https://platform.instagram.com/en_US/embeds.js: false
   http://www.boisepubliclibrary.org/: 1
   http://library.boisestate.edu/: ''
   http://library.boisestate.edu/about/colldev.php: ''
@@ -283,7 +283,7 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week
   http://vinopal.org/2013/12/05/are-we-talking-enough-about-gender-bias-and-discrimination-in-the-library-profession/: false
 https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-44:
   https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series: false
-  "https://connect.facebook.net/en_US/sdk.js": false
+  https://connect.facebook.net/en_US/sdk.js: false
   https://www.facebook.com/CWILibrary/posts/919061274843143:0: 1
   https://www.facebook.com/CWILibrary/photos/a.173016252780986.43002.154768854605726/919061274843143/?type=3: false
   https://www.facebook.com/CWILibrary/: false
@@ -371,7 +371,7 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-03:
   https://t.co/LyaZXV8QOC: false
   https://twitter.com/hashtag/alamw16?src=hash: false
   https://twitter.com/sparkymonster/status/686231074150678529: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   http://www.wocintechchat.com/: false
   https://twitter.com/wocintechchat: false
   http://cecily.info/: 1
@@ -412,7 +412,7 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-08:
   https://twitter.com/hashtag/claps2016?src=hash: false
   https://t.co/11e4fPsMy5: false
   https://twitter.com/beastlibrarian/status/702889071601807361: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38721a22-ed66-4904-bd93-f2953353e7ee: 1
   https://t.co/D4kNflnsVT: false
   https://twitter.com/beastlibrarian/status/702895004130279425: false
@@ -444,7 +444,7 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-14:
   https://twitter.com/hashtag/critlib?src=hash: false
   https://twitter.com/hashtag/CritLAM?src=hash: false
   https://twitter.com/hsifnihplod/status/717055960972439553: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   https://raymmaxx.wordpress.com: 1
   http://www.ryanpatrickrandall.com/talks/cwi.html:
     status: queued
@@ -468,7 +468,7 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2016-week-15:
   https://rlc.radicallibrarianship.org/2016/04/07/radlibchat-12th-april-2016/: false
   http://www.sacbee.com/news/local/article71659992.html: 1
   https://twitter.com/mchris4duke/status/720660507053723650: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   http://thechecafe.blogspot.com/p/about.html: 1
   https://archive.org/stream/216605-uc-disorientation-guide/216605-uc-disorientation-guide_djvu.txt: 1
   http://www.campusactivism.org/server-new/uploads/2011_ucsc_disorientation_guide.pdf: 1
@@ -1253,7 +1253,7 @@ https://www.ryanpatrickrandall.com/_posts/2015-04-28-everything-counts-in-affect
   http://chronicle.com/blogs/profhacker/tag/github101: false
   https://twitter.com/hashtag/arcs20105?src=hash: false
   https://twitter.com/mfgaede/status/592497291098857472: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   http://wcm1.web.rice.edu/open-notebook-history.html: false
   https://twitter.com/foureyedsoul: false
   https://twitter.com/mfgaede: false
@@ -1296,7 +1296,7 @@ https://www.ryanpatrickrandall.com/_posts/2015-06-21-reveal-js-hack-library-scho
   https://storify.com/AlicePrael/intro-to-critlib-part-2: false
   https://twitter.com/hashtag/critlib?src=hash: false
   https://twitter.com/foureyedsoul/status/717055097742622722: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   https://media.giphy.com/media/POekkUcKs16gg/giphy.gif: false
 https://www.ryanpatrickrandall.com/_posts/2015-07-05-critpotato-rhizo15-week-four:
   http://rhizomatic.net/2015/05/06/week-4-canshould-we-get-rid-of-the-idea-of-dave-how-do-we-teach-rhizomatically/: false
@@ -1309,7 +1309,7 @@ https://www.ryanpatrickrandall.com/_posts/2015-07-05-critpotato-rhizo15-week-fou
   https://twitter.com/hashtag/critlib?src=hash: false
   https://t.co/2mySogkpS7: false
   https://twitter.com/elliehearts/status/616055543661244416: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   https://twitter.com/kshockey04/status/616055242212294656: false
   http://www.emilydrabinski.com/: false
   http://www.jstor.org/stable/10.1086/669547: false
@@ -1358,10 +1358,10 @@ https://www.ryanpatrickrandall.com/_posts/2015-09-13-weekly-assemblage-2015-week
   http://www.gsb.stanford.edu/sites/gsb/files/publications/phillipslowery_hardknocklife_2015jesp_0.pdf: false
   http://www.sciencedirect.com/science/article/pii/S0022103115000852: false
 https://www.ryanpatrickrandall.com/_posts/2015-09-19-weekly-assemblage-2015-week-38:
-  ? "https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC"
+  ? https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC
   : false
   https://instagram.com/p/7oUSH3xUW6/: false
-  "https://platform.instagram.com/en_US/embeds.js": false
+  https://platform.instagram.com/en_US/embeds.js: false
   https://instagram.com/p/7wYnimxUU4/: false
   https://instagram.com/p/7yzjZ6RUY5/: false
   https://instagram.com/p/70ytCZxUXX/: false
@@ -1379,10 +1379,10 @@ https://www.ryanpatrickrandall.com/_posts/2015-09-19-weekly-assemblage-2015-week
   https://www.worldcat.org/title/bringing-it-all-back-home-essays-on-cultural-studies/oclc/36074452: false
   https://www.worldcat.org/title/modern-invention-of-information-discourse-history-and-power/oclc/45136686: false
 https://www.ryanpatrickrandall.com/_posts/2015-09-26-weekly-assemblage-2015-week-39:
-  ? "https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC"
+  ? https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC
   : false
   https://instagram.com/p/8HQOpIxURH/: false
-  "https://platform.instagram.com/en_US/embeds.js": false
+  https://platform.instagram.com/en_US/embeds.js: false
   http://www.boisepubliclibrary.org/: false
   http://library.boisestate.edu/: 2
   http://library.boisestate.edu/about/colldev.php: false
@@ -1417,7 +1417,7 @@ https://www.ryanpatrickrandall.com/_posts/2015-10-25-weekly-assemblage-2015-week
   http://vinopal.org/2013/12/05/are-we-talking-enough-about-gender-bias-and-discrimination-in-the-library-profession/: false
 https://www.ryanpatrickrandall.com/_posts/2015-11-01-weekly-assemblage-2015-week-44:
   https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series: false
-  "https://connect.facebook.net/en_US/sdk.js": false
+  https://connect.facebook.net/en_US/sdk.js: false
   https://www.facebook.com/CWILibrary/posts/919061274843143:0: false
   https://www.facebook.com/CWILibrary/photos/a.173016252780986.43002.154768854605726/919061274843143/?type=3: false
   https://www.facebook.com/CWILibrary/: false
@@ -1505,7 +1505,7 @@ https://www.ryanpatrickrandall.com/_posts/2016-01-24-wa-2016-week-03:
   https://t.co/LyaZXV8QOC: false
   https://twitter.com/hashtag/alamw16?src=hash: false
   https://twitter.com/sparkymonster/status/686231074150678529: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   http://www.wocintechchat.com/: false
   https://twitter.com/wocintechchat: false
   http://cecily.info/: false
@@ -1546,7 +1546,7 @@ https://www.ryanpatrickrandall.com/_posts/2016-03-04-wa-2016-week-08:
   https://twitter.com/hashtag/claps2016?src=hash: false
   https://t.co/11e4fPsMy5: false
   https://twitter.com/beastlibrarian/status/702889071601807361: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38721a22-ed66-4904-bd93-f2953353e7ee: false
   https://t.co/D4kNflnsVT: false
   https://twitter.com/beastlibrarian/status/702895004130279425: false
@@ -1578,7 +1578,7 @@ https://www.ryanpatrickrandall.com/_posts/2016-04-05-wa-2016-week-14:
   https://twitter.com/hashtag/critlib?src=hash: false
   https://twitter.com/hashtag/CritLAM?src=hash: false
   https://twitter.com/hsifnihplod/status/717055960972439553: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   https://raymmaxx.wordpress.com: false
   http://www.ryanpatrickrandall.com/talks/cwi.html: false
   https://trailheadboise.org: false
@@ -1597,7 +1597,7 @@ https://www.ryanpatrickrandall.com/_posts/2016-04-10-wa-2016-week-15:
   https://rlc.radicallibrarianship.org/2016/04/07/radlibchat-12th-april-2016/: false
   http://www.sacbee.com/news/local/article71659992.html: false
   https://twitter.com/mchris4duke/status/720660507053723650: false
-  "https://platform.twitter.com/widgets.js": false
+  https://platform.twitter.com/widgets.js: false
   http://thechecafe.blogspot.com/p/about.html: false
   https://archive.org/stream/216605-uc-disorientation-guide/216605-uc-disorientation-guide_djvu.txt: false
   http://www.campusactivism.org/server-new/uploads/2011_ucsc_disorientation_guide.pdf: false
@@ -3145,3 +3145,25 @@ https://www.ryanpatrickrandall.com/changelog/:
   https://bookmarks.ryanpatrickrandall.com/: false
 https://www.ryanpatrickrandall.com/slashes/:
   https://slashpages.net/: false
+https://www.ryanpatrickrandall.com/blaugust2026:
+  https://www.youtube.com/watch?v=BFFC_5ysLn0: false
+  https://en.wikipedia.org/wiki/MacGuffin: false
+  https://hamatti.org/posts/on-blogging-blaugust-and-challenging-yourself/: false
+  https://aboutfeeds.com/: false
+  https://walshbr.com/blog/couch-to-paragraph-writing-program/: false
+  https://nerdgirlthoughts.game.blog/2026/07/15/blaugust-2026-is-coming/: false
+  https://about.hcommons.org/2026/07/16/wordpress-7-0-has-launched-on-knowledge-commons-sites/: false
+  https://bearblog.dev/: false
+  https://leaflet.pub/: false
+  https://neocities.org/: false
+  https://github.com/alshedivat/al-folio: false
+  https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages: false
+https://www.ryanpatrickrandall.com/reginnings:
+  https://hamatti.org/posts/on-blogging-blaugust-and-challenging-yourself/: false
+  https://aggronaut.com/category/features/blaugust/: false
+  https://www.lionsroar.com/beginning-anew/: false
+  https://nerdgirlthoughts.game.blog/2026/08/01/blaugust-2026-meet-the-mentors-participant-list/: false
+  https://web.archive.org/web/20200129154612/https://www.ryanpatrickrandall.com/: false
+  https://www.citationneeded.news/substack-to-self-hosted-ghost/: false
+  https://notes.hamatti.org/technology/building-a-digital-garden-with-obsidian-and-quartz: false
+  https://100r.co/site/permacomputing_101.html: false
