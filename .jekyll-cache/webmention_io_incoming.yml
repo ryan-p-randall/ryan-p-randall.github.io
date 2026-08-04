@@ -1271,4 +1271,85 @@
     author: *39
     type: like
     content: ''
-"/reginnings": {}
+"/reginnings":
+  '2015483':
+    id: '2015483'
+    uri: https://hcommons.social/@ryanrandall/117022819575492922#favorited-by-110976332325405943
+    source: false
+    pubdate: 2026-08-02 02:37:47.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/117022819575492922/110976332325405943
+      verified: true
+      verified_date: '2026-08-02T02:37:47+00:00'
+      id: 2015483
+      private: false
+      data:
+        author: &40
+          name: nmo
+          url: https://tilde.zone/@nmo
+          photo: https://avatars.webmention.io/spaces.hcommons.social/c82a66a61897d966e8ac93d8cfb57d4e2d36aebcf69bb7dc4c0ae6c6b719cb81.png
+        url: https://hcommons.social/@ryanrandall/117022819575492922#favorited-by-110976332325405943
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/reginnings
+    author: *40
+    type: like
+    content: ''
+  '2015506':
+    id: '2015506'
+    uri: https://hcommons.social/@ryanrandall/117022819575492922#favorited-by-109327146529191065
+    source: false
+    pubdate: 2026-08-02 08:04:31.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@ryanrandall@hcommons.social/117022819575492922/109327146529191065
+      verified: true
+      verified_date: '2026-08-02T08:04:31+00:00'
+      id: 2015506
+      private: false
+      data:
+        author: &41
+          name: ReduxFlakes
+          url: https://fosstodon.org/@redux
+          photo: https://avatars.webmention.io/hcommons.social/49dbd3c0bdbb096fde9207cbec944917dc542f6aab93956aeec1ed11cc269eea.png
+        url: https://hcommons.social/@ryanrandall/117022819575492922#favorited-by-109327146529191065
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://www.ryanpatrickrandall.com/reginnings
+    author: *41
+    type: like
+    content: ''
+  '2015505':
+    id: '2015505'
+    uri: https://hcommons.social/@ryanrandall/117022819575492922#reblogged-by-109327146529191065
+    source: false
+    pubdate: 2026-08-02 08:04:32.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@ryanrandall@hcommons.social/117022819575492922/109327146529191065
+      verified: true
+      verified_date: '2026-08-02T08:04:32+00:00'
+      id: 2015505
+      private: false
+      data:
+        author: &42
+          name: ReduxFlakes
+          url: https://fosstodon.org/@redux
+          photo: https://avatars.webmention.io/hcommons.social/49dbd3c0bdbb096fde9207cbec944917dc542f6aab93956aeec1ed11cc269eea.png
+        url: https://hcommons.social/@ryanrandall/117022819575492922#reblogged-by-109327146529191065
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://www.ryanpatrickrandall.com/reginnings
+    author: *42
+    type: repost
+    content: ''
