@@ -30,7 +30,7 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <!-- <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url"> -->{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}<!-- </a> -->
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>{% endif %}
         <div style="font-size: 1em; margin-bottom: 1em;">
             <!-- {% include page__date.html %} --> {% include page__meta.html %}
