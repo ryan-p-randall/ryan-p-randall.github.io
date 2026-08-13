@@ -1,0 +1,36 @@
+---
+layout: default
+breadcrumbs_enabled: true
+---
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+{% assign breadcrumbs_enabled = site.breadcrumbs %}
+{% if page.breadcrumbs != null %}
+  {% assign breadcrumbs_enabled = page.breadcrumbs %}
+{% endif %}
+{% if page.url != "/" and breadcrumbs_enabled %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+
+  <div class="page__inner-wrap" style="margin-top: 0em;">
+      <div class="text-center">
+      <header>
+          {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>{% endif %}
+      </header>
+      <p>What's on your mind?</p>
+      <p>I look forward to hearing from you!</p>
+      <div style="margin-bottom: 2rem;">
+          <script data-letterbirduser="letterbird-blatancy119" src="https://letterbird.co/embed/v1.js"></script>    
+        </div>
+        <p style="font-size: 0.8rem;">P.S. Please feel free to listen to <a href="https://youtu.be/ijAYN9zVnwg">Information Society</a> while you let me know what you're thinking.</p>
+    </div>
+  </article>
+</div>
