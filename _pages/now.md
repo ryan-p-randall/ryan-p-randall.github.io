@@ -1,6 +1,7 @@
 ---
 permalink: /now/
 title: "Now"
+layout: now
 date: 2022-06-28
 last_modified_at: 2024-03-19
 # header: 
