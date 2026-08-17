@@ -18,6 +18,12 @@ Here are some particularly noteworthy changes.[^not-semver]
 
 ## 2026
 
+- 2026-08-16: Customized the [Posts by Category](/categories/) & [Posts by Tag](/tags/) layouts so that the list within each category or tag is reverse chronological (i.e. displays the newest post on top).
+  - If you're using the same Minimal Mistakes theme or just are curious about Jekyll & Liquid, you can see how I did this by going to the [GitHub repository](https://github.com/ryan-p-randall/ryan-p-randall.github.io) for this site.
+  - Once there, look at the `categories-custom.html` or `tags-custom.html` layouts, each of which I altered to refer to a new `posts-taxonomy-reverse-chronological.html` include. Line 30 of this new include has a single simple change from the theme's default. It now reads<br>
+    {% raw %}`{% for post in taxonomy.last reversed %}`{% endraw %}<br>
+    Adding the word **`reversed`** to the end of the `for` loop does the trick!
+- 2026-08-15: Realized that there were two H1-level headings on [my `/now` page](/now/), which I promptly fixed by adding a new [now page layout](https://github.com/ryan-p-randall/ryan-p-randall.github.io/blob/develop/_layouts/now.html#L33-L35). This is exactly like the default page layout, except it now displays the page title as an H2 heading (instead of the default H1) in lines 33 and 35.
 - 2026-06-10: Added reading percentages to [my `/reading` page](/reading/) and reading notes.  
 - 2026-02-05: Added a [`/watching` page](/watching/), refined relevant pages in the [notes section](/notes/Watching/), and added enough relevant items to test it all out.  
 - 2026-02-01: Added conditional MLA citation to pages, not just posts. Refined the `/ai` page a bit.  

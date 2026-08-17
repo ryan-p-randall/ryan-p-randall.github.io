@@ -1,0 +1,8 @@
+---
+layout: archive
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{{ content }}
+
+{% include posts-taxonomy-reverse-chronological.html locale=locale taxonomies=site.categories %}

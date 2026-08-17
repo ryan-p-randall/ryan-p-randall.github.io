@@ -4,7 +4,7 @@
 $max-width: 85%;
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_light | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_light | default: 'default' }}"; // light skin
 @import "minimal-mistakes"; // main partials
 
 .footnote {
@@ -16,17 +16,29 @@ $max-width: 85%;
     color: #252a34;
 }
 
+.notice--primary {
+  a {
+    color: mix(#000, $primary-color, 20%);
+
+    &:hover {
+      color: mix(#000, $primary-color, 40%);
+    }
+  }
+}
+
+/*
 .notice a {
-    color: #a3470a;
+    color: #923f09; // #a3470a; 
 }
 
 .notice a:visited {
-    color: #863c0b;
+    color: #823808; // #863c0b; 
 }
 
 .notice a:hover {
-    color: #b56c3b;
+    color: #723107; // #b56c3b; 
 }
+*/
 
 /* make heading link icons visible when focused */
 
@@ -71,6 +83,14 @@ h2 {
     margin-top: 0em;
     padding-top: 0em;
     padding-bottom: 1em;
+}
+
+a.pagination--pager.disabled {
+  color: mix(#fff, $text-color, 20%);
+}
+
+.pagination li a.disabled {
+  color: mix(#111, $text-color, 25% /* 20% */);  /* rgba(241,241,241,0.8); */
 }
 
 .social-icons .fa-mastodon,
