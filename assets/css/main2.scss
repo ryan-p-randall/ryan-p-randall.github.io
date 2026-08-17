@@ -93,6 +93,14 @@ a.pagination--pager.disabled {
   color: mix(#111, $text-color, 25% /* 20% */);  /* rgba(241,241,241,0.8); */
 }
 
+a.back-to-top {
+  color: mix(#fff, $text-color, 20%);
+
+    &:hover {
+      color: $link-color-hover;
+    }
+}
+
 .social-icons .fa-mastodon,
 .social-icons .fa-mastodon-square {
 /*! color: #2b90d9; */ 
