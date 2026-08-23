@@ -1,6 +1,6 @@
 ---
 date: 2026-01-15
-last_modified_at: 2026-01-25
+last_modified_at: 2026-08-22
 permalink: /id-portfolio/booky-mcbookface-pressbooks-tutorial/
 title: 'Pressbooks Tutorial, "Booky McBookface"'
 header:
@@ -13,7 +13,7 @@ sidebar:
     - title: "Role"
       text: "Designer and Author"
     - title: "Contributions"
-      text: "Conceived, Designed, Facilitated, and [Published](https://isu.pressbooks.pub/booky/)"
+      text: "Conceived, Designed, Facilitated, and [Published](https://idaho.pressbooks.pub/booky/)"
 tags:
     - accessibility
     - instructional design
@@ -37,11 +37,11 @@ I created a single-session learning experience that breezily introduces accessib
 
 ### Brief History
 
-I initially designed this tutorial for students in Liza Long's English 211: Literary Analysis course. Realizing that the experience went well due to a sense of playful experimentation, I named it with a nod to the submarine [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface). Soon after, I began offering this learning experience to faculty and staff at the College of Western Idaho, then to those at other Idaho institutions.  
+I initially designed this tutorial for students in Liza Long's English 211: Literary Analysis course, who produce essays published in [Critical Worlds](https://idaho.pressbooks.pub/lit-crit/) as final group projects. Realizing that the first visit with the students went well due to approaching Pressbooks with playful experimentation, I named the tutorial with a nod to the submarine [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface). Soon after, I began offering this learning experience to faculty and staff at the College of Western Idaho, then to those at other Idaho institutions.  
 
 Building on their feedback and my observations of what could be improved, I revised elements of the tutorial. I also added explanatory content for tutorial facilitators and chapters with example participant names.  
 
-Then I [published the tutorial](https://isu.pressbooks.pub/booky/) with a Creative Commons license. This license ensures that the tutorial can be used by anyone with institutional or personal access to a Pressbooks environment.  
+Then I [published the tutorial](https://idaho.pressbooks.pub/booky/) with a Creative Commons license. This license ensures that the tutorial can be used by anyone with institutional or personal access to a Pressbooks environment.  
 
 ### Scenario
 
@@ -79,8 +79,8 @@ The fun we had in these sessions made it clear that the tone helped allay any po
 
 In the spirit of continual improvement, I did realize there were things that could be refined before publishing this resource to be used more widely in 2022.  
 
-By far, the most repeated question during the sessions concerned Pressbook's terminology of "parts" and "chapters"; these terms make sense once you realize that while what we wrote during the sessions was quite brief, but that Pressbooks was created for content that would easily span multiple pieces of paper when printed. While initially writing, participants almost inevitably referred to their work-in-progress as a "page" (as in "web page"). So to help explain that when viewed online, a "chapter" appears as a single scrollable page and a "part" can create a collection of these "chapters", I created [Part One, A Demonstration of How Parts Relate to Chapters](https://isu.pressbooks.pub/booky/part/main-body/).  
+By far, the most repeated question during the sessions concerned Pressbook's terminology of "parts" and "chapters"; these terms make sense once you realize that while what we wrote during the sessions was quite brief, but that Pressbooks was created for content that would easily span multiple pieces of paper when printed. While initially writing, participants almost inevitably referred to their work-in-progress as a "page" (as in "web page"). So to help explain that when viewed online, a "chapter" appears as a single scrollable page and a "part" can create a collection of these "chapters", I created [Part One, A Demonstration of How Parts Relate to Chapters](https://idaho.pressbooks.pub/booky/part/main-body/).  
 
 Aiming to make the published version as handy as possible, I went ahead and made a few additional "Parts" with made-up student names. These will save the facilitators a bit of time, as well help reinforce the Pressbooks' ability to have "Part" and "Chapter" segments. I also wrote some more explanatory content for facilitators.  
 
-Finally, I aimed to demonstrate best practices for OER by providing a version history and trying to communicate its scope with something I called the [5Ps of This Work](https://isu.pressbooks.pub/booky/back-matter/5ps-of-this-work/). I also chose a CC-BY 4.0 (Attribution) license, as I'd be thrilled for this tutorial to be widely used by others and would would like my prior work to be acknowledged.  
+Finally, I aimed to demonstrate best practices for OER by providing a version history and trying to communicate its scope with something I called the [5Ps of This Work](https://idaho.pressbooks.pub/booky/back-matter/5ps-of-this-work/). I also chose a CC-BY 4.0 (Attribution) license, as I'd be thrilled for this tutorial to be widely used by others and would would like my prior work to be acknowledged.  
