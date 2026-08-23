@@ -1,15 +1,16 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2025-11-09
+last_modified_at: 2026-08-22
 toc: true
 toc_sticky: true
+comments: false
 ---
 
-This page last updated on {{ page.last_modified_at }}.  
+This page last updated on {{ page.last_modified_at }}. My [ORCID profile](https://orcid.org/0000-0003-4499-7255) may be more up-to-date.  
 Download an older version of this [C.V. as a .pdf from 2015](https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10%20Ryan%20P.%20Randall%20CV%20web.pdf?dl=0)  
-You may also see some of this on my [portfolio page](https://www.ryanpatrickrandall.com/portfolio/), last updated 2015-10-10.  
-{: .notice}
+You may also see some of this on my [Instructional Design Portfolio page]({{ '/id-portfolio/' | relative_url }}), last updated 2026-08-22.  
+{: .notice--primary}
 
 ## Education  
 
@@ -193,13 +194,22 @@ Summer 2005
 
 ### OER Works  
 
-- [_Booky McBookface: A Pressbooks Tutorial and Sandbox_](https://isu.pressbooks.pub/booky/). 2022.  
+- [_Booky McBookface: A Pressbooks Tutorial and Sandbox_](https://idaho.pressbooks.pub/booky/). 2022.  
 Designed to provide a quick and playful introduction to Pressbook's editing interface—with a title intended to reinforce its low-anxiety approach.  
 - [InfoLit For Everyone](https://infolit-idaho.github.io/infolit-for-everyone/). Co-authored with InfoLit Idaho members. 2021.  
 I wrote the [SIFT Moves](https://infolit-idaho.github.io/infolit-for-everyone/sift/) section, along with [other contributions](https://infolit-idaho.github.io/infolit-for-everyone/about/#contributors).  
 
 ## Instructional Design & Library Conference Presentations and Panels  
 
+- "Open Pedagogy Practices".  
+Presentation as part of the ITRC Workshop series.  
+[*ISU Center for Learning & Instructional Excellence*](https://www.youtube.com/watch?v=O0k7g9TA6sg), 2026-03-03.  
+- "OER & Title II Accessibility Compliance: Separating Myths from Facts".  
+**Invited panelist**, with Amanda Larson, Elli Constantin, and Kaela Parks.  
+[*Open Education Association*](https://www.opened.org/events/2026/accessibility-webinar), 2026-02-17. We also created an [OER Accessibility Resources List](https://www.opened.org/resources/oer-accessibility-resources).  
+- "OEN Tea Time: Peer Review Models".  
+**Invited panelist**, with Corey Parson (U of North Georgia Press) and Daniela Dutra Elliot (Leeward Community College).  
+[*Open Education Network*](https://open.umn.edu/oen/blog), 2026-02-02.   
 - "Developing AI Policies for Publications".  
 **Invited panelist**, with Brittany Paloma Fiedler and Imogen Clarke.  
 [*Library Publishing Coalition*](https://www.youtube.com/watch?v=6I1Dt1zZnZE), 2025-11-20. [LPC Blog announcement](https://librarypublishing.org/upcoming-webinar-on-ai-editorial-policies/).  
