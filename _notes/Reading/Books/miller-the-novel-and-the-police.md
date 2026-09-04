@@ -1,6 +1,6 @@
 ---
 date: 2025-05-18T19:12:15-6:00
-last_modified_at: 2026-09-02
+last_modified_at: 2026-09-03
 reading: true
 reading_books: true
 excerpt: "Miller explores how novels represent disparate techniques of social discipline, as well as habituating their reader-subject to policing work."
@@ -11,12 +11,12 @@ work_author: 'D.A. Miller'
 work_author_sort: 'Miller, D.A.'
 work_link: 'https://openlibrary.org/books/OL15495248M/The_novel_and_the_police.'
 work_link_text: 'OpenLibrary'
-year_read: 
-date_read: 
+year_read: 2026
+date_read: 2026-09-03
 date_started: 2026-07-01
-current: true # false
-progress_current: 211
-reading_status: 'started' # 'finished'
+current: false
+progress_current: 240
+reading_status: 'finished'
 progress_max: 240 
 # reading_list01: true
 reading_list02: true
