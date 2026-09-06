@@ -225,7 +225,7 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week
   http://www.sciencedirect.com/science/article/pii/S0022103115000852: 1
 https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-38:
   ? https://42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC
-  : false
+  : 1
   https://instagram.com/p/7oUSH3xUW6/: 1
   https://platform.instagram.com/en_US/embeds.js: false
   https://instagram.com/p/7wYnimxUU4/: false
@@ -283,7 +283,7 @@ https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week
   http://vinopal.org/2013/12/05/are-we-talking-enough-about-gender-bias-and-discrimination-in-the-library-profession/: false
 https://www.ryanpatrickrandall.com/weekly-assemblage/weekly-assemblage-2015-week-44:
   https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series: false
-  https://connect.facebook.net/en_US/sdk.js: false
+  https://connect.facebook.net/en_US/sdk.js: 1
   https://www.facebook.com/CWILibrary/posts/919061274843143:0: 1
   https://www.facebook.com/CWILibrary/photos/a.173016252780986.43002.154768854605726/919061274843143/?type=3: false
   https://www.facebook.com/CWILibrary/: false
@@ -2413,10 +2413,10 @@ https://www.ryanpatrickrandall.com/colophon/:
   https://atom.io/packages/paraiso-black: false
   http://thedesignersrepublic.com/: 1
   http://warp.net/: 1
-  https://ko-fi.com/s/4662b19f61: false
-  https://www.andycarolan.com/: false
+  https://ko-fi.com/s/4662b19f61: 1
+  https://www.andycarolan.com/: 1
   https://github.com/scholarslab/scholarslab.github.io/blob/main/_layouts/post.html: false
-  https://scholarslab.lib.virginia.edu/: false
+  https://scholarslab.lib.virginia.edu/: 1
 https://www.ryanpatrickrandall.com/cv/:
   https://www.dropbox.com/s/tz6x3ksuiv99up6/2015-10-10: 1
   https://www.ryanpatrickrandall.com/portfolio/: false
@@ -3091,54 +3091,64 @@ https://www.ryanpatrickrandall.com/notes/Reading/Books/melville-moby-dick:
   https://bsky.app/profile/jacobharr.is/post/3magtsxttus2m: false
 https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2026-week-05:
   https://en.wikipedia.org/wiki/ISO_week_date: false
-  https://people.pledge.party/: false
+  https://people.pledge.party/: 1
   https://ko-fi.com/andycarolan/shop: false
   https://webaim.org/resources/contrastchecker/: false
-  https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/: false
+  https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/ethanmarcotte.com/webmention/3cef09NAUWYHUurdqiCc
+    source: https://www.ryanpatrickrandall.com/weekly-assemblage/wa-2026-week-05
+    target: https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/
   https://www.imdb.com/title/tt0745699/?ref_=ttep_ep_13: false
-  https://jacobharr.is/: false
+  https://jacobharr.is/: 1
   https://www.merriam-webster.com/dictionary/duppy: false
   https://tinmanofficial.bandcamp.com/album/hidden-acid: false
   https://llamalife.co/: false
-  https://focusapp.io/: false
-  https://www.focumon.com/: false
+  https://focusapp.io/: 1
+  https://www.focumon.com/: 1
   https://www.focumon.com/trainers/Sage_Escri_lY1D: false
   https://www.focumon.com/about: false
   https://www.focumon.com/on/habitica: false
 https://www.ryanpatrickrandall.com/now/now-february-2026:
   https://youtu.be/6I1Dt1zZnZE?si=yVrd8Af9TKOsfDGV: false
-  https://www.opened.org/posts/2026/accessibility-title-ii-and-open-education: false
-  https://naacp.org/campaigns/stop-dirty-data-centers: false
-  https://www.scientificamerican.com/article/ai-is-entering-health-care-and-nurses-are-being-asked-to-trust-it/: false
+  https://www.opened.org/posts/2026/accessibility-title-ii-and-open-education: 1
+  https://naacp.org/campaigns/stop-dirty-data-centers: 1
+  https://www.scientificamerican.com/article/ai-is-entering-health-care-and-nurses-are-being-asked-to-trust-it/: 1
   https://bookmarks.ryanpatrickrandall.com: false
   https://www.focumon.com/trainers/Sage_Escri_lY1D: false
 https://www.ryanpatrickrandall.com/ai/:
   https://web.archive.org/web/20150131211510/http://ryan-p-randall.github.io/software-carpentry-workshop-reflections/: false
-  https://practicaltypography.com/hyphens-and-dashes.html: false
+  https://practicaltypography.com/hyphens-and-dashes.html: 1
   https://en.wikipedia.org/wiki/Parker_Lewis_Can: false
   https://en.wikipedia.org/wiki/Desire_path: false
   http://hdl.handle.net/1802/6053: false
   http://hdl.handle.net/1802/8409: false
-  https://refusal.blog/learning-objectives/: false
-  https://safiyaunoble.com/: false
-  https://www.ruhabenjamin.com/: false
+  https://refusal.blog/learning-objectives/: 1
+  https://safiyaunoble.com/: 1
+  https://www.ruhabenjamin.com/: 1
   https://naacp.org/campaigns/stop-dirty-data-centers: false
   https://naacp.org/know-issues/environmental-climate-justice: false
   https://sterneworks.org/: false
-  https://www.robertwgehl.org/: false
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=788984: false
-  https://fossacademic.tech/about.html: false
-  https://100r.co/site/permacomputing_101.html: false
+  https://www.robertwgehl.org/: 1
+  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=788984: 1
+  https://fossacademic.tech/about.html: 1
+  https://100r.co/site/permacomputing_101.html: 1
   https://100r.co/site/about.html: false
-  https://solar.lowtechmagazine.com/: false
-  https://www.andrewheiss.com/ai/: false
+  https://solar.lowtechmagazine.com/: 1
+  https://www.andrewheiss.com/ai/: 1
   https://cassidoo.co/ai/: false
   https://sive.rs/ai: false
-  https://rknight.me/ai/: false
-  https://www.skwinnicki.com/single-post/i-would-be-so-ashamed-to-use-generative-ai-here-s-why: false
-  https://sboots.ca/2026/03/11/generative-ai-vegetarianism/: false
+  https://rknight.me/ai/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/rknight.me/webmention/oY0Vlseitm7J4NhHVNp1
+    source: https://www.ryanpatrickrandall.com/ai/
+    target: https://rknight.me/ai/
+  https://www.skwinnicki.com/single-post/i-would-be-so-ashamed-to-use-generative-ai-here-s-why: 1
+  https://sboots.ca/2026/03/11/generative-ai-vegetarianism/: 1
 https://www.ryanpatrickrandall.com/changelog/:
-  https://semver.org/: false
+  https://semver.org/: 1
   https://github.com/scholarslab/scholarslab.github.io/blob/main/_layouts/post.html: false
   https://scholarslab.lib.virginia.edu/: false
   https://github.com/shaarli/Shaarli: false
@@ -3150,70 +3160,80 @@ https://www.ryanpatrickrandall.com/slashes/:
 https://www.ryanpatrickrandall.com/blaugust2026:
   https://www.youtube.com/watch?v=BFFC_5ysLn0: false
   https://en.wikipedia.org/wiki/MacGuffin: false
-  https://hamatti.org/posts/on-blogging-blaugust-and-challenging-yourself/: false
+  https://hamatti.org/posts/on-blogging-blaugust-and-challenging-yourself/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/hamatti.org/webmention/rExEUCDHrR7LAK5q-iRC
+    source: https://www.ryanpatrickrandall.com/blaugust2026
+    target: https://hamatti.org/posts/on-blogging-blaugust-and-challenging-yourself/
   https://aboutfeeds.com/: false
-  https://walshbr.com/blog/couch-to-paragraph-writing-program/: false
-  https://nerdgirlthoughts.game.blog/2026/07/15/blaugust-2026-is-coming/: false
-  https://about.hcommons.org/2026/07/16/wordpress-7-0-has-launched-on-knowledge-commons-sites/: false
+  https://walshbr.com/blog/couch-to-paragraph-writing-program/: 1
+  https://nerdgirlthoughts.game.blog/2026/07/15/blaugust-2026-is-coming/: 1
+  https://about.hcommons.org/2026/07/16/wordpress-7-0-has-launched-on-knowledge-commons-sites/: 1
   https://bearblog.dev/: false
-  https://leaflet.pub/: false
-  https://neocities.org/: false
+  https://leaflet.pub/: 1
+  https://neocities.org/: 1
   https://github.com/alshedivat/al-folio: false
   https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages: false
 https://www.ryanpatrickrandall.com/reginnings:
-  https://hamatti.org/posts/on-blogging-blaugust-and-challenging-yourself/: false
-  https://aggronaut.com/category/features/blaugust/: false
+  https://hamatti.org/posts/on-blogging-blaugust-and-challenging-yourself/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/hamatti.org/webmention/Fg18qeAIDmmaP59dWsrf
+    source: https://www.ryanpatrickrandall.com/reginnings
+    target: https://hamatti.org/posts/on-blogging-blaugust-and-challenging-yourself/
+  https://aggronaut.com/category/features/blaugust/: 1
   https://www.lionsroar.com/beginning-anew/: false
   https://nerdgirlthoughts.game.blog/2026/08/01/blaugust-2026-meet-the-mentors-participant-list/: false
   https://web.archive.org/web/20200129154612/https://www.ryanpatrickrandall.com/: false
-  https://www.citationneeded.news/substack-to-self-hosted-ghost/: false
-  https://notes.hamatti.org/technology/building-a-digital-garden-with-obsidian-and-quartz: false
+  https://www.citationneeded.news/substack-to-self-hosted-ghost/: ''
+  https://notes.hamatti.org/technology/building-a-digital-garden-with-obsidian-and-quartz: 1
   https://100r.co/site/permacomputing_101.html: false
 https://www.ryanpatrickrandall.com/weekly-assemblage/2026wa31:
   https://en.wikipedia.org/wiki/ISO_week_date: false
-  https://app.watchduty.org/i/106675: false
+  https://app.watchduty.org/i/106675: 1
   https://www.youtube.com/playlist?list=PLWRE6ioG4vdYP11rhF8l5mJOWAztMB-QN: false
   https://www.justwatch.com/us/tv-show/love-on-the-spectrum-u-s/season-3: false
   https://www.justwatch.com/us/tv-show/star-trek-strange-new-worlds/season-5: false
-  https://earthbornegames.com/the-game/: false
-  https://www.uofwinds.com/442/: false
+  https://earthbornegames.com/the-game/: 1
+  https://www.uofwinds.com/442/: ''
   https://earthbornegames.com/don-your-cloaks-playable-demo-now-available/: false
-  https://www.cnps.org/conservation/white-sage: false
+  https://www.cnps.org/conservation/white-sage: 1
   https://github.com/ryan-p-randall/ryan-p-randall.github.io/tree/develop/_sass/minimal-mistakes/skins: false
-  https://native-land.ca/: false
+  https://native-land.ca/: 1
   https://100daystooffload.com/: false
   https://www.merriam-webster.com/dictionary/irenic: false
-  https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool: false
+  https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool: 1
   https://www.merriam-webster.com/dictionary/grass: false
 https://www.ryanpatrickrandall.com/my-first-skateblog:
-  https://thevintagelongboards.com/2022/12/18/ultra-rare-vintage-original-rannalli-complete-skateboard-with-indys-kryptonics/: false
-  https://skateandannoy.com/galleries/vintageadverts/?advert_compnay_brand=rannalli: false
+  https://thevintagelongboards.com/2022/12/18/ultra-rare-vintage-original-rannalli-complete-skateboard-with-indys-kryptonics/: 1
+  https://skateandannoy.com/galleries/vintageadverts/?advert_compnay_brand=rannalli: 1
   https://mmistakes.github.io/minimal-mistakes/: false
   https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages: false
   https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github: false
-  https://alshedivat.github.io/al-folio/: false
-  https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/: false
-  https://byparker.com/blog/2021/don-t-use-the-system-ruby-use-a-ruby-version-manager-instead/: false
+  https://alshedivat.github.io/al-folio/: 1
+  https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/: 1
+  https://byparker.com/blog/2021/don-t-use-the-system-ruby-use-a-ruby-version-manager-instead/: 1
 https://www.ryanpatrickrandall.com/now/now-august-2026:
-  https://beautiful-soup-4.readthedocs.io/en/latest/: false
-  https://idaho.pressbooks.pub: false
+  https://beautiful-soup-4.readthedocs.io/en/latest/: 1
+  https://idaho.pressbooks.pub: 1
   https://www.youtube.com/playlist?list=PLWRE6ioG4vdYP11rhF8l5mJOWAztMB-QN: false
-  https://cptc.libguides.com/TLC/AIOER2026: false
+  https://cptc.libguides.com/TLC/AIOER2026: 1
   https://openeducationconference.org/2026/: false
   https://nerdgirlthoughts.game.blog/2026/07/23/blaugust-2026-calendar-weekly-prompts-group-projects/: false
   https://nerdgirlthoughts.game.blog/2026/08/01/blaugust-2026-meet-the-mentors-participant-list/: false
   https://100daystooffload.com/: false
-  https://www.watchduty.org/how-it-works/overview: false
+  https://www.watchduty.org/how-it-works/overview: 1
   https://app.watchduty.org/: false
   https://webaim.org/techniques/headings/: false
 https://www.ryanpatrickrandall.com/rewind/weekly-rewind-2026wk33:
   https://en.wikipedia.org/wiki/ISO_week_date: false
-  https://bubbles.town/: false
+  https://bubbles.town/: 1
   https://bubbles.town/about: false
-  https://www.jemjabella.co.uk/2026/bubbles-and-the-old-web/: false
+  https://www.jemjabella.co.uk/2026/bubbles-and-the-old-web/: 1
   https://www.youtube.com/playlist?list=OLAK5uy_n_gEQw6O2o2nGKHwtrBd_qrbZ9s1vs3dg: false
-  https://carlcraig.bandcamp.com/album/more-songs-about-food-and-revolutionary-art: false
+  https://carlcraig.bandcamp.com/album/more-songs-about-food-and-revolutionary-art: 1
   https://bearblog.dev/: false
-  https://pika.page/: false
-  https://pagecord.com/: false
+  https://pika.page/: 1
+  https://pagecord.com/: 1
   https://about.hcommons.org/2026/08/11/welcome-to-the-knowledge-quest-explore-discover-and-earn-badges/: false
