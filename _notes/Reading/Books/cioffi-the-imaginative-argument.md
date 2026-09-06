@@ -1,6 +1,6 @@
 ---
 date: 2025-05-19T21:12:36-6:00
-last_modified_at: 2026-09-04
+last_modified_at: 2026-09-05
 reading: true
 reading_books: true
 excerpt: "'Rather than offering a model of writing based on established formulas or templates, Cioffi urges writers to envision argument as an active parsing of experience that imaginatively reinvents the world.' (from the back cover description)"
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-09-04
 current: true # false 
 reading_status: 'started' # 'finished'
-progress_current: 50
+progress_current: 81
 progress_max: 357
 # reading_list01: true
 # reading_list02: true
