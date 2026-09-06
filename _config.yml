@@ -249,10 +249,10 @@ after_footer_scripts:
 webmentions:
   username: www.ryanpatrickrandall.com
   legacy_domains:
-    - http://ryan-p-randall.github.io
-    - https://ryan-p-randall.github.io
-    - http://www.ryan-p-randall.github.io
-    - https://www.ryan-p-randall.github.io
+#    - http://ryan-p-randall.github.io
+#    - https://ryan-p-randall.github.io
+#    - http://www.ryan-p-randall.github.io
+#    - https://www.ryan-p-randall.github.io
   pages: true
   collections:
     - notes
