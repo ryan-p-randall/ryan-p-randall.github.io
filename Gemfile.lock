@@ -378,7 +378,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jekyll-tagories (~> 0.1.0)
-  jekyll-webmention_io
+  jekyll-webmention_io (= 4.2)
   jemoji
   nokogiri (>= 1.19.1)
   tzinfo-data
