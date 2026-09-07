@@ -246,62 +246,62 @@ tag_archive:
 after_footer_scripts:
     - /assets/js/plugins/external-link-indicator.js
 
-webmentions:
-  username: www.ryanpatrickrandall.com
-  legacy_domains:
-#    - http://ryan-p-randall.github.io
-#    - https://ryan-p-randall.github.io
-#    - http://www.ryan-p-randall.github.io
-#    - https://www.ryan-p-randall.github.io
-  pages: true
-  collections:
-    - notes
-  js: false
-  templates:
-    bookmarks: _includes/webmentions-bookmarks-custom.html
-    likes: _includes/webmentions-likes-custom.html
-    reposts: _includes/webmentions-reposts-custom.html
-  throttle_lookups:
-    last_week: daily
-    last_month: daily
-    last_year: every 2 weeks
-    older: monthly
-  max_attempts: 5
-  cache_bad_uris_for: 5
-  bad_uri_policy:
-    default:
-      policy: retry
-      max_attempts: 5
-    unsupported:
-      policy: ban
-    error:
-      policy: ignore
-    failure:
-      policy: retry
-      retry_delay: [ 1, 12, 48, 120 ]
-      max_retries: 5
-#    whitelist:
-    blacklist:
-      - "^https://jekyllrb.com/"
-      - "^https://flipgrid.com/"
-      - "^https://storify.com/"
-#      - "^http://libraries.iub.edu/"
-#      - "^https://libraries.iub.edu/"
-#      - "^https://blogs.libraries.iub.edu"
-      - "^*libraries.iub.edu"
-      - "^https://libraryfreedomproject.org/"
-      - "^http://library.boisestate.edu/"
-      - "^http://www.bigfootjs.com/"
-      - "^http://www.digitalpedagogylab.com/"
-      - "^https://platform.instagram.com/"
-      - "^https://platform.twitter.com/"
-      - "^https://*.twitter.com/"
-      - "^https://*.instagram.com/"
-      - "^https://*.facebook.net/"
-#      - "bookmarks.ryanpatrickrandall.com/"
-#      - "etherpad.mozilla.org/"
-#      - "github.com/"
-#      - "goodreads.com/"
-#      - "web.archive.org/"
-#      - "wikipedia.org/"
-#      - "youtube.com/"
+# webmentions:
+#   username: www.ryanpatrickrandall.com
+#   legacy_domains:
+# #    - http://ryan-p-randall.github.io
+# #    - https://ryan-p-randall.github.io
+# #    - http://www.ryan-p-randall.github.io
+# #    - https://www.ryan-p-randall.github.io
+#   pages: true
+#   collections:
+#     - notes
+#   js: false
+#   templates:
+#     bookmarks: _includes/webmentions-bookmarks-custom.html
+#     likes: _includes/webmentions-likes-custom.html
+#     reposts: _includes/webmentions-reposts-custom.html
+#   throttle_lookups:
+#     last_week: daily
+#     last_month: daily
+#     last_year: every 2 weeks
+#     older: monthly
+#   max_attempts: 5
+#   cache_bad_uris_for: 5
+#   bad_uri_policy:
+#     default:
+#       policy: retry
+#       max_attempts: 5
+#     unsupported:
+#       policy: ban
+#     error:
+#       policy: ignore
+#     failure:
+#       policy: retry
+#       retry_delay: [ 1, 12, 48, 120 ]
+#       max_retries: 5
+# #    whitelist:
+#     blacklist:
+#       - "^https://jekyllrb.com/"
+#       - "^https://flipgrid.com/"
+#       - "^https://storify.com/"
+# #      - "^http://libraries.iub.edu/"
+# #      - "^https://libraries.iub.edu/"
+# #      - "^https://blogs.libraries.iub.edu"
+#       - "^*libraries.iub.edu"
+#       - "^https://libraryfreedomproject.org/"
+#       - "^http://library.boisestate.edu/"
+#       - "^http://www.bigfootjs.com/"
+#       - "^http://www.digitalpedagogylab.com/"
+#       - "^https://platform.instagram.com/"
+#       - "^https://platform.twitter.com/"
+#       - "^https://*.twitter.com/"
+#       - "^https://*.instagram.com/"
+#       - "^https://*.facebook.net/"
+# #      - "bookmarks.ryanpatrickrandall.com/"
+# #      - "etherpad.mozilla.org/"
+# #      - "github.com/"
+# #      - "goodreads.com/"
+# #      - "web.archive.org/"
+# #      - "wikipedia.org/"
+# #      - "youtube.com/"
