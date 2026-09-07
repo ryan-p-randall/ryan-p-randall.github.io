@@ -381,6 +381,7 @@ DEPENDENCIES
   jekyll-tagories (~> 0.1.0)
   jekyll-webmention_io (= 4.2)
   jemoji
+  kramdown-parser-gfm
   nokogiri (>= 1.19.1)
   tzinfo-data
   webrick
