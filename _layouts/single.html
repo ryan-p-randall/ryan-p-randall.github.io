@@ -78,7 +78,7 @@ layout: default
             {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
                 {% include comments.html %}
             {% endif %}
-            {% unless page.webmentions == false %}{% include webmentions-incl.html %}{% endunless %}
+        {% comment %}    {% unless page.webmentions == false %}{% include webmentions-incl.html %}{% endunless %} {% endcomment %}
         {% endunless %}
         <h2 id="bonus-info">Bonus Info</h2>
             <h3 id="backlinks-page" style="margin-bottom: 1em">Other places I mention this page <!-- Notes mentioning this note--></h3>

@@ -12,7 +12,7 @@ featured_pages: true
 author_profile: true
 feedback: true
 comments: true
-webmentions: true
+webmentions: false # true
 ---
 
 Colophon  

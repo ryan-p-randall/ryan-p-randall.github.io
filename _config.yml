@@ -103,7 +103,7 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
-  - jekyll-webmention_io
+#  - jekyll-webmention_io
 #  - jekyll-tagories
 #  - jekyll-feed
 #  - jekyll-algolia

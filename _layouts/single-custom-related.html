@@ -115,7 +115,7 @@ layout: default
                     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
                         {% include comments.html %}
                     {% endif %}
-                    {% unless page.webmentions == false %}{% include webmentions-incl.html %}{% endunless %}
+                <!--    {% unless page.webmentions == false %}{% include webmentions-incl.html %}{% endunless %} --->
                 {% endunless %}
             </div>
   </article>
