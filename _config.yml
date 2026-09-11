@@ -73,7 +73,7 @@ timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time
 include:
   - _sass
   - _pages
-  - ".well-known"
+  - .well-known
 #  - _posts
 #  - wiki
 #  - _notes
