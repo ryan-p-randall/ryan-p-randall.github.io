@@ -1,0 +1,6 @@
+---
+layout: none
+permalink: .well-known/atproto-did.txt
+---
+
+did:plc:7orupv2alwsda6l7nkxhcz2x
