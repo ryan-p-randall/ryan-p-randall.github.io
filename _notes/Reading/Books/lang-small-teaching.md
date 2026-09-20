@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-09-19
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 44
+progress_current: 73
 progress_max: 259
 genre: [practice, pedagogy, book] # fiction novel article practice criticism
 reading_list03: true
