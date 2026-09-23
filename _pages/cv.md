@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "CV"
-last_modified_at: 2026-08-22
+last_modified_at: 2026-09-22
 toc: true
 toc_sticky: true
 comments: false
@@ -47,13 +47,22 @@ You may also see some of this on my [Instructional Design Portfolio page]({{ '/i
 
 ## Instructional Designer and Librarian Experience  
 
+**Boise State University** Boise, ID
+
+*Instrutional Design Consultant*  
+eCampus Center, September 2026–present
+
+- Collaborate with faculty to design and develop online courses  
+- Apply research-based best practices for online learning into course design  
+- Facilitate formal faculty development opportunities related to online teaching and learning  
+
 **Idaho State University** Pocatello and Meridian, ID  
 
 *Instructional Designer*  
-Instructional Technology Resource Center, May 2022—present  
+Instructional Technology Resource Center, May 2022—September 2026  
 
 - Support faculty with course design  
-- Apply Quality Matters Rubric and related principles for course design  
+- Apply the Quality Matters Rubric and related principles for course design  
 
 **College of Western Idaho** Nampa, ID  
 
@@ -388,4 +397,4 @@ Citation Management Systems: Zotero, BibLaTeX
 Metadata Standards: Dublin Core  
 Social Media: Twitter, Mastodon, Instagram, Facebook,  Tumblr  
 Audio Software: Ableton, Audacity, GarageBand, various plug-ins for each  
-Others: Git (version control), Neatline (map and timeline suite for Omeka), MALLET (topic modeling)  
+Others: Git (version control), Neatline (map and timeline suite for Omeka), MALLET (topic modeling)
