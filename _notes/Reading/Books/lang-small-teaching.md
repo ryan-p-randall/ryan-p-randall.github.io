@@ -1,6 +1,6 @@
 ---
 date: 2025-03-20T18:30:30-6:00
-last_modified_at: 2026-09-22
+last_modified_at: 2026-09-23
 reading: true
 reading_books: true
 excerpt: "Lang offers instructors a variety of incremental pedagogical improvements, along with their underlying connections to the scholarship of teaching and learning."
@@ -16,7 +16,7 @@ date_read:
 date_started: 2026-09-19
 current: true # false
 reading_status: 'started' # 'finished'
-progress_current: 91
+progress_current: 138
 progress_max: 259
 genre: [practice, pedagogy, book] # fiction novel article practice criticism
 reading_list03: true
