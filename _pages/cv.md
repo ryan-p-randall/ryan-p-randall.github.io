@@ -49,7 +49,7 @@ You may also see some of this on my [Instructional Design Portfolio page]({{ '/i
 
 **Boise State University** Boise, ID
 
-*Instrutional Design Consultant*  
+*Instructional Design Consultant*  
 eCampus Center, September 2026–present
 
 - Collaborate with faculty to design and develop online courses  
