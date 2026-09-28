@@ -3,20 +3,20 @@ date: 2025-05-18T17:11:26-6:00
 last_modified_at:
 reading: true
 reading_books: true
-excerpt: "."
+excerpt: "Foley examines how novelistic modes informed the ways radical writers in the US interrogated and expressed left-wing politics during the Great Depression."
 status: ':herb:'
 published: true # false
 title: 'Radical Representations: Politics and Form in U.S. Proletarian Fiction, 1929–1941'
 work_author: 'Barbara Foley'
 work_author_sort: "Foley, Barbara"
-# work_link: ''
-work_link_text: ''
+work_link: 'https://openlibrary.org/books/OL1409994M/Radical_representations'
+work_link_text: 'OpenLibrary'
 year_read: 
 date_read: 
-# date_started: 
-current: false # true
-reading_status: # 'started' 'finished'
-progress_current: 0
+date_started: 2026-09-27
+current: true # false
+reading_status: 'started' # 'finished'
+progress_current: 33
 progress_max: 459
 # reading_list01: true
 reading_list02: true
