@@ -55,7 +55,7 @@ $masthead-link-color-hover: mix(/* #000, */ #fff, $masthead-link-color, 20%) !de
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 /* My Additional Colors */
 $backlink-background-color: mix(#000, $background-color, 10%) !default;
-$audience: mix($background-color, $masthead-link-color, 65%);
+$audience: mix($background-color, $masthead-link-color, 10%);
 
 $caption-font-family: sans-serif !default;
 
@@ -73,6 +73,10 @@ $caption-font-family: sans-serif !default;
   color: $audience;
   font-weight: bold;
   display: block;
+}
+
+.notice a {
+    color: $link-color;
 }
 
 .wiki-flex {

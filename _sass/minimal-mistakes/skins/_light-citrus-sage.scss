@@ -55,7 +55,7 @@ $link-color-hover: mix(#fff, $link-color, 20%) !default;
 $link-color-visited: mix(#111, $link-color, 20%) !default;
 /* My Additional Colors */
 $backlink-background-color: mix(#111, $background-color, 2%) !default;
-$audience: $masthead-link-color-hover;
+$audience: mix($background-color, $masthead-link-color, 10%);
 
 $caption-font-family: sans-serif !default;
 
@@ -73,6 +73,10 @@ $caption-font-family: sans-serif !default;
   color: $audience;
   font-weight: bold;
   display: block;
+}
+
+.notice a {
+    color: $link-color;
 }
 
 .wiki-flex {
